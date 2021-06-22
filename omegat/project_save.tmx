@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c2&gt;Send&lt;/c2&gt; is the command, anything after the comma (,) will be typed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210323Z" creationid="Leo" creationdate="20210622T210323Z">
+        <seg>&lt;c2&gt;Send&lt;/c2&gt; é o comando, e tudo depois da vírgula (,) será digitado pelo programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A window should have popped up, probably Notepad.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202452Z" creationid="Leo" creationdate="20210622T202452Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193149Z" creationid="Leo" creationdate="20210622T193149Z">
         <seg>Criando objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click the file/icon in the desktop to run it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210701Z" creationid="Leo" creationdate="20210622T210701Z">
+        <seg>Dê um duplo clique no arquivo/ícone na área de trabalho para executá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -367,6 +383,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It literally &lt;s1&gt;stops&lt;/s1&gt; code from going any further, to the lines below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210503Z" creationid="Leo" creationdate="20210622T210503Z">
+        <seg>Ela literalmente &lt;s1&gt;para&lt;/s1&gt; o código, impedindo que ele prossiga na execução rumo às linhas de baixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It must end with a .ahk extension.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202338Z" creationid="Leo" creationdate="20210622T202338Z">
@@ -479,6 +503,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save the File.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210532Z" creationid="Leo" creationdate="20210622T210532Z">
+        <seg>Salve o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Send, My First Script</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203148Z" creationid="Leo" creationdate="20210622T203148Z">
@@ -559,6 +591,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The third line:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210330Z" creationid="Leo" creationdate="20210622T210330Z">
+        <seg>Terceira linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, study the code.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201324Z" creationid="Leo" creationdate="20210622T201324Z">
@@ -571,6 +611,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202226Z" creationid="Leo" creationdate="20210622T202226Z">
         <seg>Esse processo é chamado "scripting" ou "desenvolvimento de scripts".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will become your best friend.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210403Z" creationid="Leo" creationdate="20210622T210403Z">
+        <seg>Esta palavra aí vai ser sua melhor amiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will prevent many issues when you start having a lot of stuff in your scripts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210529Z" creationid="Leo" creationdate="20210622T210529Z">
+        <seg>Isso vai prevenir muitos problemas quando você começar a ter um bocado de coisas em seus scripts.</seg>
       </tuv>
     </tu>
     <tu>

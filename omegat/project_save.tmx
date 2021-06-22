@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After downloading it, you may possibly need to install it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201608Z" creationid="Leo" creationdate="20210622T201608Z">
+        <seg>Depois de fazer o download, talvez você tenha que instalá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Asking for Help</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193404Z" creationid="Leo" creationdate="20210622T193404Z">
@@ -30,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before learning to use AutoHotkey (AHK), you will need to download it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201553Z" creationid="Leo" creationdate="20210622T201553Z">
+        <seg>Antes de aprender a usar o AutoHotKey (AHK), você precisa baixá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before we begin our journey, let me give some advice.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193441Z" creationid="Leo" creationdate="20210622T193441Z">
@@ -42,6 +58,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192458Z" creationid="Leo" creationdate="20210622T192458Z">
         <seg>Tutorial para iniciantes | AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But that depends on the version you want.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201615Z" creationid="Leo" creationdate="20210622T201615Z">
+        <seg>Mas isso dependerá da versão que você quer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click Download:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201709Z" creationid="Leo" creationdate="20210622T201709Z">
+        <seg>Clique em Download:</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During installation of AutoHotkey, you will be asked to choose from UNICODE or ANSI.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201732Z" creationid="Leo" creationdate="20210622T201732Z">
+        <seg>Durante a instalação do AutoHotKey, você será perguntado se quer usar a codificação UNICODE ou ANSI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192943Z" creationid="Leo" creationdate="20210622T192943Z">
@@ -102,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For this guide we will use the Installer since it is easiest to set up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201635Z" creationid="Leo" creationdate="20210622T201635Z">
+        <seg>Para este guia, vamos usar o instalador, já que é a forma mais fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Games</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192957Z" creationid="Leo" creationdate="20210622T192957Z">
@@ -114,6 +162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193137Z" creationid="Leo" creationdate="20210622T193137Z">
         <seg>Recebendo entrada do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to the AutoHotkey Homepage:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201653Z" creationid="Leo" creationdate="20210622T201653Z">
+        <seg>Vá ao site do AutoHotKey:</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,10 +206,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In short, you would probably want to choose UNICODE.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201823Z" creationid="Leo" creationdate="20210622T201823Z">
+        <seg>Em resumo, você provavelmente quererá escolher UNICODE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indentation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193356Z" creationid="Leo" creationdate="20210622T193356Z">
         <seg>Indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It has support for non-English letters and numbers (characters).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201859Z" creationid="Leo" creationdate="20210622T201859Z">
+        <seg>Essa codificação tem suporte para letras e números de outras línguas além do inglês (caracteres).</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192525Z" creationid="Leo" creationdate="20210622T192525Z">
         <seg>Sumário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text instructions:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201640Z" creationid="Leo" creationdate="20210622T201640Z">
+        <seg>Instruções em texto:</seg>
       </tuv>
     </tu>
     <tu>

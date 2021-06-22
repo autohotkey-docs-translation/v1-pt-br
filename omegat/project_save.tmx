@@ -150,10 +150,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click &lt;b0&gt;Programs&lt;/b0&gt; or &lt;b1&gt;All Programs&lt;/b1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211402Z" creationid="Leo" creationdate="20210622T211402Z">
+        <seg>Clique em &lt;b0&gt;Programas&lt;/b0&gt; ou &lt;b1&gt;Todos os programas&lt;/b1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click Download:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201709Z" creationid="Leo" creationdate="20210622T201709Z">
         <seg>Clique em Download:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211445Z" creationid="Leo" creationdate="20210622T211445Z">
+        <seg>Clique nele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193149Z" creationid="Leo" creationdate="20210622T193149Z">
         <seg>Criando objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Done!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211447Z" creationid="Leo" creationdate="20210622T211447Z">
+        <seg>Feito!</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +250,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202304Z" creationid="Leo" creationdate="20210622T202304Z">
         <seg>Encontre "Novo" no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find &lt;b0&gt;AutoHotkey&lt;/b0&gt; in the list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211417Z" creationid="Leo" creationdate="20210622T211417Z">
+        <seg>Ache &lt;b0&gt;AutoHotKey&lt;/b0&gt; na lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find the Start menu or Start Orb on your screen, usually in the lower left.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211343Z" creationid="Leo" creationdate="20210622T211343Z">
+        <seg>Vá ao menu iniciar, normalmente no canto inferior esquerdo de sua tela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -447,6 +487,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Method 1:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211252Z" creationid="Leo" creationdate="20210622T211252Z">
+        <seg>Método 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Method 2:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211455Z" creationid="Leo" creationdate="20210622T211455Z">
+        <seg>Método 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Multiple hotkeys/hotstrings per file</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192940Z" creationid="Leo" creationdate="20210622T192940Z">
@@ -639,6 +695,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are a few ways to do this, I'll assume you have it installed to the default locations:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211249Z" creationid="Leo" creationdate="20210622T211249Z">
+        <seg>Há alguns jeito de fazer isso; vou assumir que instalou o programa no local padrão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This process is called "Scripting".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202226Z" creationid="Leo" creationdate="20210622T202226Z">
@@ -747,6 +811,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210916Z" creationid="Leo" creationdate="20210622T192726Z">
         <seg>Você não pode mesclar comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should then see &lt;b0&gt;AutoHotkey Help File&lt;/b0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211441Z" creationid="Leo" creationdate="20210622T211441Z">
+        <seg>Aí você deverá ver o &lt;b0&gt;Arquivo de ajuda do AutoHotKey&lt;/b0&gt; (AutoHotKey help file).</seg>
       </tuv>
     </tu>
     <tu>

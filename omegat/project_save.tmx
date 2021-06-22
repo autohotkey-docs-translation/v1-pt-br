@@ -264,9 +264,9 @@
       <tuv lang="en">
         <seg>Here is a very basic script containing a hotkey which types text using the &lt;a0&gt;Send&lt;/a0&gt; command when the hotkey is pressed:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202950Z" creationid="Leo" creationdate="20210622T202801Z">
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203134Z" creationid="Leo" creationdate="20210622T202801Z">
         <seg>Eis um script bem básico contendo uma tecla de atalho que faz o programa digitar texto 
-usando o comando Send quando a tecla de atalho é pressionada:</seg>
+usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em diante, a expressão "tecla de atalho" será substituída por "hotkey", para melhor combinar com a identidade do programa.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -447,6 +447,14 @@ usando o comando Send quando a tecla de atalho é pressionada:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Send, My First Script</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203148Z" creationid="Leo" creationdate="20210622T203148Z">
+        <seg>Send, Meu primeiro script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sending Keystrokes</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192954Z" creationid="Leo" creationdate="20210622T192954Z">
@@ -495,6 +503,14 @@ usando o comando Send quando a tecla de atalho é pressionada:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first line:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203226Z" creationid="Leo" creationdate="20210622T203226Z">
+        <seg>Primeira linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The mysterious square brackets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193323Z" creationid="Leo" creationdate="20210622T193323Z">
@@ -535,6 +551,14 @@ usando o comando Send quando a tecla de atalho é pressionada:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Until then, here's an explanation of the above code:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203221Z" creationid="Leo" creationdate="20210622T203221Z">
+        <seg>Até lá, aqui está uma explicação do código acima:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using Objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193154Z" creationid="Leo" creationdate="20210622T193154Z">
@@ -547,6 +571,14 @@ usando o comando Send quando a tecla de atalho é pressionada:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193049Z" creationid="Leo" creationdate="20210622T193049Z">
         <seg>Variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We will get more in-depth later on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203212Z" creationid="Leo" creationdate="20210622T203212Z">
+        <seg>Vamos nos aprofundar mais tarde.</seg>
       </tuv>
     </tu>
     <tu>

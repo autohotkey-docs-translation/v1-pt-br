@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>1 - The Basics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193429Z" creationid="Leo" creationdate="20210622T193429Z">
+        <seg>1 - Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Asking for Help</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193404Z" creationid="Leo" creationdate="20210622T193404Z">
+        <seg>Pedindo ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey Beginner Tutorial &lt;s0&gt;by tidbit&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192516Z" creationid="Leo" creationdate="20210622T192516Z">
         <seg>Tutorial para iniciantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before we begin our journey, let me give some advice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193441Z" creationid="Leo" creationdate="20210622T193441Z">
+        <seg>Antes de começarmos nossa jornada, deixe-me te dar um conselho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Indentation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193356Z" creationid="Leo" creationdate="20210622T193356Z">
+        <seg>Indentação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keys and their mysterious symbols</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192815Z" creationid="Leo" creationdate="20210622T192815Z">
@@ -158,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other links</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193415Z" creationid="Leo" creationdate="20210622T193415Z">
+        <seg>Outros links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running Programs &amp; Websites</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193015Z" creationid="Leo" creationdate="20210622T193015Z">
@@ -194,6 +234,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193323Z" creationid="Leo" creationdate="20210622T193323Z">
         <seg>Os misteriosos colchetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Throughout this tutorial you will see a lot of text and a lot of code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201144Z" creationid="Leo" creationdate="20210622T201144Z">
+        <seg>Ao longo deste tutorial você verá muito texto e muito código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trial and Error</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193349Z" creationid="Leo" creationdate="20210622T193349Z">
+        <seg>Tentativa e erro</seg>
       </tuv>
     </tu>
     <tu>

@@ -264,8 +264,9 @@
       <tuv lang="en">
         <seg>Here is a very basic script containing a hotkey which types text using the &lt;a0&gt;Send&lt;/a0&gt; command when the hotkey is pressed:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202801Z" creationid="Leo" creationdate="20210622T202801Z">
-        <seg>Eis um script bem básico contendo uma tecla de atalho que faz o programa digitar texto usando o comando Send quando a tecla de atalho é pressionada:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202950Z" creationid="Leo" creationdate="20210622T202801Z">
+        <seg>Eis um script bem básico contendo uma tecla de atalho que faz o programa digitar texto 
+usando o comando Send quando a tecla de atalho é pressionada:</seg>
       </tuv>
     </tu>
     <tu>

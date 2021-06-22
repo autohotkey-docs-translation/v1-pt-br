@@ -431,6 +431,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hotstrings are mainly used to expand abbreviations as you type them (auto-replace), they can also be used to launch any scripted action.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212248Z" creationid="Leo" creationdate="20210622T212248Z">
+        <seg>As hotstrings são usadas precipuamente para expandir abreviaturas à medida que você as digita (substituição automática). Elas também podem ser usadas para executar qualquer ação que seja parte de seu script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How to create a script</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192602Z" creationid="Leo" creationdate="20210622T192602Z">
@@ -867,6 +875,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211812Z" creationid="Leo" creationdate="20210622T211812Z">
         <seg>O que é uma hotkey (tecla de atalho)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is a hotstring?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211942Z" creationid="Leo" creationdate="20210622T211942Z">
+        <seg>O que é uma hotstring?</seg>
       </tuv>
     </tu>
     <tu>

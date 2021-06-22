@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For optimal learning power, it is advised that you read the text and &lt;b0&gt;try&lt;/b0&gt; the code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201315Z" creationid="Leo" creationdate="20210622T201315Z">
+        <seg>Para otimizar seu poder de aprendizado, recomenda-se que você leia o texto e teste o código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Games</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192957Z" creationid="Leo" creationdate="20210622T192957Z">

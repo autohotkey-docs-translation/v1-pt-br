@@ -22,10 +22,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commands vs. Functions()</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193037Z" creationid="Leo" creationdate="20210622T193037Z">
+        <seg>Comandos x funções()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading and installing AutoHotkey</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192551Z" creationid="Leo" creationdate="20210622T192551Z">
         <seg>Baixando e instalando o AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192943Z" creationid="Leo" creationdate="20210622T192943Z">
+        <seg>Exemplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Games</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192957Z" creationid="Leo" creationdate="20210622T192957Z">
+        <seg>Jogos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hotkeys &amp; Hotstrings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192759Z" creationid="Leo" creationdate="20210622T192759Z">
+        <seg>Hotkeys e hotstrings</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +70,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How to find the help file on your computer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192744Z" creationid="Leo" creationdate="20210622T192744Z">
+        <seg>Como encontrar o arquivo de ajuda em seu computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keys and their mysterious symbols</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192815Z" creationid="Leo" creationdate="20210622T192815Z">
+        <seg>As teclas e seus misteriosos símbolos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn how to download and install AutoHotkey, to create a script, to use hotkeys and hotstrings, to send keystrokes, to run programs, etc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192230Z" creationid="Leo" creationdate="20210622T192230Z">
         <seg>Aprenda a baixar e instalar o AutoHotKey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclas, executar programas e mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple hotkeys/hotstrings per file</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192940Z" creationid="Leo" creationdate="20210622T192940Z">
+        <seg>Múltiplas hotkeys e hotstrings num mesmo arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running Programs &amp; Websites</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193015Z" creationid="Leo" creationdate="20210622T193015Z">
+        <seg>Executando programas e abrindo sites</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sending Keystrokes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192954Z" creationid="Leo" creationdate="20210622T192954Z">
+        <seg>Enviando pressionamento de teclas</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192537Z" creationid="Leo" creationdate="20210622T192537Z">
         <seg>Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Window specific hotkeys/hotstrings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192908Z" creationid="Leo" creationdate="20210622T192908Z">
+        <seg>Hotkeys e hotstrings que funcionam em só em uma ou algumas janelas</seg>
       </tuv>
     </tu>
     <tu>

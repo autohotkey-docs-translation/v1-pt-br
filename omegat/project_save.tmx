@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;In section 5&lt;/a0&gt; we'll talk about why it doesn't work as you might expect and what you can do instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211151Z" creationid="Leo" creationdate="20210622T211151Z">
+        <seg>&lt;a0&gt;Na seção 5&lt;/a0&gt; vamos falar sobre o porquê de não funcionar do jeito que você espera e o que você pode fazer para consertar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;Send, My First Script&lt;/c0&gt; is how you &lt;s1&gt;send&lt;/s1&gt; keystrokes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210259Z" creationid="Leo" creationdate="20210622T210259Z">
@@ -711,6 +719,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you are making your code, you might have the urge to put several commands on the same line or inside of each other, don't.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210959Z" creationid="Leo" creationdate="20210622T210959Z">
+        <seg>Quando você está montando seu código, você pode ficar com vontade de inserir vários comandos na mesma linha ou dentro um do outro. Não faça isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Window specific hotkeys/hotstrings</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192908Z" creationid="Leo" creationdate="20210622T192908Z">
@@ -729,7 +745,7 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>You cannot merge commands</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192726Z" creationid="Leo" creationdate="20210622T192726Z">
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210916Z" creationid="Leo" creationdate="20210622T192726Z">
         <seg>Você não pode mesclar comandos</seg>
       </tuv>
     </tu>

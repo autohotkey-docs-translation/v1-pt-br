@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AutoHotkey is not magic, we all wish it was, but it is not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202111Z" creationid="Leo" creationdate="20210622T202111Z">
+        <seg>O AutoHotKey não é mágica; nós todos queríamos que fosse, mas não é.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before learning to use AutoHotkey (AHK), you will need to download it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201553Z" creationid="Leo" creationdate="20210622T201553Z">
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Continue on to section b.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201924Z" creationid="Leo" creationdate="20210622T201924Z">
+        <seg>Continue para a seção b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating Objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193149Z" creationid="Leo" creationdate="20210622T193149Z">
@@ -130,6 +146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193341Z" creationid="Leo" creationdate="20210622T193341Z">
         <seg>Determinando a versão de seu AHK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a video instruction, watch &lt;a0&gt;Install and Hello World&lt;/a0&gt; on YouTube.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202024Z" creationid="Leo" creationdate="20210622T202024Z">
+        <seg>Para instruções em vídeo, assista Install e Hello World no YouTube (em inglês).</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep going until you see an Install button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201917Z" creationid="Leo" creationdate="20210622T201917Z">
+        <seg>Prossiga até você ver um botão 'Install'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keys and their mysterious symbols</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192815Z" creationid="Leo" creationdate="20210622T192815Z">
@@ -258,6 +290,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193145Z" creationid="Leo" creationdate="20210622T193145Z">
         <seg>Objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once done, great!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201921Z" creationid="Leo" creationdate="20210622T201921Z">
+        <seg>Feito isso, ótimo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have AutoHotkey installed, you will probably want it to do stuff.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202059Z" creationid="Leo" creationdate="20210622T202059Z">
+        <seg>Instalado o AutoHotKey, você agora quer que ele faça coisas para você.</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So we will need to tell it what to do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202129Z" creationid="Leo" creationdate="20210622T202129Z">
+        <seg>Então nós precisamos dizer a ele o que fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192525Z" creationid="Leo" creationdate="20210622T192525Z">
@@ -346,6 +402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201324Z" creationid="Leo" creationdate="20210622T201324Z">
         <seg>Em seguida, estude o código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This process is called "Scripting".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202226Z" creationid="Leo" creationdate="20210622T202226Z">
+        <seg>Esse processo é chamado "scripting" ou "desenvolvimento de scripts".</seg>
       </tuv>
     </tu>
     <tu>

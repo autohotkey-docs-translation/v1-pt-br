@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>::ftw::Free the whales</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212303Z" creationid="Leo" creationdate="20210622T212303Z">
+        <seg>::sab::Salve as baleias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;In section 5&lt;/a0&gt; we'll talk about why it doesn't work as you might expect and what you can do instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211151Z" creationid="Leo" creationdate="20210622T211151Z">
@@ -62,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i0&gt;"So, how exactly does a person such as myself create a hotkey?"&lt;/i0&gt; Good question.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212508Z" creationid="Leo" creationdate="20210622T212508Z">
+        <seg>&lt;i0&gt;"Ok, então como uma pessoa como eu cria uma hotkey?"&lt;/i0&gt; Boa pergunta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A hotkey is a key that is hot to the touch.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211835Z" creationid="Leo" creationdate="20210622T211835Z">
         <seg>Uma hotkey é uma tecla que queima o dedo quando você aperta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A hotkey is created by using a single pair of colons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212605Z" creationid="Leo" creationdate="20210622T212605Z">
+        <seg>Uma hotkey é criada usando-se um único par do sinal de dois-pontos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -747,6 +771,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192537Z" creationid="Leo" creationdate="20210622T192537Z">
         <seg>Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The difference between the two examples is that the hotkey will be triggered when you press &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;J&lt;/k1&gt; while the hotstring will convert your typed "ftw" into "Free the whales".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212421Z" creationid="Leo" creationdate="20210622T212421Z">
+        <seg>A diferença entre os dois exemplos é que a hotkey será desencadeada quando você pressionar &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;J&lt;/k1&gt;, ao passo que a hotstring converterá sua expressão digitada "sab" em "Salve as baleias".</seg>
       </tuv>
     </tu>
     <tu>

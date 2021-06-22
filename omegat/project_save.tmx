@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; There are exceptions, but those tend to cause confusion a lot of the time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212757Z" creationid="Leo" creationdate="20210622T212757Z">
+        <seg>&lt;s0&gt;Nota:&lt;/s0&gt; Há exceções, mas elas várias vezes tendem a causar confusão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A hotkey is a key that is hot to the touch.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211835Z" creationid="Leo" creationdate="20210622T211835Z">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212605Z" creationid="Leo" creationdate="20210622T212605Z">
         <seg>Uma hotkey é criada usando-se um único par do sinal de dois-pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A hotstring has a pair of colons on each side of the text you want to trigger the text replacement.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212956Z" creationid="Leo" creationdate="20210622T212956Z">
+        <seg>Uma hotstring tem um par de dois-pontos em cada lado do texto que você deseja substituir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -751,6 +767,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So it won't be covered in the tutorial, at least, not right now.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212809Z" creationid="Leo" creationdate="20210622T212809Z">
+        <seg>Então não vamos tratar das exceções neste tutorial, pelo menos não agora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So now that you have created a script, we need to add stuff into the file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202517Z" creationid="Leo" creationdate="20210622T202517Z">
@@ -947,6 +971,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210959Z" creationid="Leo" creationdate="20210622T210959Z">
         <seg>Quando você está montando seu código, você pode ficar com vontade de inserir vários comandos na mesma linha ou dentro um do outro. Não faça isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While the text to replace your typed text goes on the &lt;b0&gt;right&lt;/b0&gt; of the second pair of colons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213132Z" creationid="Leo" creationdate="20210622T213132Z">
+        <seg>Já o texto que substituirá sua abreviatura digitada</seg>
       </tuv>
     </tu>
     <tu>

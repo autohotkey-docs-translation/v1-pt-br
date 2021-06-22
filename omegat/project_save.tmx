@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;^j::&lt;/c0&gt; is the hotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210044Z" creationid="Leo" creationdate="20210622T210044Z">
+        <seg>&lt;c0&gt;^j::&lt;/c0&gt; é a hotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A window should have popped up, probably Notepad.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202452Z" creationid="Leo" creationdate="20210622T202452Z">

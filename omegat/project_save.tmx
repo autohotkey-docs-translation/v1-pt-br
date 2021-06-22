@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A window should have popped up, probably Notepad.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202452Z" creationid="Leo" creationdate="20210622T202452Z">
+        <seg>Uma janela deve abrir, provavelmente o Bloco de Notas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After downloading it, you may possibly need to install it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201608Z" creationid="Leo" creationdate="20210622T201608Z">
@@ -74,6 +82,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201615Z" creationid="Leo" creationdate="20210622T201615Z">
         <seg>Mas isso dependerá da versão que você quer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click "AutoHotkey Script" inside the "New" menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202318Z" creationid="Leo" creationdate="20210622T202318Z">
+        <seg>Clique em "AutoHotKey Script" dentro do menu "Novo".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click "Edit Script".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202436Z" creationid="Leo" creationdate="20210622T202436Z">
+        <seg>Clique em "Edit Script".</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find "New" in the menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202304Z" creationid="Leo" creationdate="20210622T202304Z">
+        <seg>Encontre "Novo" no menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find the newly created file on your desktop and right-click it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202404Z" creationid="Leo" creationdate="20210622T202404Z">
+        <seg>Encontre o arquivo recém-criado em sua área de trabalho e clique com o botão direito nele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finding your AHK version</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193341Z" creationid="Leo" creationdate="20210622T193341Z">
@@ -154,6 +194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202024Z" creationid="Leo" creationdate="20210622T202024Z">
         <seg>Para instruções em vídeo, assista Install e Hello World no YouTube (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202343Z" creationid="Leo" creationdate="20210622T202343Z">
+        <seg>Por exemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193137Z" creationid="Leo" creationdate="20210622T193137Z">
         <seg>Recebendo entrada do usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give the script a new name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202327Z" creationid="Leo" creationdate="20210622T202327Z">
+        <seg>Dê um nome novo ao script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It must end with a .ahk extension.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202338Z" creationid="Leo" creationdate="20210622T202338Z">
+        <seg>Ele deve terminar com a extensão .ahk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep going until you see an Install button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201917Z" creationid="Leo" creationdate="20210622T201917Z">
@@ -282,6 +346,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192940Z" creationid="Leo" creationdate="20210622T192940Z">
         <seg>Múltiplas hotkeys e hotstrings num mesmo arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyScript.ahk</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202348Z" creationid="Leo" creationdate="20210622T202348Z">
+        <seg>MeuScript.ahk</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-Click on your desktop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202256Z" creationid="Leo" creationdate="20210622T202256Z">
+        <seg>Clique com o botão direito na sua área de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running Programs &amp; Websites</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193015Z" creationid="Leo" creationdate="20210622T193015Z">
@@ -370,14 +450,6 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192525Z" creationid="Leo" creationdate="20210622T192525Z">
         <seg>Sumário</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Text instructions:</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201640Z" creationid="Leo" creationdate="20210622T201640Z">
-        <seg>Instruções em texto:</seg>
       </tuv>
     </tu>
     <tu>

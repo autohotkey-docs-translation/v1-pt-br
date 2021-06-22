@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2 - Hotkeys &amp; Hotstrings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211801Z" creationid="Leo" creationdate="20210622T211801Z">
+        <seg>2 - Hotkeys e Hotstrings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;In section 5&lt;/a0&gt; we'll talk about why it doesn't work as you might expect and what you can do instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211151Z" creationid="Leo" creationdate="20210622T211151Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210323Z" creationid="Leo" creationdate="20210622T210323Z">
         <seg>&lt;c2&gt;Send&lt;/c2&gt; é o comando, e tudo depois da vírgula (,) será digitado pelo programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A hotkey is a key that is hot to the touch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211835Z" creationid="Leo" creationdate="20210622T211835Z">
+        <seg>Uma hotkey é uma tecla que queima o dedo quando você aperta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -471,6 +487,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is a key or key combination that the person at the keyboard presses to trigger some actions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211920Z" creationid="Leo" creationdate="20210622T211920Z">
+        <seg>É a tecla ou combinação de teclas que a pessoa diante do teclado pressiona para desencadear (executar) algumas ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It literally &lt;s1&gt;stops&lt;/s1&gt; code from going any further, to the lines below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210503Z" creationid="Leo" creationdate="20210622T210503Z">
@@ -483,6 +507,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202338Z" creationid="Leo" creationdate="20210622T202338Z">
         <seg>Ele deve terminar com a extensão .ahk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just kidding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211849Z" creationid="Leo" creationdate="20210622T211849Z">
+        <seg>Brincadeira.</seg>
       </tuv>
     </tu>
     <tu>
@@ -507,6 +539,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192230Z" creationid="Leo" creationdate="20210622T192230Z">
         <seg>Aprenda a baixar e instalar o AutoHotKey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclas, executar programas e mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Look for &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; or a file that says AutoHotkey and has a yellow question mark on it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211749Z" creationid="Leo" creationdate="20210622T211749Z">
+        <seg>Encontre o arquivo &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; ou um arquivo em que esteja escrito "AutoHotKey" e tenha um ponto de interrogação amarelo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -635,6 +675,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210532Z" creationid="Leo" creationdate="20210622T210532Z">
         <seg>Salve o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search within all &lt;b0&gt;Program Files&lt;/b0&gt; folders for &lt;b1&gt;AutoHotkey&lt;/b1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211645Z" creationid="Leo" creationdate="20210622T211645Z">
+        <seg>Procure dentro de todos as pastas de &lt;b0&gt;Arquivos de programas&lt;/b0&gt; pelo  &lt;b1&gt;AutoHotKey&lt;/b1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -811,6 +859,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203212Z" creationid="Leo" creationdate="20210622T203212Z">
         <seg>Vamos nos aprofundar mais tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is a hotkey?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211812Z" creationid="Leo" creationdate="20210622T211812Z">
+        <seg>O que é uma hotkey (tecla de atalho)?</seg>
       </tuv>
     </tu>
     <tu>

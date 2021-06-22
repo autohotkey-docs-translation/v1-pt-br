@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you get confused, try reading the section again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201344Z" creationid="Leo" creationdate="20210622T201344Z">
+        <seg>Se ficar confuso, tente reler a seção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indentation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193356Z" creationid="Leo" creationdate="20210622T193356Z">
@@ -222,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since you're viewing this documentation locally, you've probably already installed AutoHotkey and can skip to section b.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201540Z" creationid="Leo" creationdate="20210622T201540Z">
+        <seg>Já que você está lendo esta documentação localmente, você provavelmente já instalou o AutoHotKey e pode pular para a seção b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192525Z" creationid="Leo" creationdate="20210622T192525Z">
@@ -242,6 +258,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193323Z" creationid="Leo" creationdate="20210622T193323Z">
         <seg>Os misteriosos colchetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then, study the code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201324Z" creationid="Leo" creationdate="20210622T201324Z">
+        <seg>Em seguida, estude o código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192908Z" creationid="Leo" creationdate="20210622T192908Z">
         <seg>Hotkeys e hotstrings que funcionam em só em uma ou algumas janelas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can copy and paste most examples on this page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201331Z" creationid="Leo" creationdate="20210622T201331Z">
+        <seg>Você pode copiar e colar a maioria dos exemplos desta página.</seg>
       </tuv>
     </tu>
     <tu>

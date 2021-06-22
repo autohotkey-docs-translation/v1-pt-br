@@ -6,10 +6,74 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>AutoHotkey Beginner Tutorial &lt;s0&gt;by tidbit&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192516Z" creationid="Leo" creationdate="20210622T192516Z">
+        <seg>Tutorial para iniciantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Beginner Tutorial | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192458Z" creationid="Leo" creationdate="20210622T192458Z">
+        <seg>Tutorial para iniciantes | AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Downloading and installing AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192551Z" creationid="Leo" creationdate="20210622T192551Z">
+        <seg>Baixando e instalando o AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to create a script</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192602Z" creationid="Leo" creationdate="20210622T192602Z">
+        <seg>Como criar um script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn how to download and install AutoHotkey, to create a script, to use hotkeys and hotstrings, to send keystrokes, to run programs, etc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192230Z" creationid="Leo" creationdate="20210622T192230Z">
         <seg>Aprenda a baixar e instalar o AutoHotKey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclas, executar programas e mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192525Z" creationid="Leo" creationdate="20210622T192525Z">
+        <seg>Sumário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Basics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192537Z" creationid="Leo" creationdate="20210622T192537Z">
+        <seg>Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot merge commands</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192726Z" creationid="Leo" creationdate="20210622T192726Z">
+        <seg>Você não pode mesclar comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ahk, autohotkey, tutorial, beginners guide</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192449Z" creationid="Leo" creationdate="20210622T192449Z">
+        <seg>ahk, autohotkey, tutorial, guia para iniciantes</seg>
       </tuv>
     </tu>
     <tu>

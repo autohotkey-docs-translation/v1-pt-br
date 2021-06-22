@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find &lt;b0&gt;My Computer&lt;/b0&gt; or &lt;b1&gt;Computer&lt;/b1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211520Z" creationid="Leo" creationdate="20210622T211520Z">
+        <seg>Encontre &lt;b0&gt;Meu computador&lt;/b0&gt; ou &lt;b1&gt;Computador&lt;/b1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find the Start menu or Start Orb on your screen, usually in the lower left.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211343Z" creationid="Leo" creationdate="20210622T211343Z">
@@ -358,10 +366,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go into your harddrive that contains &lt;b0&gt;AutoHotkey&lt;/b0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211542Z" creationid="Leo" creationdate="20210622T211542Z">
+        <seg>Vá ao disco rígido ou partição que contém o AutoHotKey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to the AutoHotkey Homepage:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201653Z" creationid="Leo" creationdate="20210622T201653Z">
         <seg>Vá ao site do AutoHotKey:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to your desktop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211500Z" creationid="Leo" creationdate="20210622T211500Z">
+        <seg>Vá para sua área de trabalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -543,6 +567,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211526Z" creationid="Leo" creationdate="20210622T211526Z">
+        <seg>Abra-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open notepad or (anything you can type in) and press &lt;k0&gt;Ctrl&lt;/k0&gt; and &lt;k1&gt;J&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210739Z" creationid="Leo" creationdate="20210622T210739Z">
@@ -571,6 +603,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193415Z" creationid="Leo" creationdate="20210622T193415Z">
         <seg>Outros links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Probably &lt;b1&gt;C:\&lt;/b1&gt; drive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211600Z" creationid="Leo" creationdate="20210622T211600Z">
+        <seg>Provavelmente o drive &lt;b1&gt;C:\&lt;/b1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

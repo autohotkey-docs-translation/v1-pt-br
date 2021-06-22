@@ -104,8 +104,8 @@
       <tuv lang="en">
         <seg>A hotstring has a pair of colons on each side of the text you want to trigger the text replacement.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212956Z" creationid="Leo" creationdate="20210622T212956Z">
-        <seg>Uma hotstring tem um par de dois-pontos em cada lado do texto que você deseja substituir.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213143Z" creationid="Leo" creationdate="20210622T212956Z">
+        <seg>Uma hotstring tem um par de dois-pontos em cada lado do texto que você deseja substituir (a abreviatura).</seg>
       </tuv>
     </tu>
     <tu>
@@ -977,8 +977,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>While the text to replace your typed text goes on the &lt;b0&gt;right&lt;/b0&gt; of the second pair of colons.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213132Z" creationid="Leo" creationdate="20210622T213132Z">
-        <seg>Já o texto que substituirá sua abreviatura digitada</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213215Z" creationid="Leo" creationdate="20210622T213132Z">
+        <seg>Já o texto que substituirá sua abreviatura digitada deve vir à &lt;b0&gt;direita&lt;/b0&gt; do segundo par de dois-pontos.</seg>
       </tuv>
     </tu>
     <tu>

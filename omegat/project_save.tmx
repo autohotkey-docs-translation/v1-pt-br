@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Code blocks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193042Z" creationid="Leo" creationdate="20210622T193042Z">
+        <seg>Blocos de código</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands vs. Functions()</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193037Z" creationid="Leo" creationdate="20210622T193037Z">
         <seg>Comandos x funções()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating Objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193149Z" creationid="Leo" creationdate="20210622T193149Z">
+        <seg>Criando objetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +62,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finding your AHK version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193341Z" creationid="Leo" creationdate="20210622T193341Z">
+        <seg>Determinando a versão de seu AHK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Games</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192957Z" creationid="Leo" creationdate="20210622T192957Z">
         <seg>Jogos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Getting user input</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193137Z" creationid="Leo" creationdate="20210622T193137Z">
+        <seg>Recebendo entrada do usuário</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +134,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193145Z" creationid="Leo" creationdate="20210622T193145Z">
+        <seg>Objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other Examples?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193142Z" creationid="Leo" creationdate="20210622T193142Z">
+        <seg>Outros exemplos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other Helpful Goodies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193302Z" creationid="Leo" creationdate="20210622T193302Z">
+        <seg>Outras utilidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running Programs &amp; Websites</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193015Z" creationid="Leo" creationdate="20210622T193015Z">
@@ -130,6 +186,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192537Z" creationid="Leo" creationdate="20210622T192537Z">
         <seg>Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The mysterious square brackets</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193323Z" creationid="Leo" creationdate="20210622T193323Z">
+        <seg>Os misteriosos colchetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193154Z" creationid="Leo" creationdate="20210622T193154Z">
+        <seg>Usando objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variables</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193049Z" creationid="Leo" creationdate="20210622T193049Z">
+        <seg>Variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When to use percents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193106Z" creationid="Leo" creationdate="20210622T193106Z">
+        <seg>Quando usar o símbolo de porcentagem</seg>
       </tuv>
     </tu>
     <tu>

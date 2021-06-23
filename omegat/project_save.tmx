@@ -647,6 +647,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox, There are</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023505Z" creationid="Leo" creationdate="20210623T023505Z">
+        <seg>MsgBox, Aqui tem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, Wow!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023453Z" creationid="Leo" creationdate="20210623T023453Z">
+        <seg>MsgBox, Uau!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, You typed btw.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023418Z" creationid="Leo" creationdate="20210622T213410Z">
@@ -783,10 +799,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Send, 7 lines{!}{Enter}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023535Z" creationid="Leo" creationdate="20210623T023535Z">
+        <seg>Send, 7 linhas!{!}{Enter}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Send, My First Script</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203148Z" creationid="Leo" creationdate="20210622T203148Z">
         <seg>Send, Meu primeiro script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SendInput, inside the CTRL{+}J hotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023557Z" creationid="Leo" creationdate="20210623T023557Z">
+        <seg>SendInput, dentro da hotkey Ctrl{+}J.</seg>
       </tuv>
     </tu>
     <tu>
@@ -951,6 +983,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To help you learn what ^ and other symbols mean, gaze upon this chart:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023827Z" creationid="Leo" creationdate="20210623T023827Z">
+        <seg>Para ajudá-lo a aprender o que ^ e outros símbolos significa, observe este gráfico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Trial and Error</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193349Z" creationid="Leo" creationdate="20210622T193349Z">
@@ -987,6 +1027,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203212Z" creationid="Leo" creationdate="20210622T203212Z">
         <seg>Vamos nos aprofundar mais tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Well, good question.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023722Z" creationid="Leo" creationdate="20210623T023722Z">
+        <seg>Então... boa pergunta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1051,6 +1099,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210916Z" creationid="Leo" creationdate="20210622T192726Z">
         <seg>Você não pode mesclar comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You might be wondering &lt;i0&gt;"How the crud am I supposed to know that ^ means &lt;k1&gt;Ctrl&lt;/k1&gt;?!"&lt;/i0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023706Z" creationid="Leo" creationdate="20210623T023706Z">
+        <seg>Você deve estar pensando &lt;i0&gt;"Mas como eu vou saber que ^ significa &lt;k1&gt;Ctrl&lt;/k1&gt;?!"&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>

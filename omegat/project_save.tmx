@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>:*:acheiv::achiev</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201107Z" creationid="Leo" creationdate="20210623T201107Z">
+        <seg>:*:trnasf::transf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>:*:ftw::Free the whales</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025557Z" creationid="Leo" creationdate="20210623T025557Z">
@@ -1379,6 +1387,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210959Z" creationid="Leo" creationdate="20210622T210959Z">
         <seg>Quando você está montando seu código, você pode ficar com vontade de inserir vários comandos na mesma linha ou dentro um do outro. Não faça isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether it's 1, or 3253 (or more).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195908Z" creationid="Leo" creationdate="20210623T195908Z">
+        <seg>Seja 1 ou 3253.</seg>
       </tuv>
     </tu>
     <tu>

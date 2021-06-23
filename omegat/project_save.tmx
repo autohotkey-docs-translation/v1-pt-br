@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Untitled - Notepad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154427Z" creationid="Leo" creationdate="20210623T154427Z">
+        <seg>; Sem título - Bloco de Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;In section 5&lt;/a0&gt; we'll talk about why it doesn't work as you might expect and what you can do instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211151Z" creationid="Leo" creationdate="20210622T211151Z">
@@ -759,6 +767,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox, You pressed WIN+SPACE in Notepad.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154206Z" creationid="Leo" creationdate="20210623T154206Z">
+        <seg>MsgBox, Você pressionou Win+Espaço no Bloco de Notas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, You typed btw.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023418Z" creationid="Leo" creationdate="20210622T213410Z">
@@ -1139,6 +1155,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023827Z" creationid="Leo" creationdate="20210623T023827Z">
         <seg>Para ajudá-lo a aprender o que ^ e outros símbolos significa, observe este gráfico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To turn off context sensitivity for subsequent hotkeys or hotstrings, specify any #IfWin directive but leave all of its parameters blank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154300Z" creationid="Leo" creationdate="20210623T154300Z">
+        <seg>Para desabilitar a "sensibilidade ao contexto" para as hotkeys e hotstrings subsequentes, especifique qualquer diretiva #IfWin mas deixe todos seus parâmetros em branco.</seg>
       </tuv>
     </tu>
     <tu>

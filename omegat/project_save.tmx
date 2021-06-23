@@ -158,10 +158,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; CTRL+N hotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201601Z" creationid="Leo" creationdate="20210623T201601Z">
+        <seg>; Hotkey CTRL+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154848Z" creationid="Leo" creationdate="20210623T154848Z">
         <seg>; Bloco de Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Replaces "btw" with "by the way" as soon as you press an &lt;a1&gt;default ending character&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201434Z" creationid="Leo" creationdate="20210623T201420Z">
+        <seg>; Substitui "btw" por "by the way" assim que você pressionar o &lt;a1&gt;caracter de terminação&lt;/a1&gt; padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Replaces "btw" with "by the way" without needing an ending character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201535Z" creationid="Leo" creationdate="20210623T201535Z">
+        <seg>; Substitui "btw" por "by the way" sem que você precise pressionar um caracter de terminação, ou seja, tão logo você pressione a última tecla da abreviatura (w).</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201608Z" creationid="Leo" creationdate="20210622T201608Z">
         <seg>Depois de fazer o download, talvez você tenha que instalá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All in one big happy script file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201331Z" creationid="Leo" creationdate="20210623T201331Z">
+        <seg>Tudo em um único arquivo de script grande e feliz.</seg>
       </tuv>
     </tu>
     <tu>

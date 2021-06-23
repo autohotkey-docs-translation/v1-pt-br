@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>::btw::</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213558Z" creationid="Leo" creationdate="20210622T213558Z">
-        <seg>::mbd::</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023407Z" creationid="Leo" creationdate="20210622T213558Z">
+        <seg>::tdb::</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213143Z" creationid="Leo" creationdate="20210622T212956Z">
         <seg>Uma hotstring tem um par de dois-pontos em cada lado do texto que você deseja substituir (a abreviatura).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A nice thing to know is that you can have many lines of code for each hotkey, hotstring, label, and a lot of other things we haven't talked about yet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023445Z" creationid="Leo" creationdate="20210623T023445Z">
+        <seg>Uma coisa legal de se saber é que você pode ter várias linhas de código para cada hotkey, rótulo e um bando de outras coisas de que não falamos ainda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -641,8 +649,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>MsgBox, You typed btw.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213410Z" creationid="Leo" creationdate="20210622T213410Z">
-        <seg>MsgBox, Você digitou "mbd".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023418Z" creationid="Leo" creationdate="20210622T213410Z">
+        <seg>MsgBox, Você digitou "tdb".</seg>
       </tuv>
     </tu>
     <tu>

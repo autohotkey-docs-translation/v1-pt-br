@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AutoHotkey has the ability to have &lt;i0&gt;as many&lt;/i0&gt; hotkeys and hotstrings in one file as you want.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195854Z" creationid="Leo" creationdate="20210623T195854Z">
+        <seg>O AutoHotKey permite que você adicione &lt;i0&gt;o número que você quiser&lt;/i0&gt; de hotkeys e hotstrings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey is not magic, we all wish it was, but it is not.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202111Z" creationid="Leo" creationdate="20210622T202111Z">
@@ -1047,6 +1055,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So I'll set it clear:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195609Z" creationid="Leo" creationdate="20210623T195609Z">
+        <seg>Então vou deixar claro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So it won't be covered in the tutorial, at least, not right now.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212809Z" creationid="Leo" creationdate="20210622T212809Z">
@@ -1219,6 +1235,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210529Z" creationid="Leo" creationdate="20210622T210529Z">
         <seg>Isso vai prevenir muitos problemas quando você começar a ter um bocado de coisas em seus scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This, for some reason crosses some people's minds.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195553Z" creationid="Leo" creationdate="20210623T195553Z">
+        <seg>Esta ideia, por alguma razão, passa pela cabeça de alguns.</seg>
       </tuv>
     </tu>
     <tu>

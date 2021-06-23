@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>::msg::You typed msg in MSPaint!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T155145Z" creationid="Leo" creationdate="20210623T155145Z">
+        <seg>::msg::Você digitou "msg" dentro do Paint!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>::msg::You typed msg in Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T155025Z" creationid="Leo" creationdate="20210623T155025Z">
@@ -518,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For more in-depth information and similar commands, check out the &lt;a0&gt;#IfWinActive&lt;/a0&gt; page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195515Z" creationid="Leo" creationdate="20210623T195515Z">
+        <seg>Para informações mais detalhadas e comandos similares, confira a página &lt;a0&gt;#IfWinActive&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For optimal learning power, it is advised that you read the text and &lt;b0&gt;try&lt;/b0&gt; the code.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201315Z" creationid="Leo" creationdate="20210622T201315Z">
@@ -819,6 +835,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024952Z" creationid="Leo" creationdate="20210623T024952Z">
         <seg>MsgBox, Você pressionou Numpad1 enquanto segurava Numpad0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, You pressed WIN+SPACE in MSPaint!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T155115Z" creationid="Leo" creationdate="20210623T155115Z">
+        <seg>MsgBox, Você pressionou Win+Espaço no Paint!</seg>
       </tuv>
     </tu>
     <tu>

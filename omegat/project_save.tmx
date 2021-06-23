@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Win&lt;/k0&gt; (Windows logo key)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023905Z" creationid="Leo" creationdate="20210623T023905Z">
+        <seg>&lt;k0&gt;Win&lt;/k0&gt; (Tecla do logo do Windows)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; There are exceptions, but those tend to cause confusion a lot of the time.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212757Z" creationid="Leo" creationdate="20210622T212757Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201608Z" creationid="Leo" creationdate="20210622T201608Z">
         <seg>Depois de fazer o download, talvez você tenha que instalá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An ampersand may be used between any two keys or mouse buttons to combine them into a custom hotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024111Z" creationid="Leo" creationdate="20210623T024111Z">
+        <seg>O símbolo "&amp;" pode ser usado entre quaisquer duas teclas ou botões do mouse para combiná-los e formar uma hotkey personalizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193149Z" creationid="Leo" creationdate="20210622T193149Z">
         <seg>Criando objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023842Z" creationid="Leo" creationdate="20210623T023842Z">
+        <seg>Descrição</seg>
       </tuv>
     </tu>
     <tu>
@@ -859,6 +883,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202129Z" creationid="Leo" creationdate="20210622T202129Z">
         <seg>Então nós precisamos dizer a ele o que fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Symbol</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023835Z" creationid="Leo" creationdate="20210623T023835Z">
+        <seg>Símbolo</seg>
       </tuv>
     </tu>
     <tu>

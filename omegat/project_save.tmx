@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;The WinTitle Parameter &amp; the Last Found Window&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030159Z" creationid="Leo" creationdate="20210623T030159Z">
+        <seg>&lt;a0&gt;O parâmetro WinTitle &amp; a Última Janela Encontrada&lt;/a0&gt; (em inglês)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;Send, My First Script&lt;/c0&gt; is how you &lt;s1&gt;send&lt;/s1&gt; keystrokes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210259Z" creationid="Leo" creationdate="20210622T210259Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192458Z" creationid="Leo" creationdate="20210622T192458Z">
         <seg>Tutorial para iniciantes | AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But in some cases you might want to specify criteria such as HWND, group or class.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030051Z" creationid="Leo" creationdate="20210623T030051Z">
+        <seg>Mas, em alguns casos, você pode querer especificar algum critério como HWND, grupo ou classe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -919,6 +935,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simply specify a window title.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030025Z" creationid="Leo" creationdate="20210623T030025Z">
+        <seg>Simplesmente especifique um título de janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since you're viewing this documentation locally, you've probably already installed AutoHotkey and can skip to section b.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201540Z" creationid="Leo" creationdate="20210622T201540Z">
@@ -1055,6 +1079,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These special commands (technically called "directives") create context-sensitive hotkeys and hotstrings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030015Z" creationid="Leo" creationdate="20210623T030015Z">
+        <seg>Esses comandos especiais (tecnicamente chamados de "diretivas") criam hotkeys e hotstrings sensíveis ao contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This process is called "Scripting".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202226Z" creationid="Leo" creationdate="20210622T202226Z">
@@ -1075,6 +1107,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210529Z" creationid="Leo" creationdate="20210622T210529Z">
         <seg>Isso vai prevenir muitos problemas quando você começar a ter um bocado de coisas em seus scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those are a bit advanced and are covered more in-depth here:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030125Z" creationid="Leo" creationdate="20210623T030125Z">
+        <seg>Esses critérios são um pouco avançados e são cobertos em maior profundidade aqui:</seg>
       </tuv>
     </tu>
     <tu>

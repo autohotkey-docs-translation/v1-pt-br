@@ -951,6 +951,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sometime you might want a hotkey or hotstring to only work (or be disabled) in a certain window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025742Z" creationid="Leo" creationdate="20210623T025742Z">
+        <seg>Às vezes você pode querer que uma hotkey ou hotstring só funcione (ou fique desabilitada) em uma determinada janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Symbol</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023835Z" creationid="Leo" creationdate="20210623T023835Z">
@@ -1079,6 +1087,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To do this, you will need to use either of these fancy commands with a # in-front of them:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025944Z" creationid="Leo" creationdate="20210623T025944Z">
+        <seg>Para fazer isso, você precisará usar um destes comandos garbosos com um símbolo # na frente deles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To help you learn what ^ and other symbols mean, gaze upon this chart:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023827Z" creationid="Leo" creationdate="20210623T023827Z">
@@ -1115,6 +1131,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193049Z" creationid="Leo" creationdate="20210622T193049Z">
         <seg>Variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visit &lt;a0&gt;Hotkeys&lt;/a0&gt; and &lt;a1&gt;Hotstrings&lt;/a1&gt; for additional hotkey and hotstring modifiers, information and examples.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025700Z" creationid="Leo" creationdate="20210623T025700Z">
+        <seg>Visite &lt;a0&gt;Hotkeys&lt;/a0&gt; e &lt;a1&gt;Hotstrings&lt;/a1&gt; para modificadores, informações e exemplos adicionais.</seg>
       </tuv>
     </tu>
     <tu>

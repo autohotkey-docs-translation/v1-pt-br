@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additionally, for a list of all/most hotkey names that can be used on the &lt;b0&gt;left&lt;/b0&gt; side of a hotkey's double-colon, see &lt;a1&gt;List of Keys, Mouse Buttons, and Joystick Controls&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024818Z" creationid="Leo" creationdate="20210623T024818Z">
+        <seg>Mais que isso, para ver uma lista com todos/quase todos nomes de hotkeys que podem ser usadas no lado &lt;b0&gt;esquerdo&lt;/b0&gt; do sinal duplo de dois-pontos da hotkey, veja &lt;a1&gt;Lista de Teclas, Botões do Mouse e Controle do Joystick&lt;/a1&gt; (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After downloading it, you may possibly need to install it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201608Z" creationid="Leo" creationdate="20210622T201608Z">

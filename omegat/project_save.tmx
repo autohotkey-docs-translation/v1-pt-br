@@ -743,6 +743,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Numpad0 &amp; Numpad2::</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025046Z" creationid="Leo" creationdate="20210623T025046Z">
+        <seg>Numpad0 &amp; Numpad1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193145Z" creationid="Leo" creationdate="20210622T193145Z">

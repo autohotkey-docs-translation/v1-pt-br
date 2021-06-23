@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>:*:ftw::Free the whales</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025557Z" creationid="Leo" creationdate="20210623T025557Z">
+        <seg>:*:slm::Salve os leões marinhos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>::btw::</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023407Z" creationid="Leo" creationdate="20210622T213558Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201615Z" creationid="Leo" creationdate="20210622T201615Z">
         <seg>Mas isso dependerá da versão que você quer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But you are now wondering if hotstrings have any cool modifiers since hotkeys do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025449Z" creationid="Leo" creationdate="20210623T025449Z">
+        <seg>Mas agora você está se perguntando se hotstrings têm modificadores legais iguais aos das hotkeys.</seg>
       </tuv>
     </tu>
     <tu>
@@ -531,6 +547,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192759Z" creationid="Leo" creationdate="20210622T192759Z">
         <seg>Hotkeys e hotstrings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hotstring modifiers go between the first set of colons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025516Z" creationid="Leo" creationdate="20210623T025516Z">
+        <seg>Modificadores de hotstrings vão no meio do primeiro par de dois-pontos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1155,6 +1179,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192908Z" creationid="Leo" creationdate="20210622T192908Z">
         <seg>Hotkeys e hotstrings que funcionam em só em uma ou algumas janelas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes, they do!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025452Z" creationid="Leo" creationdate="20210623T025452Z">
+        <seg>Sim, elas têm!</seg>
       </tuv>
     </tu>
     <tu>

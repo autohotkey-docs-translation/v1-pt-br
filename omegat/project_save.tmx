@@ -591,6 +591,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the example below, you would hold down Numpad0 then press Numpad1 or Numpad2 to trigger one of the hotkeys:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024931Z" creationid="Leo" creationdate="20210623T024931Z">
+        <seg>No ex abaixo, você segura a tecla Numpad0 e em seguida pressiona Numpad1 ou Numpad2 para desencadear uma das hotkeys:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indentation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193356Z" creationid="Leo" creationdate="20210622T193356Z">
@@ -699,6 +707,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023453Z" creationid="Leo" creationdate="20210623T023453Z">
         <seg>MsgBox, Uau!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, You pressed Numpad1 while holding down Numpad0.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024952Z" creationid="Leo" creationdate="20210623T024952Z">
+        <seg>MsgBox, Você pressionou Numpad1 enquanto segurava Numpad0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1139,6 +1155,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201331Z" creationid="Leo" creationdate="20210622T201331Z">
         <seg>Você pode copiar e colar a maioria dos exemplos desta página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define a custom combination of two (and only two) keys (except joystick buttons) by using &lt;c0&gt; &amp; &lt;/c0&gt; between them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024859Z" creationid="Leo" creationdate="20210623T024859Z">
+        <seg>Você pode definir uma combinação personalizada de duas (e somente duas) teclas (exceto botões de joystick) usando &lt;c0&gt;&amp;&lt;/c0&gt; entre elas.</seg>
       </tuv>
     </tu>
     <tu>

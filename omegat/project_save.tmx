@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>#IfWinActive Untitled - Notepad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154444Z" creationid="Leo" creationdate="20210623T154444Z">
+        <seg>#IfWinActive Sem título - Bloco de Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(For the full list of symbols, see the &lt;a0&gt;Hotkey&lt;/a0&gt; page)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024621Z" creationid="Leo" creationdate="20210623T024621Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212303Z" creationid="Leo" creationdate="20210622T212303Z">
         <seg>::sab::Salve as baleias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Any window that isn't Untitled - Notepad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154522Z" creationid="Leo" creationdate="20210623T154522Z">
+        <seg>; Qualquer janela que não seja "Sem título - Bloco de Notas"</seg>
       </tuv>
     </tu>
     <tu>
@@ -759,6 +775,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox, You pressed ALT+Q in Notepad.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154501Z" creationid="Leo" creationdate="20210623T154501Z">
+        <seg>MsgBox, Você pressionou Alt+Q dentro do Bloco de Notas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, You pressed ALT+Q in any window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154547Z" creationid="Leo" creationdate="20210623T154547Z">
+        <seg>MsgBox, Você pressionou Alt+Q em alguma outra janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, You pressed Numpad1 while holding down Numpad0.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024952Z" creationid="Leo" creationdate="20210623T024952Z">
@@ -1023,6 +1055,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The #IfWin directives are positional:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154728Z" creationid="Leo" creationdate="20210623T154728Z">
+        <seg>As diretivas #IfWin são posicionais:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Basics</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192537Z" creationid="Leo" creationdate="20210622T192537Z">
@@ -1239,6 +1279,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When #IfWin directives are never used in a script, all hotkeys and hotstrings are enabled for all windows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154720Z" creationid="Leo" creationdate="20210623T154720Z">
+        <seg>Quando as diretivas #IfWin não são usadas em nenhum lugar do script, então todas as hotkeys e hotstrings funcionarão em todas as janelas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When to use percents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193106Z" creationid="Leo" creationdate="20210622T193106Z">
@@ -1339,6 +1387,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192001Z" creationid="Leo" creationdate="20210622T192001Z">
         <seg>pt-BR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>they affect all hotkeys and hotstrings physically beneath them in the script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154813Z" creationid="Leo" creationdate="20210623T154813Z">
+        <seg>Elas afetam todas as hotkeys e hotstrings fisicamente abaixo delas no script.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c9&gt;^A&lt;/c9&gt; produces a different effect in some programs than &lt;c10&gt;^a&lt;/c10&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T010544Z" creationid="Leo" creationdate="20210624T010544Z">
+        <seg>&lt;c9&gt;^A&lt;/c9&gt; produz um efeito diferente de &lt;c10&gt;^a&lt;/c10&gt; em alguns programas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;i0&gt;"So, how exactly does a person such as myself create a hotkey?"&lt;/i0&gt; Good question.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212508Z" creationid="Leo" creationdate="20210622T212508Z">
@@ -337,6 +345,14 @@
         <seg>&lt;s4&gt;Note&lt;/s4&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004621Z" creationid="Leo" creationdate="20210624T004621Z">
+        <seg>Observação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s8&gt;Note&lt;/s8&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T010517Z" creationid="Leo" creationdate="20210624T010517Z">
         <seg>Observação:</seg>
       </tuv>
     </tu>
@@ -1491,6 +1507,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003601Z" creationid="Leo" creationdate="20210624T003601Z">
         <seg>Este comando literalmente envia o pressionamento de teclas, para simular a digitação ou o simples pressionamento de quaisquer teclas do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is because &lt;c11&gt;^A&lt;/c11&gt; presses &lt;k12&gt;Ctrl&lt;/k12&gt;+&lt;k13&gt;Shift&lt;/k13&gt;+&lt;k14&gt;A&lt;/k14&gt; and &lt;c15&gt;^a&lt;/c15&gt; presses &lt;k16&gt;Ctrl&lt;/k16&gt;+&lt;k17&gt;A&lt;/k17&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T010753Z" creationid="Leo" creationdate="20210624T010753Z">
+        <seg>Isso é porque &lt;c11&gt;^A&lt;/c11&gt; pressiona &lt;k12&gt;Ctrl&lt;/k12&gt;+&lt;k13&gt;Shift&lt;/k13&gt;+&lt;k14&gt;A&lt;/k14&gt; enquanto &lt;c15&gt;^a&lt;/c15&gt; pressiona &lt;k16&gt;Ctrl&lt;/k16&gt;+&lt;k17&gt;a&lt;/k17&gt;.</seg>
       </tuv>
     </tu>
     <tu>

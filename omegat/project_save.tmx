@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Lots and lots of them&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003648Z" creationid="Leo" creationdate="20210624T003648Z">
+        <seg>&lt;a0&gt;Muitas e muitas delas.&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;The WinTitle Parameter &amp; the Last Found Window&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030450Z" creationid="Leo" creationdate="20210623T030159Z">
@@ -458,6 +466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192458Z" creationid="Leo" creationdate="20210622T192458Z">
         <seg>Tutorial para iniciantes | AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But before we get into things, we should talk about some common issues that people have.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003627Z" creationid="Leo" creationdate="20210624T003627Z">
+        <seg>Mas antes de começar, temos que falar de alguns problemas por que as pessoas costumam passar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are the four most common symbols:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003658Z" creationid="Leo" creationdate="20210624T003658Z">
+        <seg>Eis os quatro símbolos mais comuns:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here is a very basic script containing a hotkey which types text using the &lt;a0&gt;Send&lt;/a0&gt; command when the hotkey is pressed:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203134Z" creationid="Leo" creationdate="20210622T202801Z">
@@ -899,6 +923,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211849Z" creationid="Leo" creationdate="20210622T211849Z">
         <seg>Brincadeira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just like hotkeys, the Send command has special keys too.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003641Z" creationid="Leo" creationdate="20210624T003641Z">
+        <seg>Da mesma forma que hotkeys, o comando Send tem teclas especiais também.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1187,6 +1219,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192954Z" creationid="Leo" creationdate="20210622T192954Z">
         <seg>Enviando pressionamento de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sends &lt;k0&gt;Alt&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003719Z" creationid="Leo" creationdate="20210624T003719Z">
+        <seg>Envia &lt;k0&gt;Alt&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

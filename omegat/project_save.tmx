@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Run Notepad when you press CTRL+N.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201628Z" creationid="Leo" creationdate="20210623T201628Z">
+        <seg>; Abrir o Bloco de Notas quando você pressionar CTRL+N.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Untitled - Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154427Z" creationid="Leo" creationdate="20210623T154427Z">

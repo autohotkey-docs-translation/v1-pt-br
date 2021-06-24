@@ -1415,6 +1415,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;a0&gt;gigantic table on the Send page&lt;/a0&gt; shows pretty much every special key built-in to AHK.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T045425Z" creationid="Leo" creationdate="20210624T045425Z">
+        <seg>A &lt;a0&gt;tabela gigante na página sobre Send&lt;/a0&gt; mostra basicamente todas as teclas especiais nativas do AHK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Basics</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192537Z" creationid="Leo" creationdate="20210622T192537Z">

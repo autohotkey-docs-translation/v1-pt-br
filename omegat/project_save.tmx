@@ -871,6 +871,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If in doubt, use lowercase.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004814Z" creationid="Leo" creationdate="20210624T004814Z">
+        <seg>Se estiver em dúvida, use letra minúscula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If so, SUCCESS!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202457Z" creationid="Leo" creationdate="20210622T202457Z">
@@ -1255,6 +1263,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sends &lt;k0&gt;Shift&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004854Z" creationid="Leo" creationdate="20210624T004854Z">
+        <seg>Envia &lt;k0&gt;Shift&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simply specify a window title.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030025Z" creationid="Leo" creationdate="20210623T030025Z">
@@ -1451,6 +1467,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003601Z" creationid="Leo" creationdate="20210624T003601Z">
         <seg>Este comando literalmente envia o pressionamento de teclas, para simular a digitação ou o simples pressionamento de quaisquer teclas do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is because &lt;c7&gt;!A&lt;/c7&gt; presses &lt;k8&gt;Alt&lt;/k8&gt;+&lt;k9&gt;Shift&lt;/k9&gt;+&lt;k10&gt;A&lt;/k10&gt; and &lt;c11&gt;!a&lt;/c11&gt; presses &lt;k12&gt;Alt&lt;/k12&gt;+&lt;k13&gt;A&lt;/k13&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004805Z" creationid="Leo" creationdate="20210624T004805Z">
+        <seg>Isso é porque &lt;c7&gt;!A&lt;/c7&gt; faz pressionar &lt;k8&gt;Alt&lt;/k8&gt;+&lt;k9&gt;Shift&lt;/k9&gt;+&lt;k10&gt;A&lt;/k10&gt; e &lt;c11&gt;!a&lt;/c11&gt; faz pressionar &lt;k12&gt;Alt&lt;/k12&gt;+&lt;k13&gt;A&lt;/k13&gt;.</seg>
       </tuv>
     </tu>
     <tu>

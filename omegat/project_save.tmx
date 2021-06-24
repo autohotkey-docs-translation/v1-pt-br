@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; This ends the hotkey. The code below this will not be executed when pressing the hotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003252Z" creationid="Leo" creationdate="20210624T003252Z">
+        <seg>; Isto conclui a hotkey. O código que vier abaixo de 'return' não será executado quando você pressionar a hotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Untitled - Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154427Z" creationid="Leo" creationdate="20210623T154427Z">

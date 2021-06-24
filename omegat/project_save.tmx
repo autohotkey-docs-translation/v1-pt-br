@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c5&gt;!A&lt;/c5&gt; produces a different effect in some programs than &lt;c6&gt;!a&lt;/c6&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004654Z" creationid="Leo" creationdate="20210624T004654Z">
+        <seg>&lt;c5&gt;!A&lt;/c5&gt; produz um efeito diferente de &lt;c6&gt;!a&lt;/c6&gt; em alguns programas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;i0&gt;"So, how exactly does a person such as myself create a hotkey?"&lt;/i0&gt; Good question.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212508Z" creationid="Leo" creationdate="20210622T212508Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212757Z" creationid="Leo" creationdate="20210622T212757Z">
         <seg>&lt;s0&gt;Nota:&lt;/s0&gt; Há exceções, mas elas várias vezes tendem a causar confusão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s4&gt;Note&lt;/s4&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004621Z" creationid="Leo" creationdate="20210624T004621Z">
+        <seg>Observação:</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202024Z" creationid="Leo" creationdate="20210622T202024Z">
         <seg>Para instruções em vídeo, assista Install e Hello World no YouTube (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c1&gt;Send, This is text!a&lt;/c1&gt; would send the keys "This is text" and then press &lt;k2&gt;Alt&lt;/k2&gt;+&lt;k3&gt;A&lt;/k3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004606Z" creationid="Leo" creationdate="20210624T004606Z">
+        <seg>Por exemplo, &lt;c1&gt;Send, Isto é texto!a&lt;/c1&gt; enviaria as letras (teclas) "Isto é texto!" e depois pressionaria &lt;k2&gt;Alt&lt;/k2&gt;Alt+&lt;k3&gt;A&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>

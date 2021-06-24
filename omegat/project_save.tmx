@@ -1311,6 +1311,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sends &lt;k0&gt;Win&lt;/k0&gt; (the key with the Windows logo) therefore &lt;c1&gt;Send #e&lt;/c1&gt; would hold down &lt;k2&gt;Win&lt;/k2&gt; and then press &lt;k3&gt;E&lt;/k3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T045345Z" creationid="Leo" creationdate="20210624T045329Z">
+        <seg>Envia &lt;k0&gt;Win&lt;/k0&gt; (a tecla do logo do Windows), portanto &lt;c1&gt;Send #e&lt;/c1&gt; faz segurar a tecla Win e então pressionar &lt;k2&gt;Ee&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simply specify a window title.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030025Z" creationid="Leo" creationdate="20210623T030025Z">

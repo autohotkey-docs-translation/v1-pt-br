@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But in fact &lt;b0&gt;they are needed&lt;/b0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175627Z" creationid="Leo" creationdate="20210625T175627Z">
+        <seg>Mas &lt;b0&gt;elas são necessárias&lt;/b0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But in some cases you might want to specify criteria such as HWND, group or class.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030051Z" creationid="Leo" creationdate="20210623T030051Z">
@@ -1035,6 +1043,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202338Z" creationid="Leo" creationdate="20210622T202338Z">
         <seg>Ele deve terminar com a extensão .ahk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's how AHK knows that &lt;c1&gt;{!}&lt;/c1&gt; means "exclamation point" and not "press &lt;k2&gt;Alt&lt;/k2&gt;".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175713Z" creationid="Leo" creationdate="20210625T175713Z">
+        <seg>É assim que o AHK sabe que &lt;c1&gt;{!}&lt;/c1&gt; significa "ponto de exclamação" e não "pressione &lt;k2&gt;Alt&lt;/k2&gt;".</seg>
       </tuv>
     </tu>
     <tu>

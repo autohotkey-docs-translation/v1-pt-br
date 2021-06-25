@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>" 5 + MyVar2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204410Z" creationid="Leo" creationdate="20210625T204410Z">
+        <seg>" 5 + MinhaVar2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#IfWinActive Untitled - Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154444Z" creationid="Leo" creationdate="20210623T154444Z">
@@ -622,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A combination of the three expression assignments above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204431Z" creationid="Leo" creationdate="20210625T204431Z">
+        <seg>Uma combinação das três formas de se atribuir variáveis acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A combination of the two legacy assignments above.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203945Z" creationid="Leo" creationdate="20210625T203945Z">
@@ -1094,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Equal signs (&lt;b0&gt;=&lt;/b0&gt;) with a symbol in front of it such as &lt;c1&gt;:=&lt;/c1&gt; &lt;c2&gt;+=&lt;/c2&gt; &lt;c3&gt;-=&lt;/c3&gt; &lt;c4&gt;.=&lt;/c4&gt; etc. are called &lt;b5&gt;assignment operators&lt;/b5&gt; and always require an expression.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204550Z" creationid="Leo" creationdate="20210625T204550Z">
+        <seg>Sinais de igualdade (&lt;b0&gt;=&lt;/b0&gt;) com um símbolo na frente deles, tal como &lt;c1&gt;:=&lt;/c1&gt; &lt;c2&gt;+=&lt;/c2&gt; &lt;c3&gt;-=&lt;/c3&gt; &lt;c4&gt;.=&lt;/c4&gt; etc. são chamados de &lt;b5&gt;operadores de atribuição&lt;/b5&gt; e sempre requerem uma expressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192943Z" creationid="Leo" creationdate="20210622T192943Z">
@@ -1110,10 +1134,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Expression mixed assignment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204341Z" creationid="Leo" creationdate="20210625T204341Z">
+        <seg>Atribuição de expressão mista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Expression number assignment</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204211Z" creationid="Leo" creationdate="20210625T204211Z">
-        <seg>Atrivuição de número como expressão</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204320Z" creationid="Leo" creationdate="20210625T204211Z">
+        <seg>Atribuição de número como expressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -1887,6 +1919,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MyVar := "The value of 5 + " MyVar2 " is:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204401Z" creationid="Leo" creationdate="20210625T204401Z">
+        <seg>MinhaVar := "O valor de 5 + " MinhaVar2 " é:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MyVar := 6 + 8 / 3 * 2 - Sqrt(9)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204254Z" creationid="Leo" creationdate="20210625T204254Z">
@@ -2339,6 +2379,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191648Z" creationid="Leo" creationdate="20210625T191648Z">
         <seg>Texto deve ser envolto em aspas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thanks to expressions, you can do math!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204310Z" creationid="Leo" creationdate="20210625T204310Z">
+        <seg>Graças às expressões, você pode fazer operações matemáticas!</seg>
       </tuv>
     </tu>
     <tu>

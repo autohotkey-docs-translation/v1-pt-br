@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Another common issue is that people think that &lt;b0&gt;everything&lt;/b0&gt; needs to be wrapped in brackets with the Send command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180513Z" creationid="Leo" creationdate="20210625T180513Z">
+        <seg>Outro problema comum é que as pessoas pensam que &lt;b0&gt;tudo&lt;/b0&gt; deve ser envolto em chaves com o comando Send.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything to the &lt;b5&gt;left&lt;/b5&gt; of &lt;c6&gt;::&lt;/c6&gt; are the keys you need to press.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210206Z" creationid="Leo" creationdate="20210622T210206Z">
@@ -995,6 +1003,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004814Z" creationid="Leo" creationdate="20210624T004814Z">
         <seg>Se estiver em dúvida, use letra minúscula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it's not in the chart, it does not need brackets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180600Z" creationid="Leo" creationdate="20210625T180600Z">
+        <seg>Se não estiver na tabela, então não requer chaves.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1535,6 +1551,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That is FALSE.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180517Z" creationid="Leo" creationdate="20210625T180517Z">
+        <seg>Isso é FALSO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That's fancy talk for &lt;i0&gt;"do pretty much anything"&lt;/i0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213336Z" creationid="Leo" creationdate="20210622T213336Z">
@@ -1915,6 +1939,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210916Z" creationid="Leo" creationdate="20210622T192726Z">
         <seg>Você não pode mesclar comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You do &lt;b1&gt;not&lt;/b1&gt; need to wrap common letters, numbers or even some symbols such as &lt;c2&gt;.&lt;/c2&gt; (period) in curly brackets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180635Z" creationid="Leo" creationdate="20210625T180635Z">
+        <seg>Você &lt;b1&gt;não precisa&lt;/b1&gt; envolver letras comuns, números e nem mesmo uns símbolos tais como &lt;c2&gt;.&lt;/c2&gt; (ponto final) em chaves.</seg>
       </tuv>
     </tu>
     <tu>

@@ -454,6 +454,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; There are several different forms of Send.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181616Z" creationid="Leo" creationdate="20210625T181616Z">
+        <seg>&lt;s0&gt;Observação:&lt;/s0&gt; há diferentes formas do comando Send.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;This is important:&lt;/s0&gt; A lot of games, especially modern ones, have cheat prevention software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181830Z" creationid="Leo" creationdate="20210625T181830Z">
+        <seg>&lt;s0&gt;Isto é importante:&lt;/s0&gt; vários jogos, especialmente os mais modernos, têm sistemas de prevenção de cheats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s4&gt;Note&lt;/s4&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004621Z" creationid="Leo" creationdate="20210624T004621Z">
@@ -586,6 +602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210206Z" creationid="Leo" creationdate="20210622T210206Z">
         <seg>Tudo à &lt;b5&gt;esquerda&lt;/b5&gt; de &lt;c6&gt;::&lt;/c6&gt; são as teclas que você deve pressionar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apples are a fruit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181556Z" creationid="Leo" creationdate="20210625T181556Z">
+        <seg>Maçãs são frutas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each has their own special features.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181622Z" creationid="Leo" creationdate="20210625T181622Z">
+        <seg>Cada uma delas tem suas caracteres especiais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Easy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181226Z" creationid="Leo" creationdate="20210625T181226Z">
@@ -922,6 +954,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195515Z" creationid="Leo" creationdate="20210623T195515Z">
         <seg>Para informações mais detalhadas e comandos similares, confira a página &lt;a0&gt;#IfWinActive&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on what each one does, &lt;a1&gt;read this&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181757Z" creationid="Leo" creationdate="20210625T181757Z">
+        <seg>Para mais informações sobre o que cada um faz, &lt;a1&gt;leia isto&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1095,6 +1135,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If one form of Send does not work for your needs, try another type of Send.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181638Z" creationid="Leo" creationdate="20210625T181638Z">
+        <seg>Se uma das formas do comando Send não funcionar para suas necessidades, tente outro tipo de Send.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If so, SUCCESS!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202457Z" creationid="Leo" creationdate="20210622T202457Z">
@@ -1211,6 +1259,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192230Z" creationid="Leo" creationdate="20210622T192230Z">
         <seg>Aprenda a baixar e instalar o AutoHotKey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclas, executar programas e mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line 1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181544Z" creationid="Leo" creationdate="20210625T181544Z">
+        <seg>Linha 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line 2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181546Z" creationid="Leo" creationdate="20210625T181546Z">
+        <seg>Linha 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -1543,6 +1607,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simply replace the command name "Send" with one of the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181737Z" creationid="Leo" creationdate="20210625T181737Z">
+        <seg>Simplesmente substitua o comando de nome "Send" com outro dentre os seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simply specify a window title.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030025Z" creationid="Leo" creationdate="20210623T030025Z">
@@ -1771,6 +1843,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154839Z" creationid="Leo" creationdate="20210623T154839Z">
         <seg>Elas também são mutuamente excludentes; isto é, somente a mais recente terá efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Things like GameGuard, Hackshield, PunkBuster and several others.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181913Z" creationid="Leo" creationdate="20210625T181913Z">
+        <seg>São soluções como o GameGuard, Hackshield, PunkBuster e diversos  outros.</seg>
       </tuv>
     </tu>
     <tu>

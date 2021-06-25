@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A combination of the two legacy assignments above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203945Z" creationid="Leo" creationdate="20210625T203945Z">
+        <seg>Uma combinação das duas formas legadas anteriores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A common issue lots of people have is, they assume that the curly brackets are put in the documentation pages just for fun.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175614Z" creationid="Leo" creationdate="20210625T175614Z">
@@ -1639,6 +1647,30 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Legacy mixed assignment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203918Z" creationid="Leo" creationdate="20210625T203918Z">
+        <seg>Forma legada mista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Legacy text assignment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203652Z" creationid="Leo" creationdate="20210625T203652Z">
+        <seg>Forma "legada" de atribuição de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Legacy variable assignment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203840Z" creationid="Leo" creationdate="20210625T203840Z">
+        <seg>Forma "legada" de atribuição de variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line 1</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181544Z" creationid="Leo" creationdate="20210625T181544Z">
@@ -1807,6 +1839,30 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MyVar = %MyVar2%</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203848Z" creationid="Leo" creationdate="20210625T203848Z">
+        <seg>MinhaVar = %MinhaVar2%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyVar = %MyVar2% some text %MyVar3%.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203935Z" creationid="Leo" creationdate="20210625T203935Z">
+        <seg>MinhaVar = %MinhaVar2% algum texto %MinhaVar3%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyVar = Text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203702Z" creationid="Leo" creationdate="20210625T203702Z">
+        <seg>MinhaVar = Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not only is bypassing these systems in violation of the games policies and could get you banned, they are complex to work around.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182140Z" creationid="Leo" creationdate="20210625T182140Z">
@@ -1931,6 +1987,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193015Z" creationid="Leo" creationdate="20210622T193015Z">
         <seg>Executando programas e abrindo sites</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Same as above, but you are assigning a value of a variable to another variable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203902Z" creationid="Leo" creationdate="20210625T203902Z">
+        <seg>O mesmo de antes, mas agora você está atribuindo o valor de uma variável a outra variável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2083,6 +2147,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181505Z" creationid="Leo" creationdate="20210625T181505Z">
         <seg>Apenas insira um "abre-parênteses" numa nova linha, depois insira seu código e finalmente feche o parêntese em uma linha só dele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simply type in your text and done.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203750Z" creationid="Leo" creationdate="20210625T203750Z">
+        <seg>Simplesmente digite seu texto e pronto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2443,6 +2515,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203229Z" creationid="Leo" creationdate="20210625T203229Z">
         <seg>Isso funciona perfeitamente já que a instrução com If só tinha uma linhad e código associada a ela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the simplest form for a variable, a legacy assignment.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203742Z" creationid="Leo" creationdate="20210625T203742Z">
+        <seg>Esta é a forma mais simples para uma variável: a atribuição legada.</seg>
       </tuv>
     </tu>
     <tu>

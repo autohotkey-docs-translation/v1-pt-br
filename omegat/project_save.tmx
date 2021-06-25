@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Run a program. Note that most programs will require a FULL file path:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183004Z" creationid="Leo" creationdate="20210625T183004Z">
+        <seg>; Abre/executa/roda um programa. Note que a maioria dos programas exigirá um caminho completo do arquivo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Same as above, but with the ENTER key. AHK would type out "Enter" if</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180040Z" creationid="Leo" creationdate="20210625T180040Z">
@@ -1223,6 +1231,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can even be used to open URLs such as &lt;a2&gt;https://www.autohotkey.com/&lt;/a2&gt; . If your computer is setup to run the type of program you want to run, it's very simple:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182926Z" creationid="Leo" creationdate="20210625T182926Z">
+        <seg>O comando Run pode ser usado também para abrir URLs como &lt;a2&gt;https://www.autohotkey.com/&lt;/a2&gt; . Se seu computador está configurado para rodar o tipo de programa que você quer rodar, então é bem simples:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It has support for non-English letters and numbers (characters).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201859Z" creationid="Leo" creationdate="20210622T201859Z">
@@ -2035,6 +2051,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180912Z" creationid="Leo" creationdate="20210625T180912Z">
         <seg>Para segurar ou soltar uma tecla, envolve o nome da tecla em chaves e aí use as palavras UP ou DOWN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To run a program such as &lt;i0&gt;mspaint.exe, calc.exe, script.ahk&lt;/i0&gt; or even a folder, you can use the &lt;a1&gt;Run&lt;/a1&gt; command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182835Z" creationid="Leo" creationdate="20210625T182835Z">
+        <seg>Para abrir um programa como &lt;i0&gt;mspaint.exe, calc.exe, script.ahk&lt;/i0&gt; ou até abrir uma pasta, você pode usar o comando &lt;a1&gt;Run&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

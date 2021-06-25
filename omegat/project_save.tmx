@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; it wasn't wrapped in curly brackets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180113Z" creationid="Leo" creationdate="20210625T180113Z">
+        <seg>; a palavra não estivesse envolta em chaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;In section 5&lt;/a0&gt; we'll talk about why it doesn't work as you might expect and what you can do instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211151Z" creationid="Leo" creationdate="20210622T211151Z">
@@ -1355,6 +1363,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023535Z" creationid="Leo" creationdate="20210623T023535Z">
         <seg>Send, 7 linhas!{!}{Enter}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send, Multiple Enter lines have Enter been sent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180247Z" creationid="Leo" creationdate="20210625T180247Z">
+        <seg>Send, Acabei de criar novas linhas teclando Enter várias vezes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send, Multiple{Enter}lines have{Enter}been sent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180319Z" creationid="Leo" creationdate="20210625T180319Z">
+        <seg>Send, Acabei de criar novas linhas teclando {Enter} várias vezes.</seg>
       </tuv>
     </tu>
     <tu>

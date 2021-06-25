@@ -926,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For more information, read about &lt;a1&gt;Continuation Sections&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181533Z" creationid="Leo" creationdate="20210625T181533Z">
+        <seg>Para mais informações, leia sobre &lt;a1&gt;Continuações de Seção&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For optimal learning power, it is advised that you read the text and &lt;b0&gt;try&lt;/b0&gt; the code.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201315Z" creationid="Leo" creationdate="20210622T201315Z">
@@ -1539,6 +1547,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030025Z" creationid="Leo" creationdate="20210623T030025Z">
         <seg>Simplesmente especifique um título de janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simply specify an opening parenthesis on a new line, then your content, finally a closing parenthesis on its own line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181505Z" creationid="Leo" creationdate="20210625T181505Z">
+        <seg>Apenas insira um "abre-parênteses" numa nova linha, depois insira seu código e finalmente feche o parêntese em uma linha só dele.</seg>
       </tuv>
     </tu>
     <tu>

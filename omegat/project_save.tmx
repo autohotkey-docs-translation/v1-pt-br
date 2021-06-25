@@ -864,8 +864,8 @@
       <tuv lang="en">
         <seg>Commands also differ from function in that they use "legacy syntax".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T185230Z" creationid="Leo" creationdate="20210625T185230Z">
-        <seg>Comandos também se diferenciam das funções na medida em que estas usam a "sintaxe legada".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T185706Z" creationid="Leo" creationdate="20210625T185230Z">
+        <seg>Comandos também se diferenciam das funções na medida em que aqueles usam a "sintaxe legada".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2137,8 +2137,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This means that you &lt;s0&gt;need&lt;/s0&gt; percent signs around a variable, such as &lt;c1&gt;%Var%&lt;/c1&gt;, and that any text and numbers do not need to be in quotation marks, such as &lt;c2&gt;This is some text&lt;/c2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T185700Z" creationid="Leo" creationdate="20210625T185700Z">
-        <seg>Isso significa que você &lt;s0&gt;precisa&lt;/s0&gt; usar sinais de porcentagem em volta de uma variável, como em &lt;c1&gt;%Var%&lt;/c1&gt;, e que nenhum texto ou números precisa estar entre aspas, como em &lt;c2&gt;Isto é um texto&lt;/c2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T190658Z" creationid="Leo" creationdate="20210625T185700Z">
+        <seg>Isso significa que você &lt;s0&gt;precisa&lt;/s0&gt; usar sinais de porcentagem em volta do nome de uma variável, como em &lt;c1&gt;%Var%&lt;/c1&gt;, e que nenhum texto ou números precisa estar entre aspas, como em &lt;c2&gt;Isto é um texto&lt;/c2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

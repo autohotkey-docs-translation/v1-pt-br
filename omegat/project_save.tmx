@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Colors might turn out black (0x000000) no matter the color you try to get.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182636Z" creationid="Leo" creationdate="20210625T182636Z">
+        <seg>As cores podem virar preto (0x000000) independenntementnão da cor que você estiver tentando obter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands vs. Functions()</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193037Z" creationid="Leo" creationdate="20210622T193037Z">
@@ -1131,6 +1139,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182209Z" creationid="Leo" creationdate="20210625T182209Z">
         <seg>Se um jogo tem um sistema de prevenção de cheats e suas hotkeys, hotstrings e comandos Send não funcionam, você está sem sorte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If everything you try fails, it may not be possible to use AutoHotkey for your needs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182800Z" creationid="Leo" creationdate="20210625T182800Z">
+        <seg>Se tudo que você tentar falhar, pode ser que o AutoHotKey não sirva para suas necessidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1767,6 +1783,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That fixes some DirectX issues.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182716Z" creationid="Leo" creationdate="20210625T182716Z">
+        <seg>Isso resolverá alguns problemas relacionados ao DirectX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That is FALSE.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180517Z" creationid="Leo" creationdate="20210625T180517Z">
@@ -1883,6 +1907,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182402Z" creationid="Leo" creationdate="20210625T182402Z">
         <seg>Há também alguns problemas conhecidos com o DirectX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is no single solution to make AutoHotkey work in all programs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182731Z" creationid="Leo" creationdate="20210625T182731Z">
+        <seg>Não existe uma solução única para fazer o AutoHotKey funcionar em todos os programas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2203,6 +2235,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023706Z" creationid="Leo" creationdate="20210623T023706Z">
         <seg>Você deve estar pensando &lt;i0&gt;"Mas como eu vou saber que ^ significa &lt;k1&gt;Ctrl&lt;/k1&gt;?!"&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should also try running the game in windowed mode, if possible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182654Z" creationid="Leo" creationdate="20210625T182654Z">
+        <seg>Você também deve tentar rodar o jogo em modo de janela (windowed), se possível.</seg>
       </tuv>
     </tu>
     <tu>

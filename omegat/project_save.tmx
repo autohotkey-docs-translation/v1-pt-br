@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Both of these send CTRL+S</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181009Z" creationid="Leo" creationdate="20210625T181009Z">
+        <seg>; Ambos enviam CTRL+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; CORRECT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175500Z" creationid="Leo" creationdate="20210625T175500Z">
@@ -198,6 +206,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; If one method doesn't work in your program, please try the other.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180950Z" creationid="Leo" creationdate="20210625T180950Z">
+        <seg>; Se um método não funciona em seu programa, tente o outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Keep it down for one second.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181123Z" creationid="Leo" creationdate="20210625T181123Z">
+        <seg>; Segura a tecla por um segundo (1000 milissegundos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154848Z" creationid="Leo" creationdate="20210623T154848Z">
@@ -210,6 +234,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175959Z" creationid="Leo" creationdate="20210625T175959Z">
         <seg>; Notou o ! entre as chaves? É porque, se não houvesse chaves, AHK apertaria a tecla ALT em vez de enviar o ponto de exclamação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Press down the up-arrow key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181101Z" creationid="Leo" creationdate="20210625T181101Z">
+        <seg>; Pressiona e segura a tecla SETA PARA CIMA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Release the up-arrow key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181141Z" creationid="Leo" creationdate="20210625T181141Z">
+        <seg>; Solta a tecla SETA PARA CIMA.</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But now you are wondering &lt;i0&gt;"How can I make my really long Send commands readable?"&lt;/i0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181213Z" creationid="Leo" creationdate="20210625T181213Z">
+        <seg>Agora você deve estar se perguntando: &lt;i0&gt;"Como eu faço meu comando Send, que ficou bem longo, mais legível?"&lt;/i0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But that depends on the version you want.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201615Z" creationid="Leo" creationdate="20210622T201615Z">
@@ -754,6 +802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201732Z" creationid="Leo" creationdate="20210622T201732Z">
         <seg>Durante a instalação do AutoHotKey, você será perguntado se quer usar a codificação UNICODE ou ANSI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Easy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181226Z" creationid="Leo" creationdate="20210625T181226Z">
+        <seg>Fácil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1827,6 +1883,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003518Z" creationid="Leo" creationdate="20210624T003518Z">
         <seg>Use o comando &lt;a0&gt;Send&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use what is known as a continuation section.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181334Z" creationid="Leo" creationdate="20210625T181334Z">
+        <seg>Use o que chamamos de continuação de seção.</seg>
       </tuv>
     </tu>
     <tu>

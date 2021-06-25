@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Notice the ! between the curly brackets? That's because if it wasn't, AHK would press the ALT key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175959Z" creationid="Leo" creationdate="20210625T175959Z">
+        <seg>; Notou o ! entre as chaves? É porque, se não houvesse chaves, AHK apertaria a tecla ALT em vez de enviar o ponto de exclamação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Replaces "btw" with "by the way" as soon as you press an &lt;a1&gt;default ending character&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201434Z" creationid="Leo" creationdate="20210623T201420Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201628Z" creationid="Leo" creationdate="20210623T201628Z">
         <seg>; Abrir o Bloco de Notas quando você pressionar CTRL+N.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Same as above, but with the ENTER key. AHK would type out "Enter" if</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180040Z" creationid="Leo" creationdate="20210625T180040Z">
+        <seg>; Mesmo caso acima, mas com a tecla ENTER. AHK iria digitar "Enter" se</seg>
       </tuv>
     </tu>
     <tu>
@@ -1351,6 +1367,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Send, This text has been typed{!}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175908Z" creationid="Leo" creationdate="20210625T175908Z">
+        <seg>Send, Este texto foi digitado{!}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SendInput, inside the CTRL{+}J hotkey.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023557Z" creationid="Leo" creationdate="20210623T023557Z">
@@ -1443,6 +1467,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175058Z" creationid="Leo" creationdate="20210624T003458Z">
         <seg>Então você decidiu que você quer enviar (digitar) teclas em um programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So please remember to check the table on the &lt;a3&gt;Send&lt;/a3&gt; page and make sure you have your brackets in the right places.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175854Z" creationid="Leo" creationdate="20210625T175854Z">
+        <seg>Então por favor lembre-se de conferir a tabela na &lt;a3&gt;página do comando Send&lt;/a3&gt; e certifique-se que você inseriu as chaves nos lugares certos.</seg>
       </tuv>
     </tu>
     <tu>

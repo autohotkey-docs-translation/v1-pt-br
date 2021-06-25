@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c1&gt;{Enter}&lt;/c1&gt; and &lt;c2&gt;{Space}&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175213Z" creationid="Leo" creationdate="20210625T175213Z">
+        <seg>&lt;c1&gt;{Enter}&lt;/c1&gt; e &lt;c2&gt;{Space}&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c2&gt;Send&lt;/c2&gt; is the command, anything after the comma (,) will be typed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210323Z" creationid="Leo" creationdate="20210622T210323Z">
@@ -330,6 +338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023905Z" creationid="Leo" creationdate="20210623T023905Z">
         <seg>&lt;k0&gt;Win&lt;/k0&gt; (Tecla do logo do Windows)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Caution:&lt;/s0&gt; This table &lt;b1&gt;does not&lt;/b1&gt; apply to &lt;a2&gt;hotkeys&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175242Z" creationid="Leo" creationdate="20210625T175242Z">
+        <seg>&lt;s0&gt;Cuidado:&lt;/s0&gt; esta tabela &lt;b1&gt;não se aplica&lt;/b1&gt; às hotkeys.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1361,8 +1377,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>So now you decided that you want to send (type) keys to a program.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003458Z" creationid="Leo" creationdate="20210624T003458Z">
-        <seg>Então você deicidu que você quer enviar (digitar) teclas em um programa.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175058Z" creationid="Leo" creationdate="20210624T003458Z">
+        <seg>Então você decidiu que você quer enviar (digitar) teclas em um programa.</seg>
       </tuv>
     </tu>
     <tu>

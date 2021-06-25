@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A list of all commands and built-in functions can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183824Z" creationid="Leo" creationdate="20210625T183824Z">
+        <seg>Uma lista de todos os comandos e funções nativas pode ser encontrada &lt;a0&gt;aqui&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A nice thing to know is that you can have many lines of code for each hotkey, hotstring, label, and a lot of other things we haven't talked about yet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023445Z" creationid="Leo" creationdate="20210623T023445Z">
@@ -826,6 +834,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182636Z" creationid="Leo" creationdate="20210625T182636Z">
         <seg>As cores podem virar preto (0x000000) independenntementnão da cor que você estiver tentando obter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands and functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183810Z" creationid="Leo" creationdate="20210625T183810Z">
+        <seg>Comandos e funções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands do not use parentheses around the parameters like functions do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183952Z" creationid="Leo" creationdate="20210625T183952Z">
+        <seg>Comandos não usam parênteses em volta dos parâmetros como as funções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1807,6 +1831,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So a command would look like this:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T184001Z" creationid="Leo" creationdate="20210625T184001Z">
+        <seg>Então um comando se parecerá com isto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So it won't be covered in the tutorial, at least, not right now.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212809Z" creationid="Leo" creationdate="20210622T212809Z">
@@ -2331,6 +2363,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024859Z" creationid="Leo" creationdate="20210623T024859Z">
         <seg>Você pode definir uma combinação personalizada de duas (e somente duas) teclas (exceto botões de joystick) usando &lt;c0&gt;&amp;&lt;/c0&gt; entre elas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can tell what a command is by looking at its syntax (the way it looks).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183941Z" creationid="Leo" creationdate="20210625T183941Z">
+        <seg>Você pode identificar o que é um comando ao olhar para sua sintaxe, ou seja, sua forma, seu visual.</seg>
       </tuv>
     </tu>
     <tu>

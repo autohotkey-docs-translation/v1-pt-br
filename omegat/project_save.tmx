@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ExitApp</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203131Z" creationid="Leo" creationdate="20210625T203131Z">
+        <seg>ExitApp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FileExist(VariableContainingPath)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202224Z" creationid="Leo" creationdate="20210625T202224Z">
@@ -1511,6 +1519,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the following code, the message box is only shown if &lt;e0&gt;MyVar&lt;/e0&gt; equals 5.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203048Z" creationid="Leo" creationdate="20210625T203048Z">
+        <seg>No código a seguir, a caixa de mensagens só é mostrada se &lt;e0&gt;MinhaVariavel&lt;/e0&gt; é igual a 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indentation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193356Z" creationid="Leo" creationdate="20210622T193356Z">
@@ -1555,6 +1571,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202338Z" creationid="Leo" creationdate="20210622T202338Z">
         <seg>Ele deve terminar com a extensão .ahk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's exactly the same as above, but I outdented the second line so we know it's separated from the if-statement:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203312Z" creationid="Leo" creationdate="20210625T203312Z">
+        <seg>É exatamente o mesmo do acima, mas eu diminuí o recuo da segunda linha de forma que agora ela está separada da instrução com If:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1683,6 +1707,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202022Z" creationid="Leo" creationdate="20210625T202022Z">
         <seg>MsgBox, Este é um texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, We are now 'outside' of the if-statement.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203333Z" creationid="Leo" creationdate="20210625T203333Z">
+        <seg>MsgBox, Agora estamos 'fora' da instrução com If.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2255,6 +2287,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script will always exit, even if &lt;e1&gt;MyVar&lt;/e1&gt; &lt;b2&gt;is not&lt;/b2&gt; 5:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203113Z" creationid="Leo" creationdate="20210625T203113Z">
+        <seg>O script vai sempre terminar, mesmo se &lt;e1&gt;MinhaVariavel&lt;/e1&gt; &lt;b2&gt;não é&lt;/b2&gt; igual a 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The second line:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210210Z" creationid="Leo" creationdate="20210622T210210Z">
@@ -2371,6 +2411,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004805Z" creationid="Leo" creationdate="20210624T004805Z">
         <seg>Isso é porque &lt;c7&gt;!A&lt;/c7&gt; faz pressionar &lt;k8&gt;Alt&lt;/k8&gt;+&lt;k9&gt;Shift&lt;/k9&gt;+&lt;k10&gt;A&lt;/k10&gt; e &lt;c11&gt;!a&lt;/c11&gt; faz pressionar &lt;k12&gt;Alt&lt;/k12&gt;+&lt;k13&gt;A&lt;/k13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is perfectly fine since the if-statement only had one line of code associated with it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203229Z" creationid="Leo" creationdate="20210625T203229Z">
+        <seg>Isso funciona perfeitamente já que a instrução com If só tinha uma linhad e código associada a ela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2811,6 +2859,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154813Z" creationid="Leo" creationdate="20210623T154813Z">
         <seg>Elas afetam todas as hotkeys e hotstrings fisicamente abaixo delas no script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203030Z" creationid="Leo" creationdate="20210625T203030Z">
+        <seg>}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

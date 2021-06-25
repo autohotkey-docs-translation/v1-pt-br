@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any text needs to be in quotes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204124Z" creationid="Leo" creationdate="20210625T204124Z">
+        <seg>Qualquer texto que vier terá que vir entre aspas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything to the &lt;b5&gt;left&lt;/b5&gt; of &lt;c6&gt;::&lt;/c6&gt; are the keys you need to press.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210206Z" creationid="Leo" creationdate="20210622T210206Z">
@@ -1098,6 +1106,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203131Z" creationid="Leo" creationdate="20210625T203131Z">
         <seg>ExitApp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expression number assignment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204211Z" creationid="Leo" creationdate="20210625T204211Z">
+        <seg>Atrivuição de número como expressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expression text assignment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204038Z" creationid="Leo" creationdate="20210625T204038Z">
+        <seg>Atribuição de texto como expressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expression variable assignment</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204137Z" creationid="Leo" creationdate="20210625T204137Z">
+        <seg>Atribuição de variável como expressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -1503,6 +1535,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In expression mode, variables do not need percent signs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204201Z" creationid="Leo" creationdate="20210625T204201Z">
+        <seg>No modo de expressão, as variáveis não precisam de sinais de porcentagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In short, you would probably want to choose UNICODE.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201823Z" creationid="Leo" creationdate="20210622T201823Z">
@@ -1835,6 +1875,30 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202348Z" creationid="Leo" creationdate="20210622T202348Z">
         <seg>MeuScript.ahk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyVar := "Text"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204044Z" creationid="Leo" creationdate="20210625T204044Z">
+        <seg>MyVar := "Texto"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyVar := 6 + 8 / 3 * 2 - Sqrt(9)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204254Z" creationid="Leo" creationdate="20210625T204254Z">
+        <seg>MinhaVar := 6 + 8 / 3 * 2 - Sqrt(9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyVar := MyVar2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204150Z" creationid="Leo" creationdate="20210625T204150Z">
+        <seg>MinhaVar := MinhaVar2</seg>
       </tuv>
     </tu>
     <tu>
@@ -2491,6 +2555,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003601Z" creationid="Leo" creationdate="20210624T003601Z">
         <seg>Este comando literalmente envia o pressionamento de teclas, para simular a digitação ou o simples pressionamento de quaisquer teclas do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is an expression assignment, due to the &lt;c0&gt;:&lt;/c0&gt; before the &lt;c1&gt;=&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204107Z" creationid="Leo" creationdate="20210625T204107Z">
+        <seg>Esta é uma atribuição de expressão, devido ao &lt;c0&gt;:&lt;/c0&gt; antes do &lt;c1&gt;=&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

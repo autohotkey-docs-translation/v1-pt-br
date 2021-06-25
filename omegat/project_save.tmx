@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; This is how you hold one key down and press another key (or keys).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180936Z" creationid="Leo" creationdate="20210625T180936Z">
+        <seg>; É assim que você segura uma tecla e pressiona outra(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Untitled - Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154427Z" creationid="Leo" creationdate="20210623T154427Z">
@@ -264,7 +272,7 @@
       <tuv lang="en">
         <seg>; WRONG</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175508Z" creationid="Leo" creationdate="20210625T175439Z">
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180825Z" creationid="Leo" creationdate="20210625T175439Z">
         <seg>; ERRADO:</seg>
       </tuv>
     </tu>
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201331Z" creationid="Leo" creationdate="20210623T201331Z">
         <seg>Tudo em um único arquivo de script grande e feliz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, with the Send commands you are able to send more than one letter, number or symbol at a time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180711Z" creationid="Leo" creationdate="20210625T180711Z">
+        <seg>Outra coisa, com o comando Send você pode enviar mais do que uma letra, número ou símbolo ao mesmo tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1495,6 +1511,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So no need for a bunch of Send commands with one letter each.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180740Z" creationid="Leo" creationdate="20210625T180740Z">
+        <seg>Então não precisa de um bando repetições do comando Send para cada letra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So now that you have created a script, we need to add stuff into the file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202517Z" creationid="Leo" creationdate="20210622T202517Z">
@@ -1763,6 +1787,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023827Z" creationid="Leo" creationdate="20210623T023827Z">
         <seg>Para ajudá-lo a aprender o que ^ e outros símbolos significa, observe este gráfico:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To hold down or release a key, enclose the key name in curly brackets and then use the word UP or DOWN.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180912Z" creationid="Leo" creationdate="20210625T180912Z">
+        <seg>Para segurar ou soltar uma tecla, envolve o nome da tecla em chaves e aí use as palavras UP ou DOWN.</seg>
       </tuv>
     </tu>
     <tu>

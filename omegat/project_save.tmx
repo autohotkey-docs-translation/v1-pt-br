@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additionally, you cannot do math in the parameters, unlike functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T190729Z" creationid="Leo" creationdate="20210625T190729Z">
+        <seg>Alem disso, nos comandos você não pode fazer operações matemáticas nos parâmetros, ao contrário das funções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After downloading it, you may possibly need to install it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201608Z" creationid="Leo" creationdate="20210622T201608Z">

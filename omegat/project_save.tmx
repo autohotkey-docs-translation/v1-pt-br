@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>5 - Commands vs. Functions()</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183444Z" creationid="Leo" creationdate="20210625T183444Z">
+        <seg>5 - Comandos x Funções()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>:*:acheiv::achiev</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201107Z" creationid="Leo" creationdate="20210623T201107Z">
@@ -674,6 +682,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195854Z" creationid="Leo" creationdate="20210623T195854Z">
         <seg>O AutoHotKey permite que você adicione &lt;i0&gt;o número que você quiser&lt;/i0&gt; de hotkeys e hotstrings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoHotkey has two main types of things used by the scripter to create code:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183806Z" creationid="Leo" creationdate="20210625T183806Z">
+        <seg>O AutoHotKey tem dois grandes tipos de expedientes que são usados pelo usuário para criar código:</seg>
       </tuv>
     </tu>
     <tu>

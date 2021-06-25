@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Variables&lt;/a0&gt; are like little post-it notes that hold some information.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203458Z" creationid="Leo" creationdate="20210625T203458Z">
+        <seg>&lt;a0&gt;Variáveis&lt;/a0&gt; são como pequenas notas escritas em post-its que contêm informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;Send, My First Script&lt;/c0&gt; is how you &lt;s1&gt;send&lt;/s1&gt; keystrokes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210259Z" creationid="Leo" creationdate="20210622T210259Z">
@@ -1887,6 +1895,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please pay attention to the equal sign (&lt;c0&gt;=&lt;/c0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203638Z" creationid="Leo" creationdate="20210625T203638Z">
+        <seg>Por favor preste atenção ao sinal de igualdade &lt;c0&gt;=&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Probably &lt;b1&gt;C:\&lt;/b1&gt; drive.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211600Z" creationid="Leo" creationdate="20210622T211600Z">
@@ -2375,6 +2391,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They can be used to store text, numbers, data from functions and commands or even mathematical equations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203516Z" creationid="Leo" creationdate="20210625T203516Z">
+        <seg>Elas podem ser usadas para armazenar texto, números, dados vindos de funções e comandos e até mesmo equações matemáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They group a section of code together so that AutoHotkey knows it's one big family and that it needs to stay together.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202454Z" creationid="Leo" creationdate="20210625T202454Z">
@@ -2575,10 +2599,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Variables can be assigned a few ways.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203614Z" creationid="Leo" creationdate="20210625T203614Z">
+        <seg>Variáveis podem ser atribuídas (ter dados associados a elas) de alguns jeitos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Variables do not need to be wrapped in percent signs:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191617Z" creationid="Leo" creationdate="20210625T191617Z">
         <seg>Variáveis não precisam estar envoltas em sinais de porcentagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variables.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203418Z" creationid="Leo" creationdate="20210625T203418Z">
+        <seg>Variables.htm</seg>
       </tuv>
     </tu>
     <tu>
@@ -2599,10 +2639,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We did not need curly brackets since there was only one line below it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203414Z" creationid="Leo" creationdate="20210625T203414Z">
+        <seg>Aqui, nós não precisamos de chaves pois havia somente uma linha sob a instrução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We will get more in-depth later on.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203212Z" creationid="Leo" creationdate="20210622T203212Z">
         <seg>Vamos nos aprofundar mais tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We'll cover the most common forms.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203620Z" creationid="Leo" creationdate="20210625T203620Z">
+        <seg>Vamos cobrir os mais comuns.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2691,6 +2747,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202852Z" creationid="Leo" creationdate="20210625T202852Z">
         <seg>Sem os blocos de código delimitados por chaves, somente a primeira linha do bloco é chamada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without them, programming and scripting would be much more tedious.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203530Z" creationid="Leo" creationdate="20210625T203530Z">
+        <seg>Sem elas, a programação e a confecção de scripts seria muito mais tediosa.</seg>
       </tuv>
     </tu>
     <tu>

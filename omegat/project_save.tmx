@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;b1&gt;MyVar&lt;/b1&gt;&lt;/s0&gt; := SubStr("I'm scripting, awesome!", 16)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201537Z" creationid="Leo" creationdate="20210625T201537Z">
+        <seg>&lt;s0&gt;&lt;b1&gt;MinhaVar&lt;/b1&gt;&lt;/s0&gt; := SubStr("Estou escrevendo um script, uau!", 16)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Caution:&lt;/s0&gt; This table &lt;b1&gt;does not&lt;/b1&gt; apply to &lt;a2&gt;hotkeys&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175242Z" creationid="Leo" creationdate="20210625T175242Z">
@@ -914,6 +922,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183952Z" creationid="Leo" creationdate="20210625T183952Z">
         <seg>Comandos não usam parênteses em volta dos parâmetros como as funções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands need an &lt;i0&gt;OutputVar&lt;/i0&gt; parameter, functions do not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201422Z" creationid="Leo" creationdate="20210625T201422Z">
+        <seg>Comandos requerem um parâmetro &lt;i0&gt;OutputVar&lt;/i0&gt; (variável de saída); funções dispensam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2095,6 +2111,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The most common way assigning the value of a function to a variable is like so:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201501Z" creationid="Leo" creationdate="20210625T201501Z">
+        <seg>O jeito mais comum de atribuir o valor de uma função a uma variável é o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The mysterious square brackets</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193323Z" creationid="Leo" creationdate="20210622T193323Z">
@@ -2203,6 +2227,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004805Z" creationid="Leo" creationdate="20210624T004805Z">
         <seg>Isso é porque &lt;c7&gt;!A&lt;/c7&gt; faz pressionar &lt;k8&gt;Alt&lt;/k8&gt;+&lt;k9&gt;Shift&lt;/k9&gt;+&lt;k10&gt;A&lt;/k10&gt; e &lt;c11&gt;!a&lt;/c11&gt; faz pressionar &lt;k12&gt;Alt&lt;/k12&gt;+&lt;k13&gt;A&lt;/k13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This isn't the only way, but the most common.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201553Z" creationid="Leo" creationdate="20210625T201553Z">
+        <seg>Essa não é a única forma, mas a mais comum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2467,6 +2499,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025452Z" creationid="Leo" creationdate="20210623T025452Z">
         <seg>Sim, elas têm!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are using &lt;c0&gt;MyVar&lt;/c0&gt; to store the return value of the function that is to the right of the &lt;c1&gt;:=&lt;/c1&gt; operator.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201829Z" creationid="Leo" creationdate="20210625T201829Z">
+        <seg>Você está usando &lt;c0&gt;MinhaVar&lt;/c0&gt; para armazenar o valor de retorno da função que está à direita do operador &lt;c1&gt;:=&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

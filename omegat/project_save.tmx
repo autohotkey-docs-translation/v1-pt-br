@@ -1503,6 +1503,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the following code, both lines are run only if &lt;e0&gt;MyVar&lt;/e0&gt; equals 5:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202920Z" creationid="Leo" creationdate="20210625T202920Z">
+        <seg>No código a seguir, as duas linhas são executadas somente se &lt;e0&gt;MinhaVariavel&lt;/e0&gt; é igual a 5:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indentation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193356Z" creationid="Leo" creationdate="20210622T193356Z">
@@ -1651,6 +1659,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182556Z" creationid="Leo" creationdate="20210625T182556Z">
         <seg>Podem ocorrer outros problemas com o DirectX ao se usar &lt;a1&gt;PixelSearch&lt;/a1&gt;, &lt;a2&gt;PixelGetColor&lt;/a2&gt; ou &lt;a3&gt;ImageSearch&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, MyVar equals %MyVar%!!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203022Z" creationid="Leo" creationdate="20210625T203022Z">
+        <seg>MsgBox, MinhaVariavel é igual a %MinhaVariavel%!!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2779,6 +2795,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192001Z" creationid="Leo" creationdate="20210622T192001Z">
         <seg>pt-BR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if (MyVar = 5)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203001Z" creationid="Leo" creationdate="20210625T202948Z">
+        <seg>if (MinhaVariavel = 5)</seg>
       </tuv>
     </tu>
     <tu>

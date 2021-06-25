@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A function usually return a value differently than a command does.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201343Z" creationid="Leo" creationdate="20210625T191657Z">
+        <seg>Uma função normalmente retorna um valor de forma diferente da forma que um comando retorna valores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A hotkey is a key that is hot to the touch.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211835Z" creationid="Leo" creationdate="20210622T211835Z">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191427Z" creationid="Leo" creationdate="20210625T191427Z">
         <seg>Funções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Functions can go inside of functions:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191629Z" creationid="Leo" creationdate="20210625T191629Z">
+        <seg>Funções podem ocorrer dentro de outras funções:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1987,6 +2003,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192525Z" creationid="Leo" creationdate="20210622T192525Z">
         <seg>Sumário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text needs to be wrapped in quotes:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191648Z" creationid="Leo" creationdate="20210625T191648Z">
+        <seg>Texto deve ser envolto em aspas:</seg>
       </tuv>
     </tu>
     <tu>

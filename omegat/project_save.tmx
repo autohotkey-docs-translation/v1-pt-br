@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; CORRECT</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175500Z" creationid="Leo" creationdate="20210625T175500Z">
+        <seg>; CERTO:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; CTRL+B hotkey</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003307Z" creationid="Leo" creationdate="20210624T003307Z">
@@ -234,6 +242,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154427Z" creationid="Leo" creationdate="20210623T154427Z">
         <seg>; Sem título - Bloco de Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; WRONG</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175508Z" creationid="Leo" creationdate="20210625T175439Z">
+        <seg>; ERRADO:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; When making a hotkey...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175426Z" creationid="Leo" creationdate="20210625T175426Z">
+        <seg>; Ao criar uma hotkey...</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A common issue lots of people have is, they assume that the curly brackets are put in the documentation pages just for fun.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175614Z" creationid="Leo" creationdate="20210625T175614Z">
+        <seg>Um problema comum que muita gente tem é que as chaves são inseridas na documentação só diversão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A hotkey is a key that is hot to the touch.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211835Z" creationid="Leo" creationdate="20210622T211835Z">
@@ -442,6 +474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024111Z" creationid="Leo" creationdate="20210623T024111Z">
         <seg>O símbolo "&amp;" pode ser usado entre quaisquer duas teclas ou botões do mouse para combiná-los e formar uma hotkey personalizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example showing what shouldn't be done to a hotkey:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175413Z" creationid="Leo" creationdate="20210625T175413Z">
+        <seg>Um exemplo mostrando o que não deve ser feito com uma hotkey:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1043,6 +1083,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211749Z" creationid="Leo" creationdate="20210622T211749Z">
         <seg>Encontre o arquivo &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; ou um arquivo em que esteja escrito "AutoHotKey" e tenha um ponto de interrogação amarelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Meaning, you do not wrap &lt;k3&gt;Ctrl&lt;/k3&gt; or &lt;k4&gt;Enter&lt;/k4&gt; (or any other key) inside curly brackets when making a hotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175331Z" creationid="Leo" creationdate="20210625T175331Z">
+        <seg>Significa que você não envolve &lt;k3&gt;Ctrl&lt;/k3&gt;Ctrl ou &lt;k4&gt;Enter&lt;/k4&gt; (ou qualquer outra tecla) dentro de {chaves} ao criar uma hotkey.</seg>
       </tuv>
     </tu>
     <tu>

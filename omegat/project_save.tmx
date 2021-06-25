@@ -1119,6 +1119,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a game has a cheat prevention system and your hotkeys, hotstrings and Send commands do not work, you are out of luck.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182209Z" creationid="Leo" creationdate="20210625T182209Z">
+        <seg>Se um jogo tem um sistema de prevenção de cheats e suas hotkeys, hotstrings e comandos Send não funcionam, você está sem sorte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If in doubt, use lowercase.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004814Z" creationid="Leo" creationdate="20210624T004814Z">
@@ -1395,6 +1403,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202348Z" creationid="Leo" creationdate="20210622T202348Z">
         <seg>MeuScript.ahk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not only is bypassing these systems in violation of the games policies and could get you banned, they are complex to work around.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182140Z" creationid="Leo" creationdate="20210625T182140Z">
+        <seg>Contornar essas proteções violando os termos do jogo podem fazer que você seja banido; não apenas isso, mas também são sistemas complexos.</seg>
       </tuv>
     </tu>
     <tu>

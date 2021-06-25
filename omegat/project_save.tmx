@@ -2623,6 +2623,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Without them, only the first line in the block is called.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202852Z" creationid="Leo" creationdate="20210625T202852Z">
+        <seg>Sem os blocos de código delimitados por chaves, somente a primeira linha do bloco é chamada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Yes, they do!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025452Z" creationid="Leo" creationdate="20210623T025452Z">

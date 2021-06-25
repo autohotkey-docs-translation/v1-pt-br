@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; These are functions:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202049Z" creationid="Leo" creationdate="20210625T202049Z">
+        <seg>; Estas são funções:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; This ends the hotkey. The code below this will not be executed when pressing the hotkey.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003252Z" creationid="Leo" creationdate="20210624T003252Z">
@@ -418,6 +426,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202008Z" creationid="Leo" creationdate="20210625T202008Z">
         <seg>&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202054Z" creationid="Leo" creationdate="20210625T202054Z">
+        <seg>&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201924Z" creationid="Leo" creationdate="20210625T201924Z">
         <seg>&lt;e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202043Z" creationid="Leo" creationdate="20210625T202043Z">
+        <seg>&lt;e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,6 +1066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192943Z" creationid="Leo" creationdate="20210622T192943Z">
         <seg>Exemplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FileExist(VariableContainingPath)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202224Z" creationid="Leo" creationdate="20210625T202224Z">
+        <seg>FileExist(VariavelContendoOCaminho)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1623,6 +1655,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox, This is some text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202022Z" creationid="Leo" creationdate="20210625T202022Z">
+        <seg>MsgBox, Este é um texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, Wow!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023453Z" creationid="Leo" creationdate="20210623T023453Z">
@@ -1783,6 +1823,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Output := SubStr("I'm scripting, awesome!", 16)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202239Z" creationid="Leo" creationdate="20210625T202239Z">
+        <seg>Output := SubStr("Estou escrevendo código, maravilha!", 16)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Probably &lt;b1&gt;C:\&lt;/b1&gt; drive.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211600Z" creationid="Leo" creationdate="20210622T211600Z">
@@ -1883,6 +1931,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175908Z" creationid="Leo" creationdate="20210625T175908Z">
         <seg>Send, Este texto foi digitado{!}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SendInput, This is awesome{!}{!}{!}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202039Z" creationid="Leo" creationdate="20210625T202039Z">
+        <seg>SendInput, Isto é magnífico{!}{!}{!}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2043,6 +2099,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025742Z" creationid="Leo" creationdate="20210623T025742Z">
         <seg>Às vezes você pode querer que uma hotkey ou hotstring só funcione (ou fique desabilitada) em uma determinada janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SubStr("I'm scripting, awesome!", 16)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202202Z" creationid="Leo" creationdate="20210625T202202Z">
+        <seg>SubStr("Estou escrevendo código, maravilha!", 16)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2643,6 +2707,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210753Z" creationid="Leo" creationdate="20210622T210753Z">
         <seg>Seu primeiro script está pronto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>a.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202242Z" creationid="Leo" creationdate="20210625T202242Z">
+        <seg>a.</seg>
       </tuv>
     </tu>
     <tu>

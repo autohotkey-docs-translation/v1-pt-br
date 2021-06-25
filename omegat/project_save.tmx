@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Code blocks&lt;/a0&gt; are lines of code surrounded by little curly brackets (&lt;c1&gt;{&lt;/c1&gt; and &lt;c2&gt;}&lt;/c2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202410Z" creationid="Leo" creationdate="20210625T202410Z">
+        <seg>&lt;a0&gt;Blocos de código&lt;/a0&gt; são linhas de código circundadas por pequenas chaves (&lt;c1&gt;{&lt;/c1&gt; e &lt;c2&gt;}&lt;/c2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;In section 5&lt;/a0&gt; we'll talk about why it doesn't work as you might expect and what you can do instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211151Z" creationid="Leo" creationdate="20210622T211151Z">
@@ -2303,6 +2311,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are most often used with functions and control flow statements such as &lt;a3&gt;If&lt;/a3&gt; and &lt;a4&gt;Loop&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202711Z" creationid="Leo" creationdate="20210625T202711Z">
+        <seg>Eles são mais usados com funções e instruções de fluxo de controle, como &lt;a3&gt;If&lt;/a3&gt; e &lt;a4&gt;Loop&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They group a section of code together so that AutoHotkey knows it's one big family and that it needs to stay together.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202454Z" creationid="Leo" creationdate="20210625T202454Z">
+        <seg>Elas agrupam uma seção do código de forma que o AutoHotKey saberá que se trata de uma única grande família e que precisa ficar junta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Things like GameGuard, Hackshield, PunkBuster and several others.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181913Z" creationid="Leo" creationdate="20210625T181913Z">
@@ -2723,6 +2747,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192449Z" creationid="Leo" creationdate="20210622T192449Z">
         <seg>ahk, autohotkey, tutorial, guia para iniciantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>commands/IfExpression.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202250Z" creationid="Leo" creationdate="20210625T202250Z">
+        <seg>commands/IfExpression.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>commands/Loop.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202251Z" creationid="Leo" creationdate="20210625T202251Z">
+        <seg>commands/Loop.htm</seg>
       </tuv>
     </tu>
     <tu>

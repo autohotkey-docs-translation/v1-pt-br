@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Functions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191427Z" creationid="Leo" creationdate="20210625T191427Z">
+        <seg>Funções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Games</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192957Z" creationid="Leo" creationdate="20210622T192957Z">
@@ -2411,6 +2419,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024859Z" creationid="Leo" creationdate="20210623T024859Z">
         <seg>Você pode definir uma combinação personalizada de duas (e somente duas) teclas (exceto botões de joystick) usando &lt;c0&gt;&amp;&lt;/c0&gt; entre elas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can do math in parameters if you force an expression with a single &lt;c0&gt;%&lt;/c0&gt;, but that will not be covered.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T190754Z" creationid="Leo" creationdate="20210625T190754Z">
+        <seg>Você pode fazer operações matemáticas se você forçar uma expressão com um único &lt;c0&gt;%&lt;/c0&gt;, mas isto não será coberto aqui.</seg>
       </tuv>
     </tu>
     <tu>

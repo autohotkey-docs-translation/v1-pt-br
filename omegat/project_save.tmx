@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Command, Parameter1, Parameter2, Parameter3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T184018Z" creationid="Leo" creationdate="20210625T184018Z">
+        <seg>Comando, Parâmetro1, Parâmetro2, Parâmetro3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands and functions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183810Z" creationid="Leo" creationdate="20210625T183810Z">
@@ -2307,6 +2315,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193106Z" creationid="Leo" creationdate="20210622T193106Z">
         <seg>Quando usar o símbolo de porcentagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using commands, you cannot squish other commands onto the same line as a previous command (exception:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T184437Z" creationid="Leo" creationdate="20210625T184437Z">
+        <seg>Quando usar comandos, você não pode atochar outros comandos na mesma linha do comando anterior (exceção:</seg>
       </tuv>
     </tu>
     <tu>

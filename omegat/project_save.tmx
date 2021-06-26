@@ -230,6 +230,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Assigns a variable to another with some extra text (expression).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052713Z" creationid="Leo" creationdate="20210626T052713Z">
+        <seg>; Atribuir o valor de uma variável a outra com um texto extra (expressão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Assigns a variable to another with some extra text (legacy).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052639Z" creationid="Leo" creationdate="20210626T052639Z">
+        <seg>; Atribuir o valor de uma variável a outra com um texto extra (forma legada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Both of these send CTRL+S</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181009Z" creationid="Leo" creationdate="20210625T181009Z">
@@ -422,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Subtract the value of a variable from another (expression).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052518Z" creationid="Leo" creationdate="20210626T052518Z">
+        <seg>; Subtrair o valor de uma variável do de outra (expressão).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; These are commands:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201939Z" creationid="Leo" creationdate="20210625T201939Z">
@@ -458,6 +482,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154427Z" creationid="Leo" creationdate="20210623T154427Z">
         <seg>; Sem título - Bloco de Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Variable inside a command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052738Z" creationid="Leo" creationdate="20210626T052738Z">
+        <seg>; Variável dentro de um comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Variable inside a function. This is always an expression.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052551Z" creationid="Leo" creationdate="20210626T052551Z">
+        <seg>; Variável dentro de uma função. Isto é sempre uma expressão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/e10&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052716Z" creationid="Leo" creationdate="20210626T052716Z">
+        <seg>&lt;/e10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202054Z" creationid="Leo" creationdate="20210625T202054Z">
@@ -546,6 +594,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052343Z" creationid="Leo" creationdate="20210626T052343Z">
         <seg>&lt;/e5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/e6&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052441Z" creationid="Leo" creationdate="20210626T052441Z">
+        <seg>&lt;/e6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/e7&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052519Z" creationid="Leo" creationdate="20210626T052519Z">
+        <seg>&lt;/e7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/e8&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052552Z" creationid="Leo" creationdate="20210626T052552Z">
+        <seg>&lt;/e8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/e9&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052642Z" creationid="Leo" creationdate="20210626T052642Z">
+        <seg>&lt;/e9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +750,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e10&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052703Z" creationid="Leo" creationdate="20210626T052703Z">
+        <seg>&lt;e10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e11&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052729Z" creationid="Leo" creationdate="20210626T052729Z">
+        <seg>&lt;e11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202043Z" creationid="Leo" creationdate="20210625T202043Z">
@@ -706,6 +802,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052326Z" creationid="Leo" creationdate="20210626T052326Z">
         <seg>&lt;e5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e7&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052500Z" creationid="Leo" creationdate="20210626T052500Z">
+        <seg>&lt;e7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e8&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052532Z" creationid="Leo" creationdate="20210626T052532Z">
+        <seg>&lt;e8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e9&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052608Z" creationid="Leo" creationdate="20210626T052608Z">
+        <seg>&lt;e9&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3083,6 +3203,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052354Z" creationid="Leo" creationdate="20210626T052354Z">
         <seg>Var5 += Numero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Var5 -= Number</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052459Z" creationid="Leo" creationdate="20210626T052459Z">
+        <seg>Var5 -= Numero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Var7 = %Var% Text</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052606Z" creationid="Leo" creationdate="20210626T052606Z">
+        <seg>Var7 = %Var% Texto</seg>
       </tuv>
     </tu>
     <tu>

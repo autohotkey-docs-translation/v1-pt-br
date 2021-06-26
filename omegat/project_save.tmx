@@ -1583,6 +1583,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In parameters that are input or output variables.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051049Z" creationid="Leo" creationdate="20210626T051049Z">
+        <seg>Nos parâmetros que são variáveis de entrada ou de saída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In short, you would probably want to choose UNICODE.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201823Z" creationid="Leo" creationdate="20210622T201823Z">
@@ -1995,6 +2003,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193145Z" creationid="Leo" creationdate="20210622T193145Z">
         <seg>Objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the left side of an assignment:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051130Z" creationid="Leo" creationdate="20210626T051130Z">
+        <seg>No lado esquerdo da atribuição de valor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the left side of legacy (non-expression) if-statements:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051225Z" creationid="Leo" creationdate="20210626T051225Z">
+        <seg>No lado esquerdo de instruções com If que usarem a sintaxe legada, ou seja, que não seja uma expressão:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2911,6 +2935,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When &lt;b0&gt;not&lt;/b0&gt; to use percent signs:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051028Z" creationid="Leo" creationdate="20210626T051028Z">
+        <seg>Wdo &lt;b0&gt;não&lt;/b0&gt; usar sinais de porcentagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When to use percent signs:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T050913Z" creationid="Leo" creationdate="20210626T050913Z">
@@ -2931,6 +2963,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T184437Z" creationid="Leo" creationdate="20210625T184437Z">
         <seg>Quando usar comandos, você não pode atochar outros comandos na mesma linha do comando anterior (exceção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you are assigning a value to a variable using the legacy mode (an equal sign with no symbol in front of it).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051020Z" creationid="Leo" creationdate="20210626T051020Z">
+        <seg>Wdo você está atribuindo um valor a uma variável usando o modo legado (um sinal de igualdade sem nenhum símbolo na frente do "=").</seg>
       </tuv>
     </tu>
     <tu>

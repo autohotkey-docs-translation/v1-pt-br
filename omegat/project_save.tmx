@@ -2871,10 +2871,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some examples:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053851Z" creationid="Leo" creationdate="20210626T053851Z">
+        <seg>Alguns exemplos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sometime you might want a hotkey or hotstring to only work (or be disabled) in a certain window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025742Z" creationid="Leo" creationdate="20210623T025742Z">
         <seg>Às vezes você pode querer que uma hotkey ou hotstring só funcione (ou fique desabilitada) em uma determinada janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes it's a mix of both, and sequential numbers too!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053734Z" creationid="Leo" creationdate="20210626T053734Z">
+        <seg>E outras vezes são um misto de ambos, e números em sequência também!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3079,10 +3095,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are a number of reasons you might want to use an object for something.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053848Z" creationid="Leo" creationdate="20210626T053848Z">
+        <seg>Há várias razões para você querer usar um objeto para algo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are also known issues with DirectX.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182402Z" creationid="Leo" creationdate="20210625T182402Z">
         <seg>Há também alguns problemas conhecidos com o DirectX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no restrictions to what a key or value can be, and they can even be other arrays!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053756Z" creationid="Leo" creationdate="20210626T053756Z">
+        <seg>Não há restrições quanto a o que uma chave ou valor podem ser, e eles podem inclusive ser outros vetores!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3511,6 +3543,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When the values are arrays too, this is referred to as a &lt;i0&gt;nested array&lt;/i0&gt;, and these will be explained later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053827Z" creationid="Leo" creationdate="20210626T053827Z">
+        <seg>Quando os valores são vetores também, isso é chamado de &lt;i0&gt;vetor aninhado&lt;/i0&gt;, que serão explicados mais tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When to use percent signs:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T050913Z" creationid="Leo" creationdate="20210626T050913Z">
@@ -3715,6 +3755,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211441Z" creationid="Leo" creationdate="20210622T211441Z">
         <seg>Aí você deverá ver o &lt;b0&gt;Arquivo de ajuda do AutoHotKey&lt;/b0&gt; (AutoHotKey help file).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You want to have a numbered list of things, such as a grocery list (this would be referred to as an indexed array)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T054006Z" creationid="Leo" creationdate="20210626T054006Z">
+        <seg>Você precisa de uma lista numerada de itens, como uma lista de compras (que é referenciada como um vetor indexado).</seg>
       </tuv>
     </tu>
     <tu>

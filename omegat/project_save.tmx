@@ -3735,6 +3735,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have a list of things where each thing has a name, such as the characteristics of a fruit (this would be referred to as an associative array)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T054110Z" creationid="Leo" creationdate="20210626T054110Z">
+        <seg>Ou você tem uma lista de coisas em que cada uma tem um nome, como as características de uma fruta (o que seria referido como um vetor associativo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You might be wondering &lt;i0&gt;"How the crud am I supposed to know that ^ means &lt;k1&gt;Ctrl&lt;/k1&gt;?!"&lt;/i0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023706Z" creationid="Leo" creationdate="20210623T023706Z">
@@ -3763,6 +3771,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T054006Z" creationid="Leo" creationdate="20210626T054006Z">
         <seg>Você precisa de uma lista numerada de itens, como uma lista de compras (que é referenciada como um vetor indexado).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You want to represent a grid, perhaps for a board game (this would be done with nested objects)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T054029Z" creationid="Leo" creationdate="20210626T054029Z">
+        <seg>Você quer representar uma grade, quem sabe para um jogo de tabuleiro (o que seria feito com objetos aninhados).</seg>
       </tuv>
     </tu>
     <tu>

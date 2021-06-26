@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;if &lt;s1&gt;Var1&lt;/s1&gt; &lt; %Var2%&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051240Z" creationid="Leo" creationdate="20210626T051240Z">
+        <seg>&lt;c0&gt;if &lt;s1&gt;Var1&lt;/s1&gt; &lt; %var2%&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c1&gt;^&lt;/c1&gt; means &lt;k2&gt;Ctrl&lt;/k2&gt;, &lt;c3&gt;j&lt;/c3&gt; is the letter &lt;k4&gt;J&lt;/k4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210120Z" creationid="Leo" creationdate="20210622T210120Z">
@@ -1118,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Everywhere in expressions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051246Z" creationid="Leo" creationdate="20210626T051246Z">
+        <seg>Qualquer lugar dentro de expressões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192943Z" creationid="Leo" creationdate="20210622T192943Z">
@@ -1418,6 +1434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003658Z" creationid="Leo" creationdate="20210624T003658Z">
         <seg>Eis os quatro símbolos mais comuns:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here is a simple example on how to ask the user a couple of questions and doing some stuff with what was entered:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051619Z" creationid="Leo" creationdate="20210626T051619Z">
+        <seg>Aqui está um exemplo simples de como fazer ao usuário um par de perguntas e, em seguida, fazer algo com o dado inserido:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2391,6 +2415,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sometimes you want to have the user to choose the value of stuff.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051431Z" creationid="Leo" creationdate="20210626T051431Z">
+        <seg>De vez em quando você pode querer que o usuário escolha o valor das coisas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SubStr("I'm scripting, awesome!", 16)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202202Z" creationid="Leo" creationdate="20210625T202202Z">
@@ -2571,6 +2603,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182402Z" creationid="Leo" creationdate="20210625T182402Z">
         <seg>Há também alguns problemas conhecidos com o DirectX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are several ways of doing this, but the simplest way is &lt;a0&gt;InputBox&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051512Z" creationid="Leo" creationdate="20210626T051512Z">
+        <seg>Há vários jeitos de fazer isso, mas o mais simples é por meio do comando &lt;a0&gt;InputBox&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3167,6 +3207,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>commands/InputBox.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051334Z" creationid="Leo" creationdate="20210626T051334Z">
+        <seg>commands/InputBox.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>commands/Loop.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202251Z" creationid="Leo" creationdate="20210625T202251Z">
@@ -3179,6 +3227,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192001Z" creationid="Leo" creationdate="20210622T192001Z">
         <seg>pt-BR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if (&lt;s0&gt;Var1&lt;/s0&gt; != &lt;s1&gt;Var2&lt;/s1&gt;)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051303Z" creationid="Leo" creationdate="20210626T051303Z">
+        <seg>If (&lt;s0&gt;Var1&lt;/s0&gt; != &lt;s1&gt;Var2&lt;/s1&gt;)</seg>
       </tuv>
     </tu>
     <tu>

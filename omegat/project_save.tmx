@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An object is basically a collection of variables.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053432Z" creationid="Leo" creationdate="20210626T053432Z">
+        <seg>Um objeto é basicamente uma coleção de variáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And the content needs to go below, followed by a &lt;c3&gt;return&lt;/c3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212656Z" creationid="Leo" creationdate="20210622T212656Z">
@@ -3047,6 +3055,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The variable names are known as "Keys", and the contents of the variables are "Values".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053549Z" creationid="Leo" creationdate="20210626T053549Z">
+        <seg>Os nomes das variáveis são chamados "Chaves" (Keys), e o conteúdo das variáveis, "Valores" (values).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, study the code.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201324Z" creationid="Leo" creationdate="20210622T201324Z">
@@ -3539,6 +3555,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T050940Z" creationid="Leo" creationdate="20210626T050940Z">
         <seg>Quando você está usando comandos (veja acima), exceto quando o parâmetro é &lt;e0&gt;OutputVar&lt;/e0&gt; ou &lt;e1&gt;InputVar&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you hear people calling an object an &lt;i0&gt;array&lt;/i0&gt; or &lt;i1&gt;indexed array&lt;/i1&gt;, it usually means that all the keys are sequential numbers 1 and up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053635Z" creationid="Leo" creationdate="20210626T053635Z">
+        <seg>Quando você ouvir alguém chamar um objeto de &lt;i0&gt;vetor&lt;/i0&gt; ou de &lt;i1&gt;vetor indexado&lt;/i1&gt;, isso geralmente significa que todas as chaves são uma sequência de números começando em 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you hear people calling an object an &lt;i2&gt;associative array&lt;/i2&gt;, it means that the keys are either strings (text) or non-sequential numbers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053715Z" creationid="Leo" creationdate="20210626T053715Z">
+        <seg>Quando você ouvir alguém chamar um objeto de &lt;i2&gt;vetor associativo&lt;/i2&gt;, significa que as chaves são ou strings (texto) ou números não sequenciais.</seg>
       </tuv>
     </tu>
     <tu>

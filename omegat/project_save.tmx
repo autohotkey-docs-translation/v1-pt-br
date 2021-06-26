@@ -1439,6 +1439,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hopefully this will clear some confusion.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T050847Z" creationid="Leo" creationdate="20210626T050847Z">
+        <seg>Este trecho provavelmente vai solucionar algumas confusões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hotkeys &amp; Hotstrings</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192759Z" creationid="Leo" creationdate="20210622T192759Z">
@@ -2003,6 +2011,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202059Z" creationid="Leo" creationdate="20210622T202059Z">
         <seg>Instalado o AutoHotKey, você agora quer que ele faça coisas para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the most common issues with AutoHotkey involving variables is when to use the percent signs (&lt;b0&gt;%&lt;/b0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T050743Z" creationid="Leo" creationdate="20210626T050743Z">
+        <seg>Um dos problemas mais comuns com o AutoHotKey envolvendo variáveis é quando usar sinais de porcentagem (&lt;b0&gt;%&lt;/b0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2895,6 +2911,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When to use percent signs:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T050913Z" creationid="Leo" creationdate="20210626T050913Z">
+        <seg>Quando usar os símbolos de porcentagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When to use percents</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193106Z" creationid="Leo" creationdate="20210622T193106Z">
@@ -2915,6 +2939,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210959Z" creationid="Leo" creationdate="20210622T210959Z">
         <seg>Quando você está montando seu código, você pode ficar com vontade de inserir vários comandos na mesma linha ou dentro um do outro. Não faça isso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you are using commands (see above), except when the parameter is &lt;e0&gt;OutputVar&lt;/e0&gt; or &lt;e1&gt;InputVar&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T050940Z" creationid="Leo" creationdate="20210626T050940Z">
+        <seg>Quando você está usando comandos (veja acima), exceto quando o parâmetro é &lt;e0&gt;OutputVar&lt;/e0&gt; ou &lt;e1&gt;InputVar&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

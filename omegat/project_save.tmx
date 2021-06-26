@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>7 - Objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053118Z" creationid="Leo" creationdate="20210626T053118Z">
+        <seg>7 - Objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>:*:acheiv::achiev</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201107Z" creationid="Leo" creationdate="20210623T201107Z">
@@ -614,6 +622,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/e15&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053057Z" creationid="Leo" creationdate="20210626T053057Z">
+        <seg>&lt;/e15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/e16&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053111Z" creationid="Leo" creationdate="20210626T053111Z">
+        <seg>&lt;/e16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202054Z" creationid="Leo" creationdate="20210625T202054Z">
@@ -714,6 +738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051912Z" creationid="Leo" creationdate="20210626T051912Z">
         <seg>&lt;a0&gt;MsgBox&lt;/a0&gt;, 4,, Gostaria de continuar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Objects&lt;/a0&gt; are a way of organizing your data for more efficient usage.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053148Z" creationid="Leo" creationdate="20210626T053148Z">
+        <seg>&lt;a0&gt;Objetos&lt;/a0&gt; são uma forma de organizar seus dados para um uso mais eficiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +882,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053009Z" creationid="Leo" creationdate="20210626T053009Z">
         <seg>&lt;e15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e16&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053104Z" creationid="Leo" creationdate="20210626T053104Z">
+        <seg>&lt;e16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2439,6 +2479,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Objects.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053120Z" creationid="Leo" creationdate="20210626T053120Z">
+        <seg>Objects.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the left side of an assignment:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051130Z" creationid="Leo" creationdate="20210626T051130Z">
@@ -2819,6 +2867,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025742Z" creationid="Leo" creationdate="20210623T025742Z">
         <seg>Às vezes você pode querer que uma hotkey ou hotstring só funcione (ou fique desabilitada) em uma determinada janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes objects are referred to as arrays, but it's important to note that all arrays are just objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053325Z" creationid="Leo" creationdate="20210626T053325Z">
+        <seg>Algumas vezes os objetos são referidos como vetores, mas é importante notar que vetores são só objetos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3347,6 +3403,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025700Z" creationid="Leo" creationdate="20210623T025700Z">
         <seg>Visite &lt;a0&gt;Hotkeys&lt;/a0&gt; e &lt;a1&gt;Hotstrings&lt;/a1&gt; para modificadores, informações e exemplos adicionais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We call objects different things depending on what we are using them for, but all objects are the same.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053421Z" creationid="Leo" creationdate="20210626T053421Z">
+        <seg>Nós chamamos diferentes coisas de objetos dependendo de para que estamos usando-os, mas todos os objetos são a mesma coisa.</seg>
       </tuv>
     </tu>
     <tu>

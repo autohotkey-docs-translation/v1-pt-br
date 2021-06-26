@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Variable inside a command that uses InputVar and OutputVar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052818Z" creationid="Leo" creationdate="20210626T052818Z">
+        <seg>; Variável dentro de um comando que usa InputVar e OutputVar (variável de entrada e variável de saída).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Variable inside a command.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052738Z" creationid="Leo" creationdate="20210626T052738Z">
@@ -514,6 +522,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175426Z" creationid="Leo" creationdate="20210625T175426Z">
         <seg>; Ao criar uma hotkey...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Whenever an IF has parentheses, it'll be an expression. So no percent signs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052918Z" creationid="Leo" creationdate="20210626T052918Z">
+        <seg>; Toda vez que uma instrução com If contiver parênteses, ela será uma expressão. Então nada de sinais de porcentagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Without parentheses, the IF is legacy. However, only variables on the 'right side' need percent signs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053055Z" creationid="Leo" creationdate="20210626T053055Z">
+        <seg>; Sem os parênteses, o If fica na forma legada. Contudo, somente as variáveis no 'lado direito' precisam de sinais de porcentagem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +578,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052716Z" creationid="Leo" creationdate="20210626T052716Z">
         <seg>&lt;/e10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/e11&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052739Z" creationid="Leo" creationdate="20210626T052739Z">
+        <seg>&lt;/e11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/e12&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052819Z" creationid="Leo" creationdate="20210626T052819Z">
+        <seg>&lt;/e12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/e13&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052919Z" creationid="Leo" creationdate="20210626T052919Z">
+        <seg>&lt;/e13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/e14&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052953Z" creationid="Leo" creationdate="20210626T052953Z">
+        <seg>&lt;/e14&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -762,6 +818,38 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052729Z" creationid="Leo" creationdate="20210626T052729Z">
         <seg>&lt;e11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e12&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052746Z" creationid="Leo" creationdate="20210626T052746Z">
+        <seg>&lt;e12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e13&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052842Z" creationid="Leo" creationdate="20210626T052842Z">
+        <seg>&lt;e13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e14&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052930Z" creationid="Leo" creationdate="20210626T052930Z">
+        <seg>&lt;e14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e15&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053009Z" creationid="Leo" creationdate="20210626T053009Z">
+        <seg>&lt;e15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3607,6 +3695,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if (Number = 6)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052838Z" creationid="Leo" creationdate="20210626T052838Z">
+        <seg>if (Numero = 6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if (OutputVar = "Bill")</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051702Z" creationid="Leo" creationdate="20210626T051702Z">
@@ -3619,6 +3715,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051750Z" creationid="Leo" creationdate="20210626T051750Z">
         <seg>if (OutputVar2 = "sim")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if (Var != Number)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052928Z" creationid="Leo" creationdate="20210626T052928Z">
+        <seg>if (Var != Numero)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if Number = 6</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053008Z" creationid="Leo" creationdate="20210626T053008Z">
+        <seg>if Numero = 6</seg>
       </tuv>
     </tu>
     <tu>

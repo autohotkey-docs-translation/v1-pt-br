@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"&lt;b0&gt;What is indentation?&lt;/b0&gt;" you ask?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215938Z" creationid="Leo" creationdate="20210627T215938Z">
+        <seg>"&lt;b0&gt;O que é indentação?&lt;/b0&gt;", você pergunta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Delicious", "Price":</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064816Z" creationid="Leo" creationdate="20210627T064553Z">
         <seg>"Delicioso", "Preco":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"If at first you don't succeed, try, try, try again." - Hickson, William E.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215709Z" creationid="Leo" creationdate="20210627T215709Z">
+        <seg>"Se de começo você não conseguir, tente, tente, tente novamente." — William E. Hickson.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2391,6 +2407,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Indentation has no set style, but it's best to keep everything consistent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215921Z" creationid="Leo" creationdate="20210627T215921Z">
+        <seg>Não existe estilo estabelecido para indentar, mas é melhor deixar tudo coerente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>InputBox, OutputVar, Question 1, What is your first name?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051646Z" creationid="Leo" creationdate="20210626T051646Z">
@@ -2467,6 +2491,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202338Z" creationid="Leo" creationdate="20210622T202338Z">
         <seg>Ele deve terminar com a extensão .ahk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's best you learn to indent ASAP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215854Z" creationid="Leo" creationdate="20210627T215854Z">
+        <seg>É melhor que você aprenda a indentar o quanto antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3359,6 +3391,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Small code (25 lines or less) will probably be fine to read without indentation, but it'll soon get sloppy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215846Z" creationid="Leo" creationdate="20210627T215846Z">
+        <seg>Pequenos códigos (25 linhas ou menos) serão provavelmente fáceis de se ler sem indentação, mas daqui a pouco vai ficar desleixado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So I'll set it clear:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195609Z" creationid="Leo" creationdate="20210623T195609Z">
@@ -3987,6 +4027,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213734Z" creationid="Leo" creationdate="20210627T213734Z">
         <seg>Este remove a maior chave inteira e retorna seu valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This stuff (indentation) is very important!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215724Z" creationid="Leo" creationdate="20210627T215724Z">
+        <seg>Esse negócio de indentação é muito importante!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4668,6 +4716,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215403Z" creationid="Leo" creationdate="20210627T215403Z">
         <seg>Você vai aprender um bocado desse jeito lendo a documentação, lendo os erros e descobrindo o que funciona e o que não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your code will run perfectly fine without it, but it will be a major headache for you and other to read your code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215751Z" creationid="Leo" creationdate="20210627T215751Z">
+        <seg>Seu código irá executar perfeitamente sem ela, mas será uma grande dor de cabeça para você e outros para lerem seu código.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Anything inside of these brackets are &lt;b2&gt;&lt;i3&gt;OPTIONAL&lt;/i3&gt;&lt;/b2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214405Z" creationid="Leo" creationdate="20210627T214405Z">
+        <seg>Tudo o que estiver dentro desses colchetes é &lt;b2&gt;OPCIONAL&lt;i3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything to the &lt;b5&gt;left&lt;/b5&gt; of &lt;c6&gt;::&lt;/c6&gt; are the keys you need to press.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210206Z" creationid="Leo" creationdate="20210622T210206Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003627Z" creationid="Leo" creationdate="20210624T003627Z">
         <seg>Mas antes de começar, temos que falar de alguns problemas por que as pessoas costumam passar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But before we go, here are some other things that I think you should know.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214214Z" creationid="Leo" creationdate="20210627T214214Z">
+        <seg>Mas antes de irmos embora, aqui estão mais algumas coisinhas que eu acho que você deveria saber.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1698,6 +1714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181226Z" creationid="Leo" creationdate="20210625T181226Z">
         <seg>Fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enjoy!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214216Z" creationid="Leo" creationdate="20210627T214216Z">
+        <seg>Aproveite!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2111,6 +2135,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I hope you have learned something.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214200Z" creationid="Leo" creationdate="20210627T214200Z">
+        <seg>Espero que você tenha aprendido algo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If &lt;i2&gt;Length&lt;/i2&gt; is omitted it defaults to 1.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213957Z" creationid="Leo" creationdate="20210627T213957Z">
@@ -2467,6 +2499,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211749Z" creationid="Leo" creationdate="20210622T211749Z">
         <seg>Encontre o arquivo &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; ou um arquivo em que esteja escrito "AutoHotKey" e tenha um ponto de interrogação amarelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Meaning the stuff inside can be left out if you don't need them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214425Z" creationid="Leo" creationdate="20210627T214425Z">
+        <seg>O que significa que as coisas dentro dos colchetes podem ser omitidas se você não precisar delas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3832,6 +3872,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Throughout the documentation, you will see these two symbols (&lt;c0&gt;[&lt;/c0&gt; and &lt;c1&gt;]&lt;/c1&gt;) surrounding code in the yellow syntax box at the top of almost all pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214319Z" creationid="Leo" creationdate="20210627T214319Z">
+        <seg>Ao longo desta documentação, você verá esses dois símbolos (&lt;c0&gt;[&lt;/c0&gt; e &lt;c1&gt;]&lt;/c1&gt;) em volta do código no espaço amarelo da sintaxe no topo da maioria das páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Throughout this tutorial you will see a lot of text and a lot of code.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201144Z" creationid="Leo" creationdate="20210622T201144Z">
@@ -4068,6 +4116,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203414Z" creationid="Leo" creationdate="20210625T203414Z">
         <seg>Aqui, nós não precisamos de chaves pois havia somente uma linha sob a instrução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We have reached the end of our journey, my good friend.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214152Z" creationid="Leo" creationdate="20210627T214152Z">
+        <seg>Chegamos ao fim de nossa jornada, meu amigo.</seg>
       </tuv>
     </tu>
     <tu>

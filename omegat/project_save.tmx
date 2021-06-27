@@ -2151,6 +2151,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other words, it inserts the values at the highest integer key plus one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212906Z" creationid="Leo" creationdate="20210627T212906Z">
+        <seg>Em outras palavras, ele insere os valores na maior chave inteira mais um.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In parameters that are input or output variables.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051049Z" creationid="Leo" creationdate="20210626T051049Z">
@@ -2607,6 +2615,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MyObject.Push(Value1, Value2, Value3...)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212801Z" creationid="Leo" creationdate="20210627T212801Z">
+        <seg>MeuObjeto.Push(Valor1, Valor2, Valor3...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MyObject["NewerKey"] := 3.1415</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212233Z" creationid="Leo" creationdate="20210627T212233Z">
@@ -2827,6 +2843,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211600Z" creationid="Leo" creationdate="20210622T211600Z">
         <seg>Provavelmente o drive &lt;b1&gt;C:\&lt;/b1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Push method</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212750Z" creationid="Leo" creationdate="20210627T212750Z">
+        <seg>Método "Push"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3451,6 +3475,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181913Z" creationid="Leo" creationdate="20210625T181913Z">
         <seg>São soluções como o GameGuard, Hackshield, PunkBuster e diversos  outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This "appends" the values to the end of the array &lt;i0&gt;MyObject&lt;/i0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212842Z" creationid="Leo" creationdate="20210627T212842Z">
+        <seg>Este método acrescenta os valores ao final do vetor &lt;i0&gt;MeuObjeto&lt;/i0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

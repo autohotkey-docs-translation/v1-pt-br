@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i0&gt;Index&lt;/i0&gt; is any integer key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212405Z" creationid="Leo" creationdate="20210627T212405Z">
+        <seg>&lt;i0&gt;Índice&lt;/i0&gt; é qualquer chave cujo tipo de dados é um inteiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Win&lt;/k0&gt; (Windows logo key)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023905Z" creationid="Leo" creationdate="20210623T023905Z">
@@ -2239,6 +2247,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>InsertAt method</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212325Z" creationid="Leo" creationdate="20210627T212325Z">
+        <seg>Método InsertAt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can even be used to open URLs such as &lt;a2&gt;https://www.autohotkey.com/&lt;/a2&gt; . If your computer is setup to run the type of program you want to run, it's very simple:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182926Z" creationid="Leo" creationdate="20210625T182926Z">
@@ -2571,6 +2587,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064209Z" creationid="Leo" creationdate="20210627T064209Z">
         <seg>MeuObjeto := ["um", "dois", "três", 17]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyObject.InsertAt(Index, Value1, Value2, Value3...)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212342Z" creationid="Leo" creationdate="20210627T212342Z">
+        <seg>MeuObjeto.InsertAt(Índice, Valor1, Valor2, Valor3...)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyObject.NewKey := "Shiny"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212315Z" creationid="Leo" creationdate="20210627T212315Z">
+        <seg>MeuObjeto.NovaChave := "Brilhante"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3547,6 +3579,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210529Z" creationid="Leo" creationdate="20210622T210529Z">
         <seg>Isso vai prevenir muitos problemas quando você começar a ter um bocado de coisas em seus scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will shift ALL higher integer keys up by the number of values which were inserted, even if there are gaps (for example, only keys 1 and 100 exist, and you insert a value at key 50, it will shift 100 up to 101).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212723Z" creationid="Leo" creationdate="20210627T212433Z">
+        <seg>Isso vai "empurrar para frente" TODAS as chaves inteiras, adicionando a cada uma delas o número de valores que foram inseridos, mesmo se houver lacunas (por exemplo, somente as chaves 1 a 100 existem e você insere um valor na chave de índice 50, o que elevará o número 100 para 101). </seg>
       </tuv>
     </tu>
     <tu>

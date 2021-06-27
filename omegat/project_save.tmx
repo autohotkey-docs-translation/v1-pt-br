@@ -3303,6 +3303,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Wikipedia's &lt;a0&gt;Indentation style&lt;/a0&gt; page for various styles and examples.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221152Z" creationid="Leo" creationdate="20210627T221152Z">
+        <seg>Veja o artigo &lt;a0&gt;Indentation Style&lt;/a0&gt; na Wikipédia em inglês para ver vários estilos e exemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Send, 7 lines{!}{Enter}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023535Z" creationid="Leo" creationdate="20210623T023535Z">
@@ -4938,8 +4946,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>if (car = "old")</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220614Z" creationid="Leo" creationdate="20210627T220614Z">
-        <seg>if (carrecurso ordinário = "velho")</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220854Z" creationid="Leo" creationdate="20210627T220614Z">
+        <seg>if (carro = "velho")</seg>
       </tuv>
     </tu>
     <tu>

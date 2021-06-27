@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An indexed array is an object representing a list of items, numbered 1 and up.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064336Z" creationid="Leo" creationdate="20210627T064336Z">
+        <seg>Um vetor indexado é um objeto representando uma lista de itens numerados de 1 em diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An object is basically a collection of variables.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053432Z" creationid="Leo" creationdate="20210626T053432Z">
@@ -1290,6 +1298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192458Z" creationid="Leo" creationdate="20210622T192458Z">
         <seg>Tutorial para iniciantes | AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bracket syntax</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064148Z" creationid="Leo" creationdate="20210627T064148Z">
+        <seg>Sintaxe usando colchetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -2055,6 +2071,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this example, the value &lt;c0&gt;"one"&lt;/c0&gt; is stored in object key &lt;c1&gt;1&lt;/c1&gt; (aka index 1), and the value &lt;c2&gt;17&lt;/c2&gt; is stored in object key &lt;c3&gt;4&lt;/c3&gt; (aka index 4).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064503Z" creationid="Leo" creationdate="20210627T064503Z">
+        <seg>No exemplo posto, o valor &lt;c0&gt;"um"&lt;/c0&gt; é armazenado na chave &lt;c1&gt;1&lt;/c1&gt; do objeto (também conhecido como índice 1), e o valor &lt;c2&gt;17&lt;/c2&gt; é armazenado na chave &lt;c3&gt;4&lt;/c3&gt; do objeto (ou índice 4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indentation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193356Z" creationid="Leo" creationdate="20210622T193356Z">
@@ -2387,6 +2411,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192940Z" creationid="Leo" creationdate="20210622T192940Z">
         <seg>Múltiplas hotkeys e hotstrings num mesmo arquivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MyObject := ["one", "two", "three", 17]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064209Z" creationid="Leo" creationdate="20210627T064209Z">
+        <seg>MeuObjeto := ["um", "dois", "três", 17]</seg>
       </tuv>
     </tu>
     <tu>
@@ -3087,6 +3119,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are a few ways to create an object, and the most common ones are listed below:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064129Z" creationid="Leo" creationdate="20210627T064129Z">
+        <seg>Há alguns jeitos de se criar um objeto, e os mais comuns são os listados abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are a few ways to do this, I'll assume you have it installed to the default locations:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211249Z" creationid="Leo" creationdate="20210622T211249Z">
@@ -3275,6 +3315,15 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210529Z" creationid="Leo" creationdate="20210622T210529Z">
         <seg>Isso vai prevenir muitos problemas quando você começar a ter um bocado de coisas em seus scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Aspas curvas</note>
+      <tuv lang="en">
+        <seg>This will start you off with what is sometimes called an "indexed array".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064304Z" creationid="Leo" creationdate="20210627T064304Z">
+        <seg>Isso o iniciará naquilo que se chama "vetor indexado".</seg>
       </tuv>
     </tu>
     <tu>

@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Delicious", "Price":</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064553Z" creationid="Leo" creationdate="20210627T064553Z">
+        <seg>"Delicioso", "Preço":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Yellow", "Taste":</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064538Z" creationid="Leo" creationdate="20210627T064538Z">
+        <seg>"Amarelo", "Gosto":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#IfWinActive Untitled - Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154444Z" creationid="Leo" creationdate="20210623T154444Z">
@@ -1166,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An associative array is a collection of data where each item has a name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064648Z" creationid="Leo" creationdate="20210627T064648Z">
+        <seg>Um vetor associativo é uma coleção de dados na qual cada item tem um nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An example showing what shouldn't be done to a hotkey:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175413Z" creationid="Leo" creationdate="20210625T175413Z">
@@ -1278,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Banana := {"Color":</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064528Z" creationid="Leo" creationdate="20210627T064528Z">
+        <seg>Banana := {"Cor":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before learning to use AutoHotkey (AHK), you will need to download it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201553Z" creationid="Leo" creationdate="20210622T201553Z">
@@ -1302,10 +1334,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Brace syntax</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064514Z" creationid="Leo" creationdate="20210627T064514Z">
+        <seg>Sintaxe com chaves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bracket syntax</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064148Z" creationid="Leo" creationdate="20210627T064148Z">
-        <seg>Sintaxe usando colchetes</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064519Z" creationid="Leo" creationdate="20210627T064148Z">
+        <seg>Sintaxe com colchetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -3307,6 +3347,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210403Z" creationid="Leo" creationdate="20210622T210403Z">
         <seg>Esta palavra aí vai ser sua melhor amiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will let you start of by defining what is sometimes called an "associative array".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064620Z" creationid="Leo" creationdate="20210627T064620Z">
+        <seg>A forma acima permite que você defina um "vetor associativo".</seg>
       </tuv>
     </tu>
     <tu>

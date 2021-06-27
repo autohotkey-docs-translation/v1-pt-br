@@ -2655,6 +2655,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MyObject.Pop()</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213720Z" creationid="Leo" creationdate="20210627T213720Z">
+        <seg>MeuObjeto.Pop()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MyObject.Push(Value1, Value2, Value3...)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212801Z" creationid="Leo" creationdate="20210627T212801Z">
@@ -2887,6 +2895,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop method</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213708Z" creationid="Leo" creationdate="20210627T213708Z">
+        <seg>Método Pop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Probably &lt;b1&gt;C:\&lt;/b1&gt; drive.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211600Z" creationid="Leo" creationdate="20210622T211600Z">
@@ -2903,10 +2919,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RemoveAt method</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213754Z" creationid="Leo" creationdate="20210627T213754Z">
+        <seg>Método RemoveAt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RemovedValue := MyObject.Delete(AnyKey)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213254Z" creationid="Leo" creationdate="20210627T213254Z">
         <seg>ValorDeletado := MeuObjeto.Delete(QualquerChave)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RemovedValue := MyObject.RemoveAt(Index)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213809Z" creationid="Leo" creationdate="20210627T213809Z">
+        <seg>ValorRemovido := MeuObjeto.RemoveAt(Índice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3415,6 +3447,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The value it gives will be the number of keys that were removed, which is useful if you have a gap between your keys (e.g. you specify keys 1 through four, but key number 2 doesn't exist, this will set &lt;e2&gt;NumberOfRemovedKeys&lt;/e2&gt; to 3 as only three keys were there to be removed).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213703Z" creationid="Leo" creationdate="20210627T213703Z">
+        <seg>O valor que o método dará será o número de chaves que foram removidas, o que é útil se você tem uma lacuna entre suas chaves (por exemplo, você especificou as chaves 1 a 4, mas a chave número 2 não existe, isso definirá &lt;e2&gt;NumeroDeChavesDeletadas&lt;/e2&gt; para 3 já que somente três chaves estavam lá para ser removidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The variable names are known as "Keys", and the contents of the variables are "Values".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053549Z" creationid="Leo" creationdate="20210626T053549Z">
@@ -3467,6 +3507,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065301Z" creationid="Leo" creationdate="20210627T065301Z">
         <seg>Há várias formas de se usar objetos, inclusive obter valores, definir valores, adicionar mais valores e mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no keys higher than it to be affected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213749Z" creationid="Leo" creationdate="20210627T213749Z">
+        <seg>Não há chaves maiores que ela para serem afetadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3675,6 +3723,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202226Z" creationid="Leo" creationdate="20210622T202226Z">
         <seg>Esse processo é chamado "scripting" ou "desenvolvimento de scripts".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This removes the highest integer key, and returns the value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213734Z" creationid="Leo" creationdate="20210627T213734Z">
+        <seg>Este remove a maior chave inteira e retorna seu valor.</seg>
       </tuv>
     </tu>
     <tu>

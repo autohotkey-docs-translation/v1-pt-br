@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Banana.Consistency := ""</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213009Z" creationid="Leo" creationdate="20210627T213009Z">
+        <seg>Banana.Consistência := ""</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Banana.Consistency := "Mushy"</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211512Z" creationid="Leo" creationdate="20210627T211512Z">
@@ -1402,6 +1410,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192458Z" creationid="Leo" creationdate="20210622T192458Z">
         <seg>Tutorial para iniciantes | AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blanking the value out</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213000Z" creationid="Leo" creationdate="20210627T213000Z">
+        <seg>Substituição por "em branco"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2283,6 +2299,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211920Z" creationid="Leo" creationdate="20210622T211920Z">
         <seg>É a tecla ou combinação de teclas que a pessoa diante do teclado pressiona para desencadear (executar) algumas ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to tell that the key still exists by using the &lt;a2&gt;HasKey&lt;/a2&gt; method, and it will still come up in a &lt;a3&gt;For&lt;/a3&gt; loop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213230Z" creationid="Leo" creationdate="20210627T213230Z">
+        <seg>É possível saber que a chave ainda existe usando o método &lt;a2&gt;HasKey&lt;/a2&gt;, e ainda assim ela será contada num Loop com &lt;a3&gt;For&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3335,6 +3359,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The simplest way to remove a value is to just blank it out.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213036Z" creationid="Leo" creationdate="20210627T213036Z">
+        <seg>O jeito mais simples de remover um valor é simplesmente substitui-lo por "nada".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The third line:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210330Z" creationid="Leo" creationdate="20210622T210330Z">
@@ -3499,6 +3531,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003601Z" creationid="Leo" creationdate="20210624T003601Z">
         <seg>Este comando literalmente envia o pressionamento de teclas, para simular a digitação ou o simples pressionamento de quaisquer teclas do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This doesn't remove the key, but it will make the value appear identical to an unset value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213137Z" creationid="Leo" creationdate="20210627T213137Z">
+        <seg>Isso não remove a chave, mas fará o valor se parecer idêntico a um valor que ainda não foi definido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3692,6 +3732,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180912Z" creationid="Leo" creationdate="20210625T180912Z">
         <seg>Para segurar ou soltar uma tecla, envolve o nome da tecla em chaves e aí use as palavras UP ou DOWN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove keys and values:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212909Z" creationid="Leo" creationdate="20210627T212909Z">
+        <seg>Para remover chaves e valores:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4104,6 +4152,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can do this by setting it to &lt;c0&gt;""&lt;/c0&gt;, also known as an &lt;i1&gt;empty string&lt;/i1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213109Z" creationid="Leo" creationdate="20210627T213109Z">
+        <seg>Você pode fazer isso mudando o valor para &lt;c0&gt;""&lt;/c0&gt;, o que também é conhecido como &lt;i1&gt;string vazia&lt;/i1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can tell what a command is by looking at its syntax (the way it looks).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183941Z" creationid="Leo" creationdate="20210625T183941Z">
@@ -4224,6 +4280,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>commands/For.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213013Z" creationid="Leo" creationdate="20210627T213013Z">
+        <seg>commands/For.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>commands/IfExpression.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202250Z" creationid="Leo" creationdate="20210625T202250Z">
@@ -4308,6 +4372,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053008Z" creationid="Leo" creationdate="20210626T053008Z">
         <seg>if Numero = 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>objects/Object.htm#HasKey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213011Z" creationid="Leo" creationdate="20210627T213011Z">
+        <seg>objects/Object.htm#HasKey</seg>
       </tuv>
     </tu>
     <tu>

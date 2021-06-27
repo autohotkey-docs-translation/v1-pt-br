@@ -1302,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And while you wait for help, you can try learning and doing it yourself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T222002Z" creationid="Leo" creationdate="20210627T222002Z">
+        <seg>E, enquanto você espera pela ajuda, você pode ir tentando e aprendendo sozinho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Another common issue is that people think that &lt;b0&gt;everything&lt;/b0&gt; needs to be wrapped in brackets with the Send command.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180513Z" creationid="Leo" creationdate="20210625T180513Z">
@@ -1918,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FAQ.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T222025Z" creationid="Leo" creationdate="20210627T222025Z">
+        <seg>FAQ.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FileExist(VariableContainingPath)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202224Z" creationid="Leo" creationdate="20210625T202224Z">
@@ -2066,6 +2082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201635Z" creationid="Leo" creationdate="20210622T201635Z">
         <seg>Para este guia, vamos usar o instalador, já que é a forma mais fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frequently Asked Questions (FAQ)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T222037Z" creationid="Leo" creationdate="20210627T222037Z">
+        <seg>Perguntas Frequentes (FAQ)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2595,6 +2619,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202338Z" creationid="Leo" creationdate="20210622T202338Z">
         <seg>Ele deve terminar com a extensão .ahk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's a good feeling, making something yourself without help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T222019Z" creationid="Leo" creationdate="20210627T222019Z">
+        <seg>É uma sensação ótima conseguir fazer algo sem ajuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4560,6 +4592,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We love to help, but we also do this for free on our own time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221910Z" creationid="Leo" creationdate="20210627T221910Z">
+        <seg>Amamos ajudar, mas também fazemos isto de graça (igual a esta tradução!) em nosso tempo livre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We might be at work, sleeping, gaming, with family or just too busy to help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221942Z" creationid="Leo" creationdate="20210627T221942Z">
+        <seg>Podemos estar com a família, no trabalho, jogando, dormindo, ou simplesmente muito ocupados no momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We will become great friends.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051823Z" creationid="Leo" creationdate="20210626T051823Z">
@@ -5004,6 +5052,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192001Z" creationid="Leo" creationdate="20210622T192001Z">
         <seg>pt-BR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>f.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T222022Z" creationid="Leo" creationdate="20210627T222022Z">
+        <seg>f.</seg>
       </tuv>
     </tu>
     <tu>

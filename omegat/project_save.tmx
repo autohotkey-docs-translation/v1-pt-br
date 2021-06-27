@@ -1438,6 +1438,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be kind.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221824Z" creationid="Leo" creationdate="20210627T221824Z">
+        <seg>Seja simpático</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be open.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221822Z" creationid="Leo" creationdate="20210627T221822Z">
+        <seg>Seja aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be patient.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221816Z" creationid="Leo" creationdate="20210627T221816Z">
+        <seg>Seja paciente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be polite.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221818Z" creationid="Leo" creationdate="20210627T221818Z">
+        <seg>Seja educado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before learning to use AutoHotkey (AHK), you will need to download it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201553Z" creationid="Leo" creationdate="20210622T201553Z">
@@ -2088,8 +2120,8 @@
       <tuv lang="en">
         <seg>Give as much information as you can to educate us doorknobs at what you are trying to do.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221748Z" creationid="Leo" creationdate="20210627T221748Z">
-        <seg>Forneça o máximo de informações que você puder de forma que você deixe claro para nós, plantas, </seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221807Z" creationid="Leo" creationdate="20210627T221748Z">
+        <seg>Forneça o máximo de informações que você puder de forma que você deixe claro para nós, plantas, o que você está tentando fazer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2130,6 +2162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211500Z" creationid="Leo" creationdate="20210622T211500Z">
         <seg>Vá para sua área de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help us help you.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221813Z" creationid="Leo" creationdate="20210627T221813Z">
+        <seg>Ajude-nos a lhe ajudar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2315,6 +2355,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182437Z" creationid="Leo" creationdate="20210625T182437Z">
         <seg>Se você estiver tendo problemas e sabe que o jogo usa DirectX, tente aquilo que está descrito na página das &lt;a0&gt;Perguntas Frequentes&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you don't get an answer right away, wait at least 1 day (24 hours) before asking for more help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221844Z" creationid="Leo" creationdate="20210627T221844Z">
+        <seg>Se você não obtiver uma resposta logo, espere pelo menos um dia (24 horas) antes de pedir mais ajuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3249,8 +3297,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Pretend &lt;i0&gt;everyone but you&lt;/i0&gt; is a doorknob and knows nothing.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221458Z" creationid="Leo" creationdate="20210627T221444Z">
-        <seg>Finja que &lt;i0&gt;todos menos você&lt;/i0&gt; são uma "porta", que não sabem de nada.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221757Z" creationid="Leo" creationdate="20210627T221444Z">
+        <seg>Finja que &lt;i0&gt;todos menos você&lt;/i0&gt; são "plantas", que não sabem de nada.</seg>
       </tuv>
     </tu>
     <tu>

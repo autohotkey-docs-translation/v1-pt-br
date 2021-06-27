@@ -2415,6 +2415,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Indented:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220830Z" creationid="Leo" creationdate="20210627T220830Z">
+        <seg>Indentado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>InputBox, OutputVar, Question 1, What is your first name?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051646Z" creationid="Leo" creationdate="20210626T051646Z">
@@ -2687,10 +2695,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox, Be careful!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220724Z" creationid="Leo" creationdate="20210627T220724Z">
+        <seg>MsgBox, Tome cuidado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, MyVar equals %MyVar%!!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203022Z" creationid="Leo" creationdate="20210625T203022Z">
         <seg>MsgBox, MinhaVariavel é igual a %MinhaVariavel%!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, My`, what a shiny new vehicle you have there.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220825Z" creationid="Leo" creationdate="20210627T220825Z">
+        <seg>MsgBox, Meu`, que possante brilhoso é esse seu novo carro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2711,10 +2735,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox, The car is really old.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220634Z" creationid="Leo" creationdate="20210627T220634Z">
+        <seg>MsgBox, O carro está bem velho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, There are</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023505Z" creationid="Leo" creationdate="20210623T023505Z">
         <seg>MsgBox, Aqui tem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, This car is not safe to drive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220709Z" creationid="Leo" creationdate="20210627T220709Z">
+        <seg>MsgBox, Este carro não está seguro para dirigir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2935,6 +2975,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not indented:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220605Z" creationid="Leo" creationdate="20210627T220605Z">
+        <seg>Não indentado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not only is bypassing these systems in violation of the games policies and could get you banned, they are complex to work around.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182140Z" creationid="Leo" creationdate="20210625T182140Z">
@@ -3107,6 +3155,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202239Z" creationid="Leo" creationdate="20210625T202239Z">
         <seg>Output := SubStr("Estou escrevendo código, maravilha!", 16)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>People usually use 3 or 4 spaces or 1 tab per "level".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220601Z" creationid="Leo" creationdate="20210627T220601Z">
+        <seg>As pessoas normalmente usam 3 ou 4 espaços ou 1 tab por "nível".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4007,6 +4063,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This old car will be dangerous to drive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220734Z" creationid="Leo" creationdate="20210627T220734Z">
+        <seg>Este carro estará perigoso de dirigir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This only lets you use literal strings for the keys.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212116Z" creationid="Leo" creationdate="20210627T212116Z">
@@ -4808,6 +4872,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>else</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220741Z" creationid="Leo" creationdate="20210627T220741Z">
+        <seg>else</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192001Z" creationid="Leo" creationdate="20210622T192001Z">
@@ -4864,6 +4936,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if (car = "old")</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220614Z" creationid="Leo" creationdate="20210627T220614Z">
+        <seg>if (carrecurso ordinário = "velho")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if (wheels = "flat")</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220659Z" creationid="Leo" creationdate="20210627T220659Z">
+        <seg>if (pneu = "murcho")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>if Number = 6</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053008Z" creationid="Leo" creationdate="20210626T053008Z">
@@ -4880,10 +4968,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>return</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220710Z" creationid="Leo" creationdate="20210627T220710Z">
+        <seg>return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>they affect all hotkeys and hotstrings physically beneath them in the script.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154813Z" creationid="Leo" creationdate="20210623T154813Z">
         <seg>Elas afetam todas as hotkeys e hotstrings fisicamente abaixo delas no script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220616Z" creationid="Leo" creationdate="20210627T220616Z">
+        <seg>{</seg>
       </tuv>
     </tu>
     <tu>

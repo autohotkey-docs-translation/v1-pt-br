@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#s71</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211813Z" creationid="Leo" creationdate="20210627T211813Z">
+        <seg>#s71</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(For the full list of symbols, see the &lt;a0&gt;Hotkey&lt;/a0&gt; page)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024621Z" creationid="Leo" creationdate="20210623T024621Z">
@@ -2183,6 +2191,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, I used the simple expression &lt;c0&gt;"Color"&lt;/c0&gt;, which is (unsurprisingly) the key &lt;c1&gt;Color&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211928Z" creationid="Leo" creationdate="20210627T211928Z">
+        <seg>Nesse caso, eu usei a expressão simples &lt;c0&gt;"Cor"&lt;/c0&gt;, a qual é, como você esperava, a chave &lt;c1&gt;Cor&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this example, the value &lt;c0&gt;"Yellow"&lt;/c0&gt; is stored in the object key &lt;c1&gt;"Color"&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064720Z" creationid="Leo" creationdate="20210627T064720Z">
@@ -3399,6 +3415,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This allows you to use an expression as the key to get the value from your object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211831Z" creationid="Leo" creationdate="20210627T211831Z">
+        <seg>Essa notação permite que você use uma expressão como a chave para obter um valor de seu objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command literally sends keystrokes, to simulate typing or pressing of keys.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003601Z" creationid="Leo" creationdate="20210624T003601Z">
@@ -3636,6 +3660,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193154Z" creationid="Leo" creationdate="20210622T193154Z">
         <seg>Usando objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Value := Banana["Color"]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211810Z" creationid="Leo" creationdate="20210627T211810Z">
+        <seg>Valor := Banana["Cor"]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,6 +4068,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T054029Z" creationid="Leo" creationdate="20210626T054029Z">
         <seg>Você quer representar uma grade, quem sabe para um jogo de tabuleiro (o que seria feito com objetos aninhados).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will get a message box with the word "Yellow", because that is what we set the key &lt;c2&gt;Color&lt;/c2&gt; to in the &lt;a3&gt;previous section&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212016Z" creationid="Leo" creationdate="20210627T212016Z">
+        <seg>Disso você obterá uma caixa de mensagem com a palavra "Amarelo", porque é esse o valor que armazenamos na chave &lt;c2&gt;Cor&lt;/c2&gt; na &lt;a3&gt;seção anterior&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>

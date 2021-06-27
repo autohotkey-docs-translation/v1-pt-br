@@ -2575,6 +2575,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MyObject["NewerKey"] := 3.1415</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212233Z" creationid="Leo" creationdate="20210627T212233Z">
+        <seg>MeuObjeto["NovaChave"] := 3.1415</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MyScript.ahk</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202348Z" creationid="Leo" creationdate="20210622T202348Z">
@@ -3503,6 +3511,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This only lets you use literal strings for the keys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212116Z" creationid="Leo" creationdate="20210627T212116Z">
+        <seg>Esta notação permite somente que você use strings literais para as chaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This process is called "Scripting".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202226Z" creationid="Leo" creationdate="20210622T202226Z">
@@ -3564,6 +3580,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201144Z" creationid="Leo" creationdate="20210622T201144Z">
         <seg>Ao longo deste tutorial você verá muito texto e muito código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add new keys and values:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212207Z" creationid="Leo" creationdate="20210627T212207Z">
+        <seg>Para adicionar novas chaves e valores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To directly add a key and value, just set a key that doesn't exist yet.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212258Z" creationid="Leo" creationdate="20210627T212258Z">
+        <seg>Para diretamente adicionar uma chave e um valor, basta definir uma chave que não existe ainda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3660,6 +3692,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193154Z" creationid="Leo" creationdate="20210622T193154Z">
         <seg>Usando objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Value := Banana.Color</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212027Z" creationid="Leo" creationdate="20210627T212027Z">
+        <seg>Valor := Banana.Cor</seg>
       </tuv>
     </tu>
     <tu>
@@ -4012,6 +4052,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T184517Z" creationid="Leo" creationdate="20210625T184517Z">
         <seg>Você não pode pôr comandos dentro dos parâmetros de outros comandos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot use variables in your keys with dot notation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212158Z" creationid="Leo" creationdate="20210627T212158Z">
+        <seg>Você não pode usar variáveis em suas chaves com a notação de ponto.</seg>
       </tuv>
     </tu>
     <tu>

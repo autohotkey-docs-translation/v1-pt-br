@@ -1558,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose what you like or learn to indent how you think it's easiest to read.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221211Z" creationid="Leo" creationdate="20210627T221211Z">
+        <seg>Escolha aquele estilo que você gostou ou aprenda a indentar daquele jeito que você acha que é mais fácil de ler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click "AutoHotkey Script" inside the "New" menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202318Z" creationid="Leo" creationdate="20210622T202318Z">

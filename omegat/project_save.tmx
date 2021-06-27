@@ -1030,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;ControlGetText&lt;/s0&gt;, OutputVar &lt;s1&gt;, Control, WinTitle, WinText, ExcludeTitle, ExcludeText&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214657Z" creationid="Leo" creationdate="20210627T214657Z">
+        <seg>&lt;s0&gt;ControlGetText&lt;/s0&gt;, VarDeSaída &lt;s1&gt;, Control, TituloJanela, TextoJanela, TituloExcluido, TextoExcluido&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; There are exceptions, but those tend to cause confusion a lot of the time.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212757Z" creationid="Leo" creationdate="20210622T212757Z">
@@ -1634,6 +1642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201924Z" creationid="Leo" creationdate="20210622T201924Z">
         <seg>Continue para a seção b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ControlGetText, OutputVar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214716Z" creationid="Leo" creationdate="20210627T214716Z">
+        <seg>ControlGetText, VarDeSaida</seg>
       </tuv>
     </tu>
     <tu>
@@ -2863,6 +2879,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On the &lt;a0&gt;ControlGetText&lt;/a0&gt; page you will see this:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214534Z" creationid="Leo" creationdate="20210627T214534Z">
+        <seg>Na página do comando &lt;a0&gt;ControlGetText&lt;/a0&gt; você verá isto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the left side of an assignment:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051130Z" creationid="Leo" creationdate="20210626T051130Z">
@@ -3283,6 +3307,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202129Z" creationid="Leo" creationdate="20210622T202129Z">
         <seg>Então nós precisamos dizer a ele o que fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So you could simply do this if you wanted:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214704Z" creationid="Leo" creationdate="20210627T214704Z">
+        <seg>Então você pode simplesmente fazer isso se você quiser:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4220,6 +4252,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T184437Z" creationid="Leo" creationdate="20210625T184437Z">
         <seg>Quando usar comandos, você não pode atochar outros comandos na mesma linha do comando anterior (exceção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When writing your code, it is very important to &lt;b4&gt;NOT&lt;/b4&gt; type the square brackets in your code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214459Z" creationid="Leo" creationdate="20210627T214459Z">
+        <seg>Quando estiver escrevendo seu código, é muito importante que você &lt;b4&gt;NÃO&lt;/b4&gt; insira os colchetes nele!</seg>
       </tuv>
     </tu>
     <tu>

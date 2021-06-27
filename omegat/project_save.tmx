@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Banana.Consistency := "Mushy"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211512Z" creationid="Leo" creationdate="20210627T211512Z">
+        <seg>Banana.Consistência := "Molenga"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Banana["Pickled"] := True</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065426Z" creationid="Leo" creationdate="20210627T065426Z">
@@ -1392,8 +1400,8 @@
       <tuv lang="en">
         <seg>Bracket notation</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065329Z" creationid="Leo" creationdate="20210627T065329Z">
-        <seg>Notação com colchetes</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211758Z" creationid="Leo" creationdate="20210627T065329Z">
+        <seg>Notação de colchetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1594,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211447Z" creationid="Leo" creationdate="20210622T211447Z">
         <seg>Feito!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dot notation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211431Z" creationid="Leo" creationdate="20210627T211431Z">
+        <seg>Notação de ponto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3215,6 +3231,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same as above but with the dot notation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211523Z" creationid="Leo" creationdate="20210627T211523Z">
+        <seg>O mesmo do exemplo anterior, mas com a notação de ponto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script will always exit, even if &lt;e1&gt;MyVar&lt;/e1&gt; &lt;b2&gt;is not&lt;/b2&gt; 5:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203113Z" creationid="Leo" creationdate="20210625T203113Z">
@@ -3540,6 +3564,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180912Z" creationid="Leo" creationdate="20210625T180912Z">
         <seg>Para segurar ou soltar uma tecla, envolve o nome da tecla em chaves e aí use as palavras UP ou DOWN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To retrieve values:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211623Z" creationid="Leo" creationdate="20210627T211623Z">
+        <seg>Para obter (ou recuperar) valores:</seg>
       </tuv>
     </tu>
     <tu>

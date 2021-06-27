@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before you ask, try doing some research yourself or try to code it yourself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221255Z" creationid="Leo" creationdate="20210627T221255Z">
+        <seg>Antes de perguntar, tente pesquisar um pouco por conta própria ou tente escrever o código você mesmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Beginner Tutorial | AutoHotkey</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192458Z" creationid="Leo" creationdate="20210622T192458Z">
@@ -1730,6 +1738,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023842Z" creationid="Leo" creationdate="20210623T023842Z">
         <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't be afraid to ask for help, even the smartest people ask others for help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221333Z" creationid="Leo" creationdate="20210627T221333Z">
+        <seg>Não tenha medo de pedir ajuda; mesmo as pessoas mais sábias pedem ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't be afraid to show what you tried, even if you think it's silly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221357Z" creationid="Leo" creationdate="20210627T221357Z">
+        <seg>Não tenha medo de mostrar o que você já tentou, mesmo que você pense que ficou bobo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,6 +2086,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Give as much information as you can to educate us doorknobs at what you are trying to do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221748Z" creationid="Leo" creationdate="20210627T221748Z">
+        <seg>Forneça o máximo de informações que você puder de forma que você deixe claro para nós, plantas, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Give the script a new name.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202327Z" creationid="Leo" creationdate="20210622T202327Z">
@@ -2267,6 +2299,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202457Z" creationid="Leo" creationdate="20210622T202457Z">
         <seg>Se abriu, SUCESSO!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If that did not yield results that satisfy you, read below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221310Z" creationid="Leo" creationdate="20210627T221310Z">
+        <seg>Se isso não gerar os resultados que lhe satisfaçam, continue lendo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3195,6 +3235,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213708Z" creationid="Leo" creationdate="20210627T213708Z">
         <seg>Método Pop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post anything you have tried.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221407Z" creationid="Leo" creationdate="20210627T221407Z">
+        <seg>Poste qualquer coisa que você tenta tentado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pretend &lt;i0&gt;everyone but you&lt;/i0&gt; is a doorknob and knows nothing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221458Z" creationid="Leo" creationdate="20210627T221444Z">
+        <seg>Finja que &lt;i0&gt;todos menos você&lt;/i0&gt; são uma "porta", que não sabem de nada.</seg>
       </tuv>
     </tu>
     <tu>

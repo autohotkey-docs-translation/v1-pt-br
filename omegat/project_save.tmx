@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ControlGetText, OutputVar, Control, ExcludeTitle</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215042Z" creationid="Leo" creationdate="20210627T215042Z">
+        <seg>ControlGetText, VarDeSaida, Controle, TituloExcluido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ControlGetText, OutputVar, Control, WinTitle</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214837Z" creationid="Leo" creationdate="20210627T214837Z">
@@ -2247,6 +2255,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you still get an error, modify your code some more.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215323Z" creationid="Leo" creationdate="20210627T215323Z">
+        <seg>Se você ainda estiver se deparando com o erro, modifique seu código um pouco mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you try something and it gives you an error, study that error.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215249Z" creationid="Leo" creationdate="20210627T215249Z">
+        <seg>Se você tentar algo e obtiver um erro, estude esse erro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want to learn more about that stuff, visit the &lt;a0&gt;Run&lt;/a0&gt; page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183134Z" creationid="Leo" creationdate="20210625T183134Z">
@@ -2379,6 +2403,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212325Z" creationid="Leo" creationdate="20210627T212325Z">
         <seg>Método InsertAt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead of asking for help on every little thing, sometimes spending some time alone (sometimes hours or days) and trying to get something to work will help you learn faster.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215237Z" creationid="Leo" creationdate="20210627T215237Z">
+        <seg>Em vez de pedir ajuda para cada pequena coisa, às vezes gastar um tempo sozinho (às vezes horas ou dias) e tentar fazer algo funcionar vai ajudá-lo a aprender mais rápido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2975,6 +3007,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Or look for "AutoHotkey Help File" or "AutoHotkey.chm" in the start menu or your installation directory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215131Z" creationid="Leo" creationdate="20210627T215131Z">
+        <seg>Ou procure pelo arquivo "AutoHotKey Help File" ou "AutoHotKey.chm" no menu iniciar ou no diretório de instalação do programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other Examples?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193142Z" creationid="Leo" creationdate="20210622T193142Z">
@@ -3075,6 +3115,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202256Z" creationid="Leo" creationdate="20210622T202256Z">
         <seg>Clique com o botão direito na sua área de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run this code to see your AHK version:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215100Z" creationid="Leo" creationdate="20210627T215100Z">
+        <seg>Execute este código para ver a versão de seu AutoHotKey:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3607,6 +3655,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then try running it again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215303Z" creationid="Leo" creationdate="20210627T215303Z">
+        <seg>Daí tente executá-lo de novo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then try to fix your code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215257Z" creationid="Leo" creationdate="20210627T215257Z">
+        <seg>Daí tente arrumar seu código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then, study the code.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201324Z" creationid="Leo" creationdate="20210622T201324Z">
@@ -4052,6 +4116,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193349Z" creationid="Leo" creationdate="20210622T193349Z">
         <seg>Tentativa e erro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trial and Error is a very common and effective way of learning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215153Z" creationid="Leo" creationdate="20210627T215153Z">
+        <seg>Tentativa e erro é uma maneira muito comum e eficaz de aprender.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4572,6 +4644,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192449Z" creationid="Leo" creationdate="20210622T192449Z">
         <seg>ahk, autohotkey, tutorial, guia para iniciantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>b.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215045Z" creationid="Leo" creationdate="20210627T215045Z">
+        <seg>b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>c.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215133Z" creationid="Leo" creationdate="20210627T215133Z">
+        <seg>c.</seg>
       </tuv>
     </tu>
     <tu>

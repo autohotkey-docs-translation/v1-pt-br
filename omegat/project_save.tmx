@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; This banana has been pickled. Eww.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065448Z" creationid="Leo" creationdate="20210627T065448Z">
+        <seg>; Esta banana ficou imersa em vinagre. Argh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; This ends the hotkey. The code below this will not be executed when pressing the hotkey.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003252Z" creationid="Leo" creationdate="20210624T003252Z">
@@ -1166,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All you have to do is put your bracket notation on the left side of an expression assignment operator &lt;c0&gt;:=&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065552Z" creationid="Leo" creationdate="20210627T065552Z">
+        <seg>Tudo o que você deve fazer é inserir seu código com notação com colchetes no lado esquerdo do operador de definição da expressão &lt;c0&gt;=:&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also, the value &lt;c2&gt;3&lt;/c2&gt; is stored in the object key &lt;c3&gt;"Price"&lt;/c3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064811Z" creationid="Leo" creationdate="20210627T064811Z">
@@ -1334,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Banana["Pickled"] := True</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065426Z" creationid="Leo" creationdate="20210627T065426Z">
+        <seg>Banana["Em conserva"] := True</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before learning to use AutoHotkey (AHK), you will need to download it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201553Z" creationid="Leo" creationdate="20210622T201553Z">
@@ -1362,6 +1386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064514Z" creationid="Leo" creationdate="20210627T064514Z">
         <seg>Sintaxe com chaves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bracket notation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065329Z" creationid="Leo" creationdate="20210627T065329Z">
+        <seg>Notação com colchetes</seg>
       </tuv>
     </tu>
     <tu>
@@ -2887,6 +2919,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Setting values in an object is as simple as setting the value of a variable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065506Z" creationid="Leo" creationdate="20210627T065506Z">
+        <seg>Definir valores em um objeto é tão simples quanto definir o valor de uma variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simply replace the command name "Send" with one of the following:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181737Z" creationid="Leo" creationdate="20210625T181737Z">
@@ -3508,6 +3548,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182835Z" creationid="Leo" creationdate="20210625T182835Z">
         <seg>Para abrir um programa como &lt;i0&gt;mspaint.exe, calc.exe, script.ahk&lt;/i0&gt; ou até abrir uma pasta, você pode usar o comando &lt;a1&gt;Run&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To set values:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065305Z" creationid="Leo" creationdate="20210627T065305Z">
+        <seg>Para definir valores:</seg>
       </tuv>
     </tu>
     <tu>

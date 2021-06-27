@@ -1032,8 +1032,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;ControlGetText&lt;/s0&gt;, OutputVar &lt;s1&gt;, Control, WinTitle, WinText, ExcludeTitle, ExcludeText&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214657Z" creationid="Leo" creationdate="20210627T214657Z">
-        <seg>&lt;s0&gt;ControlGetText&lt;/s0&gt;, VarDeSaída &lt;s1&gt;, Control, TituloJanela, TextoJanela, TituloExcluido, TextoExcluido&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214753Z" creationid="Leo" creationdate="20210627T214657Z">
+        <seg>&lt;s0&gt;ControlGetText&lt;/s0&gt;, VarDeSaida &lt;s1&gt;, Control, TituloJanela, TextoJanela, TituloExcluido, TextoExcluido&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1654,6 +1654,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ControlGetText, OutputVar, Control, WinTitle</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214837Z" creationid="Leo" creationdate="20210627T214837Z">
+        <seg>ControlGetText, VarDeSaida, Controle, TituloJanela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ControlGetText, OutputVar, Control,,, ExcludeTitle</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214947Z" creationid="Leo" creationdate="20210627T214947Z">
+        <seg>ControlGetText, VarDeSaida, Controle,,, TituloExcluido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating Objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193149Z" creationid="Leo" creationdate="20210622T193149Z">
@@ -2235,6 +2251,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183134Z" creationid="Leo" creationdate="20210625T183134Z">
         <seg>Se quiser aprender mais sobre, visite a &lt;a0&gt;página&lt;/a0&gt; do comando Run.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you were to ignore &lt;c0&gt;WinTitle, WinText&lt;/c0&gt;, it would look like this and cause issues:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215027Z" creationid="Leo" creationdate="20210627T215027Z">
+        <seg>Se você ignorasse &lt;c0&gt;TituloJanela, TextoJaneta&lt;/c0&gt;, então ficaria assim e daria problemas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2943,6 +2967,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Or add in some more details:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214822Z" creationid="Leo" creationdate="20210627T214822Z">
+        <seg>Ou adicionar mais alguns detalhes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other Examples?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193142Z" creationid="Leo" creationdate="20210622T193142Z">
@@ -2971,6 +3003,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202239Z" creationid="Leo" creationdate="20210625T202239Z">
         <seg>Output := SubStr("Estou escrevendo código, maravilha!", 16)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please note that you cannot IGNORE parameters, but you can leave them blank.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215003Z" creationid="Leo" creationdate="20210627T215003Z">
+        <seg>Por favor note que você não pode IGNORAR os parâmetros, mas você pode deixá-los em branco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3195,6 +3235,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065506Z" creationid="Leo" creationdate="20210627T065506Z">
         <seg>Definir valores em um objeto é tão simples quanto definir o valor de uma variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214921Z" creationid="Leo" creationdate="20210627T214921Z">
+        <seg>Simples!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4188,6 +4236,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023722Z" creationid="Leo" creationdate="20210623T023722Z">
         <seg>Então... boa pergunta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What if you wanted to use &lt;e0&gt;ExcludeTitle&lt;/e0&gt; but not fill in &lt;e1&gt;WinText&lt;/e1&gt; or &lt;e2&gt;WinTitle&lt;/e2&gt;?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214919Z" creationid="Leo" creationdate="20210627T214919Z">
+        <seg>E se você só quiser usar &lt;e0&gt;TituloExcluido&lt;/e0&gt; mas não preencher o espaço dedicado aos parâmetros &lt;e1&gt;TextoJanela&lt;/e1&gt; ou &lt;e2&gt;TituloJanela&lt;/e2&gt;?</seg>
       </tuv>
     </tu>
     <tu>

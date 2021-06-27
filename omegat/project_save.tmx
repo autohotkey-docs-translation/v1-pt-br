@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But don't be afraid to ask for help, we don't bite (hard).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215611Z" creationid="Leo" creationdate="20210627T215611Z">
+        <seg>Mas não se acanhe em pedir ajuda, nós não mordemos (forte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But in fact &lt;b0&gt;they are needed&lt;/b0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175627Z" creationid="Leo" creationdate="20210625T175627Z">
@@ -2511,6 +2519,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep trying and failing until your code fails no more.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215331Z" creationid="Leo" creationdate="20210627T215331Z">
+        <seg>Continue tentando e falhando até que seu código não falhe mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keys and their mysterious symbols</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192815Z" creationid="Leo" creationdate="20210622T192815Z">
@@ -2523,6 +2539,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192230Z" creationid="Leo" creationdate="20210622T192230Z">
         <seg>Aprenda a baixar e instalar o AutoHotKey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclas, executar programas e mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learning takes time, the "pros" you encounter did not learn to be masters in just a few hours or days.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215642Z" creationid="Leo" creationdate="20210627T215642Z">
+        <seg>Aprender leva tempo, os "pros" que você encontrar não dominaram a parada em apenas algumas horas ou dias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3887,6 +3911,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is how a lot of "pros" have learned.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215434Z" creationid="Leo" creationdate="20210627T215434Z">
+        <seg>Foi assim que muitos "pros" aprenderam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is perfectly fine since the if-statement only had one line of code associated with it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203229Z" creationid="Leo" creationdate="20210625T203229Z">
@@ -4124,6 +4156,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215153Z" creationid="Leo" creationdate="20210627T215153Z">
         <seg>Tentativa e erro é uma maneira muito comum e eficaz de aprender.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try, fail, try, fail, try, try, try, fail, fail, &lt;b0&gt;succeed!&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215422Z" creationid="Leo" creationdate="20210627T215422Z">
+        <seg>Tente, falhe, tente, falhe, tente, tente, falhe, falhe, &lt;b0&gt;consiga!&lt;/b0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4620,6 +4660,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212016Z" creationid="Leo" creationdate="20210627T212016Z">
         <seg>Disso você obterá uma caixa de mensagem com a palavra "Amarelo", porque é esse o valor que armazenamos na chave &lt;c2&gt;Cor&lt;/c2&gt; na &lt;a3&gt;seção anterior&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will learn a lot this way by reading the documentation, reading errors and learning what works and what doesn't.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215403Z" creationid="Leo" creationdate="20210627T215403Z">
+        <seg>Você vai aprender um bocado desse jeito lendo a documentação, lendo os erros e descobrindo o que funciona e o que não.</seg>
       </tuv>
     </tu>
     <tu>

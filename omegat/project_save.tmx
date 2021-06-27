@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Banana := Object("Color", "Yellow", "Taste", "Delicious", "Price", 3)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065043Z" creationid="Leo" creationdate="20210627T065043Z">
+        <seg>Banana := Object("Cor", "Amarelo", "Gosto", "Delicioso", Preco", 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Banana := {"Color":</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064528Z" creationid="Leo" creationdate="20210627T064528Z">
@@ -2223,6 +2231,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It's important to remember that every one of these definitions all create the same thing (objects), just with different keys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065216Z" creationid="Leo" creationdate="20210627T065216Z">
+        <seg>É importante lembrar que cada uma das definições acima cria a mesma coisa — objetos — apenas com diferentes chaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Just kidding.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211849Z" creationid="Leo" creationdate="20210622T211849Z">
@@ -2579,6 +2595,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025046Z" creationid="Leo" creationdate="20210623T025046Z">
         <seg>Numpad0 &amp; Numpad1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Object function</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065015Z" creationid="Leo" creationdate="20210627T065015Z">
+        <seg>Função-objeto</seg>
       </tuv>
     </tu>
     <tu>
@@ -3223,6 +3247,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are many ways to use objects, including retrieving values, setting values, adding more values, and more.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065301Z" creationid="Leo" creationdate="20210627T065301Z">
+        <seg>Há várias formas de se usar objetos, inclusive obter valores, definir valores, adicionar mais valores e mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are no restrictions to what a key or value can be, and they can even be other arrays!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053756Z" creationid="Leo" creationdate="20210626T053756Z">
@@ -3331,6 +3363,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004805Z" creationid="Leo" creationdate="20210624T004805Z">
         <seg>Isso é porque &lt;c7&gt;!A&lt;/c7&gt; faz pressionar &lt;k8&gt;Alt&lt;/k8&gt;+&lt;k9&gt;Shift&lt;/k9&gt;+&lt;k10&gt;A&lt;/k10&gt; e &lt;c11&gt;!a&lt;/c11&gt; faz pressionar &lt;k12&gt;Alt&lt;/k12&gt;+&lt;k13&gt;A&lt;/k13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is equivalent to the brace syntax, but wrapped in a function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065126Z" creationid="Leo" creationdate="20210627T065126Z">
+        <seg>A forma acima é equivalente à sintaxe com chaves, mas envolta em uma função.</seg>
       </tuv>
     </tu>
     <tu>

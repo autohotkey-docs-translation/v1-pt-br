@@ -3521,8 +3521,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Sending Keystrokes</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192954Z" creationid="Leo" creationdate="20210622T192954Z">
-        <seg>Enviando pressionamento de teclas</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210628T081206Z" creationid="Leo" creationdate="20210622T192954Z">
+        <seg>Enviando pressionamentos de teclas</seg>
       </tuv>
     </tu>
     <tu>

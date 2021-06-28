@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4 - Running Programs &amp; Websites</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210628T081123Z" creationid="Leo" creationdate="20210628T081123Z">
+        <seg>Executando programas e abrindo sites da web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>5 - Commands vs. Functions()</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183444Z" creationid="Leo" creationdate="20210625T183444Z">
@@ -3401,8 +3409,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Running Programs &amp; Websites</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193015Z" creationid="Leo" creationdate="20210622T193015Z">
-        <seg>Executando programas e abrindo sites</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210628T081128Z" creationid="Leo" creationdate="20210622T193015Z">
+        <seg>Executando programas e abrindo sites da web</seg>
       </tuv>
     </tu>
     <tu>

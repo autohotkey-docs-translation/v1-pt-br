@@ -1328,8 +1328,8 @@
       <tuv lang="en">
         <seg>Anything inside of these brackets are &lt;b2&gt;&lt;i3&gt;OPTIONAL&lt;/i3&gt;&lt;/b2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214405Z" creationid="Leo" creationdate="20210627T214405Z">
-        <seg>Tudo o que estiver dentro desses colchetes é &lt;b2&gt;OPCIONAL&lt;i3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210628T024645Z" creationid="Leo" creationdate="20210627T214405Z">
+        <seg>Tudo o que estiver dentro desses colchetes é &lt;b2&gt;&lt;i3&gt;OPCIONAL&lt;/i3&gt;&lt;/b2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

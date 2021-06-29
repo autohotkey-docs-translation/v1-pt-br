@@ -5658,8 +5658,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>When you are assigning a value to a variable using the legacy mode (an equal sign with no symbol in front of it).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051020Z" creationid="Leo" creationdate="20210626T051020Z">
-        <seg>Wdo você está atribuindo um valor a uma variável usando o modo legado (um sinal de igualdade sem nenhum símbolo na frente do "=").</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060704Z" creationid="Leo" creationdate="20210626T051020Z">
+        <seg>Quando você está atribuindo um valor a uma variável usando o modo legado (um sinal de igualdade sem nenhum símbolo na frente do "=").</seg>
       </tuv>
     </tu>
     <tu>
@@ -5746,8 +5746,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Without them, programming and scripting would be much more tedious.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203530Z" creationid="Leo" creationdate="20210625T203530Z">
-        <seg>Sem elas, a programação e a confecção de scripts seria muito mais tediosa.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060503Z" creationid="Leo" creationdate="20210625T203530Z">
+        <seg>Sem elas, a programação e a confecção de scripts seriam muito mais tediosa.</seg>
       </tuv>
     </tu>
     <tu>

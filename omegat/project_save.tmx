@@ -2496,8 +2496,8 @@
       <tuv lang="en">
         <seg>For a list of all built-in commands, function and variables, see &lt;a0&gt;section 5&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202649Z" creationid="Leo" creationdate="20210622T202649Z">
-        <seg>Para uma lista de comandos, funções e variáveis nativos, veja a seção 5.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210206Z" creationid="Leo" creationdate="20210622T202649Z">
+        <seg>Para uma lista de comandos, funções e variáveis nativos, veja a &lt;a0&gt;seção 5&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6314,8 +6314,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>they affect all hotkeys and hotstrings physically beneath them in the script.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154813Z" creationid="Leo" creationdate="20210623T154813Z">
-        <seg>Elas afetam todas as hotkeys e hotstrings fisicamente abaixo delas no script.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210229Z" creationid="Leo" creationdate="20210623T154813Z">
+        <seg>elas afetam todas as hotkeys e hotstrings fisicamente abaixo delas no script.</seg>
       </tuv>
     </tu>
     <tu>

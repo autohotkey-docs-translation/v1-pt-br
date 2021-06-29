@@ -4897,8 +4897,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>There are some other advanced features as well, such as command line parameters and CLSID.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183115Z" creationid="Leo" creationdate="20210625T183115Z">
-        <seg>Há outras funcionalidades avançadas também, como parâmetros da linha de comando e CLSID.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T233556Z" creationid="Leo" creationdate="20210625T183115Z">
+        <seg>Há outras funcionalidades avançadas, como parâmetros da linha de comando e CLSID.</seg>
       </tuv>
     </tu>
     <tu>

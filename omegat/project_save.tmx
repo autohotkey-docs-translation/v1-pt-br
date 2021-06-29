@@ -2134,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Esc::</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044347Z" creationid="Leo" creationdate="20210629T044347Z">
+        <seg>Esc::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Everywhere in expressions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051246Z" creationid="Leo" creationdate="20210626T051246Z">

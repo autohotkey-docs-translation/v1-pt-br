@@ -584,8 +584,8 @@
       <tuv lang="en">
         <seg>::msg::You typed msg in Notepad</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T155025Z" creationid="Leo" creationdate="20210623T155025Z">
-        <seg>::msg::Você digitou "msg" dentro do Bloco de Notas</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T230003Z" creationid="Leo" creationdate="20210623T155025Z">
+        <seg>::msg::Você digitou "msg" dentro do Bloco de Notas.</seg>
       </tuv>
     </tu>
     <tu>

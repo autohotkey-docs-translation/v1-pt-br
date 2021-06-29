@@ -70,10 +70,234 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#s1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044059Z" creationid="Leo" creationdate="20210629T044059Z">
+        <seg>#s1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s11</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044102Z" creationid="Leo" creationdate="20210629T044102Z">
+        <seg>#s11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s12</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044104Z" creationid="Leo" creationdate="20210629T044104Z">
+        <seg>#s12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s13</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044106Z" creationid="Leo" creationdate="20210629T044106Z">
+        <seg>#s13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s14</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044107Z" creationid="Leo" creationdate="20210629T044107Z">
+        <seg>#s14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044110Z" creationid="Leo" creationdate="20210629T044110Z">
+        <seg>#s2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s21</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044112Z" creationid="Leo" creationdate="20210629T044112Z">
+        <seg>#s21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s22</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044113Z" creationid="Leo" creationdate="20210629T044113Z">
+        <seg>#s22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s23</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044114Z" creationid="Leo" creationdate="20210629T044114Z">
+        <seg>#s23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s24</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044115Z" creationid="Leo" creationdate="20210629T044115Z">
+        <seg>#s24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s3</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044115Z" creationid="Leo" creationdate="20210629T044115Z">
+        <seg>#s3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s31</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044117Z" creationid="Leo" creationdate="20210629T044117Z">
+        <seg>#s31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s4</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044118Z" creationid="Leo" creationdate="20210629T044118Z">
+        <seg>#s4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s5</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044120Z" creationid="Leo" creationdate="20210629T044120Z">
+        <seg>#s5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s51</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044201Z" creationid="Leo" creationdate="20210629T044201Z">
+        <seg>#s51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s6</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044203Z" creationid="Leo" creationdate="20210629T044203Z">
+        <seg>#s6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s61</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044204Z" creationid="Leo" creationdate="20210629T044204Z">
+        <seg>#s61</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s62</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044205Z" creationid="Leo" creationdate="20210629T044205Z">
+        <seg>#s62</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s63</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044205Z" creationid="Leo" creationdate="20210629T044205Z">
+        <seg>#s63</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s7</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044207Z" creationid="Leo" creationdate="20210629T044207Z">
+        <seg>#s7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#s71</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211813Z" creationid="Leo" creationdate="20210627T211813Z">
         <seg>#s71</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s72</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044209Z" creationid="Leo" creationdate="20210629T044209Z">
+        <seg>#s72</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s8</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044210Z" creationid="Leo" creationdate="20210629T044210Z">
+        <seg>#s8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s81</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044211Z" creationid="Leo" creationdate="20210629T044211Z">
+        <seg>#s81</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s82</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044212Z" creationid="Leo" creationdate="20210629T044212Z">
+        <seg>#s82</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s83</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044213Z" creationid="Leo" creationdate="20210629T044213Z">
+        <seg>#s83</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s84</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044215Z" creationid="Leo" creationdate="20210629T044215Z">
+        <seg>#s84</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s85</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044216Z" creationid="Leo" creationdate="20210629T044216Z">
+        <seg>#s85</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#s86</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044217Z" creationid="Leo" creationdate="20210629T044217Z">
+        <seg>#s86</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +314,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043305Z" creationid="Leo" creationdate="20210629T043305Z">
         <seg>+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044330Z" creationid="Leo" creationdate="20210629T044330Z">
+        <seg>...</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +1090,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051240Z" creationid="Leo" creationdate="20210626T051240Z">
         <seg>&lt;c0&gt;if &lt;s1&gt;Var1&lt;/s1&gt; &lt; %var2%&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;return&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044321Z" creationid="Leo" creationdate="20210629T044321Z">
+        <seg>&lt;c0&gt;return&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2721,8 +2961,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Just kidding.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211849Z" creationid="Leo" creationdate="20210622T211849Z">
-        <seg>Brincadeira.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044346Z" creationid="Leo" creationdate="20210622T211849Z">
+        <seg>Brincadeirinha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3811,6 +4051,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192525Z" creationid="Leo" creationdate="20210622T192525Z">
         <seg>Sumário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text instructions:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044230Z" creationid="Leo" creationdate="20210629T044230Z">
+        <seg>Instruções em texto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5036,6 +5284,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043308Z" creationid="Leo" creationdate="20210629T043308Z">
         <seg>^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^j::</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044316Z" creationid="Leo" creationdate="20210629T044316Z">
+        <seg>^j::</seg>
       </tuv>
     </tu>
     <tu>

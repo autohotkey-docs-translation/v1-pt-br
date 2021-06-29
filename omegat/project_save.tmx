@@ -456,8 +456,8 @@
       <tuv lang="en">
         <seg>6 - Variables</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050353Z" creationid="Leo" creationdate="20210629T050353Z">
-        <seg>6 - Variables</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060354Z" creationid="Leo" creationdate="20210629T050353Z">
+        <seg>6 - Variáveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -1648,8 +1648,8 @@
       <tuv lang="en">
         <seg>Additionally, you cannot do math in the parameters, unlike functions.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T190729Z" creationid="Leo" creationdate="20210625T190729Z">
-        <seg>Alem disso, nos comandos você não pode fazer operações matemáticas nos parâmetros, ao contrário das funções.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060328Z" creationid="Leo" creationdate="20210625T190729Z">
+        <seg>Além disso, nos comandos você não pode fazer operações matemáticas nos parâmetros, ao contrário das funções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5065,8 +5065,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This is perfectly fine since the if-statement only had one line of code associated with it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203229Z" creationid="Leo" creationdate="20210625T203229Z">
-        <seg>Isso funciona perfeitamente já que a instrução com If só tinha uma linhad e código associada a ela.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060347Z" creationid="Leo" creationdate="20210625T203229Z">
+        <seg>Isso funciona perfeitamente já que a instrução com If só tinha uma linha de código associada a ela.</seg>
       </tuv>
     </tu>
     <tu>

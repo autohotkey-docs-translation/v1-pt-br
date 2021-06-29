@@ -2040,8 +2040,8 @@
       <tuv lang="en">
         <seg>But now you are wondering &lt;i0&gt;"How can I make my really long Send commands readable?"&lt;/i0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181213Z" creationid="Leo" creationdate="20210625T181213Z">
-        <seg>Agora você deve estar se perguntando: &lt;i0&gt;"Como eu faço meu comando Send, que ficou bem longo, mais legível?"&lt;/i0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220427Z" creationid="Leo" creationdate="20210625T181213Z">
+        <seg>Agora você deve estar se perguntando: &lt;i0&gt;“Como eu faço meu comando Send, que ficou bem longo, mais legível?”&lt;/i0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3185,8 +3185,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>It's how AHK knows that &lt;c1&gt;{!}&lt;/c1&gt; means "exclamation point" and not "press &lt;k2&gt;Alt&lt;/k2&gt;".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175713Z" creationid="Leo" creationdate="20210625T175713Z">
-        <seg>É assim que o AHK sabe que &lt;c1&gt;{!}&lt;/c1&gt; significa "ponto de exclamação" e não "pressione &lt;k2&gt;Alt&lt;/k2&gt;".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220349Z" creationid="Leo" creationdate="20210625T175713Z">
+        <seg>É assim que o AHK sabe que &lt;c1&gt;{!}&lt;/c1&gt; significa “ponto de exclamação” e não “pressione &lt;k2&gt;Alt&lt;/k2&gt;”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4385,8 +4385,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Simply replace the command name "Send" with one of the following:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181737Z" creationid="Leo" creationdate="20210625T181737Z">
-        <seg>Simplesmente substitua o comando de nome "Send" com outro dentre os seguintes:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220451Z" creationid="Leo" creationdate="20210625T181737Z">
+        <seg>Simplesmente substitua o comando de nome “Send” por outro dentre os seguintes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4401,8 +4401,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Simply specify an opening parenthesis on a new line, then your content, finally a closing parenthesis on its own line.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181505Z" creationid="Leo" creationdate="20210625T181505Z">
-        <seg>Apenas insira um "abre-parênteses" numa nova linha, depois insira seu código e finalmente feche o parêntese em uma linha só dele.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220436Z" creationid="Leo" creationdate="20210625T181505Z">
+        <seg>Apenas insira um “abre-parênteses” numa nova linha, depois insira seu código e finalmente feche o parêntese em uma linha só dele.</seg>
       </tuv>
     </tu>
     <tu>

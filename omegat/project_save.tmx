@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044745Z" creationid="Leo" creationdate="20210629T044745Z">
+        <seg>!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>" 5 + MyVar2</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204410Z" creationid="Leo" creationdate="20210625T204410Z">
@@ -5460,6 +5468,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202251Z" creationid="Leo" creationdate="20210625T202251Z">
         <seg>commands/Loop.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>commands/PixelGetColor.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044906Z" creationid="Leo" creationdate="20210629T044906Z">
+        <seg>commands/PixelGetColor.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>commands/PixelSearch.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044904Z" creationid="Leo" creationdate="20210629T044904Z">
+        <seg>commands/PixelSearch.htm</seg>
       </tuv>
     </tu>
     <tu>

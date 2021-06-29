@@ -2144,8 +2144,8 @@
       <tuv lang="en">
         <seg>Commands also differ from function in that they use "legacy syntax".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T185706Z" creationid="Leo" creationdate="20210625T185230Z">
-        <seg>Comandos também se diferenciam das funções na medida em que aqueles usam a "sintaxe legada".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220527Z" creationid="Leo" creationdate="20210625T185230Z">
+        <seg>Comandos também se diferenciam das funções na medida em que aqueles usam a “sintaxe legada”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2825,8 +2825,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>However there are methods that can increase the chance of working in some games, but there is no magical &lt;i0&gt;"make it work in my game now!!!"&lt;/i0&gt; button.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182312Z" creationid="Leo" creationdate="20210625T182312Z">
-        <seg>No entanto, há métodos que podem aumentar as chances de funcionar em alguns jogos, mas não há nenhum botão mágico do tipo &lt;i0&gt;"funcione no meu jogo agora!!!"&lt;/i0&gt;</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220511Z" creationid="Leo" creationdate="20210625T182312Z">
+        <seg>No entanto, há métodos que podem aumentar as chances de funcionar em alguns jogos, mas não há nenhum botão mágico do tipo &lt;i0&gt;“funcione no meu jogo agora!!!”&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3049,8 +3049,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>In this example, the value &lt;c0&gt;"one"&lt;/c0&gt; is stored in object key &lt;c1&gt;1&lt;/c1&gt; (aka index 1), and the value &lt;c2&gt;17&lt;/c2&gt; is stored in object key &lt;c3&gt;4&lt;/c3&gt; (aka index 4).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064503Z" creationid="Leo" creationdate="20210627T064503Z">
-        <seg>No exemplo posto, o valor &lt;c0&gt;"um"&lt;/c0&gt; é armazenado na chave &lt;c1&gt;1&lt;/c1&gt; do objeto (também conhecido como índice 1), e o valor &lt;c2&gt;17&lt;/c2&gt; é armazenado na chave &lt;c3&gt;4&lt;/c3&gt; do objeto (ou índice 4).</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220746Z" creationid="Leo" creationdate="20210627T064503Z">
+        <seg>No exemplo posto, o valor &lt;c0&gt;“um”&lt;/c0&gt; é armazenado na chave &lt;c1&gt;1&lt;/c1&gt; do objeto (também conhecido como índice 1), e o valor &lt;c2&gt;17&lt;/c2&gt; é armazenado na chave &lt;c3&gt;4&lt;/c3&gt; do objeto (ou índice 4).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3289,16 +3289,16 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Legacy text assignment</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203652Z" creationid="Leo" creationdate="20210625T203652Z">
-        <seg>Forma "legada" de atribuição de texto</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220550Z" creationid="Leo" creationdate="20210625T203652Z">
+        <seg>Forma “legada” de atribuição de texto</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Legacy variable assignment</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203840Z" creationid="Leo" creationdate="20210625T203840Z">
-        <seg>Forma "legada" de atribuição de variáveis</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220556Z" creationid="Leo" creationdate="20210625T203840Z">
+        <seg>Forma “legada” de atribuição de variáveis</seg>
       </tuv>
     </tu>
     <tu>
@@ -4809,8 +4809,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>The variable names are known as "Keys", and the contents of the variables are "Values".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053549Z" creationid="Leo" creationdate="20210626T053549Z">
-        <seg>Os nomes das variáveis são chamados "Chaves" (Keys), e o conteúdo das variáveis, "Valores" (values).</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220709Z" creationid="Leo" creationdate="20210626T053549Z">
+        <seg>Os nomes das variáveis são chamados “Chaves” (Keys), e o conteúdo das variáveis, “Valores” (values).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5153,8 +5153,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This will let you start of by defining what is sometimes called an "associative array".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064620Z" creationid="Leo" creationdate="20210627T064620Z">
-        <seg>A forma acima permite que você defina um "vetor associativo".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220757Z" creationid="Leo" creationdate="20210627T064620Z">
+        <seg>A forma acima permite que você defina um “vetor associativo”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5178,8 +5178,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This will start you off with what is sometimes called an "indexed array".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064304Z" creationid="Leo" creationdate="20210627T064304Z">
-        <seg>Isso o iniciará naquilo que se chama "vetor indexado".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220721Z" creationid="Leo" creationdate="20210627T064304Z">
+        <seg>Isso o iniciará naquilo que se chama “vetor indexado”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,8 +5650,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>When you are assigning a value to a variable using the legacy mode (an equal sign with no symbol in front of it).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060704Z" creationid="Leo" creationdate="20210626T051020Z">
-        <seg>Quando você está atribuindo um valor a uma variável usando o modo legado (um sinal de igualdade sem nenhum símbolo na frente do "=").</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220611Z" creationid="Leo" creationdate="20210626T051020Z">
+        <seg>Quando você está atribuindo um valor a uma variável usando o modo legado (um sinal de igualdade sem nenhum símbolo na frente do “=”).</seg>
       </tuv>
     </tu>
     <tu>

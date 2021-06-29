@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>6 - Variables</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050353Z" creationid="Leo" creationdate="20210629T050353Z">
+        <seg>6 - Variables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>7 - Objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053118Z" creationid="Leo" creationdate="20210626T053118Z">
@@ -1142,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;IfEqual&lt;/a0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050343Z" creationid="Leo" creationdate="20210629T050343Z">
+        <seg>&lt;a0&gt;IfEqual&lt;/a0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;In section 5&lt;/a0&gt; we'll talk about why it doesn't work as you might expect and what you can do instead.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211151Z" creationid="Leo" creationdate="20210622T211151Z">
@@ -1214,10 +1230,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;&lt;s1&gt;Var&lt;/s1&gt; = 123abc&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050356Z" creationid="Leo" creationdate="20210629T050356Z">
+        <seg>&lt;c0&gt;&lt;s1&gt;Var&lt;/s1&gt; = 123abc&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;Send, My First Script&lt;/c0&gt; is how you &lt;s1&gt;send&lt;/s1&gt; keystrokes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210259Z" creationid="Leo" creationdate="20210622T210259Z">
         <seg>&lt;c0&gt;Send, Meu primeiro script&lt;/c0&gt; é como você envia (&lt;s1&gt;send&lt;/s1&gt;) pressionamentos de teclas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;StringLen, &lt;s1&gt;OutputVar&lt;/s1&gt;, &lt;s2&gt;InputVar&lt;/s2&gt;&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050354Z" creationid="Leo" creationdate="20210629T050354Z">
+        <seg>&lt;c0&gt;StringLen, &lt;s1&gt;OutputVar&lt;/s1&gt;, &lt;s2&gt;InputVar&lt;/s2&gt;&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,6 +1522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181830Z" creationid="Leo" creationdate="20210625T181830Z">
         <seg>&lt;s0&gt;Isto é importante:&lt;/s0&gt; vários jogos, especialmente os mais modernos, têm sistemas de prevenção de cheats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s2&gt;Var1&lt;/s2&gt; := &lt;s3&gt;Var2&lt;/s3&gt; + 100</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050358Z" creationid="Leo" creationdate="20210629T050358Z">
+        <seg>&lt;s2&gt;Var1&lt;/s2&gt; := &lt;s3&gt;Var2&lt;/s3&gt; + 100</seg>
       </tuv>
     </tu>
     <tu>
@@ -2098,6 +2138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T184018Z" creationid="Leo" creationdate="20210625T184018Z">
         <seg>Comando, Parâmetro1, Parâmetro2, Parâmetro3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050342Z" creationid="Leo" creationdate="20210629T050342Z">
+        <seg>Commands</seg>
       </tuv>
     </tu>
     <tu>
@@ -3367,6 +3415,30 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox, Hello</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050346Z" creationid="Leo" creationdate="20210629T050346Z">
+        <seg>MsgBox, Hello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, Hello Run, notepad.exe</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050345Z" creationid="Leo" creationdate="20210629T050345Z">
+        <seg>MsgBox, Hello Run, notepad.exe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, Hello, Run, notepad.exe</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050346Z" creationid="Leo" creationdate="20210629T050346Z">
+        <seg>MsgBox, Hello, Run, notepad.exe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, MyVar equals %MyVar%!!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203022Z" creationid="Leo" creationdate="20210625T203022Z">
@@ -3935,6 +4007,38 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run, %A_MyDocuments%</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050339Z" creationid="Leo" creationdate="20210629T050339Z">
+        <seg>Run, %A_MyDocuments%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run, %A_ProgramFiles%\Some_Program\Program.exe</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050335Z" creationid="Leo" creationdate="20210629T050335Z">
+        <seg>Run, %A_ProgramFiles%\Some_Program\Program.exe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run, https://www.autohotkey.com</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050336Z" creationid="Leo" creationdate="20210629T050336Z">
+        <seg>Run, https://www.autohotkey.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run, https://www.google.com</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050340Z" creationid="Leo" creationdate="20210629T050340Z">
+        <seg>Run, https://www.google.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run, https://www.google.com/</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045925Z" creationid="Leo" creationdate="20210629T045925Z">
@@ -4463,6 +4567,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>StringReplace, Output, Input, AutoHotkey, AutoHotKey, All</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050352Z" creationid="Leo" creationdate="20210629T050352Z">
+        <seg>StringReplace, Output, Input, AutoHotkey, AutoHotKey, All</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>StringSplit, Var, Var, x</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045551Z" creationid="Leo" creationdate="20210629T045551Z">
@@ -4475,6 +4587,38 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202202Z" creationid="Leo" creationdate="20210625T202202Z">
         <seg>SubStr("Estou escrevendo código, maravilha!", 16)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SubStr(37 * 12, 1, 2)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050348Z" creationid="Leo" creationdate="20210629T050348Z">
+        <seg>SubStr(37 * 12, 1, 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SubStr(A_AhkPath, InStr(A_AhkPath, "AutoHotkey"))</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050351Z" creationid="Leo" creationdate="20210629T050351Z">
+        <seg>SubStr(A_AhkPath, InStr(A_AhkPath, "AutoHotkey"))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SubStr(A_Hour - 12, 2)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050349Z" creationid="Leo" creationdate="20210629T050349Z">
+        <seg>SubStr(A_Hour - 12, 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SubStr(A_Now, 7, 2)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050350Z" creationid="Leo" creationdate="20210629T050350Z">
+        <seg>SubStr(A_Now, 7, 2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5336,6 +5480,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Variables.htm#BuiltIn</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050338Z" creationid="Leo" creationdate="20210629T050338Z">
+        <seg>Variables.htm#BuiltIn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Visit &lt;a0&gt;Hotkeys&lt;/a0&gt; and &lt;a1&gt;Hotstrings&lt;/a1&gt; for additional hotkey and hotstring modifiers, information and examples.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025700Z" creationid="Leo" creationdate="20210623T025700Z">
@@ -5872,6 +6024,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>commands/IfEqual.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050342Z" creationid="Leo" creationdate="20210629T050342Z">
+        <seg>commands/IfEqual.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>commands/IfExpression.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202250Z" creationid="Leo" creationdate="20210625T202250Z">
@@ -5884,6 +6044,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045535Z" creationid="Leo" creationdate="20210629T045535Z">
         <seg>commands/IfMsgBox.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>commands/ImageSearch.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050333Z" creationid="Leo" creationdate="20210629T050333Z">
+        <seg>commands/ImageSearch.htm</seg>
       </tuv>
     </tu>
     <tu>
@@ -5928,6 +6096,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>commands/Run.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050334Z" creationid="Leo" creationdate="20210629T050334Z">
+        <seg>commands/Run.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>commands/Send.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043313Z" creationid="Leo" creationdate="20210629T043313Z">
@@ -5940,6 +6116,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045923Z" creationid="Leo" creationdate="20210629T045923Z">
         <seg>commands/_IfWinActive.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>commands/index.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050341Z" creationid="Leo" creationdate="20210629T050341Z">
+        <seg>commands/index.htm</seg>
       </tuv>
     </tu>
     <tu>
@@ -5980,6 +6164,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T222022Z" creationid="Leo" creationdate="20210627T222022Z">
         <seg>f.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://en.wikipedia.org/wiki/Indentation_style</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050418Z" creationid="Leo" creationdate="20210629T050418Z">
+        <seg>https://en.wikipedia.org/wiki/Indentation_style</seg>
       </tuv>
     </tu>
     <tu>

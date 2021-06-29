@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FAQ.htm#games</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043718Z" creationid="Leo" creationdate="20210629T043718Z">
+        <seg>FAQ.htm#games</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FileExist(VariableContainingPath)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202224Z" creationid="Leo" creationdate="20210625T202224Z">
@@ -3459,6 +3467,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210532Z" creationid="Leo" creationdate="20210622T210532Z">
         <seg>Salve o arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts.htm#continuation</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043641Z" creationid="Leo" creationdate="20210629T043641Z">
+        <seg>Scripts.htm#continuation</seg>
       </tuv>
     </tu>
     <tu>

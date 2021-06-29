@@ -1152,8 +1152,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;In section 5&lt;/a0&gt; we'll talk about why it doesn't work as you might expect and what you can do instead.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211151Z" creationid="Leo" creationdate="20210622T211151Z">
-        <seg>&lt;a0&gt;Na seção 5&lt;/a0&gt; vamos falar sobre o porquê de não funcionar do jeito que você espera e o que você pode fazer para consertar.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221754Z" creationid="Leo" creationdate="20210622T211151Z">
+        <seg>Na &lt;a0&gt;seção 5&lt;/a0&gt; vamos falar sobre o porquê de não funcionar do jeito que você espera e o que você pode fazer para consertar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5161,8 +5161,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This will prevent many issues when you start having a lot of stuff in your scripts.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210529Z" creationid="Leo" creationdate="20210622T210529Z">
-        <seg>Isso vai prevenir muitos problemas quando você começar a ter um bocado de coisas em seus scripts.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221742Z" creationid="Leo" creationdate="20210622T210529Z">
+        <seg>Isso vai prevenir muitos problemas quando você começar a ter um cadinho de coisas em seus scripts.</seg>
       </tuv>
     </tu>
     <tu>

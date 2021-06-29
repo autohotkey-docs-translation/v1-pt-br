@@ -696,8 +696,8 @@
       <tuv lang="en">
         <seg>; Copies the selected text. ^c could be used as well, but this method is more secure.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003336Z" creationid="Leo" creationdate="20210624T003336Z">
-        <seg>; Copia o texto selecionado. ^c também poderia ser usado, mas este método é mais seguro.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T231239Z" creationid="Leo" creationdate="20210624T003336Z">
+        <seg>; Copia o texto selecionado. ^c também poderia ser usado, mas aquele método é mais seguro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2512,8 +2512,8 @@
       <tuv lang="en">
         <seg>For example, &lt;c1&gt;Send, This is text!a&lt;/c1&gt; would send the keys "This is text" and then press &lt;k2&gt;Alt&lt;/k2&gt;+&lt;k3&gt;A&lt;/k3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220304Z" creationid="Leo" creationdate="20210624T004606Z">
-        <seg>Por exemplo, &lt;c1&gt;Send, Isto é texto!a&lt;/c1&gt; enviaria as letras (teclas) “Isto é texto!” e depois pressionaria &lt;k2&gt;Alt&lt;/k2&gt;+&lt;k3&gt;A&lt;/k3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T231355Z" creationid="Leo" creationdate="20210624T004606Z">
+        <seg>Por exemplo, &lt;c1&gt;Send, Isto é texto!a&lt;/c1&gt; enviaria as letras (teclas) “Isto é texto” e depois pressionaria &lt;k2&gt;Alt&lt;/k2&gt;+&lt;k3&gt;A&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3217,8 +3217,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Just like hotkeys, the Send command has special keys too.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003641Z" creationid="Leo" creationdate="20210624T003641Z">
-        <seg>Da mesma forma que hotkeys, o comando Send tem teclas especiais também.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T231342Z" creationid="Leo" creationdate="20210624T003641Z">
+        <seg>Da mesma forma que hotkeys, o comando Send também tem teclas especiais.</seg>
       </tuv>
     </tu>
     <tu>

@@ -376,8 +376,8 @@
       <tuv lang="en">
         <seg>(For the full list of symbols, see the &lt;a0&gt;Hotkey&lt;/a0&gt; page)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024621Z" creationid="Leo" creationdate="20210623T024621Z">
-        <seg>(Para a lista completa de símbolos, veja a página sobre &lt;a0&gt;Hotkey&lt;/a0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T205823Z" creationid="Leo" creationdate="20210623T024621Z">
+        <seg>(Para a lista completa de símbolos, veja a página sobre &lt;a0&gt;Hotkeys&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1192,8 +1192,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;The WinTitle Parameter &amp; the Last Found Window&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030450Z" creationid="Leo" creationdate="20210623T030159Z">
-        <seg>&lt;a0&gt;O parâmetro WinTitle &amp; a Última Janela Encontrada&lt;/a0&gt; (em inglês.)</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T205810Z" creationid="Leo" creationdate="20210623T030159Z">
+        <seg>&lt;a0&gt;O parâmetro WinTitle &amp; a Última Janela Encontrada&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1640,8 @@
       <tuv lang="en">
         <seg>Additionally, for a list of all/most hotkey names that can be used on the &lt;b0&gt;left&lt;/b0&gt; side of a hotkey's double-colon, see &lt;a1&gt;List of Keys, Mouse Buttons, and Joystick Controls&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024818Z" creationid="Leo" creationdate="20210623T024818Z">
-        <seg>Mais que isso, para ver uma lista com todos/quase todos nomes de hotkeys que podem ser usadas no lado &lt;b0&gt;esquerdo&lt;/b0&gt; do sinal duplo de dois-pontos da hotkey, veja &lt;a1&gt;Lista de Teclas, Botões do Mouse e Controle do Joystick&lt;/a1&gt; (em inglês).</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T205744Z" creationid="Leo" creationdate="20210623T024818Z">
+        <seg>Mais que isso, para ver uma lista com todos/quase todos nomes de hotkeys que podem ser usadas no lado &lt;b0&gt;esquerdo&lt;/b0&gt; do sinal duplo de dois-pontos da hotkey, veja &lt;a1&gt;Lista de Teclas, Botões do Mouse e Controle do Joystick&lt;/a1&gt; (por enquanto em inglês).</seg>
       </tuv>
     </tu>
     <tu>

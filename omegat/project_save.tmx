@@ -3215,6 +3215,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox, %A_AhkVersion%</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045719Z" creationid="Leo" creationdate="20210629T045719Z">
+        <seg>MsgBox, %A_AhkVersion%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, %OutputVar%`, That makes me sad.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051848Z" creationid="Leo" creationdate="20210626T051848Z">

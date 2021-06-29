@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>3}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045554Z" creationid="Leo" creationdate="20210629T045554Z">
+        <seg>3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>4 - Running Programs &amp; Websites</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210628T081123Z" creationid="Leo" creationdate="20210628T081123Z">
@@ -410,6 +418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053118Z" creationid="Leo" creationdate="20210626T053118Z">
         <seg>7 - Objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>8 - Other Helpful Goodies</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045556Z" creationid="Leo" creationdate="20210629T045556Z">
+        <seg>8 - Other Helpful Goodies</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a1&gt;IfMsgBox&lt;/a1&gt;, No</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045537Z" creationid="Leo" creationdate="20210629T045537Z">
+        <seg>&lt;a1&gt;IfMsgBox&lt;/a1&gt;, No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;Send, My First Script&lt;/c0&gt; is how you &lt;s1&gt;send&lt;/s1&gt; keystrokes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210259Z" creationid="Leo" creationdate="20210622T210259Z">
@@ -1282,6 +1306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052326Z" creationid="Leo" creationdate="20210626T052326Z">
         <seg>&lt;e5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e6&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045542Z" creationid="Leo" creationdate="20210629T045542Z">
+        <seg>&lt;e6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3191,6 +3223,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox, %Var%</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045548Z" creationid="Leo" creationdate="20210629T045548Z">
+        <seg>MsgBox, %Var%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, Be careful!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220724Z" creationid="Leo" creationdate="20210627T220724Z">
@@ -4127,6 +4167,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>StringSplit, Var, Var, x</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045551Z" creationid="Leo" creationdate="20210629T045551Z">
+        <seg>StringSplit, Var, Var, x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SubStr("I'm scripting, awesome!", 16)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202202Z" creationid="Leo" creationdate="20210625T202202Z">
@@ -4896,6 +4944,30 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Var2 = %Var%</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045538Z" creationid="Leo" creationdate="20210629T045538Z">
+        <seg>Var2 = %Var%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Var3 := Var</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045539Z" creationid="Leo" creationdate="20210629T045539Z">
+        <seg>Var3 := Var</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Var4 .= Var</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045541Z" creationid="Leo" creationdate="20210629T045541Z">
+        <seg>Var4 .= Var</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Var5 += Number</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052354Z" creationid="Leo" creationdate="20210626T052354Z">
@@ -4912,10 +4984,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Var6 := SubStr(Var, 2, 2)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045544Z" creationid="Leo" creationdate="20210629T045544Z">
+        <seg>Var6 := SubStr(Var, 2, 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Var7 = %Var% Text</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052606Z" creationid="Leo" creationdate="20210626T052606Z">
         <seg>Var7 = %Var% Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Var8 := Var " Text"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045545Z" creationid="Leo" creationdate="20210629T045545Z">
+        <seg>Var8 := Var " Text"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5456,6 +5544,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>commands/IfMsgBox.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045535Z" creationid="Leo" creationdate="20210629T045535Z">
+        <seg>commands/IfMsgBox.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>commands/InputBox.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051334Z" creationid="Leo" creationdate="20210626T051334Z">
@@ -5468,6 +5564,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202251Z" creationid="Leo" creationdate="20210625T202251Z">
         <seg>commands/Loop.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>commands/MsgBox.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045532Z" creationid="Leo" creationdate="20210629T045532Z">
+        <seg>commands/MsgBox.htm</seg>
       </tuv>
     </tu>
     <tu>
@@ -5604,6 +5708,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053008Z" creationid="Leo" creationdate="20210626T053008Z">
         <seg>if Numero = 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if Var1 &lt; %Var2%</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045553Z" creationid="Leo" creationdate="20210629T045553Z">
+        <seg>if Var1 &lt; %Var2%</seg>
       </tuv>
     </tu>
     <tu>

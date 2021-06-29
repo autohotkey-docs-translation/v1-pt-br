@@ -5242,8 +5242,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>To hold down or release a key, enclose the key name in curly brackets and then use the word UP or DOWN.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180912Z" creationid="Leo" creationdate="20210625T180912Z">
-        <seg>Para segurar ou soltar uma tecla, envolve o nome da tecla em chaves e aí use as palavras UP ou DOWN.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T232339Z" creationid="Leo" creationdate="20210625T180912Z">
+        <seg>Para segurar ou soltar uma tecla, envolva o nome da tecla em chaves e aí use as palavras UP ou DOWN.</seg>
       </tuv>
     </tu>
     <tu>

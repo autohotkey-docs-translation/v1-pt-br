@@ -1656,8 +1656,8 @@
       <tuv lang="en">
         <seg>After removing the keys it takes all higher numbered/integer keys and moves them down to fill the gap, so that if there was a value at &lt;i3&gt;Index + Length&lt;/i3&gt; it will now be at &lt;i4&gt;Index&lt;/i4&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214105Z" creationid="Leo" creationdate="20210627T214105Z">
-        <seg>Depois de remover as chaves, ele tomará todas as chaves maiores remanescentes e as moverá para baixo para preencher a lacuna, de forma que, se havia um valor em &lt;i3&gt;Índice + Comprimento&lt;/i3&gt;, ele ficará agora em &lt;i4&gt;Índice&lt;/i4&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T211925Z" creationid="Leo" creationdate="20210627T214105Z">
+        <seg>Depois de remover as chaves, ele tomará todas as chaves maiores remanescentes e as moverá para baixo para preencher a lacuna, de forma que, se havia um valor em &lt;i3&gt;Indice + Comprimento&lt;/i3&gt;, ele ficará agora em &lt;i4&gt;Indice&lt;/i4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5121,8 +5121,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This removes all keys from &lt;i0&gt;Index&lt;/i0&gt; to &lt;i1&gt;Index + Length - 1&lt;/i1&gt; (inclusive).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213940Z" creationid="Leo" creationdate="20210627T213940Z">
-        <seg>Esse método remove todas as chaves do intervalo &lt;i0&gt;Índice&lt;/i0&gt; até &lt;i1&gt;Índice - Comprimento - 1&lt;/i1&gt; (inclusive).</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T211916Z" creationid="Leo" creationdate="20210627T213940Z">
+        <seg>Esse método remove todas as chaves do intervalo &lt;i0&gt;Indice&lt;/i0&gt; até &lt;i1&gt;Indice - Comprimento - 1&lt;/i1&gt; (inclusive).</seg>
       </tuv>
     </tu>
     <tu>

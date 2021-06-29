@@ -3601,8 +3601,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>MyObject.InsertAt(Index, Value1, Value2, Value3...)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212342Z" creationid="Leo" creationdate="20210627T212342Z">
-        <seg>MeuObjeto.InsertAt(Índice, Valor1, Valor2, Valor3...)</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T211752Z" creationid="Leo" creationdate="20210627T212342Z">
+        <seg>MeuObjeto.InsertAt(Indice, Valor1, Valor2, Valor3...)</seg>
       </tuv>
     </tu>
     <tu>

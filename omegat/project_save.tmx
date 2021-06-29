@@ -1448,8 +1448,8 @@
       <tuv lang="en">
         <seg>&lt;i0&gt;"So, how exactly does a person such as myself create a hotkey?"&lt;/i0&gt; Good question.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212508Z" creationid="Leo" creationdate="20210622T212508Z">
-        <seg>&lt;i0&gt;"Ok, então como uma pessoa como eu cria uma hotkey?"&lt;/i0&gt; Boa pergunta.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215709Z" creationid="Leo" creationdate="20210622T212508Z">
+        <seg>&lt;i0&gt;“Ok, então como uma pessoa como eu cria uma hotkey?”&lt;/i0&gt; Boa pergunta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,8 +1712,8 @@
       <tuv lang="en">
         <seg>An ampersand may be used between any two keys or mouse buttons to combine them into a custom hotkey.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024111Z" creationid="Leo" creationdate="20210623T024111Z">
-        <seg>O símbolo "&amp;" pode ser usado entre quaisquer duas teclas ou botões do mouse para combiná-los e formar uma hotkey personalizada.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215506Z" creationid="Leo" creationdate="20210623T024111Z">
+        <seg>O símbolo “&amp;” pode ser usado entre quaisquer duas teclas ou botões do mouse para combiná-los e formar uma hotkey personalizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2072,16 +2072,16 @@
       <tuv lang="en">
         <seg>Click "AutoHotkey Script" inside the "New" menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202318Z" creationid="Leo" creationdate="20210622T202318Z">
-        <seg>Clique em "AutoHotKey Script" dentro do menu "Novo".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215539Z" creationid="Leo" creationdate="20210622T202318Z">
+        <seg>Clique em “AutoHotKey Script” dentro do menu “Novo”.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Click "Edit Script".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202436Z" creationid="Leo" creationdate="20210622T202436Z">
-        <seg>Clique em "Edit Script".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215552Z" creationid="Leo" creationdate="20210622T202436Z">
+        <seg>Clique em “Edit Script”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2728,9 +2728,9 @@
       <tuv lang="en">
         <seg>Here is a very basic script containing a hotkey which types text using the &lt;a0&gt;Send&lt;/a0&gt; command when the hotkey is pressed:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203134Z" creationid="Leo" creationdate="20210622T202801Z">
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215621Z" creationid="Leo" creationdate="20210622T202801Z">
         <seg>Eis um script bem básico contendo uma tecla de atalho que faz o programa digitar texto 
-usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em diante, a expressão "tecla de atalho" será substituída por "hotkey", para melhor combinar com a identidade do programa.)</seg>
+usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em diante, a expressão “tecla de atalho” será substituída por “hotkey”, para melhor combinar com a identidade do programa.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3321,8 +3321,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Look for &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; or a file that says AutoHotkey and has a yellow question mark on it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211749Z" creationid="Leo" creationdate="20210622T211749Z">
-        <seg>Encontre o arquivo &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; ou um arquivo em que esteja escrito "AutoHotKey" e tenha um ponto de interrogação amarelo.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215631Z" creationid="Leo" creationdate="20210622T211749Z">
+        <seg>Encontre o arquivo &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; ou um arquivo em que esteja escrito “AutoHotKey” e tenha um ponto de interrogação amarelo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4713,8 +4713,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>The difference between the two examples is that the hotkey will be triggered when you press &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;J&lt;/k1&gt; while the hotstring will convert your typed "ftw" into "Free the whales".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212421Z" creationid="Leo" creationdate="20210622T212421Z">
-        <seg>A diferença entre os dois exemplos é que a hotkey será desencadeada quando você pressionar &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;J&lt;/k1&gt;, ao passo que a hotstring converterá sua expressão digitada "sab" em "Salve as baleias".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215651Z" creationid="Leo" creationdate="20210622T212421Z">
+        <seg>A diferença entre os dois exemplos é que a hotkey será desencadeada quando você pressionar &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;J&lt;/k1&gt;, ao passo que a hotstring converterá sua expressão digitada “sab” em “Salve as baleias”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5113,8 +5113,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This process is called "Scripting".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202226Z" creationid="Leo" creationdate="20210622T202226Z">
-        <seg>Esse processo é chamado "scripting" ou "desenvolvimento de scripts".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215520Z" creationid="Leo" creationdate="20210622T202226Z">
+        <seg>Esse processo é chamado “scripting” ou “desenvolvimento de scripts”.</seg>
       </tuv>
     </tu>
     <tu>

@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043310Z" creationid="Leo" creationdate="20210629T043310Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#IfWinActive Untitled - Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154444Z" creationid="Leo" creationdate="20210623T154444Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024621Z" creationid="Leo" creationdate="20210623T024621Z">
         <seg>(Para a lista completa de símbolos, veja a página sobre &lt;a0&gt;Hotkey&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043305Z" creationid="Leo" creationdate="20210629T043305Z">
+        <seg>+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2259,6 +2275,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192759Z" creationid="Leo" creationdate="20210622T192759Z">
         <seg>Hotkeys e hotstrings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hotkeys.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043315Z" creationid="Leo" creationdate="20210629T043315Z">
+        <seg>Hotkeys.htm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4984,6 +5008,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>^</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043308Z" creationid="Leo" creationdate="20210629T043308Z">
+        <seg>^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>a.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202242Z" creationid="Leo" creationdate="20210625T202242Z">
@@ -5044,6 +5076,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202251Z" creationid="Leo" creationdate="20210625T202251Z">
         <seg>commands/Loop.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>commands/Send.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043313Z" creationid="Leo" creationdate="20210629T043313Z">
+        <seg>commands/Send.htm</seg>
       </tuv>
     </tu>
     <tu>

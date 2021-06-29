@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#IfWinActive</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044514Z" creationid="Leo" creationdate="20210629T044514Z">
+        <seg>#IfWinActive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#IfWinActive Untitled - Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154444Z" creationid="Leo" creationdate="20210623T154444Z">
@@ -66,6 +74,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T155050Z" creationid="Leo" creationdate="20210623T155050Z">
         <seg>#IfWinActive Sem título - Paint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#IfWinExist</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044516Z" creationid="Leo" creationdate="20210629T044516Z">
+        <seg>#IfWinExist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#Space::</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044523Z" creationid="Leo" creationdate="20210629T044523Z">
+        <seg>#Space::</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +322,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044217Z" creationid="Leo" creationdate="20210629T044217Z">
         <seg>#s86</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044437Z" creationid="Leo" creationdate="20210629T044437Z">
+        <seg>&amp;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044432Z" creationid="Leo" creationdate="20210629T044432Z">
+        <seg>Alt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ampersand may be used between any two keys or mouse buttons to combine them into a custom hotkey.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024111Z" creationid="Leo" creationdate="20210623T024111Z">
@@ -2026,6 +2066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193149Z" creationid="Leo" creationdate="20210622T193149Z">
         <seg>Criando objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044433Z" creationid="Leo" creationdate="20210629T044433Z">
+        <seg>Ctrl</seg>
       </tuv>
     </tu>
     <tu>
@@ -2575,6 +2623,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hotstrings.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044512Z" creationid="Leo" creationdate="20210629T044512Z">
+        <seg>Hotstrings.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How to create a script</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192602Z" creationid="Leo" creationdate="20210622T192602Z">
@@ -2995,6 +3051,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215331Z" creationid="Leo" creationdate="20210627T215331Z">
         <seg>Continue tentando e falhando até que seu código não falhe mais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>KeyList.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044503Z" creationid="Leo" creationdate="20210629T044503Z">
+        <seg>KeyList.htm</seg>
       </tuv>
     </tu>
     <tu>
@@ -3695,6 +3759,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run, notepad.exe</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044510Z" creationid="Leo" creationdate="20210629T044510Z">
+        <seg>Run, notepad.exe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Running Programs &amp; Websites</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210628T081128Z" creationid="Leo" creationdate="20210622T193015Z">
@@ -3859,6 +3931,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065506Z" creationid="Leo" creationdate="20210627T065506Z">
         <seg>Definir valores em um objeto é tão simples quanto definir o valor de uma variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044435Z" creationid="Leo" creationdate="20210629T044435Z">
+        <seg>Shift</seg>
       </tuv>
     </tu>
     <tu>

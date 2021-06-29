@@ -32,8 +32,8 @@
       <tuv lang="en">
         <seg>"&lt;b0&gt;What is indentation?&lt;/b0&gt;" you ask?</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215938Z" creationid="Leo" creationdate="20210627T215938Z">
-        <seg>"&lt;b0&gt;O que é indentação?&lt;/b0&gt;", você pergunta.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221228Z" creationid="Leo" creationdate="20210627T215938Z">
+        <seg>“&lt;b0&gt;O que é indentação?&lt;/b0&gt;”, você pergunta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>"If at first you don't succeed, try, try, try again." - Hickson, William E.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215709Z" creationid="Leo" creationdate="20210627T215709Z">
-        <seg>"Se de começo você não conseguir, tente, tente, tente novamente." — William E. Hickson.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221217Z" creationid="Leo" creationdate="20210627T215709Z">
+        <seg>“Se de começo você não conseguir, tente, tente, tente novamente.” — William E. Hickson.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3897,8 +3897,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>People usually use 3 or 4 spaces or 1 tab per "level".</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220601Z" creationid="Leo" creationdate="20210627T220601Z">
-        <seg>As pessoas normalmente usam 3 ou 4 espaços ou 1 tab por "nível".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221239Z" creationid="Leo" creationdate="20210627T220601Z">
+        <seg>As pessoas normalmente usam 3 ou 4 espaços ou 1 tab por “nível”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3937,8 +3937,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Pretend &lt;i0&gt;everyone but you&lt;/i0&gt; is a doorknob and knows nothing.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221757Z" creationid="Leo" creationdate="20210627T221444Z">
-        <seg>Finja que &lt;i0&gt;todos menos você&lt;/i0&gt; são "plantas", que não sabem de nada.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221253Z" creationid="Leo" creationdate="20210627T221444Z">
+        <seg>Finja que &lt;i0&gt;todos menos você&lt;/i0&gt; são “plantas”, que não sabem de nada.</seg>
       </tuv>
     </tu>
     <tu>

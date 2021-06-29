@@ -3145,8 +3145,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>It literally &lt;s1&gt;stops&lt;/s1&gt; code from going any further, to the lines below.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210503Z" creationid="Leo" creationdate="20210622T210503Z">
-        <seg>Ela literalmente &lt;s1&gt;para&lt;/s1&gt; o código, impedindo que ele prossiga na execução rumo às linhas de baixo.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221607Z" creationid="Leo" creationdate="20210622T210503Z">
+        <seg>Ela literalmente &lt;s1&gt;para&lt;/s1&gt; o código, impedindo que ele prossiga na execução rumo às linhas abaixo.</seg>
       </tuv>
     </tu>
     <tu>

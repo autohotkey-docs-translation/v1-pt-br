@@ -1304,8 +1304,8 @@
       <tuv lang="en">
         <seg>&lt;c9&gt;^A&lt;/c9&gt; produces a different effect in some programs than &lt;c10&gt;^a&lt;/c10&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T010544Z" creationid="Leo" creationdate="20210624T010544Z">
-        <seg>&lt;c9&gt;^A&lt;/c9&gt; produz um efeito diferente de &lt;c10&gt;^a&lt;/c10&gt; em alguns programas.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T231610Z" creationid="Leo" creationdate="20210624T010544Z">
+        <seg>&lt;c9&gt;^A&lt;/c9&gt; produz um efeito diferente de &lt;c10&gt;^a&lt;/c10&gt; em alguns programas</seg>
       </tuv>
     </tu>
     <tu>
@@ -5009,8 +5009,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This is because &lt;c11&gt;^A&lt;/c11&gt; presses &lt;k12&gt;Ctrl&lt;/k12&gt;+&lt;k13&gt;Shift&lt;/k13&gt;+&lt;k14&gt;A&lt;/k14&gt; and &lt;c15&gt;^a&lt;/c15&gt; presses &lt;k16&gt;Ctrl&lt;/k16&gt;+&lt;k17&gt;A&lt;/k17&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T010753Z" creationid="Leo" creationdate="20210624T010753Z">
-        <seg>Isso é porque &lt;c11&gt;^A&lt;/c11&gt; pressiona &lt;k12&gt;Ctrl&lt;/k12&gt;+&lt;k13&gt;Shift&lt;/k13&gt;+&lt;k14&gt;A&lt;/k14&gt; enquanto &lt;c15&gt;^a&lt;/c15&gt; pressiona &lt;k16&gt;Ctrl&lt;/k16&gt;+&lt;k17&gt;a&lt;/k17&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T231721Z" creationid="Leo" creationdate="20210624T010753Z">
+        <seg>Isso é porque &lt;c11&gt;^A&lt;/c11&gt; pressiona &lt;k12&gt;Ctrl&lt;/k12&gt;+&lt;k13&gt;Shift&lt;/k13&gt;+&lt;k14&gt;A&lt;/k14&gt; enquanto &lt;c15&gt;^a&lt;/c15&gt; pressiona &lt;k16&gt;Ctrl&lt;/k16&gt;+&lt;k17&gt;A&lt;/k17&gt;.</seg>
       </tuv>
     </tu>
     <tu>

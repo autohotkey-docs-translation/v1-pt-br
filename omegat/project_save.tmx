@@ -2504,8 +2504,8 @@
       <tuv lang="en">
         <seg>For a video instruction, watch &lt;a0&gt;Install and Hello World&lt;/a0&gt; on YouTube.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202024Z" creationid="Leo" creationdate="20210622T202024Z">
-        <seg>Para instruções em vídeo, assista Install e Hello World no YouTube (em inglês).</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210032Z" creationid="Leo" creationdate="20210622T202024Z">
+        <seg>Para instruções em vídeo, assista &lt;a0&gt;Instalar e Hello World&lt;/a0&gt; no YouTube (em inglês).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2576,8 +2576,8 @@
       <tuv lang="en">
         <seg>For optimal learning power, it is advised that you read the text and &lt;b0&gt;try&lt;/b0&gt; the code.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201315Z" creationid="Leo" creationdate="20210622T201315Z">
-        <seg>Para otimizar seu poder de aprendizado, recomenda-se que você leia o texto e teste o código.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210126Z" creationid="Leo" creationdate="20210622T201315Z">
+        <seg>Para otimizar seu poder de aprendizado, recomenda-se que você leia o texto e &lt;b0&gt;teste&lt;/b0&gt; o código.</seg>
       </tuv>
     </tu>
     <tu>

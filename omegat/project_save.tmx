@@ -3017,8 +3017,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>In the example below, you would hold down Numpad0 then press Numpad1 or Numpad2 to trigger one of the hotkeys:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T024931Z" creationid="Leo" creationdate="20210623T024931Z">
-        <seg>No ex abaixo, você segura a tecla Numpad0 e em seguida pressiona Numpad1 ou Numpad2 para desencadear uma das hotkeys:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T055515Z" creationid="Leo" creationdate="20210623T024931Z">
+        <seg>No exemplo abaixo, você segura a tecla Numpad0 e em seguida pressiona Numpad1 ou Numpad2 para desencadear uma das hotkeys:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4857,8 +4857,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>There are a few ways to do this, I'll assume you have it installed to the default locations:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211249Z" creationid="Leo" creationdate="20210622T211249Z">
-        <seg>Há alguns jeito de fazer isso; vou assumir que instalou o programa no local padrão:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T055511Z" creationid="Leo" creationdate="20210622T211249Z">
+        <seg>Há alguns jeitos de fazer isso; vou assumir que instalou o programa no local padrão:</seg>
       </tuv>
     </tu>
     <tu>

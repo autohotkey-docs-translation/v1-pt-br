@@ -2120,8 +2120,8 @@
       <tuv lang="en">
         <seg>Colors might turn out black (0x000000) no matter the color you try to get.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060140Z" creationid="Leo" creationdate="20210625T182636Z">
-        <seg>As cores podem virar preto (0x000000) independenntemente da cor que você estiver tentando obter.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T233300Z" creationid="Leo" creationdate="20210625T182636Z">
+        <seg>As cores podem virar preto (0x000000) independentemente da cor que você estiver tentando obter.</seg>
       </tuv>
     </tu>
     <tu>

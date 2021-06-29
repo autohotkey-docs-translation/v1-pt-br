@@ -2158,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Functions.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043833Z" creationid="Leo" creationdate="20210629T043833Z">
+        <seg>Functions.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Games</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192957Z" creationid="Leo" creationdate="20210622T192957Z">
@@ -5064,6 +5072,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>commands/Block.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043845Z" creationid="Leo" creationdate="20210629T043845Z">
+        <seg>commands/Block.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>commands/ControlGetText.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043947Z" creationid="Leo" creationdate="20210629T043947Z">
+        <seg>commands/ControlGetText.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>commands/For.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213013Z" creationid="Leo" creationdate="20210627T213013Z">
@@ -5100,6 +5124,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043313Z" creationid="Leo" creationdate="20210629T043313Z">
         <seg>commands/Send.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>d.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043957Z" creationid="Leo" creationdate="20210629T043957Z">
+        <seg>d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>e.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044006Z" creationid="Leo" creationdate="20210629T044006Z">
+        <seg>e.</seg>
       </tuv>
     </tu>
     <tu>

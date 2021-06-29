@@ -398,14 +398,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>...</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044330Z" creationid="Leo" creationdate="20210629T044330Z">
-        <seg>...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>1 - The Basics</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193429Z" creationid="Leo" creationdate="20210622T193429Z">
@@ -1584,8 +1576,8 @@
       <tuv lang="en">
         <seg>A hotkey is a key that is hot to the touch.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211835Z" creationid="Leo" creationdate="20210622T211835Z">
-        <seg>Uma hotkey é uma tecla que queima o dedo quando você aperta.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210354Z" creationid="Leo" creationdate="20210622T211835Z">
+        <seg>Uma hotkey é uma tecla que queima o dedo quando você aperta...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3217,8 +3209,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Just kidding.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044346Z" creationid="Leo" creationdate="20210622T211849Z">
-        <seg>Brincadeirinha.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210401Z" creationid="Leo" creationdate="20210622T211849Z">
+        <seg>brincadeirinha.</seg>
       </tuv>
     </tu>
     <tu>

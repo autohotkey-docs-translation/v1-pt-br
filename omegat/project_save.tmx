@@ -2128,8 +2128,8 @@
       <tuv lang="en">
         <seg>Command, Parameter1, Parameter2, Parameter3</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T184018Z" creationid="Leo" creationdate="20210625T184018Z">
-        <seg>Comando, Parâmetro1, Parâmetro2, Parâmetro3</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T234440Z" creationid="Leo" creationdate="20210625T184018Z">
+        <seg>Comando, Parametro1, Parametro2, Parametro3</seg>
       </tuv>
     </tu>
     <tu>
@@ -2592,8 +2592,8 @@
       <tuv lang="en">
         <seg>Function(Parameter1, Parameter2, Parameter3)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191534Z" creationid="Leo" creationdate="20210625T191534Z">
-        <seg>Função(Parâmetro1, Parâmetro2, Parâmetro3)</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T234113Z" creationid="Leo" creationdate="20210625T191534Z">
+        <seg>Funcao(Parametro1, Parametro2, Parametro3)</seg>
       </tuv>
     </tu>
     <tu>

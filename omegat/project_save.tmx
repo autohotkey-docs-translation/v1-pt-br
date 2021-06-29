@@ -4761,8 +4761,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>The script will always exit, even if &lt;e1&gt;MyVar&lt;/e1&gt; &lt;b2&gt;is not&lt;/b2&gt; 5:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203113Z" creationid="Leo" creationdate="20210625T203113Z">
-        <seg>O script vai sempre terminar, mesmo se &lt;e1&gt;MinhaVariavel&lt;/e1&gt; &lt;b2&gt;não é&lt;/b2&gt; igual a 5:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T235010Z" creationid="Leo" creationdate="20210625T203113Z">
+        <seg>O script vai terminar de qualquer jeito, mesmo se &lt;e1&gt;MinhaVariavel&lt;/e1&gt; &lt;b2&gt;não é&lt;/b2&gt; igual a 5:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5049,8 +5049,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This is perfectly fine since the if-statement only had one line of code associated with it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060347Z" creationid="Leo" creationdate="20210625T203229Z">
-        <seg>Isso funciona perfeitamente já que a instrução com If só tinha uma linha de código associada a ela.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T235148Z" creationid="Leo" creationdate="20210625T203229Z">
+        <seg>Essa forma sem chaves funcionou perfeitamente pois a instrução com if só tinha uma linha de código associada a ela.</seg>
       </tuv>
     </tu>
     <tu>

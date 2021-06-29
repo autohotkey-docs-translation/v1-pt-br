@@ -3361,8 +3361,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>More DirectX issues may occur when using &lt;a1&gt;PixelSearch&lt;/a1&gt;, &lt;a2&gt;PixelGetColor&lt;/a2&gt; or &lt;a3&gt;ImageSearch&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182556Z" creationid="Leo" creationdate="20210625T182556Z">
-        <seg>Podem ocorrer outros problemas com o DirectX ao se usar &lt;a1&gt;PixelSearch&lt;/a1&gt;, &lt;a2&gt;PixelGetColor&lt;/a2&gt; ou &lt;a3&gt;ImageSearch&lt;/a3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T232617Z" creationid="Leo" creationdate="20210625T182556Z">
+        <seg>Pode ocorrer outros problemas com o DirectX ao se usar &lt;a1&gt;PixelSearch&lt;/a1&gt;, &lt;a2&gt;PixelGetColor&lt;/a2&gt; ou &lt;a3&gt;ImageSearch&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>

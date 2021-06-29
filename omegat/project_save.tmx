@@ -528,16 +528,16 @@
       <tuv lang="en">
         <seg>::acquaintence::acquaintance</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201120Z" creationid="Leo" creationdate="20210623T201120Z">
-        <seg>::mesom::mesmo</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210524Z" creationid="Leo" creationdate="20210623T201120Z">
+        <seg>::brasil::Brasil</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>::ameria::America</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201235Z" creationid="Leo" creationdate="20210623T201235Z">
-        <seg>::brasil::Brasil</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210558Z" creationid="Leo" creationdate="20210623T201235Z">
+        <seg>::mesom::mesmo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5690,8 +5690,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Whether it's 1, or 3253 (or more).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195908Z" creationid="Leo" creationdate="20210623T195908Z">
-        <seg>Seja 1 ou 3253.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210452Z" creationid="Leo" creationdate="20210623T195908Z">
+        <seg>Sejam uma ou 3253.</seg>
       </tuv>
     </tu>
     <tu>

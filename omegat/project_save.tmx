@@ -672,8 +672,8 @@
       <tuv lang="en">
         <seg>; CORRECT</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175500Z" creationid="Leo" creationdate="20210625T175500Z">
-        <seg>; CERTO:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T211126Z" creationid="Leo" creationdate="20210625T175500Z">
+        <seg>; CERTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,8 +944,8 @@
       <tuv lang="en">
         <seg>; WRONG</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180825Z" creationid="Leo" creationdate="20210625T175439Z">
-        <seg>; ERRADO:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210729Z" creationid="Leo" creationdate="20210625T175439Z">
+        <seg>; ERRADO</seg>
       </tuv>
     </tu>
     <tu>

@@ -2128,8 +2128,8 @@
       <tuv lang="en">
         <seg>Colors might turn out black (0x000000) no matter the color you try to get.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182636Z" creationid="Leo" creationdate="20210625T182636Z">
-        <seg>As cores podem virar preto (0x000000) independenntementnão da cor que você estiver tentando obter.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060140Z" creationid="Leo" creationdate="20210625T182636Z">
+        <seg>As cores podem virar preto (0x000000) independenntemente da cor que você estiver tentando obter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2328,8 +2328,8 @@
       <tuv lang="en">
         <seg>Each has their own special features.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181622Z" creationid="Leo" creationdate="20210625T181622Z">
-        <seg>Cada uma delas tem suas caracteres especiais.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060053Z" creationid="Leo" creationdate="20210625T181622Z">
+        <seg>Cada uma delas tem suas características especiais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3345,8 +3345,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Meaning, you do not wrap &lt;k3&gt;Ctrl&lt;/k3&gt; or &lt;k4&gt;Enter&lt;/k4&gt; (or any other key) inside curly brackets when making a hotkey.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175331Z" creationid="Leo" creationdate="20210625T175331Z">
-        <seg>Significa que você não envolve &lt;k3&gt;Ctrl&lt;/k3&gt;Ctrl ou &lt;k4&gt;Enter&lt;/k4&gt; (ou qualquer outra tecla) dentro de {chaves} ao criar uma hotkey.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060017Z" creationid="Leo" creationdate="20210625T175331Z">
+        <seg>Significa que você não envolve &lt;k3&gt;Ctrl&lt;/k3&gt; ou &lt;k4&gt;Enter&lt;/k4&gt; (ou qualquer outra tecla) dentro de {chaves} ao criar uma hotkey.</seg>
       </tuv>
     </tu>
     <tu>

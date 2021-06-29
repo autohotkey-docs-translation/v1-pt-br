@@ -1648,8 +1648,8 @@
       <tuv lang="en">
         <seg>After downloading it, you may possibly need to install it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201608Z" creationid="Leo" creationdate="20210622T201608Z">
-        <seg>Depois de fazer o download, talvez você tenha que instalá-lo.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T214034Z" creationid="Leo" creationdate="20210622T201608Z">
+        <seg>Depois de fazer o download, você provavelmente terá que instalá-lo em seguida,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2048,8 +2048,8 @@
       <tuv lang="en">
         <seg>But that depends on the version you want.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201615Z" creationid="Leo" creationdate="20210622T201615Z">
-        <seg>Mas isso dependerá da versão que você quer.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T214015Z" creationid="Leo" creationdate="20210622T201615Z">
+        <seg>mas isso dependerá da versão que você quer.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1456,8 +1456,8 @@
       <tuv lang="en">
         <seg>&lt;i0&gt;Index&lt;/i0&gt; is any integer key.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212405Z" creationid="Leo" creationdate="20210627T212405Z">
-        <seg>&lt;i0&gt;Índice&lt;/i0&gt; é qualquer chave cujo tipo de dados é um inteiro.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T211810Z" creationid="Leo" creationdate="20210627T212405Z">
+        <seg>&lt;i0&gt;Indice&lt;/i0&gt; é qualquer chave cujo tipo de dados é um inteiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3737,8 +3737,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>NumberOfRemovedKeys := MyObject.RemoveAt(Index, Length)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213832Z" creationid="Leo" creationdate="20210627T213832Z">
-        <seg>NumeroDeChavesRemovidas := MeuObjeto.RemoveAt(Índice, Comprimento)</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T211833Z" creationid="Leo" creationdate="20210627T213832Z">
+        <seg>NumeroDeChavesRemovidas := MeuObjeto.RemoveAt(Indice, Comprimento)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3977,8 +3977,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>RemovedValue := MyObject.RemoveAt(Index)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213809Z" creationid="Leo" creationdate="20210627T213809Z">
-        <seg>ValorRemovido := MeuObjeto.RemoveAt(Índice)</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T211816Z" creationid="Leo" creationdate="20210627T213809Z">
+        <seg>ValorRemovido := MeuObjeto.RemoveAt(Indice)</seg>
       </tuv>
     </tu>
     <tu>

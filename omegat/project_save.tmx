@@ -2520,8 +2520,8 @@
       <tuv lang="en">
         <seg>For example, &lt;c1&gt;Send, This is text!a&lt;/c1&gt; would send the keys "This is text" and then press &lt;k2&gt;Alt&lt;/k2&gt;+&lt;k3&gt;A&lt;/k3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004606Z" creationid="Leo" creationdate="20210624T004606Z">
-        <seg>Por exemplo, &lt;c1&gt;Send, Isto é texto!a&lt;/c1&gt; enviaria as letras (teclas) "Isto é texto!" e depois pressionaria &lt;k2&gt;Alt&lt;/k2&gt;Alt+&lt;k3&gt;A&lt;/k3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T055926Z" creationid="Leo" creationdate="20210624T004606Z">
+        <seg>Por exemplo, &lt;c1&gt;Send, Isto é texto!a&lt;/c1&gt; enviaria as letras (teclas) "Isto é texto!" e depois pressionaria &lt;k2&gt;Alt&lt;/k2&gt;+&lt;k3&gt;A&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>

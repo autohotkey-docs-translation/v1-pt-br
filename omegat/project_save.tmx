@@ -704,8 +704,8 @@
       <tuv lang="en">
         <seg>; Correct</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T184544Z" creationid="Leo" creationdate="20210625T184544Z">
-        <seg>; Certo:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T233813Z" creationid="Leo" creationdate="20210625T184544Z">
+        <seg>; Certo</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,8 +984,8 @@
       <tuv lang="en">
         <seg>; Wrong</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T184531Z" creationid="Leo" creationdate="20210625T184531Z">
-        <seg>; Errado:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T233608Z" creationid="Leo" creationdate="20210625T184531Z">
+        <seg>; Errado</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1640,8 @@
       <tuv lang="en">
         <seg>Additionally, you cannot do math in the parameters, unlike functions.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060328Z" creationid="Leo" creationdate="20210625T190729Z">
-        <seg>Além disso, nos comandos você não pode fazer operações matemáticas nos parâmetros, ao contrário das funções.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T233825Z" creationid="Leo" creationdate="20210625T190729Z">
+        <seg>Ademais, nos comandos você não pode fazer operações matemáticas nos parâmetros, ao contrário das funções.</seg>
       </tuv>
     </tu>
     <tu>

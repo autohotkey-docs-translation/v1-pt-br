@@ -4673,8 +4673,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>That's fancy talk for &lt;i0&gt;"do pretty much anything"&lt;/i0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213336Z" creationid="Leo" creationdate="20210622T213336Z">
-        <seg>Essa é uma maneira pomposa de dizer &lt;i0&gt;fazer praticamente qualquer coisa.&lt;/i0&gt;</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215733Z" creationid="Leo" creationdate="20210622T213336Z">
+        <seg>Essa é uma maneira pomposa de dizer &lt;i0&gt;“fazer praticamente qualquer coisa”.&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4921,8 +4921,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>These special commands (technically called "directives") create context-sensitive hotkeys and hotstrings.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T030015Z" creationid="Leo" creationdate="20210623T030015Z">
-        <seg>Esses comandos especiais (tecnicamente chamados de "diretivas") criam hotkeys e hotstrings sensíveis ao contexto.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215950Z" creationid="Leo" creationdate="20210623T030015Z">
+        <seg>Esses comandos especiais (tecnicamente chamados de “diretivas”) criam hotkeys e hotstrings sensíveis ao contexto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,8 +5290,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>To turn off context sensitivity for subsequent hotkeys or hotstrings, specify any #IfWin directive but leave all of its parameters blank.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154300Z" creationid="Leo" creationdate="20210623T154300Z">
-        <seg>Para desabilitar a "sensibilidade ao contexto" para as hotkeys e hotstrings subsequentes, especifique qualquer diretiva #IfWin mas deixe todos seus parâmetros em branco.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220000Z" creationid="Leo" creationdate="20210623T154300Z">
+        <seg>Para desabilitar a “sensibilidade ao contexto” para as hotkeys e hotstrings subsequentes, especifique qualquer diretiva #IfWin mas deixe todos seus parâmetros em branco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5850,8 +5850,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>You might be wondering &lt;i0&gt;"How the crud am I supposed to know that ^ means &lt;k1&gt;Ctrl&lt;/k1&gt;?!"&lt;/i0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023706Z" creationid="Leo" creationdate="20210623T023706Z">
-        <seg>Você deve estar pensando &lt;i0&gt;"Mas como eu vou saber que ^ significa &lt;k1&gt;Ctrl&lt;/k1&gt;?!"&lt;/i0&gt;</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215941Z" creationid="Leo" creationdate="20210623T023706Z">
+        <seg>Você deve estar pensando &lt;i0&gt;“Mas como eu vou saber que ^ significa &lt;k1&gt;Ctrl&lt;/k1&gt;?!”&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>

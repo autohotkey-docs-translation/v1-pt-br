@@ -1968,8 +1968,8 @@
       <tuv lang="en">
         <seg>Blanking the value out</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213000Z" creationid="Leo" creationdate="20210627T213000Z">
-        <seg>Substituição por "em branco"</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220958Z" creationid="Leo" creationdate="20210627T213000Z">
+        <seg>Substituição por “em branco”</seg>
       </tuv>
     </tu>
     <tu>
@@ -3273,8 +3273,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Learning takes time, the "pros" you encounter did not learn to be masters in just a few hours or days.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215642Z" creationid="Leo" creationdate="20210627T215642Z">
-        <seg>Aprender leva tempo, os "pros" que você encontrar não dominaram a parada em apenas algumas horas ou dias.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221204Z" creationid="Leo" creationdate="20210627T215642Z">
+        <seg>Aprender leva tempo, os “prós” que você encontrar não dominaram a parada em apenas algumas horas ou dias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3857,8 +3857,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Or look for "AutoHotkey Help File" or "AutoHotkey.chm" in the start menu or your installation directory.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215131Z" creationid="Leo" creationdate="20210627T215131Z">
-        <seg>Ou procure pelo arquivo "AutoHotKey Help File" ou "AutoHotKey.chm" no menu iniciar ou no diretório de instalação do programa.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221026Z" creationid="Leo" creationdate="20210627T215131Z">
+        <seg>Ou procure pelo arquivo “AutoHotKey Help File” ou “AutoHotKey.chm” no menu iniciar ou no diretório de instalação do programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4785,8 +4785,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>The simplest way to remove a value is to just blank it out.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213036Z" creationid="Leo" creationdate="20210627T213036Z">
-        <seg>O jeito mais simples de remover um valor é simplesmente substitui-lo por "nada".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221005Z" creationid="Leo" creationdate="20210627T213036Z">
+        <seg>O jeito mais simples de remover um valor é simplesmente substitui-lo por “nada”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5049,8 +5049,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This is how a lot of "pros" have learned.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215434Z" creationid="Leo" creationdate="20210627T215434Z">
-        <seg>Foi assim que muitos "pros" aprenderam.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221040Z" creationid="Leo" creationdate="20210627T215434Z">
+        <seg>Foi assim que muitos “prós” aprenderam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5169,8 +5169,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This will shift ALL higher integer keys up by the number of values which were inserted, even if there are gaps (for example, only keys 1 and 100 exist, and you insert a value at key 50, it will shift 100 up to 101).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212723Z" creationid="Leo" creationdate="20210627T212433Z">
-        <seg>Isso vai "empurrar para frente" TODAS as chaves inteiras, adicionando a cada uma delas o número de valores que foram inseridos, mesmo se houver lacunas (por exemplo, somente as chaves 1 a 100 existem e você insere um valor na chave de índice 50, o que elevará o número 100 para 101). </seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220934Z" creationid="Leo" creationdate="20210627T212433Z">
+        <seg>Isso vai “empurrar para frente” TODAS as chaves inteiras, adicionando a cada uma delas o número de valores que foram inseridos, mesmo se houver lacunas (por exemplo, somente as chaves 1 a 100 existem e você insere um valor na chave de índice 50, o que elevará o número 100 para 101). </seg>
       </tuv>
     </tu>
     <tu>
@@ -5890,8 +5890,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>You will get a message box with the word "Yellow", because that is what we set the key &lt;c2&gt;Color&lt;/c2&gt; to in the &lt;a3&gt;previous section&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212016Z" creationid="Leo" creationdate="20210627T212016Z">
-        <seg>Disso você obterá uma caixa de mensagem com a palavra "Amarelo", porque é esse o valor que armazenamos na chave &lt;c2&gt;Cor&lt;/c2&gt; na &lt;a3&gt;seção anterior&lt;/a3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220916Z" creationid="Leo" creationdate="20210627T212016Z">
+        <seg>Disso você obterá uma caixa de mensagem com a palavra “Amarelo”, porque é esse o valor que armazenamos na chave &lt;c2&gt;Cor&lt;/c2&gt; na &lt;a3&gt;seção anterior&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>

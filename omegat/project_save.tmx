@@ -1904,8 +1904,8 @@
       <tuv lang="en">
         <seg>Be kind.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221824Z" creationid="Leo" creationdate="20210627T221824Z">
-        <seg>Seja simpático</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215751Z" creationid="Leo" creationdate="20210627T221824Z">
+        <seg>Seja simpático.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3201,8 +3201,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>It's simply spacing to break up your code so you can see what belongs to what.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220545Z" creationid="Leo" creationdate="20210627T220545Z">
-        <seg>É simplesmente inserir espaços para dividir seu código de forma que você saiba o que pertence a quê.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215722Z" creationid="Leo" creationdate="20210627T220545Z">
+        <seg>É simplesmente a prática de inserir espaços para dividir seu código de forma que você saiba o que pertence a quê.</seg>
       </tuv>
     </tu>
     <tu>

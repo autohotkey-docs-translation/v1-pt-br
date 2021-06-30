@@ -1672,8 +1672,8 @@
       <tuv lang="en">
         <seg>All you have to do is put your bracket notation on the left side of an expression assignment operator &lt;c0&gt;:=&lt;/c0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T211548Z" creationid="Leo" creationdate="20210627T065552Z">
-        <seg>Tudo o que você deve fazer é inserir seu código com notação de colchetes no lado esquerdo do operador de definição da expressão &lt;c0&gt;=:&lt;/c0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214058Z" creationid="Leo" creationdate="20210627T065552Z">
+        <seg>Tudo o que você deve fazer é inserir seu código com notação de colchetes no lado esquerdo do operador de definição da expressão &lt;c0&gt;:=&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,8 +1976,8 @@
       <tuv lang="en">
         <seg>Brace syntax</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064514Z" creationid="Leo" creationdate="20210627T064514Z">
-        <seg>Sintaxe com chaves</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T213922Z" creationid="Leo" creationdate="20210627T064514Z">
+        <seg>Sintaxe de chaves</seg>
       </tuv>
     </tu>
     <tu>
@@ -4865,8 +4865,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>There are many ways to use objects, including retrieving values, setting values, adding more values, and more.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065301Z" creationid="Leo" creationdate="20210627T065301Z">
-        <seg>Há várias formas de se usar objetos, inclusive obter valores, definir valores, adicionar mais valores e mais.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214008Z" creationid="Leo" creationdate="20210627T065301Z">
+        <seg>Há várias formas de se usar objetos, inclusive obter valores armazenados, definir valores, adicionar mais valores e mais.</seg>
       </tuv>
     </tu>
     <tu>

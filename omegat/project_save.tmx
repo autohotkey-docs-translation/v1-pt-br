@@ -3105,8 +3105,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Instead of asking for help on every little thing, sometimes spending some time alone (sometimes hours or days) and trying to get something to work will help you learn faster.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215237Z" creationid="Leo" creationdate="20210627T215237Z">
-        <seg>Em vez de pedir ajuda para cada pequena coisa, às vezes gastar um tempo sozinho (às vezes horas ou dias) e tentar fazer algo funcionar vai ajudá-lo a aprender mais rápido.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215439Z" creationid="Leo" creationdate="20210627T215237Z">
+        <seg>Em vez de pedir ajuda para cada pequena coisa, às vezes gastar um tempo sozinho (pode chegar a horas ou dias) e tentar fazer algo funcionar vai ajudá-lo a aprender mais rápido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4809,8 +4809,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Then try running it again.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215303Z" creationid="Leo" creationdate="20210627T215303Z">
-        <seg>Daí tente executá-lo de novo.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215602Z" creationid="Leo" creationdate="20210627T215303Z">
+        <seg>Então tente executá-lo de novo.</seg>
       </tuv>
     </tu>
     <tu>

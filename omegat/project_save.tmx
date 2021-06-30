@@ -2344,8 +2344,8 @@
       <tuv lang="en">
         <seg>Equal signs (&lt;b0&gt;=&lt;/b0&gt;) with a symbol in front of it such as &lt;c1&gt;:=&lt;/c1&gt; &lt;c2&gt;+=&lt;/c2&gt; &lt;c3&gt;-=&lt;/c3&gt; &lt;c4&gt;.=&lt;/c4&gt; etc. are called &lt;b5&gt;assignment operators&lt;/b5&gt; and always require an expression.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204550Z" creationid="Leo" creationdate="20210625T204550Z">
-        <seg>Sinais de igualdade (&lt;b0&gt;=&lt;/b0&gt;) com um símbolo na frente deles, tal como &lt;c1&gt;:=&lt;/c1&gt; &lt;c2&gt;+=&lt;/c2&gt; &lt;c3&gt;-=&lt;/c3&gt; &lt;c4&gt;.=&lt;/c4&gt; etc. são chamados de &lt;b5&gt;operadores de atribuição&lt;/b5&gt; e sempre requerem uma expressão.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T212716Z" creationid="Leo" creationdate="20210625T204550Z">
+        <seg>Sinais de igualdade (&lt;b0&gt;=&lt;/b0&gt;) com um símbolo na frente deles, tais como &lt;c1&gt;:=&lt;/c1&gt; &lt;c2&gt;+=&lt;/c2&gt; &lt;c3&gt;-=&lt;/c3&gt; &lt;c4&gt;.=&lt;/c4&gt; etc. são chamados de &lt;b5&gt;operadores de atribuição&lt;/b5&gt; e sempre requerem uma expressão.</seg>
       </tuv>
     </tu>
     <tu>

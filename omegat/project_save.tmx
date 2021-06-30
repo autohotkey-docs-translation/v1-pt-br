@@ -5194,8 +5194,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Throughout the documentation, you will see these two symbols (&lt;c0&gt;[&lt;/c0&gt; and &lt;c1&gt;]&lt;/c1&gt;) surrounding code in the yellow syntax box at the top of almost all pages.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214319Z" creationid="Leo" creationdate="20210627T214319Z">
-        <seg>Ao longo desta documentação, você verá esses dois símbolos (&lt;c0&gt;[&lt;/c0&gt; e &lt;c1&gt;]&lt;/c1&gt;) em volta do código no espaço amarelo da sintaxe no topo da maioria das páginas.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215408Z" creationid="Leo" creationdate="20210627T214319Z">
+        <seg>Ao longo desta documentação, você verá estes dois símbolos (&lt;c0&gt;[&lt;/c0&gt; e &lt;c1&gt;]&lt;/c1&gt;) em volta do código no espaço amarelo da sintaxe no topo da maioria das páginas.</seg>
       </tuv>
     </tu>
     <tu>

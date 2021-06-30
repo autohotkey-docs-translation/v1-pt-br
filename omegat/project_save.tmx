@@ -2720,8 +2720,8 @@
       <tuv lang="en">
         <seg>Here is a simple example on how to ask the user a couple of questions and doing some stuff with what was entered:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051619Z" creationid="Leo" creationdate="20210626T051619Z">
-        <seg>Aqui está um exemplo simples de como fazer ao usuário um par de perguntas e, em seguida, fazer algo com o dado inserido:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T213305Z" creationid="Leo" creationdate="20210626T051619Z">
+        <seg>Aqui está um exemplo simples de como fazer um par de perguntas ao usuário e, em seguida, fazer algo com o dado inserido:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5594,8 +5594,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>When &lt;b0&gt;not&lt;/b0&gt; to use percent signs:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051028Z" creationid="Leo" creationdate="20210626T051028Z">
-        <seg>Wdo &lt;b0&gt;não&lt;/b0&gt; usar sinais de porcentagem:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T213130Z" creationid="Leo" creationdate="20210626T051028Z">
+        <seg>Quando &lt;b0&gt;não&lt;/b0&gt; usar sinais de porcentagem:</seg>
       </tuv>
     </tu>
     <tu>

@@ -3033,8 +3033,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>In this case, I used the simple expression &lt;c0&gt;"Color"&lt;/c0&gt;, which is (unsurprisingly) the key &lt;c1&gt;Color&lt;/c1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211928Z" creationid="Leo" creationdate="20210627T211928Z">
-        <seg>Nesse caso, eu usei a expressão simples &lt;c0&gt;"Cor"&lt;/c0&gt;, a qual é, como você esperava, a chave &lt;c1&gt;Cor&lt;/c1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214312Z" creationid="Leo" creationdate="20210627T211928Z">
+        <seg>Neste caso, eu usei a expressão simples &lt;c0&gt;"Cor"&lt;/c0&gt;, a qual é, como você esperava, a chave &lt;c1&gt;Cor&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3945,8 +3945,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Push method</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212750Z" creationid="Leo" creationdate="20210627T212750Z">
-        <seg>Método "Push"</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214602Z" creationid="Leo" creationdate="20210627T212750Z">
+        <seg>Método “Push”</seg>
       </tuv>
     </tu>
     <tu>
@@ -4969,8 +4969,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>This allows you to use an expression as the key to get the value from your object.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211831Z" creationid="Leo" creationdate="20210627T211831Z">
-        <seg>Essa notação permite que você use uma expressão como a chave para obter um valor de seu objeto.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214113Z" creationid="Leo" creationdate="20210627T211831Z">
+        <seg>Esta notação permite que você use uma expressão como a chave para obter um valor de seu objeto.</seg>
       </tuv>
     </tu>
     <tu>

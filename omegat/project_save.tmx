@@ -3177,8 +3177,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>It's exactly the same as above, but I outdented the second line so we know it's separated from the if-statement:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203312Z" creationid="Leo" creationdate="20210625T203312Z">
-        <seg>É exatamente o mesmo do acima, mas eu diminuí o recuo da segunda linha de forma que agora ela está separada da instrução com If:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T000052Z" creationid="Leo" creationdate="20210625T203312Z">
+        <seg>Já o caso a seguir é exatamente o mesmo do acima, mas eu diminuí o recuo da segunda linha de forma que agora ela está separada da instrução com if:</seg>
       </tuv>
     </tu>
     <tu>

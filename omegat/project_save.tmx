@@ -5658,8 +5658,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>When you are using commands (see above), except when the parameter is &lt;e0&gt;OutputVar&lt;/e0&gt; or &lt;e1&gt;InputVar&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T050940Z" creationid="Leo" creationdate="20210626T050940Z">
-        <seg>Quando você está usando comandos (veja acima), exceto quando o parâmetro é &lt;e0&gt;OutputVar&lt;/e0&gt; ou &lt;e1&gt;InputVar&lt;/e1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T212846Z" creationid="Leo" creationdate="20210626T050940Z">
+        <seg> (respectivamente “variável de saída” e “variável de entrada”. Quando você está usando comandos (veja acima), exceto quando o parâmetro é &lt;e0&gt;OutputVar&lt;/e0&gt; ou &lt;e1&gt;InputVar&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

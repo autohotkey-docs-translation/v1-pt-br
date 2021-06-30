@@ -1680,8 +1680,8 @@
       <tuv lang="en">
         <seg>Allows you to remove a range of numbered/integer or string keys between &lt;e0&gt;FirstKey&lt;/e0&gt; and &lt;e1&gt;LastKey&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213533Z" creationid="Leo" creationdate="20210627T213533Z">
-        <seg>Permite que você remova um intervalo de chaves que sejam strings ou números/inteiros entre &lt;e0&gt;PrimeiraChave&lt;/e0&gt; e &lt;e1&gt;ÚltimaChave&lt;/e1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215201Z" creationid="Leo" creationdate="20210627T213533Z">
+        <seg>Permite que você remova um intervalo de chaves que sejam strings ou números/inteiros entre &lt;e0&gt;PrimeiraChave&lt;/e0&gt; e &lt;e1&gt;UltimaChave&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1968,8 +1968,8 @@
       <tuv lang="en">
         <seg>Blanking the value out</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220958Z" creationid="Leo" creationdate="20210627T213000Z">
-        <seg>Substituição por “em branco”</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214650Z" creationid="Leo" creationdate="20210627T213000Z">
+        <seg>Método da substituição por “em branco”</seg>
       </tuv>
     </tu>
     <tu>

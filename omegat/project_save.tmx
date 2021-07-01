@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -58,6 +58,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064538Z" creationid="Leo" creationdate="20210627T064538Z">
         <seg>"Amarelo", "Gosto":</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"en":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T063423Z" creationid="Ragnar-F" creationdate="20210701T063402Z">
+        <seg>"en":"pt",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"https://github.com/Lexikos/AutoHotkey_L-Docs/edit/master/docs/":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064027Z" creationid="Ragnar-F" creationdate="20210701T063438Z">
+        <seg>"https://github.com/Lexikos/AutoHotkey_L-Docs/edit/master/docs/":"https://github.com/ahkscript/AHK-Docs_PT-BR/edit/master/target/docs/",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"v1":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T063428Z" creationid="Ragnar-F" creationdate="20210701T063428Z">
+        <seg>"v1":true,</seg>
       </tuv>
     </tu>
     <tu>
@@ -5912,6 +5936,38 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064305Z" creationid="Ragnar-F" creationdate="20210701T064305Z">
+        <seg>[</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>];</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064239Z" creationid="Ragnar-F" creationdate="20210701T064239Z">
+        <seg>];</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>]]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064325Z" creationid="Ragnar-F" creationdate="20210701T064325Z">
+        <seg>]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>]],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064326Z" creationid="Ragnar-F" creationdate="20210701T064326Z">
+        <seg>]],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>^</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043308Z" creationid="Leo" creationdate="20210629T043308Z">
@@ -6120,6 +6176,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>deprecateData = {</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064215Z" creationid="Ragnar-F" creationdate="20210701T064215Z">
+        <seg>deprecateData = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>e.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044006Z" creationid="Leo" creationdate="20210629T044006Z">
@@ -6264,6 +6328,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>indexData = [</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064223Z" creationid="Ragnar-F" creationdate="20210701T064223Z">
+        <seg>indexData = [</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>misc/WinTitle.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045919Z" creationid="Leo" creationdate="20210629T045919Z">
@@ -6312,6 +6384,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>tocData = [</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064300Z" creationid="Ragnar-F" creationdate="20210701T064300Z">
+        <seg>tocData = [</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>translateData = {</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064031Z" creationid="Ragnar-F" creationdate="20210701T064031Z">
+        <seg>translateData = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220616Z" creationid="Leo" creationdate="20210627T220616Z">
@@ -6332,6 +6420,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203030Z" creationid="Leo" creationdate="20210625T203030Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>};</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064037Z" creationid="Ragnar-F" creationdate="20210701T064037Z">
+        <seg>};</seg>
       </tuv>
     </tu>
     <tu>

@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Concepts and conventions&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070613Z" creationid="Leo" creationdate="20210701T070613Z">
+        <seg>Conceitos e convenções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;GNU General Public License&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070506Z" creationid="Leo" creationdate="20210701T070506Z">
@@ -1210,6 +1218,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053148Z" creationid="Leo" creationdate="20210626T053148Z">
         <seg>&lt;a0&gt;Objetos&lt;/a0&gt; são uma forma de organizar seus dados para um uso mais eficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Scripting language&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070634Z" creationid="Leo" creationdate="20210701T070634Z">
+        <seg>Linguagem de confecção de scripts:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2654,6 +2670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Frequently asked questions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070600Z" creationid="Leo" creationdate="20210701T070545Z">
+        <seg>Perguntas frequentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Function(Parameter1, Parameter2, Parameter3)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T234113Z" creationid="Leo" creationdate="20210625T191534Z">
@@ -2706,6 +2730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064712Z" creationid="Leo" creationdate="20210701T064712Z">
         <seg>Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Getting started:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070520Z" creationid="Leo" creationdate="20210701T070520Z">
+        <seg>Primeiros passos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2891,6 +2923,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T213541Z" creationid="Leo" creationdate="20210622T192744Z">
         <seg>Como encontrar o arquivo da ajuda em seu computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to use the program</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070525Z" creationid="Leo" creationdate="20210701T070525Z">
+        <seg>Como usar o programa</seg>
       </tuv>
     </tu>
     <tu>
@@ -3427,6 +3467,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211455Z" creationid="Leo" creationdate="20210622T211455Z">
         <seg>Método 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Miscellaneous topics</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070813Z" creationid="Leo" creationdate="20210701T070813Z">
+        <seg>Tópicos diversos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4019,6 +4067,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214602Z" creationid="Leo" creationdate="20210627T212750Z">
         <seg>Método “Push”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quick Reference</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070514Z" creationid="Leo" creationdate="20210701T070514Z">
+        <seg>Referência Rápida</seg>
       </tuv>
     </tu>
     <tu>
@@ -4715,6 +4771,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192525Z" creationid="Leo" creationdate="20210622T192525Z">
         <seg>Sumário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text editors with AutoHotkey support</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070539Z" creationid="Leo" creationdate="20210701T070539Z">
+        <seg>Editores de texto com suporte ao AutoHotKey</seg>
       </tuv>
     </tu>
     <tu>
@@ -5420,6 +5484,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215422Z" creationid="Leo" creationdate="20210627T215422Z">
         <seg>Tente, falhe, tente, falhe, tente, tente, falhe, falhe, &lt;b0&gt;consiga!&lt;/b0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tutorial for beginners</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070531Z" creationid="Leo" creationdate="20210701T070531Z">
+        <seg>Tutorial para iniciantes</seg>
       </tuv>
     </tu>
     <tu>
@@ -6344,10 +6416,26 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>explanations of various things you need to know.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070620Z" creationid="Leo" creationdate="20210701T070620Z">
+        <seg>explicações de várias coisas que você deve saber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>f.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T222022Z" creationid="Leo" creationdate="20210627T222022Z">
         <seg>f.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>how to write scripts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070639Z" creationid="Leo" creationdate="20210701T070639Z">
+        <seg>Como escrever scripts</seg>
       </tuv>
     </tu>
     <tu>

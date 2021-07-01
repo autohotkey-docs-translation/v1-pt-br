@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1928,16 +1928,16 @@
       <tuv lang="en">
         <seg>AutoHotkey has the ability to have &lt;i0&gt;as many&lt;/i0&gt; hotkeys and hotstrings in one file as you want.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195854Z" creationid="Leo" creationdate="20210623T195854Z">
-        <seg>O AutoHotKey permite que você adicione &lt;i0&gt;o número que você quiser&lt;/i0&gt; de hotkeys e hotstrings.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070715Z" creationid="Leo" creationdate="20210623T195854Z">
+        <seg>O AutoHotkey permite que você adicione &lt;i0&gt;o número que você quiser&lt;/i0&gt; de hotkeys e hotstrings.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>AutoHotkey has two main types of things used by the scripter to create code:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183806Z" creationid="Leo" creationdate="20210625T183806Z">
-        <seg>O AutoHotKey tem dois grandes tipos de expedientes que são usados pelo usuário para criar código:</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070732Z" creationid="Leo" creationdate="20210625T183806Z">
+        <seg>O AutoHotkey tem dois grandes tipos de expedientes que são usados pelo usuário para criar código:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,8 +1952,8 @@
       <tuv lang="en">
         <seg>Banana := Object("Color", "Yellow", "Taste", "Delicious", "Price", 3)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065043Z" creationid="Leo" creationdate="20210627T065043Z">
-        <seg>Banana := Object("Cor", "Amarelo", "Gosto", "Delicioso", Preco", 3)</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T071458Z" creationid="Leo" creationdate="20210627T065043Z">
+        <seg>Banana := Object("Cor", "Amarelo", "Gosto", "Delicioso", "Preco", 3)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2040,8 +2040,8 @@
       <tuv lang="en">
         <seg>Before learning to use AutoHotkey (AHK), you will need to download it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201553Z" creationid="Leo" creationdate="20210622T201553Z">
-        <seg>Antes de aprender a usar o AutoHotKey (AHK), você precisa baixá-lo.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070535Z" creationid="Leo" creationdate="20210622T201553Z">
+        <seg>Antes de aprender a usar o AutoHotkey (AHK), você precisa baixá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2064,8 +2064,8 @@
       <tuv lang="en">
         <seg>Beginner Tutorial | AutoHotkey</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192458Z" creationid="Leo" creationdate="20210622T192458Z">
-        <seg>Tutorial para iniciantes | AutoHotKey</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070517Z" creationid="Leo" creationdate="20210622T192458Z">
+        <seg>Tutorial para iniciantes | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -2176,8 +2176,8 @@
       <tuv lang="en">
         <seg>Click "AutoHotkey Script" inside the "New" menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215539Z" creationid="Leo" creationdate="20210622T202318Z">
-        <seg>Clique em “AutoHotKey Script” dentro do menu “Novo”.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070557Z" creationid="Leo" creationdate="20210622T202318Z">
+        <seg>Clique em “AutoHotkey Script” dentro do menu “Novo”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2416,16 +2416,16 @@
       <tuv lang="en">
         <seg>Downloading and installing AutoHotkey</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192551Z" creationid="Leo" creationdate="20210622T192551Z">
-        <seg>Baixando e instalando o AutoHotKey</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070522Z" creationid="Leo" creationdate="20210622T192551Z">
+        <seg>Baixando e instalando o AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>During installation of AutoHotkey, you will be asked to choose from UNICODE or ANSI.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201732Z" creationid="Leo" creationdate="20210622T201732Z">
-        <seg>Durante a instalação do AutoHotKey, você será perguntado se quer usar a codificação UNICODE ou ANSI.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070546Z" creationid="Leo" creationdate="20210622T201732Z">
+        <seg>Durante a instalação do AutoHotkey, você será perguntado se quer usar a codificação UNICODE ou ANSI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2568,8 +2568,8 @@
       <tuv lang="en">
         <seg>Find &lt;b0&gt;AutoHotkey&lt;/b0&gt; in the list.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211417Z" creationid="Leo" creationdate="20210622T211417Z">
-        <seg>Ache &lt;b0&gt;AutoHotKey&lt;/b0&gt; na lista.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070559Z" creationid="Leo" creationdate="20210622T211417Z">
+        <seg>Ache &lt;b0&gt;AutoHotkey&lt;/b0&gt; na lista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2816,16 +2816,16 @@
       <tuv lang="en">
         <seg>Go into your harddrive that contains &lt;b0&gt;AutoHotkey&lt;/b0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211542Z" creationid="Leo" creationdate="20210622T211542Z">
-        <seg>Vá ao disco rígido ou partição que contém o AutoHotKey.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070636Z" creationid="Leo" creationdate="20210622T211542Z">
+        <seg>Vá ao disco rígido ou partição que contém o AutoHotkey.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Go to the AutoHotkey Homepage:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201653Z" creationid="Leo" creationdate="20210622T201653Z">
-        <seg>Vá ao site do AutoHotKey:</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070541Z" creationid="Leo" creationdate="20210622T201653Z">
+        <seg>Vá ao site do AutoHotkey:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3033,8 +3033,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>If everything you try fails, it may not be possible to use AutoHotkey for your needs.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182800Z" creationid="Leo" creationdate="20210625T182800Z">
-        <seg>Se tudo que você tentar falhar, pode ser que o AutoHotKey não sirva para suas necessidades.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070728Z" creationid="Leo" creationdate="20210625T182800Z">
+        <seg>Se tudo que você tentar falhar, pode ser que o AutoHotkey não sirva para suas necessidades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3457,8 +3457,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Learn how to download and install AutoHotkey, to create a script, to use hotkeys and hotstrings, to send keystrokes, to run programs, etc.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192230Z" creationid="Leo" creationdate="20210622T192230Z">
-        <seg>Aprenda a baixar e instalar o AutoHotKey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclas, executar programas e mais.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070513Z" creationid="Leo" creationdate="20210622T192230Z">
+        <seg>Aprenda a baixar e instalar o AutoHotkey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclas, executar programas e mais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3521,8 +3521,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Look for &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; or a file that says AutoHotkey and has a yellow question mark on it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215631Z" creationid="Leo" creationdate="20210622T211749Z">
-        <seg>Encontre o arquivo &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; ou um arquivo em que esteja escrito “AutoHotKey” e tenha um ponto de interrogação amarelo.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070702Z" creationid="Leo" creationdate="20210622T211749Z">
+        <seg>Encontre o arquivo &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; ou um arquivo em que esteja escrito “AutoHotkey” e tenha um ponto de interrogação amarelo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4017,16 +4017,16 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Once you have AutoHotkey installed, you will probably want it to do stuff.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202059Z" creationid="Leo" creationdate="20210622T202059Z">
-        <seg>Instalado o AutoHotKey, você agora quer que ele faça coisas para você.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070550Z" creationid="Leo" creationdate="20210622T202059Z">
+        <seg>Instalado o AutoHotkey, você agora quer que ele faça coisas para você.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>One of the most common issues with AutoHotkey involving variables is when to use the percent signs (&lt;b0&gt;%&lt;/b0&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T050743Z" creationid="Leo" creationdate="20210626T050743Z">
-        <seg>Um dos problemas mais comuns com o AutoHotKey envolvendo variáveis é quando usar sinais de porcentagem (&lt;b0&gt;%&lt;/b0&gt;).</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070755Z" creationid="Leo" creationdate="20210626T050743Z">
+        <seg>Um dos problemas mais comuns com o AutoHotkey envolvendo variáveis é quando usar sinais de porcentagem (&lt;b0&gt;%&lt;/b0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4057,8 +4057,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Or look for "AutoHotkey Help File" or "AutoHotkey.chm" in the start menu or your installation directory.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221026Z" creationid="Leo" creationdate="20210627T215131Z">
-        <seg>Ou procure pelo arquivo “AutoHotKey Help File” ou “AutoHotKey.chm” no menu iniciar ou no diretório de instalação do programa.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070901Z" creationid="Leo" creationdate="20210627T215131Z">
+        <seg>Ou procure pelo arquivo “AutoHotkey Help File” ou “AutoHotkey.chm” no menu iniciar ou no diretório de instalação do programa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4241,8 +4241,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Run this code to see your AHK version:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215100Z" creationid="Leo" creationdate="20210627T215100Z">
-        <seg>Execute este código para ver a versão de seu AutoHotKey:</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070801Z" creationid="Leo" creationdate="20210627T215100Z">
+        <seg>Execute este código para ver a versão de seu AutoHotkey:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4345,8 +4345,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Search within all &lt;b0&gt;Program Files&lt;/b0&gt; folders for &lt;b1&gt;AutoHotkey&lt;/b1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211645Z" creationid="Leo" creationdate="20210622T211645Z">
-        <seg>Procure dentro de todos as pastas de &lt;b0&gt;Arquivos de programas&lt;/b0&gt; pelo  &lt;b1&gt;AutoHotKey&lt;/b1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070705Z" creationid="Leo" creationdate="20210622T211645Z">
+        <seg>Procure dentro de todos as pastas de &lt;b0&gt;Arquivos de programas&lt;/b0&gt; pelo  &lt;b1&gt;AutoHotkey&lt;/b1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4665,8 +4665,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Since you're viewing this documentation locally, you've probably already installed AutoHotkey and can skip to section b.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201540Z" creationid="Leo" creationdate="20210622T201540Z">
-        <seg>Já que você está lendo esta documentação localmente, você provavelmente já instalou o AutoHotKey e pode pular para a seção b.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070528Z" creationid="Leo" creationdate="20210622T201540Z">
+        <seg>Já que você está lendo esta documentação localmente, você provavelmente já instalou o AutoHotkey e pode pular para a seção b.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5185,8 +5185,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>There is no single solution to make AutoHotkey work in all programs.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182731Z" creationid="Leo" creationdate="20210625T182731Z">
-        <seg>Não existe uma solução única para fazer o AutoHotKey funcionar em todos os programas.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070723Z" creationid="Leo" creationdate="20210625T182731Z">
+        <seg>Não existe uma solução única para fazer o AutoHotkey funcionar em todos os programas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5225,8 +5225,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>They group a section of code together so that AutoHotkey knows it's one big family and that it needs to stay together.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202454Z" creationid="Leo" creationdate="20210625T202454Z">
-        <seg>Elas agrupam uma seção do código de forma que o AutoHotKey saberá que se trata de uma única grande família e que precisa ficar junta.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070752Z" creationid="Leo" creationdate="20210625T202454Z">
+        <seg>Elas agrupam uma seção do código de forma que o AutoHotkey saberá que se trata de uma única grande família e que precisa ficar junta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6218,8 +6218,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>You should then see &lt;b0&gt;AutoHotkey Help File&lt;/b0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211441Z" creationid="Leo" creationdate="20210622T211441Z">
-        <seg>Aí você deverá ver o &lt;b0&gt;Arquivo de ajuda do AutoHotKey&lt;/b0&gt; (AutoHotKey help file).</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070607Z" creationid="Leo" creationdate="20210622T211441Z">
+        <seg>Aí você deverá ver o &lt;b0&gt;Arquivo de ajuda do AutoHotkey&lt;/b0&gt; (AutoHotkey help file).</seg>
       </tuv>
     </tu>
     <tu>

@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;create a script file&lt;/a0&gt; → &lt;a1&gt;add some hotkeys&lt;/a1&gt; → run the script file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065032Z" creationid="Leo" creationdate="20210701T065032Z">
+        <seg>&lt;a0&gt;crie um arquivo de script&lt;/a0&gt; → &lt;a1&gt;adicione algumas teclas de atalho (hotkeys)&lt;/a1&gt; → execute o arquivo do script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;https://www.autohotkey.com/&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045910Z" creationid="Leo" creationdate="20210629T045910Z">
@@ -1922,6 +1930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065426Z" creationid="Leo" creationdate="20210627T065426Z">
         <seg>Banana["Em conserva"] := True</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Basically:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064933Z" creationid="Leo" creationdate="20210701T064933Z">
+        <seg>Basicamente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5760,6 +5776,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Why am I seeing this?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065114Z" creationid="Leo" creationdate="20210701T065114Z">
+        <seg>Por que estou vendo isto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WinActivate, Untitled - Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T224029Z" creationid="Leo" creationdate="20210629T045915Z">
@@ -5812,6 +5836,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201829Z" creationid="Leo" creationdate="20210625T201829Z">
         <seg>Você está usando &lt;c0&gt;MinhaVar&lt;/c0&gt; para armazenar o valor de retorno da função que está à direita do operador &lt;c1&gt;:=&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also get help or find many useful scripts on &lt;a0&gt;our friendly discussion forum&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065111Z" creationid="Leo" creationdate="20210701T065111Z">
+        <seg>Você também pode obter ajuda ou encontrar vários scripts úteis em &lt;a0&gt;nosso amigável fórum de discussão&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5908,6 +5940,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215941Z" creationid="Leo" creationdate="20210623T023706Z">
         <seg>Você deve estar pensando &lt;i0&gt;“Mas como eu vou saber que ^ significa &lt;k1&gt;Ctrl&lt;/k1&gt;?!”&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You ran AutoHotkey without &lt;a0&gt;telling it&lt;/a0&gt; which script file to run, and it couldn't find a script in either of &lt;a1&gt;the usual places&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065240Z" creationid="Leo" creationdate="20210701T065240Z">
+        <seg>Porque você executou o AutoHotKey sem &lt;a0&gt;dizê-lo&lt;/a0&gt; qual arquivo de script ele deve executar, e ele também não pôde encontrar um script em nenhum dos &lt;a1&gt;locais comuns&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3511,6 +3511,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>List of Keys (Keyboard, Mouse and Joystick) | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162037Z" creationid="Leo" creationdate="20210701T162037Z">
+        <seg>Lista de teclas (teclado, mouse e joystick) | AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List of keys, mouse buttons and joystick controls</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071102Z" creationid="Leo" creationdate="20210701T071102Z">
@@ -5387,6 +5395,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070150Z" creationid="Leo" creationdate="20210701T070150Z">
         <seg>Esta página contém informações sobre a versão atual, os autores, a licença e uma breve visão geral da documentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page lists all mouse buttons, keyboard keys and joystick buttons which can be used for hotkeys and key-specific commands/functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162139Z" creationid="Leo" creationdate="20210701T162139Z">
+        <seg>Esta página lista todos os botões de mouse, teclas do teclado e botões do joystick, todos os quais podem ser usados para hotkeys e comandos e funções específicos de tais teclas/botões.</seg>
       </tuv>
     </tu>
     <tu>

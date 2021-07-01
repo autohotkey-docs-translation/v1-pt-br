@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;GNU General Public License&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070506Z" creationid="Leo" creationdate="20210701T070506Z">
+        <seg>Licença Geral Pública GNU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;IfEqual&lt;/a0&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050343Z" creationid="Leo" creationdate="20210629T050343Z">
@@ -1858,6 +1866,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193404Z" creationid="Leo" creationdate="20210622T193404Z">
         <seg>Pedindo ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070205Z" creationid="Leo" creationdate="20210701T070205Z">
+        <seg>AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -4583,6 +4599,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Software License:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070357Z" creationid="Leo" creationdate="20210701T070357Z">
+        <seg>Licença do Software:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some examples:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053851Z" creationid="Leo" creationdate="20210626T053851Z">
@@ -5560,6 +5584,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070219Z" creationid="Leo" creationdate="20210701T070219Z">
+        <seg>Versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Visit &lt;a0&gt;Hotkeys&lt;/a0&gt; and &lt;a1&gt;Hotstrings&lt;/a1&gt; for additional hotkey and hotstring modifiers, information and examples.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025700Z" creationid="Leo" creationdate="20210623T025700Z">
@@ -6448,6 +6480,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>license.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070349Z" creationid="Leo" creationdate="20210701T070349Z">
+        <seg>license.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>misc/WinTitle.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045919Z" creationid="Leo" creationdate="20210629T045919Z">
@@ -6468,6 +6508,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220710Z" creationid="Leo" creationdate="20210627T220710Z">
         <seg>return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>static/ahk_logo.svg</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070209Z" creationid="Leo" creationdate="20210701T070209Z">
+        <seg>static/ahk_logo.svg</seg>
       </tuv>
     </tu>
     <tu>
@@ -6548,6 +6596,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T231006Z" creationid="Leo" creationdate="20210629T045928Z">
         <seg>~h::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>©2003-2014 Chris Mallett, portions ©&lt;a0&gt;AutoIt Team&lt;/a0&gt; and the AHK community</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070348Z" creationid="Leo" creationdate="20210701T070348Z">
+        <seg>©2003-2014 Chris Mallett, porções de ©&lt;a0&gt;AutoIt Team&lt;/a0&gt; e a comunidade do AHK</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

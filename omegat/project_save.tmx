@@ -5306,8 +5306,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>To learn how, read &lt;a0&gt;the tutorial&lt;/a0&gt; or &lt;a1&gt;dive straight in&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064926Z" creationid="Leo" creationdate="20210701T064926Z">
-        <seg>Para aprender commo, leia o &lt;a0&gt;tutorial&lt;/a0&gt; ou &lt;a1&gt;pule direto de cabeça&lt;/a1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065729Z" creationid="Leo" creationdate="20210701T064926Z">
+        <seg>Para aprender como, leia o &lt;a0&gt;tutorial&lt;/a0&gt; ou &lt;a1&gt;pule direto de cabeça&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

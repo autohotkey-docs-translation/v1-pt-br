@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before AutoHotkey can do anything, you need to write a script telling it what to do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064845Z" creationid="Leo" creationdate="20210701T064845Z">
+        <seg>Antes que o AutoHotKey possa fazer qualquer coisa, você precisa escrever um script dizendo ao AHK o que fazer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before learning to use AutoHotkey (AHK), you will need to download it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201553Z" creationid="Leo" creationdate="20210622T201553Z">
@@ -2658,6 +2666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192957Z" creationid="Leo" creationdate="20210622T192957Z">
         <seg>Jogos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Getting Started</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064712Z" creationid="Leo" creationdate="20210701T064712Z">
+        <seg>Primeiros passos</seg>
       </tuv>
     </tu>
     <tu>
@@ -5272,6 +5288,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To learn how, read &lt;a0&gt;the tutorial&lt;/a0&gt; or &lt;a1&gt;dive straight in&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064926Z" creationid="Leo" creationdate="20210701T064926Z">
+        <seg>Para aprender commo, leia o &lt;a0&gt;tutorial&lt;/a0&gt; ou &lt;a1&gt;pule direto de cabeça&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remove keys and values:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212909Z" creationid="Leo" creationdate="20210627T212909Z">
@@ -5572,6 +5596,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203620Z" creationid="Leo" creationdate="20210625T203620Z">
         <seg>Vamos cobrir os mais comuns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome to AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064656Z" creationid="Leo" creationdate="20210701T064656Z">
+        <seg>Bem-vindo ao AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Welcome...</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064706Z" creationid="Leo" creationdate="20210701T064706Z">
+        <seg>Bem-vindo...</seg>
       </tuv>
     </tu>
     <tu>

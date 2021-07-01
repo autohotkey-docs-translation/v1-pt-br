@@ -5946,8 +5946,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>You ran AutoHotkey without &lt;a0&gt;telling it&lt;/a0&gt; which script file to run, and it couldn't find a script in either of &lt;a1&gt;the usual places&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065240Z" creationid="Leo" creationdate="20210701T065240Z">
-        <seg>Porque você executou o AutoHotKey sem &lt;a0&gt;dizê-lo&lt;/a0&gt; qual arquivo de script ele deve executar, e ele também não pôde encontrar um script em nenhum dos &lt;a1&gt;locais comuns&lt;/a1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065752Z" creationid="Leo" creationdate="20210701T065240Z">
+        <seg>Porque você executou o AutoHotKey sem &lt;a0&gt;dizer-lho&lt;/a0&gt; qual arquivo de script ele deve executar, e ele também não pôde encontrar um script em nenhum dos &lt;a1&gt;locais comuns&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

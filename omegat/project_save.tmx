@@ -4007,6 +4007,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Quick Reference | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070103Z" creationid="Leo" creationdate="20210701T070103Z">
+        <seg>Referência rápida | AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redirecting to &lt;a0&gt;docs/AutoHotkey.htm&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070043Z" creationid="Leo" creationdate="20210701T070043Z">
+        <seg>Redirecionando para &lt;a0&gt;docs/AutoHotkey.htm&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>RemoveAt method</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213754Z" creationid="Leo" creationdate="20210627T213754Z">
@@ -5159,6 +5175,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This page contains information about the currently used version, the authors, the license, and a quick overview of the documentation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070150Z" creationid="Leo" creationdate="20210701T070150Z">
+        <seg>Esta página contém informações sobre a versão atual, os autores, a licença e uma breve visão geral da documentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This process is called "Scripting".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215520Z" creationid="Leo" creationdate="20210622T202226Z">
@@ -6300,6 +6324,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050418Z" creationid="Leo" creationdate="20210629T050418Z">
         <seg>https://en.wikipedia.org/wiki/Indentation_style</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.autohotkey.com</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070155Z" creationid="Leo" creationdate="20210701T070155Z">
+        <seg>https://www.autohotkey.com</seg>
       </tuv>
     </tu>
     <tu>

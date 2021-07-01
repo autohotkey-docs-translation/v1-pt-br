@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Script compatibility&lt;/a0&gt; - AutoHotkey 1.0 users read this</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071235Z" creationid="Leo" creationdate="20210701T071235Z">
+        <seg>&lt;a0&gt;Compatibilidade de scripts&lt;/a0&gt; — usuários do AutoHotKey 1.0 devem ler isto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Scripting language&lt;/a0&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070634Z" creationid="Leo" creationdate="20210701T070634Z">
@@ -1670,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A special thanks to Jonathan Bennett, whose generosity in releasing AutoIt v2 as free software in 1999 served as an inspiration and time-saver for myself and many others worldwide.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071343Z" creationid="Leo" creationdate="20210701T071343Z">
+        <seg>Um obrigado especial a Jonathan Bennett, cuja generosidade em lançar o AutoIt v2 como software livre em 1999 serviu como uma inspiração e como um ganha-tempo para mim e outros ao redor do mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A typical function looks like:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191524Z" creationid="Leo" creationdate="20210625T191524Z">
@@ -1682,6 +1698,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202452Z" creationid="Leo" creationdate="20210622T202452Z">
         <seg>Uma janela deve abrir, provavelmente o Bloco de Notas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Acknowledgements</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071243Z" creationid="Leo" creationdate="20210701T071243Z">
+        <seg>Agradecimentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -3103,6 +3127,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition, many of AutoHotkey's enhancements to the AutoIt v2 command set, as well as the Window Spy and the old script compiler, were adapted directly from the AutoIt v3 source code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071553Z" creationid="Leo" creationdate="20210701T071553Z">
+        <seg>Além do mais, muitas das melhorias do AutoHotKey sobre o conjunto de comandos do AutoIt v2, bem como o Espião de Janela e o velho compilador de scripts, foram adaptados diretamente a partir do código-fonte do AutoIt v3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In expression mode, variables do not need percent signs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204201Z" creationid="Leo" creationdate="20210625T204201Z">
@@ -4147,6 +4179,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070043Z" creationid="Leo" creationdate="20210701T070043Z">
         <seg>Redirecionando para &lt;a0&gt;docs/AutoHotkey.htm&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RegEx quick reference</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071210Z" creationid="Leo" creationdate="20210701T071210Z">
+        <seg>Expressões regulares — referência rápida</seg>
       </tuv>
     </tu>
     <tu>

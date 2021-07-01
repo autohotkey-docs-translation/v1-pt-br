@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#general</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162301Z" creationid="Leo" creationdate="20210701T162301Z">
+        <seg>Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#i::</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045924Z" creationid="Leo" creationdate="20210629T045924Z">
@@ -1726,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Advanced Buttons</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162252Z" creationid="Leo" creationdate="20210701T162252Z">
+        <seg>Botões avançados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After downloading it, you may possibly need to install it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T214034Z" creationid="Leo" creationdate="20210622T201608Z">
@@ -2350,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cursor Control Keys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162315Z" creationid="Leo" creationdate="20210701T162315Z">
+        <seg>Teclas de controle do cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete method</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213241Z" creationid="Leo" creationdate="20210627T213241Z">
@@ -2762,6 +2786,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192957Z" creationid="Leo" creationdate="20210622T192957Z">
         <seg>Jogos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General Buttons</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162248Z" creationid="Leo" creationdate="20210701T162248Z">
+        <seg>Botões gerais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General Keys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162304Z" creationid="Leo" creationdate="20210701T162304Z">
+        <seg>Teclas gerais</seg>
       </tuv>
     </tu>
     <tu>
@@ -3431,6 +3471,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162259Z" creationid="Leo" creationdate="20210701T162259Z">
+        <seg>Teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyboard and mouse:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070901Z" creationid="Leo" creationdate="20210701T070901Z">
@@ -3515,6 +3563,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162037Z" creationid="Leo" creationdate="20210701T162037Z">
         <seg>Lista de teclas (teclado, mouse e joystick) | AutoHotKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List of Keys &lt;s0&gt;(Keyboard, Mouse and Joystick)&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162238Z" creationid="Leo" creationdate="20210701T162238Z">
+        <seg>Lista de teclas &lt;s0&gt;(teclado, mouse e joystick)&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5936,6 +5992,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wheel</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162256Z" creationid="Leo" creationdate="20210701T162256Z">
+        <seg>Roda do mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When #IfWin directives are never used in a script, all hotkeys and hotstrings are enabled for all windows.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154720Z" creationid="Leo" creationdate="20210623T154720Z">
@@ -6708,6 +6772,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064223Z" creationid="Ragnar-F" creationdate="20210701T064223Z">
         <seg>indexData = [</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>keyboard,keys,key,mouse,buttons,button,joystick,create,hotkeys,hotkey,macros</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162213Z" creationid="Leo" creationdate="20210701T162213Z">
+        <seg>teclado,teclas,tecla,mouse,botões,botão,hoystick,criar,hotkeys,hotkey,teclas de atalho,macros</seg>
       </tuv>
     </tu>
     <tu>

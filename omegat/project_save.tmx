@@ -2550,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finally, AutoHotkey would not be what it is today without &lt;a0&gt;these other individuals&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071651Z" creationid="Leo" creationdate="20210701T071651Z">
+        <seg>Finalmente, AutoHotKey não seria o que é hoje se não fosse por &lt;a0&gt;estes outros indivíduos&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find "New" in the menu.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215353Z" creationid="Leo" creationdate="20210622T202304Z">
@@ -4731,6 +4739,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175854Z" creationid="Leo" creationdate="20210625T175854Z">
         <seg>Então por favor lembre-se de conferir a tabela na &lt;a3&gt;página do comando Send&lt;/a3&gt; e certifique-se que você inseriu as chaves nos lugares certos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So thanks to Jon and the other AutoIt authors for those as well.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071631Z" creationid="Leo" creationdate="20210701T071631Z">
+        <seg>Então obrigado ao Jon e aos outros autores do AutoIt por elas também.</seg>
       </tuv>
     </tu>
     <tu>

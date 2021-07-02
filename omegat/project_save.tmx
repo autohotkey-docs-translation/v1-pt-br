@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additionally, some special characters may need to be escaped or enclosed in braces, depending on the context.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071942Z" creationid="Leo" creationdate="20210702T071942Z">
+        <seg>Ademais, alguns caracteres especiais podem exigir escape ou que sejam envoltos em chaves, dependendo do contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additionally, you cannot do math in the parameters, unlike functions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T233825Z" creationid="Leo" creationdate="20210625T190729Z">
@@ -1834,6 +1842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044432Z" creationid="Leo" creationdate="20210629T044432Z">
         <seg>Alt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although any single character can be used as a key name, its meaning (scan code or virtual keycode) depends on the current keyboard layout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071642Z" creationid="Leo" creationdate="20210702T071642Z">
+        <seg>Apesar de qualquer caracter individual poder ser usado como nome de tecla, seu significado (código de leitura ou ou código virtual) depende do layout do teclado usado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6668,6 +6684,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192449Z" creationid="Leo" creationdate="20210622T192449Z">
         <seg>ahk, autohotkey, tutorial, guia para iniciantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>b is &lt;k1&gt;B&lt;/k1&gt; and 5 is &lt;k2&gt;5&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071453Z" creationid="Leo" creationdate="20210702T071453Z">
+        <seg>b é &lt;k1&gt;B&lt;/k1&gt; e 5 é &lt;k2&gt;5&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

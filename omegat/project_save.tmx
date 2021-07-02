@@ -1550,6 +1550,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;CapsLock&lt;/k0&gt; (caps lock key)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T175949Z" creationid="Leo" creationdate="20210702T175949Z">
+        <seg>&lt;k0&gt;CapsLock&lt;/k0&gt; (tecla caps lock)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Space&lt;/k0&gt; (space bar)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180133Z" creationid="Leo" creationdate="20210702T180133Z">
+        <seg>&lt;k0&gt;Space&lt;/k0&gt; (barra de espaço)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Tab&lt;/k0&gt; (tabulator key)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180143Z" creationid="Leo" creationdate="20210702T180143Z">
+        <seg>&lt;k0&gt;Tab&lt;/k0&gt; (tecla de tabulação)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Win&lt;/k0&gt; (Windows logo key)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023905Z" creationid="Leo" creationdate="20210623T023905Z">
@@ -1582,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Deprecated:&lt;/s0&gt; Use the synonym &lt;c1&gt;Enter&lt;/c1&gt; instead to reduce ambiguity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180222Z" creationid="Leo" creationdate="20210702T180222Z">
+        <seg>&lt;s0&gt;Obsoleto:&lt;/s0&gt; Use o sinônimo &lt;c1&gt;Enter&lt;/c1&gt; em vez de Return para evitar ambiguidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; There are exceptions, but those tend to cause confusion a lot of the time.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212757Z" creationid="Leo" creationdate="20210622T212757Z">
@@ -1594,6 +1626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181616Z" creationid="Leo" creationdate="20210625T181616Z">
         <seg>&lt;s0&gt;Observação:&lt;/s0&gt; há diferentes formas do comando Send.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; Windows IME may interfere with the detection and functionality of CapsLock; see &lt;a1&gt;CapsLock and IME&lt;/a1&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180123Z" creationid="Leo" creationdate="20210702T180123Z">
+        <seg>&lt;s0&gt;Observação:&lt;/s0&gt; O IME do Windows pode interferir com a detecção e funcionamento do CapsLock; vide &lt;a1&gt;CapsLock e IME&lt;/a1&gt; para detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1624,8 +1664,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; The letters a-z or A-Z can be used to refer to the corresponding virtual keycodes (usually vk41-vk5A) even if they are not included in the current keyboard layout.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T072119Z" creationid="Leo" creationdate="20210702T072119Z">
-        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; As letras a-z ou A-Z podem ser usadas para se referir aos Códigos virtuais correspondentes (normalmente vk41-vk5A) mesmo se eles não estiverem inclusos no layout em uso no teclado.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T175929Z" creationid="Leo" creationdate="20210702T072119Z">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; As letras a-z ou A-Z podem ser usadas para se referir aos códigos virtuais correspondentes (normalmente vk41-vk5A) mesmo se eles não estiverem inclusos no layout em uso no teclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4459,6 +4499,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071013Z" creationid="Leo" creationdate="20210702T071013Z">
         <seg>Requer Windows Vista ou posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Return</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180148Z" creationid="Leo" creationdate="20210702T180148Z">
+        <seg>Return</seg>
       </tuv>
     </tu>
     <tu>

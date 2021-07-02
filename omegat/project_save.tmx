@@ -1550,10 +1550,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;*&lt;/k0&gt; (multiplication)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181107Z" creationid="Leo" creationdate="20210702T181107Z">
+        <seg>&lt;k0&gt;*&lt;/k0&gt; (multiplicação ou asterisco)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;.&lt;/k0&gt; / &lt;k1&gt;Del&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181002Z" creationid="Leo" creationdate="20210702T181002Z">
+        <seg>&lt;k0&gt;.&lt;/k0&gt; / &lt;k1&gt;Del&lt;/k1&gt; (Observação: nos teclados ABNT/ABNT2, costuma haver uma vírgula na tecla Del, enquanto a tecla “ponto” não tem correspondente com NumLock desligada. Teste seu script para determinar qual tecla funciona.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;/&lt;/k0&gt; (division)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181057Z" creationid="Leo" creationdate="20210702T181057Z">
+        <seg>&lt;k0&gt;/&lt;/k0&gt; (divisão)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;CapsLock&lt;/k0&gt; (caps lock key)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T175949Z" creationid="Leo" creationdate="20210702T175949Z">
         <seg>&lt;k0&gt;CapsLock&lt;/k0&gt; (tecla caps lock)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (number lock key).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181013Z" creationid="Leo" creationdate="20210702T181013Z">
+        <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (tecla number lock).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6508,6 +6540,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210452Z" creationid="Leo" creationdate="20210623T195908Z">
         <seg>Sejam uma ou 3253.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While &lt;k1&gt;Ctrl&lt;/k1&gt; is held down, &lt;k2&gt;NumLock&lt;/k2&gt; produces the key code of &lt;c3&gt;Pause&lt;/c3&gt;, so use &lt;c4&gt;^Pause&lt;/c4&gt; in hotkeys instead of &lt;c5&gt;^NumLock&lt;/c5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181052Z" creationid="Leo" creationdate="20210702T181052Z">
+        <seg>Enquanto &lt;k1&gt;Ctrl&lt;/k1&gt; está pressionada, &lt;k2&gt;NumLock&lt;/k2&gt; produz o código da tecla &lt;c3&gt;Pause&lt;/c3&gt;, então use &lt;c4&gt;^Pause&lt;/c4&gt; nas hotkeys em vez de &lt;c5&gt;^NumLock&lt;/c5&gt;.</seg>
       </tuv>
     </tu>
     <tu>

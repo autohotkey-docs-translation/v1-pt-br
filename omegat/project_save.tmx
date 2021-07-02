@@ -1622,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; The letters a-z or A-Z can be used to refer to the corresponding virtual keycodes (usually vk41-vk5A) even if they are not included in the current keyboard layout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T072119Z" creationid="Leo" creationdate="20210702T072119Z">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; As letras a-z ou A-Z podem ser usadas para se referir aos Códigos virtuais correspondentes (normalmente vk41-vk5A) mesmo se eles não estiverem inclusos no layout em uso no teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s2&gt;Var1&lt;/s2&gt; := &lt;s3&gt;Var2&lt;/s3&gt; + 100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050358Z" creationid="Leo" creationdate="20210629T050358Z">

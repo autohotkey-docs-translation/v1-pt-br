@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Note&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071238Z" creationid="Leo" creationdate="20210702T071238Z">
+        <seg>Observação:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;This is important:&lt;/s0&gt; A lot of games, especially modern ones, have cheat prevention software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181830Z" creationid="Leo" creationdate="20210625T181830Z">
@@ -4383,6 +4391,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regardless of the particular mouse, &lt;a1&gt;Send&lt;/a1&gt; and &lt;a2&gt;Click&lt;/a2&gt; can be used to scroll horizontally in programs which support it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071234Z" creationid="Leo" creationdate="20210702T071234Z">
+        <seg>Independentemente do mouse em particular, &lt;a1&gt;Send&lt;/a1&gt; e &lt;a2&gt;Click&lt;/a2&gt; podem ser usados para rolar horizontalmente em programas que suportam rolagem horizontal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remapping keys and buttons</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071041Z" creationid="Leo" creationdate="20210701T071041Z">
@@ -5227,6 +5243,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193323Z" creationid="Leo" creationdate="20210622T193323Z">
         <seg>Os misteriosos colchetes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The names of the letter and number keys are the same as that single letter or digit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071441Z" creationid="Leo" creationdate="20210702T071441Z">
+        <seg>Os nomes das teclas alfabéticas e numéricas são a própria letra ou dígito sozinho.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1558,6 +1558,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;PgDn&lt;/k0&gt; (page down key)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180441Z" creationid="Leo" creationdate="20210702T180441Z">
+        <seg>&lt;k0&gt;PgDn&lt;/k0&gt; (tecla page down)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;PgUp&lt;/k0&gt; (page up key)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180428Z" creationid="Leo" creationdate="20210702T180428Z">
+        <seg>&lt;k0&gt;PgUp&lt;/k0&gt; (tecla page up)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (scroll lock key).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180312Z" creationid="Leo" creationdate="20210702T180312Z">
+        <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (tecla scroll lock).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Space&lt;/k0&gt; (space bar)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180133Z" creationid="Leo" creationdate="20210702T180133Z">
@@ -1578,6 +1602,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023905Z" creationid="Leo" creationdate="20210623T023905Z">
         <seg>&lt;k0&gt;Win&lt;/k0&gt; (Tecla do logo do Windows)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (up arrow key)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180454Z" creationid="Leo" creationdate="20210702T180454Z">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (tecla seta para cima)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;↓&lt;/k0&gt; (down arrow key)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180501Z" creationid="Leo" creationdate="20210702T180501Z">
+        <seg>&lt;k0&gt;↓&lt;/k0&gt; (tecla seta para baixo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2062,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Backspace (or BS)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180254Z" creationid="Leo" creationdate="20210702T180254Z">
+        <seg>Backspace (ou BS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Banana := Object("Color", "Yellow", "Taste", "Delicious", "Price", 3)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T071458Z" creationid="Leo" creationdate="20210627T065043Z">
@@ -2478,6 +2526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete (or Del)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180407Z" creationid="Leo" creationdate="20210702T180407Z">
+        <seg>Delete (ou Del)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete method</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213241Z" creationid="Leo" creationdate="20210627T213241Z">
@@ -2594,6 +2650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044347Z" creationid="Leo" creationdate="20210629T044347Z">
         <seg>Esc::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Escape (or Esc)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180228Z" creationid="Leo" creationdate="20210702T180228Z">
+        <seg>Escape (ou Esc)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3451,6 +3515,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T213320Z" creationid="Leo" creationdate="20210626T051744Z">
         <seg>InputBox, OutputVar2, Pergunta 2, você gosta do AutoHotkey?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert (or Ins)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180416Z" creationid="Leo" creationdate="20210702T180416Z">
+        <seg>Insert (ou Ins)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6404,6 +6476,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210452Z" creationid="Leo" creationdate="20210623T195908Z">
         <seg>Sejam uma ou 3253.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While &lt;k1&gt;Ctrl&lt;/k1&gt; is held down, &lt;k2&gt;ScrollLock&lt;/k2&gt; produces the key code of &lt;c3&gt;CtrlBreak&lt;/c3&gt;, but can be differentiated from &lt;k4&gt;Pause&lt;/k4&gt; by scan code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180402Z" creationid="Leo" creationdate="20210702T180402Z">
+        <seg>Enquanto &lt;k1&gt;Ctrl&lt;/k1&gt; é mantida pressionada, &lt;k2&gt;ScrollLock&lt;/k2&gt; produz a o código da tecla &lt;c3&gt;CtrlBreak&lt;/c3&gt;, mas pode ser diferenciado de &lt;k4&gt;Pause&lt;/k4&gt; por meio do código de leitura.</seg>
       </tuv>
     </tu>
     <tu>

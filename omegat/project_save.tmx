@@ -2110,6 +2110,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a hotkey (&lt;c1&gt;Alt::&lt;/c1&gt;) it fires upon release unless it has the tilde prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183057Z" creationid="Leo" creationdate="20210702T183057Z">
+        <seg>Como hotkey (&lt;c1&gt;Alt::&lt;/c1&gt;), a tecla Alt só é enviada no momento em que é solta a não ser que esteja acompanhada do prefixo ~ (til).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a hotkey (&lt;c1&gt;Control::&lt;/c1&gt;) it fires upon release unless it has the tilde prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183014Z" creationid="Leo" creationdate="20210702T183014Z">
+        <seg>Como hotkey (&lt;c1&gt;Control::&lt;/c1&gt;), a tecla Ctrl só é enviada no momento em que é solta a não ser que esteja acompanhado do prefixo ~ (til).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As stated above, functions are different because they use parentheses.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191436Z" creationid="Leo" creationdate="20210625T191436Z">
@@ -2534,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Control (or Ctrl)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182910Z" creationid="Leo" creationdate="20210702T182910Z">
+        <seg>Control (ou Ctrl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ControlGetText, OutputVar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214716Z" creationid="Leo" creationdate="20210627T214716Z">
@@ -2578,6 +2602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182716Z" creationid="Leo" creationdate="20210702T182716Z">
         <seg>Corresponde ao prefixo &lt;c1&gt;&gt;#&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c2&gt;^&lt;/c2&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183037Z" creationid="Leo" creationdate="20210702T183037Z">
+        <seg>Corresponde ao prefixo &lt;c2&gt;^&lt;/c2&gt; das hotkeys.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3307,6 +3339,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220511Z" creationid="Leo" creationdate="20210625T182312Z">
         <seg>No entanto, há métodos que podem aumentar as chances de funcionar em alguns jogos, mas não há nenhum botão mágico do tipo &lt;i0&gt;“funcione no meu jogo agora!!!”&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, hotkeys with the &lt;c4&gt;#&lt;/c4&gt; modifier can be triggered by either &lt;k5&gt;Win&lt;/k5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182902Z" creationid="Leo" creationdate="20210702T182902Z">
+        <seg>No entanto, as hotkeys com o modificador &lt;c4&gt;#&lt;/c4&gt; podem ser desencadeadas por quaisquer das teclas &lt;k5&gt;Win&lt;/k5&gt;Win, esquerda ou direita.</seg>
       </tuv>
     </tu>
     <tu>

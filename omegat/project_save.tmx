@@ -1814,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Warning:&lt;/s0&gt; Only &lt;a1&gt;Send&lt;/a1&gt;, &lt;a2&gt;GetKeyName()&lt;/a2&gt;, &lt;a3&gt;GetKeyVK()&lt;/a3&gt;, &lt;a4&gt;GetKeySC()&lt;/a4&gt; and &lt;a5&gt;#MenuMaskKey&lt;/a5&gt; support combining VKnn and SCnnn.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185515Z" creationid="Leo" creationdate="20210702T185515Z">
+        <seg>&lt;s0&gt;Aviso:&lt;/s0&gt; Somente &lt;a1&gt;Send&lt;/a1&gt;, &lt;a2&gt;GetKeyName()&lt;/a2&gt;, &lt;a3&gt;GetKeyVK()&lt;/a3&gt;, &lt;a4&gt;GetKeySC()&lt;/a4&gt; e &lt;a5&gt;#MenuMaskKey&lt;/a5&gt; suportam a combinação de VKnn com SCnnn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;[v1.0.48+]:&lt;/s0&gt; Scroll to the left or right.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070954Z" creationid="Leo" creationdate="20210702T070954Z">
@@ -3130,6 +3138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T195515Z" creationid="Leo" creationdate="20210623T195515Z">
         <seg>Para informações mais detalhadas e comandos similares, confira a página &lt;a0&gt;#IfWinActive&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information about the VKnn method, see &lt;a5&gt;Special Keys&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185354Z" creationid="Leo" creationdate="20210702T185354Z">
+        <seg>Para mais informações sobre o método VKnnão, vide &lt;a5&gt;Teclas Especiais&lt;/a5&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2566,6 +2566,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Corresponds to the &lt;c1&gt;&lt;#&lt;/c1&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182649Z" creationid="Leo" creationdate="20210702T182649Z">
+        <seg>Corresponde ao prefixo &lt;c1&gt;&lt;#&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c1&gt;&gt;#&lt;/c1&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182716Z" creationid="Leo" creationdate="20210702T182716Z">
+        <seg>Corresponde ao prefixo &lt;c1&gt;&gt;#&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating Objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193149Z" creationid="Leo" creationdate="20210622T193149Z">
@@ -3815,6 +3831,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left &lt;k0&gt;Win&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182706Z" creationid="Leo" creationdate="20210702T182637Z">
+        <seg>Tecla &lt;k0&gt;Win&lt;/k0&gt; da esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Legacy mixed assignment</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203918Z" creationid="Leo" creationdate="20210625T203918Z">
@@ -4659,6 +4683,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180148Z" creationid="Leo" creationdate="20210702T180148Z">
         <seg>Return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right &lt;k0&gt;Win&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182700Z" creationid="Leo" creationdate="20210702T182700Z">
+        <seg>Tecla &lt;k0&gt;Win&lt;/k0&gt; da direita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6140,6 +6172,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070853Z" creationid="Leo" creationdate="20210702T070853Z">
         <seg>Tipicamente executa a mesma função de Browser_Forward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike &lt;k1&gt;Ctrl&lt;/k1&gt;/&lt;k2&gt;Alt&lt;/k2&gt;/&lt;k3&gt;Shift&lt;/k3&gt;, there is no generic/neutral "Win" key because the OS does not support it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182828Z" creationid="Leo" creationdate="20210702T182828Z">
+        <seg>Ao contrário do caso das teclas &lt;k1&gt;Ctrl&lt;/k1&gt;/&lt;k2&gt;Alt&lt;/k2&gt;/&lt;k3&gt;Shift&lt;/k3&gt;, não há tecla "Win" genérica/neutra porque o sistema operacional não a suporta.</seg>
       </tuv>
     </tu>
     <tu>

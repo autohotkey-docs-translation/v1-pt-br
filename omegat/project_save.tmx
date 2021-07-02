@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>5th mouse button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070845Z" creationid="Leo" creationdate="20210702T070845Z">
+        <seg>O 5º botão do mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>6 - Variables</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060354Z" creationid="Leo" creationdate="20210629T050353Z">
@@ -1594,6 +1602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181830Z" creationid="Leo" creationdate="20210625T181830Z">
         <seg>&lt;s0&gt;Isto é importante:&lt;/s0&gt; vários jogos, especialmente os mais modernos, têm sistemas de prevenção de cheats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;[v1.0.48+]:&lt;/s0&gt; Scroll to the left or right.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070954Z" creationid="Leo" creationdate="20210702T070954Z">
+        <seg>&lt;s0&gt;[v1.0.48+]:&lt;/s0&gt; Rolar para a esquerda ou para a direita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3271,6 +3287,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In some cases, software bundled with the mouse must instead be used to control this feature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071156Z" creationid="Leo" creationdate="20210702T071156Z">
+        <seg>Em alguns casos, o software que acompanha o mouse deve ser usado em vez do AutoHotKey para controlar essa funcionalidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the example below, you would hold down Numpad0 then press Numpad1 or Numpad2 to trigger one of the hotkeys:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T055515Z" creationid="Leo" creationdate="20210623T024931Z">
@@ -4391,6 +4415,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requires Windows Vista or later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071013Z" creationid="Leo" creationdate="20210702T071013Z">
+        <seg>Requer Windows Vista ou posterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-Click on your desktop.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202256Z" creationid="Leo" creationdate="20210622T202256Z">
@@ -5375,6 +5407,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These can be &lt;a0&gt;used as hotkeys&lt;/a0&gt; with some (but not all) mice which have a second wheel or support tilting the wheel to either side.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071106Z" creationid="Leo" creationdate="20210702T071106Z">
+        <seg>Estes podem ser &lt;a0&gt;usados como hotkeys&lt;/a0&gt; com alguns (mas não todos) mouses que tenham uma segunda roda ou tenham suporte à inclinação da roda para qualquer dos lados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These special commands (technically called "directives") create context-sensitive hotkeys and hotstrings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215950Z" creationid="Leo" creationdate="20210623T030015Z">
@@ -5816,6 +5856,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Turn the wheel downward (toward you).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070911Z" creationid="Leo" creationdate="20210702T070911Z">
+        <seg>Girar a roda do mouse para baixo (em direção a você).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turn the wheel upward (away from you).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070935Z" creationid="Leo" creationdate="20210702T070935Z">
+        <seg>Girar a roda do mouse para cima (na direção contrária a você).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tutorial for beginners</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070531Z" creationid="Leo" creationdate="20210701T070531Z">
@@ -5828,6 +5884,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070836Z" creationid="Leo" creationdate="20210702T070836Z">
         <seg>Tipicamente executa a mesma função de Browser_Back.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typically performs the same function as Browser_Forward.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070853Z" creationid="Leo" creationdate="20210702T070853Z">
+        <seg>Tipicamente executa a mesma função de Browser_Forward.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6604,6 +6668,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043845Z" creationid="Leo" creationdate="20210629T043845Z">
         <seg>commands/Block.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>commands/Click.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071001Z" creationid="Leo" creationdate="20210702T071001Z">
+        <seg>commands/Click.htm</seg>
       </tuv>
     </tu>
     <tu>

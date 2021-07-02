@@ -1606,10 +1606,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;←&lt;/k0&gt; (left arrow key)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180509Z" creationid="Leo" creationdate="20210702T180509Z">
+        <seg>&lt;k0&gt;←&lt;/k0&gt; (tecla seta para a esquerda)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;↑&lt;/k0&gt; (up arrow key)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180454Z" creationid="Leo" creationdate="20210702T180454Z">
         <seg>&lt;k0&gt;↑&lt;/k0&gt; (tecla seta para cima)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;→&lt;/k0&gt; (right arrow key)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180517Z" creationid="Leo" creationdate="20210702T180517Z">
+        <seg>&lt;k0&gt;→&lt;/k0&gt; (tecla seta para a direita)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Due to system behavior, the following keys separated by a slash are identified differently depending on whether &lt;k0&gt;NumLock&lt;/k0&gt; is ON or OFF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180704Z" creationid="Leo" creationdate="20210702T180641Z">
+        <seg>Devido ao comportamento do sistema, as teclas separadas por uma barra a seguir são identificadas de forma diferente a depender do estado da tecla &lt;k0&gt;NumLock&lt;/k0&gt;, se LIGADA ou DESLIGADA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During installation of AutoHotkey, you will be asked to choose from UNICODE or ANSI.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070546Z" creationid="Leo" creationdate="20210622T201732Z">
@@ -3243,6 +3267,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213957Z" creationid="Leo" creationdate="20210627T213957Z">
         <seg>Se &lt;i2&gt;Comprimento&lt;/i2&gt; é omitido, ele assume o valor padrão 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;k1&gt;NumLock&lt;/k1&gt; is OFF but &lt;k2&gt;Shift&lt;/k2&gt; is pressed, the system temporarily releases &lt;k3&gt;Shift&lt;/k3&gt; and acts as though &lt;k4&gt;NumLock&lt;/k4&gt; is ON.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180746Z" creationid="Leo" creationdate="20210702T180653Z">
+        <seg>Se a tecla &lt;k1&gt;NumLock&lt;/k1&gt; está DESLIGADA mas a tecla &lt;k2&gt;Shift&lt;/k2&gt; está pressionada, o sistema temporariamente solta a &lt;k3&gt;Shift&lt;/k3&gt; e age como se &lt;k4&gt;NumLock&lt;/k4&gt; estivesse LIGADA.</seg>
       </tuv>
     </tu>
     <tu>

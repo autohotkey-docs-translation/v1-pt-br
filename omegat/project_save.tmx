@@ -3407,14 +3407,6 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Hotkeys.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043315Z" creationid="Leo" creationdate="20210629T043315Z">
-        <seg>Hotkeys.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>Hotstring modifiers go between the first set of colons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025516Z" creationid="Leo" creationdate="20210623T025516Z">
@@ -4959,6 +4951,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recognizes unusual keys not mentioned above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184519Z" creationid="Leo" creationdate="20210702T184519Z">
+        <seg>Reconhece as teclas incomuns não mencionadas acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Redirecting to &lt;a0&gt;docs/AutoHotkey.htm&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070043Z" creationid="Leo" creationdate="20210701T070043Z">
@@ -5195,6 +5195,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070705Z" creationid="Leo" creationdate="20210622T211645Z">
         <seg>Procure dentro de todos as pastas de &lt;b0&gt;Arquivos de programas&lt;/b0&gt; pelo  &lt;b1&gt;AutoHotkey&lt;/b1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;a1&gt;Special Keys&lt;/a1&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184527Z" creationid="Leo" creationdate="20210702T184527Z">
+        <seg>Veja &lt;a1&gt;Teclas Especiais&lt;/a1&gt; para detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5675,6 +5683,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065436Z" creationid="Leo" creationdate="20210702T065436Z">
         <seg>Teclas Especiais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify for &lt;b0&gt;nn&lt;/b0&gt; the hexadecimal virtual key code of a key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184612Z" creationid="Leo" creationdate="20210702T184612Z">
+        <seg>Especifique com o código virtual hexadecimal &lt;b0&gt;nn&lt;/b0&gt; de uma tecla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify for &lt;b0&gt;nnn&lt;/b0&gt; the scan code of a key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184509Z" creationid="Leo" creationdate="20210702T184509Z">
+        <seg>Especifique com o código nnn de leitura da tecla.</seg>
       </tuv>
     </tu>
     <tu>

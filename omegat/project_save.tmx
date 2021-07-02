@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>4th mouse button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070821Z" creationid="Leo" creationdate="20210702T070821Z">
+        <seg>O 4º botão do mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>5 - Commands vs. Functions()</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183444Z" creationid="Leo" creationdate="20210625T183444Z">
@@ -3223,6 +3231,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other words, if the user has swapped the buttons via system settings, &lt;c0&gt;RButton::&lt;/c0&gt; is physically activated by clicking the &lt;s1&gt;left&lt;/s1&gt; mouse button, but &lt;c2&gt;Send {RButton}&lt;/c2&gt; performs the same as physically clicking the &lt;s3&gt;right&lt;/s3&gt; button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070714Z" creationid="Leo" creationdate="20210702T070714Z">
+        <seg>Em outras palavras, se o usuário permutou os botões nas configurações do sistema, &lt;c0&gt;RButton::&lt;/c0&gt; é fisicamente ativada pelo clique do botão &lt;s1&gt;esquerdo&lt;/s1&gt; do mouse, mas &lt;c2&gt;Send {RButton}&lt;/c2&gt; atua da mesma maneira de clicar fisicamente o botão &lt;s3&gt;direito&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In other words, it inserts the values at the highest integer key plus one.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212906Z" creationid="Leo" creationdate="20210627T212906Z">
@@ -3651,6 +3667,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211455Z" creationid="Leo" creationdate="20210622T211455Z">
         <seg>Método 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Middle or wheel mouse button</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070807Z" creationid="Leo" creationdate="20210702T070807Z">
+        <seg>Botão da roda ou botão intermediário do mouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -5183,6 +5207,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The right mouse button when used with Send, but the secondary mouse button when used with hotkeys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070606Z" creationid="Leo" creationdate="20210702T070606Z">
+        <seg>O botão direito do mouse quando usado com o comando Send, mas é tratado como botão secundário do mouse quando usado com hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same as above but with the dot notation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211523Z" creationid="Leo" creationdate="20210627T211523Z">
@@ -5672,6 +5704,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To always perform a logical right click, use &lt;c4&gt;Click Right&lt;/c4&gt; or &lt;c5&gt;Send {Click Right}&lt;/c5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070734Z" creationid="Leo" creationdate="20210702T070734Z">
+        <seg>Caso você queira sempre executar um clique lógico do botão direito, use &lt;c4&gt;Click Right&lt;/c4&gt; ou &lt;c5&gt;Send {Click Right}&lt;/c5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To directly add a key and value, just set a key that doesn't exist yet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212258Z" creationid="Leo" creationdate="20210627T212258Z">
@@ -5780,6 +5820,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070531Z" creationid="Leo" creationdate="20210701T070531Z">
         <seg>Tutorial para iniciantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typically performs the same function as Browser_Back.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070836Z" creationid="Leo" creationdate="20210702T070836Z">
+        <seg>Tipicamente executa a mesma função de Browser_Back.</seg>
       </tuv>
     </tu>
     <tu>

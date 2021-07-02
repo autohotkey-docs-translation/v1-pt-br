@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;Pause&lt;/k1&gt; or &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;ScrollLock&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184020Z" creationid="Leo" creationdate="20210702T184020Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;Pause&lt;/k1&gt; ou &lt;k2&gt;Ctrl&lt;/k2&gt;Ctrl+&lt;k3&gt;ScrollLock&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (number lock key).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181013Z" creationid="Leo" creationdate="20210702T181013Z">
@@ -1618,6 +1626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180428Z" creationid="Leo" creationdate="20210702T180428Z">
         <seg>&lt;k0&gt;PgUp&lt;/k0&gt; (tecla page up)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;PrtSc&lt;/k0&gt; (print screen key)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183953Z" creationid="Leo" creationdate="20210702T183953Z">
+        <seg>&lt;k0&gt;PrtSc&lt;/k0&gt; (tecla print screen)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,6 +2202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215039Z" creationid="Leo" creationdate="20210622T202111Z">
         <seg>O AHK não é mágica; nós todos queríamos que fosse, mas não é.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183715Z" creationid="Leo" creationdate="20210702T183715Z">
+        <seg>Voltar</seg>
       </tuv>
     </tu>
     <tu>
@@ -2926,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Favorites</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183735Z" creationid="Leo" creationdate="20210702T183735Z">
+        <seg>Favoritos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FileExist(VariableContainingPath)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202224Z" creationid="Leo" creationdate="20210625T202224Z">
@@ -3082,6 +3114,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201635Z" creationid="Leo" creationdate="20210622T201635Z">
         <seg>Para este guia, vamos usar o instalador, já que é a forma mais fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183718Z" creationid="Leo" creationdate="20210702T183718Z">
+        <seg>Avançar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3299,6 +3339,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210749Z" creationid="Leo" creationdate="20210622T210749Z">
         <seg>Woohoo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Homepage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183739Z" creationid="Leo" creationdate="20210702T183739Z">
+        <seg>Página inicial</seg>
       </tuv>
     </tu>
     <tu>
@@ -3703,6 +3751,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Increase the volume</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183751Z" creationid="Leo" creationdate="20210702T183751Z">
+        <seg>Aumentar o volume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indentation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193356Z" creationid="Leo" creationdate="20210622T193356Z">
@@ -3951,6 +4007,38 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launch Calculator</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183910Z" creationid="Leo" creationdate="20210702T183910Z">
+        <seg>Abre a Calculadora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch My Computer</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183904Z" creationid="Leo" creationdate="20210702T183904Z">
+        <seg>Abre Meu Computador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch default e-mail program</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183844Z" creationid="Leo" creationdate="20210702T183844Z">
+        <seg>Abre o programa padrão de e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch default media player</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183854Z" creationid="Leo" creationdate="20210702T183854Z">
+        <seg>Abre o player de mídia padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn how to download and install AutoHotkey, to create a script, to use hotkeys and hotstrings, to send keystrokes, to run programs, etc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070513Z" creationid="Leo" creationdate="20210622T192230Z">
@@ -4067,6 +4155,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070702Z" creationid="Leo" creationdate="20210622T211749Z">
         <seg>Encontre o arquivo &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; ou um arquivo em que esteja escrito “AutoHotkey” e tenha um ponto de interrogação amarelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lower the volume</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183748Z" creationid="Leo" creationdate="20210702T183748Z">
+        <seg>Diminuir o volume</seg>
       </tuv>
     </tu>
     <tu>
@@ -4359,6 +4455,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mute the volume</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183744Z" creationid="Leo" creationdate="20210702T183744Z">
+        <seg>Mutar o volume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MyObject := Array("one", "two", "three", 17)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064926Z" creationid="Leo" creationdate="20210627T064926Z">
@@ -4483,6 +4587,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070039Z" creationid="Leo" creationdate="20210702T070039Z">
         <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Track</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183755Z" creationid="Leo" creationdate="20210702T183755Z">
+        <seg>Próxima faixa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4703,6 +4815,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Play/Pause</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183826Z" creationid="Leo" creationdate="20210702T183826Z">
+        <seg>Tocar / Pausar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please note that you cannot IGNORE parameters, but you can leave them blank.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215003Z" creationid="Leo" creationdate="20210627T215003Z">
@@ -4739,6 +4859,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221253Z" creationid="Leo" creationdate="20210627T221444Z">
         <seg>Finja que &lt;i0&gt;todos menos você&lt;/i0&gt; são “plantas”, que não sabem de nada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Previous Track</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183808Z" creationid="Leo" creationdate="20210702T183808Z">
+        <seg>Faixa anterior</seg>
       </tuv>
     </tu>
     <tu>
@@ -4787,6 +4915,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070043Z" creationid="Leo" creationdate="20210701T070043Z">
         <seg>Redirecionando para &lt;a0&gt;docs/AutoHotkey.htm&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183721Z" creationid="Leo" creationdate="20210702T183721Z">
+        <seg>Atualizar</seg>
       </tuv>
     </tu>
     <tu>
@@ -4995,6 +5131,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043641Z" creationid="Leo" creationdate="20210629T043641Z">
         <seg>Scripts.htm#continuation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183731Z" creationid="Leo" creationdate="20210702T183731Z">
+        <seg>Pesquisar</seg>
       </tuv>
     </tu>
     <tu>
@@ -5483,6 +5627,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065436Z" creationid="Leo" creationdate="20210702T065436Z">
         <seg>Teclas Especiais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183729Z" creationid="Leo" creationdate="20210702T183729Z">
+        <seg>Parar</seg>
       </tuv>
     </tu>
     <tu>
@@ -6043,6 +6195,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214141Z" creationid="Leo" creationdate="20210627T214141Z">
         <seg>Isso é similar ao funcionamento do método InsertAt com múltiplos valores especificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the key that invokes the right-click context menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183939Z" creationid="Leo" creationdate="20210702T183939Z">
+        <seg>Esta é a tecla que invoca o menu-contexto ao se clicar com o botão direito.</seg>
       </tuv>
     </tu>
     <tu>

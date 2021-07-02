@@ -2598,6 +2598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Corresponds to the &lt;c1&gt;&lt;!&lt;/c1&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183407Z" creationid="Leo" creationdate="20210702T183407Z">
+        <seg>Corresponde ao prefixo &lt;c1&gt;&lt;!&lt;/c1&gt; das hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Corresponds to the &lt;c1&gt;&lt;#&lt;/c1&gt; hotkey prefix.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182649Z" creationid="Leo" creationdate="20210702T182649Z">
@@ -2618,6 +2626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183239Z" creationid="Leo" creationdate="20210702T183239Z">
         <seg>Corresponde ao prefixo &lt;c1&gt;&lt;^&lt;/c1&gt; das hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c1&gt;&gt;!&lt;/c1&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183420Z" creationid="Leo" creationdate="20210702T183420Z">
+        <seg>Corresponde ao prefixo &lt;c1&gt;&gt;!&lt;/c1&gt; das hotkeys.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3547,6 +3563,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215027Z" creationid="Leo" creationdate="20210627T215027Z">
         <seg>Se você ignorasse &lt;c0&gt;TituloJanela, TextoJaneta&lt;/c0&gt;, então ficaria assim e daria problemas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your keyboard layout has AltGr instead of RAlt, you can probably use it as a hotkey prefix via &lt;c1&gt;&lt;^&gt;!&lt;/c1&gt; as described &lt;a2&gt;here&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183534Z" creationid="Leo" creationdate="20210702T183534Z">
+        <seg>Se o layout do seu teclado contém a tecla AltGr no lugar da RAlt, você provavelmente conseguirá usá-la como um prefixo de hotkey por meio de &lt;c1&gt;&lt;^&gt;!&lt;/c1&gt;, conforme descrito &lt;a2&gt;aqui&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition, &lt;c3&gt;LControl &amp; RAlt::&lt;/c3&gt; would make AltGr itself into a hotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183628Z" creationid="Leo" creationdate="20210702T183628Z">
+        <seg>Além disso, &lt;c3&gt;LControl &amp; RAlt::&lt;/c3&gt; torna a própria tecla AltGr uma hotkey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4823,6 +4855,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right &lt;k0&gt;Alt&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183414Z" creationid="Leo" creationdate="20210702T183414Z">
+        <seg>Tecla &lt;k0&gt;Alt&lt;/k0&gt; da direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right &lt;k0&gt;Ctrl&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183255Z" creationid="Leo" creationdate="20210702T183255Z">
@@ -5623,6 +5663,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The function assigned to each of the keys listed below can be overridden by modifying the Windows registry.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183650Z" creationid="Leo" creationdate="20210702T183650Z">
+        <seg>A função atribuída a cada uma das teclas listadas abaixo pode ser sobrescrita modificando-se o registro do Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The key or key combo needs to go on the &lt;b1&gt;left&lt;/b1&gt; of the &lt;c2&gt;::&lt;/c2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212636Z" creationid="Leo" creationdate="20210622T212636Z">
@@ -6083,6 +6131,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215724Z" creationid="Leo" creationdate="20210627T215724Z">
         <seg>Esse negócio de indentação é muito importante!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This table shows the default function of each key on most versions of Windows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183709Z" creationid="Leo" creationdate="20210702T183709Z">
+        <seg>A tabela abaixo mostra a função padrão de cada tecla na maioria das versões do Windows.</seg>
       </tuv>
     </tu>
     <tu>

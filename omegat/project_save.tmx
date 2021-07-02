@@ -1606,10 +1606,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Help&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184203Z" creationid="Leo" creationdate="20210702T184203Z">
+        <seg>&lt;k0&gt;Ajuda&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (number lock key).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181013Z" creationid="Leo" creationdate="20210702T181013Z">
         <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (tecla number lock).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Pause&lt;/k0&gt; or &lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;NumLock&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184028Z" creationid="Leo" creationdate="20210702T184028Z">
+        <seg>&lt;k0&gt;Pause&lt;/k0&gt; ou &lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;NumLock&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1642,6 +1658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180312Z" creationid="Leo" creationdate="20210702T180312Z">
         <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (tecla scroll lock).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Sleep&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184233Z" creationid="Leo" creationdate="20210702T184233Z">
+        <seg>Adormecer</seg>
       </tuv>
     </tu>
     <tu>
@@ -1730,6 +1754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180222Z" creationid="Leo" creationdate="20210702T180222Z">
         <seg>&lt;s0&gt;Obsoleto:&lt;/s0&gt; Use o sinônimo &lt;c1&gt;Enter&lt;/c1&gt; em vez de Return para evitar ambiguidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Deprecated:&lt;/s0&gt; Use the synonym &lt;c1&gt;Pause&lt;/c1&gt; instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184151Z" creationid="Leo" creationdate="20210702T184151Z">
+        <seg>&lt;s0&gt;Obsoleto:&lt;/s0&gt; Use o sinônimo &lt;c1&gt;Pause&lt;/c1&gt; em vez de Break para evitar ambiguidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3927,6 +3959,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It's usually not the same as &lt;k1&gt;F1&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184221Z" creationid="Leo" creationdate="20210702T184221Z">
+        <seg>Normalmente não é a mesma de &lt;k1&gt;F1&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Just kidding.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210401Z" creationid="Leo" creationdate="20210622T211849Z">
@@ -4611,6 +4651,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T232543Z" creationid="Leo" creationdate="20210625T182140Z">
         <seg>Contornar essas proteções violando os termos de uso do jogo podem fazer que você seja banido; além disso, são sistemas de proteção complexos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the sleep key on some keyboards might not work with this.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184343Z" creationid="Leo" creationdate="20210702T184343Z">
+        <seg>Note que, em alguns teclados, a tecla Adormecer pode não funcionar com este termo “Sleep”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6263,6 +6311,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This probably doesn't exist on most keyboards.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184209Z" creationid="Leo" creationdate="20210702T184209Z">
+        <seg>Esta tecla provavelmente não existe na maioria dos teclados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This process is called "Scripting".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215520Z" creationid="Leo" creationdate="20210622T202226Z">
@@ -6980,6 +7036,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180402Z" creationid="Leo" creationdate="20210702T180402Z">
         <seg>Enquanto &lt;k1&gt;Ctrl&lt;/k1&gt; é mantida pressionada, &lt;k2&gt;ScrollLock&lt;/k2&gt; produz a o código da tecla &lt;c3&gt;CtrlBreak&lt;/c3&gt;, mas pode ser diferenciado de &lt;k4&gt;Pause&lt;/k4&gt; por meio do código de leitura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While &lt;k3&gt;Ctrl&lt;/k3&gt; is held down, &lt;k4&gt;Pause&lt;/k4&gt; produces the key code of &lt;c5&gt;CtrlBreak&lt;/c5&gt; and &lt;k6&gt;NumLock&lt;/k6&gt; produces &lt;c7&gt;Pause&lt;/c7&gt;, so use &lt;c8&gt;^CtrlBreak&lt;/c8&gt; in hotkeys instead of &lt;c9&gt;^Pause&lt;/c9&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184131Z" creationid="Leo" creationdate="20210702T184131Z">
+        <seg>Enquanto a tecla &lt;k3&gt;Ctrl&lt;/k3&gt;é mantida pressionada, &lt;k4&gt;Pause&lt;/k4&gt; produz o código &lt;c5&gt;CtrlBreak&lt;/c5&gt; e &lt;k6&gt;NumLock&lt;/k6&gt; produz &lt;c7&gt;Pause&lt;/c7&gt;, então use &lt;c8&gt;^CtrlBreak&lt;/c8&gt; nas hotkeys em vez de &lt;c9&gt;^Pause&lt;/c9&gt;.</seg>
       </tuv>
     </tu>
     <tu>

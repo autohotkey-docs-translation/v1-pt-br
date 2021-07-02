@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1248,8 +1248,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;Script compatibility&lt;/a0&gt; - AutoHotkey 1.0 users read this</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071235Z" creationid="Leo" creationdate="20210701T071235Z">
-        <seg>&lt;a0&gt;Compatibilidade de scripts&lt;/a0&gt; — usuários do AutoHotKey 1.0 devem ler isto</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204223Z" creationid="Leo" creationdate="20210701T071235Z">
+        <seg>&lt;a0&gt;Compatibilidade de scripts&lt;/a0&gt; — usuários do AutoHotkey 1.0 devem ler isto</seg>
       </tuv>
     </tu>
     <tu>
@@ -2368,8 +2368,8 @@
       <tuv lang="en">
         <seg>Before AutoHotkey can do anything, you need to write a script telling it what to do.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064845Z" creationid="Leo" creationdate="20210701T064845Z">
-        <seg>Antes que o AutoHotKey possa fazer qualquer coisa, você precisa escrever um script dizendo ao AHK o que fazer.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204254Z" creationid="Leo" creationdate="20210701T064845Z">
+        <seg>Antes que o AutoHotkey possa fazer qualquer coisa, você precisa escrever um script dizendo ao AHK o que fazer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3032,8 +3032,8 @@
       <tuv lang="en">
         <seg>Finally, AutoHotkey would not be what it is today without &lt;a0&gt;these other individuals&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T072337Z" creationid="Leo" creationdate="20210701T071651Z">
-        <seg>Finalmente, o AutoHotKey não seria o que é hoje se não fosse por &lt;a0&gt;estes outros indivíduos&lt;/a0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204232Z" creationid="Leo" creationdate="20210701T071651Z">
+        <seg>Finalmente, o AutoHotkey não seria o que é hoje se não fosse por &lt;a0&gt;estes outros indivíduos&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3713,8 +3713,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>In addition, many of AutoHotkey's enhancements to the AutoIt v2 command set, as well as the Window Spy and the old script compiler, were adapted directly from the AutoIt v3 source code.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071553Z" creationid="Leo" creationdate="20210701T071553Z">
-        <seg>Além do mais, muitas das melhorias do AutoHotKey sobre o conjunto de comandos do AutoIt v2, bem como o Espião de Janela e o velho compilador de scripts, foram adaptados diretamente a partir do código-fonte do AutoIt v3.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204227Z" creationid="Leo" creationdate="20210701T071553Z">
+        <seg>Além do mais, muitas das melhorias do AutoHotkey sobre o conjunto de comandos do AutoIt v2, bem como o Espião de Janela e o velho compilador de scripts, foram adaptados diretamente a partir do código-fonte do AutoIt v3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3777,8 +3777,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>In some cases, software bundled with the mouse must instead be used to control this feature.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071156Z" creationid="Leo" creationdate="20210702T071156Z">
-        <seg>Em alguns casos, o software que acompanha o mouse deve ser usado em vez do AutoHotKey para controlar essa funcionalidade.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204241Z" creationid="Leo" creationdate="20210702T071156Z">
+        <seg>Em alguns casos, o software que acompanha o mouse deve ser usado em vez do AutoHotkey para controlar essa funcionalidade.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4217,8 +4217,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>List of Keys (Keyboard, Mouse and Joystick) | AutoHotkey</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162037Z" creationid="Leo" creationdate="20210701T162037Z">
-        <seg>Lista de teclas (teclado, mouse e joystick) | AutoHotKey</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204235Z" creationid="Leo" creationdate="20210701T162037Z">
+        <seg>Lista de teclas (teclado, mouse e joystick) | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -5001,8 +5001,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Quick Reference | AutoHotkey</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070103Z" creationid="Leo" creationdate="20210701T070103Z">
-        <seg>Referência rápida | AutoHotKey</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204213Z" creationid="Leo" creationdate="20210701T070103Z">
+        <seg>Referência rápida | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -5849,8 +5849,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Text editors with AutoHotkey support</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070539Z" creationid="Leo" creationdate="20210701T070539Z">
-        <seg>Editores de texto com suporte ao AutoHotKey</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204218Z" creationid="Leo" creationdate="20210701T070539Z">
+        <seg>Editores de texto com suporte ao AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -6978,8 +6978,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>Welcome to AutoHotkey</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064656Z" creationid="Leo" creationdate="20210701T064656Z">
-        <seg>Bem-vindo ao AutoHotKey</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204251Z" creationid="Leo" creationdate="20210701T064656Z">
+        <seg>Bem-vindo ao AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -7338,8 +7338,8 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       <tuv lang="en">
         <seg>You ran AutoHotkey without &lt;a0&gt;telling it&lt;/a0&gt; which script file to run, and it couldn't find a script in either of &lt;a1&gt;the usual places&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065840Z" creationid="Leo" creationdate="20210701T065240Z">
-        <seg>Porque você executou o AutoHotKey sem &lt;a0&gt;dizer-lhe&lt;/a0&gt; qual arquivo de script ele deve executar, e ele também não pôde encontrar um script em nenhum dos &lt;a1&gt;locais comuns&lt;/a1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204302Z" creationid="Leo" creationdate="20210701T065240Z">
+        <seg>Porque você executou o AutoHotkey sem &lt;a0&gt;dizer-lhe&lt;/a0&gt; qual arquivo de script ele deve executar, e ele também não pôde encontrar um script em nenhum dos &lt;a1&gt;locais comuns&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1558,6 +1558,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;+&lt;/k0&gt; (addition)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181112Z" creationid="Leo" creationdate="20210702T181112Z">
+        <seg>&lt;k0&gt;+&lt;/k0&gt; (adição)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;-&lt;/k0&gt; (subtraction)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181120Z" creationid="Leo" creationdate="20210702T181120Z">
+        <seg>&lt;k0&gt;-&lt;/k0&gt; (subtração)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;.&lt;/k0&gt; / &lt;k1&gt;Del&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181002Z" creationid="Leo" creationdate="20210702T181002Z">

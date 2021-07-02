@@ -2120,8 +2120,16 @@
       <tuv lang="en">
         <seg>As a hotkey (&lt;c1&gt;Control::&lt;/c1&gt;) it fires upon release unless it has the tilde prefix.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183014Z" creationid="Leo" creationdate="20210702T183014Z">
-        <seg>Como hotkey (&lt;c1&gt;Control::&lt;/c1&gt;), a tecla Ctrl só é enviada no momento em que é solta a não ser que esteja acompanhado do prefixo ~ (til).</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183108Z" creationid="Leo" creationdate="20210702T183014Z">
+        <seg>Como hotkey (&lt;c1&gt;Control::&lt;/c1&gt;), a tecla Ctrl só é enviada no momento em que é solta a não ser que esteja acompanhada do prefixo ~ (til).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a hotkey (&lt;c1&gt;Shift::&lt;/c1&gt;) it fires upon release unless it has the tilde prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183151Z" creationid="Leo" creationdate="20210702T183151Z">
+        <seg>Como hotkey (&lt;c1&gt;Shift::&lt;/c1&gt;), a tecla Shift só é enviada no momento em que é solta a não ser que esteja acompanhada do prefixo ~ (til).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2598,10 +2606,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Corresponds to the &lt;c1&gt;&lt;+&lt;/c1&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183325Z" creationid="Leo" creationdate="20210702T183325Z">
+        <seg>Corresponde ao prefixo &lt;c1&gt;&lt;+&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c1&gt;&lt;^&lt;/c1&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183239Z" creationid="Leo" creationdate="20210702T183239Z">
+        <seg>Corresponde ao prefixo &lt;c1&gt;&lt;^&lt;/c1&gt; das hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Corresponds to the &lt;c1&gt;&gt;#&lt;/c1&gt; hotkey prefix.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182716Z" creationid="Leo" creationdate="20210702T182716Z">
         <seg>Corresponde ao prefixo &lt;c1&gt;&gt;#&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c1&gt;&gt;+&lt;/c1&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183346Z" creationid="Leo" creationdate="20210702T183346Z">
+        <seg>Corresponde ao prefixo &lt;c1&gt;&gt;+&lt;/c1&gt; das hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c1&gt;&gt;^&lt;/c1&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183304Z" creationid="Leo" creationdate="20210702T183304Z">
+        <seg>Corresponde ao prefixo &lt;c1&gt;&gt;^&lt;/c1&gt; das hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c2&gt;!&lt;/c2&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183125Z" creationid="Leo" creationdate="20210702T183125Z">
+        <seg>Corresponde ao prefixo &lt;c2&gt;!&lt;/c2&gt; das hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Corresponds to the &lt;c2&gt;+&lt;/c2&gt; hotkey prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183156Z" creationid="Leo" creationdate="20210702T183156Z">
+        <seg>Corresponde ao prefixo &lt;c2&gt;+&lt;/c2&gt; das hotkeys.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3847,6 +3903,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LControl (or LCtrl)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183203Z" creationid="Leo" creationdate="20210702T183203Z">
+        <seg>LControl (ou LCtrl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LCtrl::</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045938Z" creationid="Leo" creationdate="20210629T045938Z">
@@ -3867,6 +3931,30 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221204Z" creationid="Leo" creationdate="20210627T215642Z">
         <seg>Aprender leva tempo, os “prós” que você encontrar não dominaram a parada em apenas algumas horas ou dias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left &lt;k0&gt;Alt&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183357Z" creationid="Leo" creationdate="20210702T183357Z">
+        <seg>Tecla &lt;k0&gt;Alt&lt;/k0&gt; da esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left &lt;k0&gt;Ctrl&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183217Z" creationid="Leo" creationdate="20210702T183217Z">
+        <seg>Tecla &lt;k0&gt;Ctrl&lt;/k0&gt; da esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left &lt;k0&gt;Shift&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183315Z" creationid="Leo" creationdate="20210702T183315Z">
+        <seg>Tecla &lt;k0&gt;Shift&lt;/k0&gt; da esquerda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4655,6 +4743,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RControl (or RCtrl)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183245Z" creationid="Leo" creationdate="20210702T183245Z">
+        <seg>RControl (ou RCtrl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Redirecting to &lt;a0&gt;docs/AutoHotkey.htm&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070043Z" creationid="Leo" creationdate="20210701T070043Z">
@@ -4723,6 +4819,22 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180148Z" creationid="Leo" creationdate="20210702T180148Z">
         <seg>Return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right &lt;k0&gt;Ctrl&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183255Z" creationid="Leo" creationdate="20210702T183255Z">
+        <seg>Tecla &lt;k0&gt;Ctrl&lt;/k0&gt; da direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right &lt;k0&gt;Shift&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183340Z" creationid="Leo" creationdate="20210702T183335Z">
+        <seg>Tecla &lt;k0&gt;Shift&lt;/k0&gt; da direita.</seg>
       </tuv>
     </tu>
     <tu>

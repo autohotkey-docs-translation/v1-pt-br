@@ -5664,6 +5664,14 @@ usando o comando Send quando a tecla de atalho é pressionada: (NdT: daqui em di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To always perform a logical left click, use &lt;c4&gt;Click Left&lt;/c4&gt; or &lt;c5&gt;Send {Click Left}&lt;/c5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070536Z" creationid="Leo" creationdate="20210702T070536Z">
+        <seg>Caso você queira sempre executar um clique lógico do botão esquerdo, use &lt;c4&gt;Click Left&lt;/c4&gt; ou &lt;c5&gt;Send {Click Left}&lt;/c5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To directly add a key and value, just set a key that doesn't exist yet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212258Z" creationid="Leo" creationdate="20210627T212258Z">

@@ -1222,6 +1222,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Joystick remapping:&lt;/a0&gt; Methods of sending keystrokes and mouse clicks with a joystick.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074432Z" creationid="Leo" creationdate="20210703T074432Z">
+        <seg>&lt;a0&gt;Remapeamento de joystick:&lt;/a0&gt; métodos para enviar pressionamentos de teclas e cliques do mouse com um joystick.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Joystick-To-Mouse script&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074445Z" creationid="Leo" creationdate="20210703T074445Z">
+        <seg>&lt;a0&gt;Script de joystick-para-mouse&lt;/a0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Lots and lots of them&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003648Z" creationid="Leo" creationdate="20210624T003648Z">
@@ -1834,6 +1850,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063134Z" creationid="Leo" creationdate="20210702T071238Z">
         <seg>&lt;s0&gt;Observação&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;See Also&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074346Z" creationid="Leo" creationdate="20210703T074346Z">
+        <seg>&lt;s0&gt;Veja também&lt;/s0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5191,6 +5215,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Respond to signals from hand-held remote controls via the &lt;a0&gt;WinLIRC client script&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075209Z" creationid="Leo" creationdate="20210703T075209Z">
+        <seg>Responda a sinais de controles remotos de mão por meio do &lt;a0&gt;script do cliente WinLIRC&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Return</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180148Z" creationid="Leo" creationdate="20210702T180148Z">
@@ -6900,6 +6932,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193154Z" creationid="Leo" creationdate="20210622T193154Z">
         <seg>Usando objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a joystick as a mouse.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074453Z" creationid="Leo" creationdate="20210703T074453Z">
+        <seg>Usar o joystick como um mouse.</seg>
       </tuv>
     </tu>
     <tu>

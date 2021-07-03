@@ -1862,6 +1862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s1&gt;Z&lt;/s1&gt; (has Z axis), &lt;s2&gt;R&lt;/s2&gt; (has R axis), &lt;s3&gt;U&lt;/s3&gt; (has U axis), &lt;s4&gt;V&lt;/s4&gt; (has V axis), &lt;s5&gt;P&lt;/s5&gt; (has POV control), &lt;s6&gt;D&lt;/s6&gt; (the POV control has a limited number of discrete/distinct settings), &lt;s7&gt;C&lt;/s7&gt; (the POV control is continuous/fine).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074019Z" creationid="Leo" creationdate="20210703T074019Z">
+        <seg>&lt;s1&gt;Z&lt;/s1&gt; (possui um eixo Z), &lt;s2&gt;R&lt;/s2&gt; (possui um eixo R, &lt;s3&gt;U&lt;/s3&gt; (possui um eixo U), &lt;s4&gt;V&lt;/s4&gt; (possui um eixo V), &lt;s5&gt;P&lt;/s5&gt; (possui controle de ponto de visão), &lt;s6&gt;D&lt;/s6&gt; (o controle de ponto de visão possui um número limitado de configurações discretas/distintas), &lt;s7&gt;C&lt;/s7&gt; (o controle de ponto de visão é contínuo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s2&gt;Var1&lt;/s2&gt; := &lt;s3&gt;Var2&lt;/s3&gt; + 100</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050358Z" creationid="Leo" creationdate="20210629T050358Z">
@@ -5015,6 +5023,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides a string consisting of zero or more of the following letters to indicate the joystick's capabilities:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073629Z" creationid="Leo" creationdate="20210703T073629Z">
+        <seg>Fornece uma string que consiste em zero ou mais das letras a seguir para indicar as funcionalidades do joystick:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Push method</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214602Z" creationid="Leo" creationdate="20210627T212750Z">
@@ -6047,10 +6063,34 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The name of the joystick or its driver.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073451Z" creationid="Leo" creationdate="20210703T073451Z">
+        <seg>O nome do joystick ou seu driver.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The names of the letter and number keys are the same as that single letter or digit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071441Z" creationid="Leo" creationdate="20210702T071441Z">
         <seg>Os nomes das teclas alfabéticas e numéricas são a própria letra ou dígito sozinho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The number of axes supported by the joystick.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073548Z" creationid="Leo" creationdate="20210703T073548Z">
+        <seg>O número de eixos suportados pelo joystick.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The number of buttons supported by the joystick (not always accurate).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073537Z" creationid="Leo" creationdate="20210703T073537Z">
+        <seg>O número de botões suportados pelo joystick (nem sempre é uma medida precisa).</seg>
       </tuv>
     </tu>
     <tu>

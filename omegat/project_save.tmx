@@ -8080,6 +8080,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Func Object","objects/Func.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223506Z" creationid="Leo" creationdate="20210703T223506Z">
+        <seg>["Func","objects/Func.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Function Objects","objects/Functor.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223615Z" creationid="Leo" creationdate="20210703T223615Z">
+        <seg>["Objetos de Função","objects/Functor.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Functions","Functions.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214031Z" creationid="Leo" creationdate="20210703T214031Z">
@@ -8248,6 +8264,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Process","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223801Z" creationid="Leo" creationdate="20210703T223801Z">
+        <seg>["Processos","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Quick Reference","AutoHotkey.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T101752Z" creationid="Leo" creationdate="20210703T101752Z">
@@ -8260,6 +8284,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214837Z" creationid="Leo" creationdate="20210703T214837Z">
         <seg>["Mudanças Recentes","AHKL_ChangeLog.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["RegExMatch Object","commands/RegExMatch.htm#MatchObject"]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223729Z" creationid="Leo" creationdate="20210703T223729Z">
+        <seg>["RegExMatch","commands/RegExMatch.htm#MatchObject"]</seg>
       </tuv>
     </tu>
     <tu>

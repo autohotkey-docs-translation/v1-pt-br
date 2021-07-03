@@ -830,6 +830,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Replace 159 with the value discovered above. Replace FF (if needed) with the</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080343Z" creationid="Leo" creationdate="20210703T080343Z">
+        <seg>; Substitua 159 com o valor descoberto acima. Substitua FF (se necessário) com a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Replace 159 with your key's value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080205Z" creationid="Leo" creationdate="20210703T080205Z">
+        <seg>; Substitua 159 com o valor da sua tecla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Replaces "btw" with "by the way" as soon as you press an &lt;a1&gt;default ending character&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220218Z" creationid="Leo" creationdate="20210623T201420Z">
@@ -890,6 +906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180040Z" creationid="Leo" creationdate="20210625T180040Z">
         <seg>; Mesmo caso acima, mas com a tecla ENTER. AHK iria digitar "Enter" se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; See &lt;a2&gt;Send {vkXXscYYY}&lt;/a2&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080440Z" creationid="Leo" creationdate="20210703T080440Z">
+        <seg>; Veja &lt;a2&gt;Send {vkXXscYYY}&lt;/a2&gt; para mais detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,6 +1066,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180113Z" creationid="Leo" creationdate="20210625T180113Z">
         <seg>; a palavra não estivesse envolta em chaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; key's virtual key, which can be discovered in the first column of the Key History screen.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080409Z" creationid="Leo" creationdate="20210703T080409Z">
+        <seg>; chave virtual da tecla, que pode ser descoberta na primeira coluna da tecla do Histórico de Teclas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Alternate solutions&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080501Z" creationid="Leo" creationdate="20210703T080501Z">
+        <seg>&lt;s0&gt;Soluções alternativas&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Caution:&lt;/s0&gt; This table &lt;b1&gt;does not&lt;/b1&gt; apply to &lt;a2&gt;hotkeys&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063435Z" creationid="Leo" creationdate="20210625T175242Z">
@@ -1850,6 +1890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063134Z" creationid="Leo" creationdate="20210702T071238Z">
         <seg>&lt;s0&gt;Observação&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Reverse direction&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080241Z" creationid="Leo" creationdate="20210703T080241Z">
+        <seg>&lt;s0&gt;Sentido contrário&lt;/s0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6892,6 +6940,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065729Z" creationid="Leo" creationdate="20210701T064926Z">
         <seg>Para aprender como, leia o &lt;a0&gt;tutorial&lt;/a0&gt; ou &lt;a1&gt;pule direto de cabeça&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remap some other key to &lt;e1&gt;become&lt;/e1&gt; a "mystery key", follow this example:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080306Z" creationid="Leo" creationdate="20210703T080306Z">
+        <seg>Para remapear alguma outra tecla para &lt;e1&gt;tornar-se&lt;/e1&gt; a "tecla misteriosa", siga este exemplo:</seg>
       </tuv>
     </tu>
     <tu>

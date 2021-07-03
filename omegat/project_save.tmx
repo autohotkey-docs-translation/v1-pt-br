@@ -8016,10 +8016,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Frequently Asked Questions","FAQ.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214809Z" creationid="Leo" creationdate="20210703T214809Z">
+        <seg>["Perguntas Frequentes (FAQ)","FAQ.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Functions","Functions.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214031Z" creationid="Leo" creationdate="20210703T214031Z">
         <seg>["Funções","Functions.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Implementation","Objects.htm#Implementation"]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214758Z" creationid="Leo" creationdate="20210703T214758Z">
+        <seg>["Implementação","Objects.htmImplementation"]</seg>
       </tuv>
     </tu>
     <tu>
@@ -8056,10 +8072,34 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Recent Changes","AHKL_ChangeLog.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214837Z" creationid="Leo" creationdate="20210703T214837Z">
+        <seg>["Mudanças Recentes","AHKL_ChangeLog.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Remapping Keys","misc/Remap.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193426Z" creationid="Leo" creationdate="20210703T193426Z">
         <seg>["Remapeando Teclas","misc/Remap.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Script Compatibility","Compat.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214922Z" creationid="Leo" creationdate="20210703T214922Z">
+        <seg>["Compatibilidade de Scripts","Compat.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Script Showcase","scripts/index.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214917Z" creationid="Leo" creationdate="20210703T214917Z">
+        <seg>["Mostruário de Scripts","scripts/index.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8084,6 +8124,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214127Z" creationid="Leo" creationdate="20210703T214127Z">
         <seg>["Linhas de Execução (Threads)","misc/Threads.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Tutorial (quick start)","Tutorial.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214822Z" creationid="Leo" creationdate="20210703T214822Z">
+        <seg>["Tutorial (início rápido)","Tutorial.htm"],</seg>
       </tuv>
     </tu>
     <tu>

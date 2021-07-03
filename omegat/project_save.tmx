@@ -8096,6 +8096,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Hotkeys and Hotstrings","Hotkeys.htm",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222521Z" creationid="Leo" creationdate="20210703T222521Z">
+        <seg>["Hotkeys e Hotstrings","Hotkeys.htm",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["If (expression)","commands/IfExpression.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221036Z" creationid="Leo" creationdate="20210703T221036Z">
@@ -8176,6 +8184,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Maths","commands/Math.htm",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222358Z" creationid="Leo" creationdate="20210703T222358Z">
+        <seg>["Operações Matemáticas","commands/Math.htm",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Objects","Objects.htm",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214501Z" creationid="Leo" creationdate="20210703T214501Z">
@@ -8244,6 +8260,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222254Z" creationid="Leo" creationdate="20210703T222254Z">
         <seg>["Fontes Padrão do Windows","misc/FontsStandard.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Styles for a window/control","misc/Styles.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222332Z" creationid="Leo" creationdate="20210703T222332Z">
+        <seg>["Estilos para janelas/controles","misc/Styles.htm"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -1976,8 +1976,8 @@
       <tuv lang="en">
         <seg>&lt;s1&gt;Z&lt;/s1&gt; (has Z axis), &lt;s2&gt;R&lt;/s2&gt; (has R axis), &lt;s3&gt;U&lt;/s3&gt; (has U axis), &lt;s4&gt;V&lt;/s4&gt; (has V axis), &lt;s5&gt;P&lt;/s5&gt; (has POV control), &lt;s6&gt;D&lt;/s6&gt; (the POV control has a limited number of discrete/distinct settings), &lt;s7&gt;C&lt;/s7&gt; (the POV control is continuous/fine).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074019Z" creationid="Leo" creationdate="20210703T074019Z">
-        <seg>&lt;s1&gt;Z&lt;/s1&gt; (possui um eixo Z), &lt;s2&gt;R&lt;/s2&gt; (possui um eixo R, &lt;s3&gt;U&lt;/s3&gt; (possui um eixo U), &lt;s4&gt;V&lt;/s4&gt; (possui um eixo V), &lt;s5&gt;P&lt;/s5&gt; (possui controle de ponto de visão), &lt;s6&gt;D&lt;/s6&gt; (o controle de ponto de visão possui um número limitado de configurações discretas/distintas), &lt;s7&gt;C&lt;/s7&gt; (o controle de ponto de visão é contínuo).</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090630Z" creationid="Leo" creationdate="20210703T074019Z">
+        <seg>&lt;s1&gt;Z&lt;/s1&gt; (possui um eixo Z), &lt;s2&gt;R&lt;/s2&gt; (possui um eixo R), &lt;s3&gt;U&lt;/s3&gt; (possui um eixo U), &lt;s4&gt;V&lt;/s4&gt; (possui um eixo V), &lt;s5&gt;P&lt;/s5&gt; (possui controle de ponto de visão), &lt;s6&gt;D&lt;/s6&gt; (o controle de ponto de visão possui um número limitado de configurações discretas/distintas), &lt;s7&gt;C&lt;/s7&gt; (o controle de ponto de visão é contínuo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2200,8 +2200,8 @@
       <tuv lang="en">
         <seg>Also note that the pressing of joystick buttons always "passes through" to the active window if that window is designed to detect the pressing of joystick buttons.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185907Z" creationid="Leo" creationdate="20210702T185907Z">
-        <seg>Também note que pressionar os botões do joystick sempre "passa através" da janela ativa se essa janela for desenvolvida para detectar o pressionamento de botões do joystick.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090410Z" creationid="Leo" creationdate="20210702T185907Z">
+        <seg>Também note que pressionar os botões do joystick sempre “passa através” da janela ativa se essa janela for desenvolvida para detectar o pressionamento de botões do joystick.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5289,8 +5289,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Provides a string consisting of zero or more of the following letters to indicate the joystick's capabilities:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073629Z" creationid="Leo" creationdate="20210703T073629Z">
-        <seg>Fornece uma string que consiste em zero ou mais das letras a seguir para indicar as funcionalidades do joystick:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090437Z" creationid="Leo" creationdate="20210703T073629Z">
+        <seg>fornece uma string que consiste em zero ou mais das letras a seguir para indicar as funcionalidades do joystick:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6305,8 +6305,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The 5th and 6th axes of the joystick.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073105Z" creationid="Leo" creationdate="20210703T073105Z">
-        <seg>O 5º e o 6º eixos do joystick.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090419Z" creationid="Leo" creationdate="20210703T073105Z">
+        <seg>o 5º e o 6º eixos do joystick.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6329,8 +6329,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The X (horizontal), Y (vertical), and Z (altitude/depth) axes of the joystick.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T072941Z" creationid="Leo" creationdate="20210703T072941Z">
-        <seg>Os eixos X (horizontal), Y (vertical) e Z (altitude/profundidade) do joystick.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090413Z" creationid="Leo" creationdate="20210703T072941Z">
+        <seg>os eixos X (horizontal), Y (vertical) e Z (altitude/profundidade) do joystick.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6425,8 +6425,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The name of the joystick or its driver.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073451Z" creationid="Leo" creationdate="20210703T073451Z">
-        <seg>O nome do joystick ou seu driver.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090423Z" creationid="Leo" creationdate="20210703T073451Z">
+        <seg>o nome do joystick ou seu driver.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6441,24 +6441,24 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The number of axes supported by the joystick.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073548Z" creationid="Leo" creationdate="20210703T073548Z">
-        <seg>O número de eixos suportados pelo joystick.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090432Z" creationid="Leo" creationdate="20210703T073548Z">
+        <seg>o número de eixos suportados pelo joystick.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The number of buttons supported by the joystick (not always accurate).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073537Z" creationid="Leo" creationdate="20210703T073537Z">
-        <seg>O número de botões suportados pelo joystick (nem sempre é uma medida precisa).</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090427Z" creationid="Leo" creationdate="20210703T073537Z">
+        <seg>o número de botões suportados pelo joystick (nem sempre é uma medida precisa).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The point-of-view (hat) control.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T083447Z" creationid="Leo" creationdate="20210703T073435Z">
-        <seg>O controle de ponto de visão (hat switch ou comutador). </seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090422Z" creationid="Leo" creationdate="20210703T073435Z">
+        <seg>o controle de ponto de visão (hat switch ou comutador). </seg>
       </tuv>
     </tu>
     <tu>
@@ -6481,8 +6481,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The rudder or 4th axis of the joystick.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073046Z" creationid="Leo" creationdate="20210703T073046Z">
-        <seg>O leme ou 4º eixo do joystick.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090416Z" creationid="Leo" creationdate="20210703T073046Z">
+        <seg>o leme ou 4º eixo do joystick.</seg>
       </tuv>
     </tu>
     <tu>

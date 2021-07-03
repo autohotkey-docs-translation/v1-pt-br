@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Requires AutoHotkey v1.1.26+, and the keyboard hook must be installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T082004Z" creationid="Leo" creationdate="20210703T082004Z">
+        <seg>; Requer AutoHotkey v1.1.26+ e o gancho de teclado deve estar instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Run Notepad when you press CTRL+N.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201628Z" creationid="Leo" creationdate="20210623T201628Z">
@@ -3727,6 +3735,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the &lt;k0&gt;Alt&lt;/k0&gt;+&lt;k1&gt;CapsLock&lt;/k1&gt;, &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;CapsLock&lt;/k3&gt; and &lt;k4&gt;Shift&lt;/k4&gt;+&lt;k5&gt;CapsLock&lt;/k5&gt; shortcuts can be disabled with a workaround.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081815Z" creationid="Leo" creationdate="20210703T081815Z">
+        <seg>Entretanto, os atalhos &lt;k0&gt;Alt&lt;/k0&gt;+&lt;k1&gt;CapsLock&lt;/k1&gt;, &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;CapsLock&lt;/k3&gt; e &lt;k4&gt;Shift&lt;/k4&gt;+&lt;k5&gt;CapsLock&lt;/k5&gt; podem ser desabilitadas com uma solução de contorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I hope you have learned something.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214200Z" creationid="Leo" creationdate="20210627T214200Z">
@@ -6071,6 +6087,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specifically, send a key-up to modify the state of the IME, but prevent any other effects by signalling the keyboard hook to suppress the event.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081930Z" creationid="Leo" creationdate="20210703T081930Z">
+        <seg>Especificamente, enviar um comando de soltura de tecla para modificar o estado do IME, mas prevenir quaisquer outros efeitos sinalizando o gancho do teclado para suprimir o evento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify for &lt;b0&gt;nn&lt;/b0&gt; the hexadecimal virtual key code of a key.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184612Z" creationid="Leo" creationdate="20210702T184612Z">
@@ -6299,6 +6323,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203226Z" creationid="Leo" creationdate="20210622T203226Z">
         <seg>Primeira linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following function can be used for this purpose:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081941Z" creationid="Leo" creationdate="20210703T081941Z">
+        <seg>A função a seguir pode ser usada para essa finalidade:</seg>
       </tuv>
     </tu>
     <tu>

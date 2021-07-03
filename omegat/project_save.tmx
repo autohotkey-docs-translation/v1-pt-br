@@ -2934,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click that script's tray icon to open its main window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075737Z" creationid="Leo" creationdate="20210703T075737Z">
+        <seg>Dê um duplo click no ícone do script na área de notificação para abrir sua janela principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click the file/icon in the desktop to run it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210701Z" creationid="Leo" creationdate="20210622T210701Z">
@@ -2986,6 +2994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214216Z" creationid="Leo" creationdate="20210627T214216Z">
         <seg>Aproveite!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure that at least one script is running that is using the &lt;a0&gt;keyboard hook&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075329Z" creationid="Leo" creationdate="20210703T075329Z">
+        <seg>Certifique-se que pelo menos um script com o &lt;a0&gt;gancho de teclado&lt;/a0&gt; esteja em execução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7476,6 +7492,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213109Z" creationid="Leo" creationdate="20210627T213109Z">
         <seg>Você pode fazer isso mudando o valor para &lt;c0&gt;""&lt;/c0&gt;, o que também é conhecido como &lt;i1&gt;string vazia&lt;/i1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can tell if a script has the keyboard hook by opening its main window and selecting "View-&gt;&lt;a1&gt;Key history&lt;/a1&gt;" from the menu bar.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075452Z" creationid="Leo" creationdate="20210703T075452Z">
+        <seg>Você pode determinar se um script possui o gancho de teclado abrindo sua janela principal e selecionando "View-&gt;&lt;a1&gt;Key history&lt;/a1&gt;" a partir da barra de menus.</seg>
       </tuv>
     </tu>
     <tu>

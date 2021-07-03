@@ -3961,8 +3961,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>If your keyboard layout has AltGr instead of RAlt, you can probably use it as a hotkey prefix via &lt;c1&gt;&lt;^&gt;!&lt;/c1&gt; as described &lt;a2&gt;here&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183534Z" creationid="Leo" creationdate="20210702T183534Z">
-        <seg>Se o layout do seu teclado contém a tecla AltGr no lugar da RAlt, você provavelmente conseguirá usá-la como um prefixo de hotkey por meio de &lt;c1&gt;&lt;^&gt;!&lt;/c1&gt;, conforme descrito &lt;a2&gt;aqui&lt;/a2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085548Z" creationid="Leo" creationdate="20210702T183534Z">
+        <seg>Se o layout do seu teclado contém a tecla AltGr no lugar da RAlt, você provavelmente conseguirá usá-la como um prefixo de hotkey apondo o prefixo &lt;c1&gt;&lt;^&gt;!&lt;/c1&gt;, conforme descrito &lt;a2&gt;aqui&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6825,8 +6825,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This is the key that invokes the right-click context menu.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183939Z" creationid="Leo" creationdate="20210702T183939Z">
-        <seg>Esta é a tecla que invoca o menu-contexto ao se clicar com o botão direito.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085754Z" creationid="Leo" creationdate="20210702T183939Z">
+        <seg>Esta é a tecla que invoca o menu de contexto ao se clicar com o botão direito.</seg>
       </tuv>
     </tu>
     <tu>

@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Disable Alt+key shortcuts for the IME.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T082411Z" creationid="Leo" creationdate="20210703T082411Z">
+        <seg>; Desabilitar atalhos com Alt+tecla para o IME.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; If No, stop the code from going further.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051951Z" creationid="Leo" creationdate="20210626T051951Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181141Z" creationid="Leo" creationdate="20210625T181141Z">
         <seg>; Solta a tecla SETA PARA CIMA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Remap CapsLock to LCtrl in a way compatible with IME.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T082444Z" creationid="Leo" creationdate="20210703T082444Z">
+        <seg>; Remapear CapsLock para LCtrl de uma forma compatível com o IME.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2208,8 +2224,8 @@
       <tuv lang="en">
         <seg>Although any single character can be used as a key name, its meaning (scan code or virtual keycode) depends on the current keyboard layout.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071642Z" creationid="Leo" creationdate="20210702T071642Z">
-        <seg>Apesar de qualquer caracter individual poder ser usado como nome de tecla, seu significado (código de leitura ou ou código virtual) depende do layout do teclado usado.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T083131Z" creationid="Leo" creationdate="20210702T071642Z">
+        <seg>Apesar de qualquer caractere individual poder ser usado como nome de tecla, seu significado (código de leitura ou código virtual) depende do layout do teclado usado.</seg>
       </tuv>
     </tu>
     <tu>

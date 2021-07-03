@@ -5785,8 +5785,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>StringReplace, Output, Input, AutoHotkey, AutoHotKey, All</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050352Z" creationid="Leo" creationdate="20210629T050352Z">
-        <seg>StringReplace, Output, Input, AutoHotkey, AutoHotKey, All</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T064057Z" creationid="Leo" creationdate="20210629T050352Z">
+        <seg>StringReplace, Output, Input, AutoHotkey, AutoHotkey, All</seg>
       </tuv>
     </tu>
     <tu>

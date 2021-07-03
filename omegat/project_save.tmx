@@ -1774,6 +1774,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;JoyU and JoyV&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073050Z" creationid="Leo" creationdate="20210703T073050Z">
+        <seg>&lt;s0&gt;JoyU e JoyV&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;JoyX, JoyY, and JoyZ&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T072858Z" creationid="Leo" creationdate="20210703T072858Z">
+        <seg>&lt;s0&gt;JoyX, JoyY, e JoyZ&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Known limitation:&lt;/s0&gt; VK hotkeys that are forced to use the &lt;a1&gt;keyboard hook&lt;/a1&gt;, such as &lt;c2&gt;*VK24&lt;/c2&gt; or &lt;c3&gt;~VK24&lt;/c3&gt;, will fire for only one of the keys, not both (e.g. NumpadHome but not &lt;k4&gt;Home&lt;/k4&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185324Z" creationid="Leo" creationdate="20210702T185324Z">
@@ -5927,6 +5943,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The 5th and 6th axes of the joystick.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073105Z" creationid="Leo" creationdate="20210703T073105Z">
+        <seg>O 5º e o 6º eixos do joystick.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;a0&gt;gigantic table on the Send page&lt;/a0&gt; shows pretty much every special key built-in to AHK.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T045425Z" creationid="Leo" creationdate="20210624T045425Z">
@@ -5939,6 +5963,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192537Z" creationid="Leo" creationdate="20210622T192537Z">
         <seg>Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The X (horizontal), Y (vertical), and Z (altitude/depth) axes of the joystick.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T072941Z" creationid="Leo" creationdate="20210703T072941Z">
+        <seg>Os eixos X (horizontal), Y (vertical) e Z (altitude/profundidade) do joystick.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6023,6 +6055,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The point-of-view (hat) control.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073435Z" creationid="Leo" creationdate="20210703T073435Z">
+        <seg>O controle de ponto de vista (hat switch ou comutador). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The previous value of &lt;c1&gt;MyObject[AnyKey]&lt;/c1&gt; will be stored in &lt;i2&gt;RemovedValue&lt;/i2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213436Z" creationid="Leo" creationdate="20210627T213436Z">
@@ -6035,6 +6075,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070606Z" creationid="Leo" creationdate="20210702T070606Z">
         <seg>O botão direito do mouse quando usado com o comando Send, mas é tratado como botão secundário do mouse quando usado com hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rudder or 4th axis of the joystick.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T073046Z" creationid="Leo" creationdate="20210703T073046Z">
+        <seg>O leme ou 4º eixo do joystick.</seg>
       </tuv>
     </tu>
     <tu>

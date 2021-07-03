@@ -7642,8 +7642,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>While &lt;k1&gt;Ctrl&lt;/k1&gt; is held down, &lt;k2&gt;ScrollLock&lt;/k2&gt; produces the key code of &lt;c3&gt;CtrlBreak&lt;/c3&gt;, but can be differentiated from &lt;k4&gt;Pause&lt;/k4&gt; by scan code.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180402Z" creationid="Leo" creationdate="20210702T180402Z">
-        <seg>Enquanto &lt;k1&gt;Ctrl&lt;/k1&gt; é mantida pressionada, &lt;k2&gt;ScrollLock&lt;/k2&gt; produz a o código da tecla &lt;c3&gt;CtrlBreak&lt;/c3&gt;, mas pode ser diferenciado de &lt;k4&gt;Pause&lt;/k4&gt; por meio do código de leitura.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T084904Z" creationid="Leo" creationdate="20210702T180402Z">
+        <seg>Enquanto &lt;k1&gt;Ctrl&lt;/k1&gt; é mantida pressionada, &lt;k2&gt;ScrollLock&lt;/k2&gt; produz o código da tecla &lt;c3&gt;CtrlBreak&lt;/c3&gt;, mas pode ser diferenciado de &lt;k4&gt;Pause&lt;/k4&gt; por meio do código de leitura.</seg>
       </tuv>
     </tu>
     <tu>

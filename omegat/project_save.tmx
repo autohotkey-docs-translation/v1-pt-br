@@ -1798,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Multiple Joysticks&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074043Z" creationid="Leo" creationdate="20210703T074043Z">
+        <seg>&lt;s0&gt;Joysticks Múltiplos&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; There are exceptions, but those tend to cause confusion a lot of the time.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212757Z" creationid="Leo" creationdate="20210622T212757Z">
@@ -2986,6 +2994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051246Z" creationid="Leo" creationdate="20210626T051246Z">
         <seg>Qualquer lugar dentro de expressões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example string:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074026Z" creationid="Leo" creationdate="20210703T074026Z">
+        <seg>Exemplo de string:</seg>
       </tuv>
     </tu>
     <tu>

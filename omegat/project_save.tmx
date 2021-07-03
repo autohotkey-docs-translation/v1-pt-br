@@ -3368,8 +3368,8 @@
       <tuv lang="en">
         <seg>For more information about the VKnn method, see &lt;a5&gt;Special Keys&lt;/a5&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185354Z" creationid="Leo" creationdate="20210702T185354Z">
-        <seg>Para mais informações sobre o método VKnnão, vide &lt;a5&gt;Teclas Especiais&lt;/a5&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T083254Z" creationid="Leo" creationdate="20210702T185354Z">
+        <seg>Para mais informações sobre o método VKnn, vide &lt;a5&gt;Teclas Especiais&lt;/a5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7650,8 +7650,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>While &lt;k3&gt;Ctrl&lt;/k3&gt; is held down, &lt;k4&gt;Pause&lt;/k4&gt; produces the key code of &lt;c5&gt;CtrlBreak&lt;/c5&gt; and &lt;k6&gt;NumLock&lt;/k6&gt; produces &lt;c7&gt;Pause&lt;/c7&gt;, so use &lt;c8&gt;^CtrlBreak&lt;/c8&gt; in hotkeys instead of &lt;c9&gt;^Pause&lt;/c9&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184131Z" creationid="Leo" creationdate="20210702T184131Z">
-        <seg>Enquanto a tecla &lt;k3&gt;Ctrl&lt;/k3&gt;é mantida pressionada, &lt;k4&gt;Pause&lt;/k4&gt; produz o código &lt;c5&gt;CtrlBreak&lt;/c5&gt; e &lt;k6&gt;NumLock&lt;/k6&gt; produz &lt;c7&gt;Pause&lt;/c7&gt;, então use &lt;c8&gt;^CtrlBreak&lt;/c8&gt; nas hotkeys em vez de &lt;c9&gt;^Pause&lt;/c9&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T083202Z" creationid="Leo" creationdate="20210702T184131Z">
+        <seg>Enquanto a tecla &lt;k3&gt;Ctrl&lt;/k3&gt; é mantida pressionada, &lt;k4&gt;Pause&lt;/k4&gt; produz o código &lt;c5&gt;CtrlBreak&lt;/c5&gt; e &lt;k6&gt;NumLock&lt;/k6&gt; produz &lt;c7&gt;Pause&lt;/c7&gt;, então use &lt;c8&gt;^CtrlBreak&lt;/c8&gt; nas hotkeys em vez de &lt;c9&gt;^Pause&lt;/c9&gt;.</seg>
       </tuv>
     </tu>
     <tu>

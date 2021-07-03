@@ -8016,6 +8016,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Enumerator Object","objects/Enumerator.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222819Z" creationid="Leo" creationdate="20210703T222819Z">
+        <seg>["Objeto Enumerador","objects/Enumerator.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Extended Usage","Objects.htm#Extended_Usage"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214534Z" creationid="Leo" creationdate="20210703T214534Z">
@@ -8188,6 +8196,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222358Z" creationid="Leo" creationdate="20210703T222358Z">
         <seg>["Operações Matemáticas","commands/Math.htm",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Misc.","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222644Z" creationid="Leo" creationdate="20210703T222644Z">
+        <seg>["Diversos","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Object Types","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222703Z" creationid="Leo" creationdate="20210703T222703Z">
+        <seg>["Tipos de Objetos","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Object","objects/Object.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222710Z" creationid="Leo" creationdate="20210703T222710Z">
+        <seg>["Objeto","objects/Object.htm"],</seg>
       </tuv>
     </tu>
     <tu>

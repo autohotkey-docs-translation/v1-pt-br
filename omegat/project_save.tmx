@@ -7992,6 +7992,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Controls","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225436Z" creationid="Leo" creationdate="20210703T225436Z">
+        <seg>["Controles","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Custom Objects","Objects.htm#Custom_Objects"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214542Z" creationid="Leo" creationdate="20210703T214542Z">
@@ -8428,6 +8436,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221429Z" creationid="Leo" creationdate="20210703T221429Z">
         <seg>["Loop com While","commands/While.htm"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Window Groups","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225555Z" creationid="Leo" creationdate="20210703T225555Z">
+        <seg>["Grupos de Janelas","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Window Titles","misc/WinTitle.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225714Z" creationid="Leo" creationdate="20210703T225714Z">
+        <seg>["Títulos de Janelas","misc/WinTitle.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Window","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225431Z" creationid="Leo" creationdate="20210703T225431Z">
+        <seg>["Janelas","",</seg>
       </tuv>
     </tu>
     <tu>

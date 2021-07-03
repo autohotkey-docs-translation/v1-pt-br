@@ -8018,8 +8018,16 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["Enumerator Object","objects/Enumerator.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222819Z" creationid="Leo" creationdate="20210703T222819Z">
-        <seg>["Objeto Enumerador","objects/Enumerator.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223032Z" creationid="Leo" creationdate="20210703T222819Z">
+        <seg>["Enumerador","objects/Enumerator.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Exception Object","commands/Throw.htm#Exception"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223043Z" creationid="Leo" creationdate="20210703T223043Z">
+        <seg>["Exceção","commands/Throw.htmException"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8036,6 +8044,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T220649Z" creationid="Leo" creationdate="20210703T220649Z">
         <seg>["Bibliotecas Externas","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["File Object","objects/File.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223500Z" creationid="Leo" creationdate="20210703T223500Z">
+        <seg>["Arquivo","objects/File.htm"],</seg>
       </tuv>
     </tu>
     <tu>

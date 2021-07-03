@@ -2806,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Content font size:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230521Z" creationid="Leo" creationdate="20210703T230521Z">
+        <seg>Tamanho da fonte do conteúdo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continue on to section b.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201924Z" creationid="Leo" creationdate="20210622T201924Z">
@@ -3606,6 +3614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Help Settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230333Z" creationid="Leo" creationdate="20210703T230333Z">
+        <seg>Configurações da Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Help us help you.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221813Z" creationid="Leo" creationdate="20210627T221813Z">
@@ -4391,6 +4407,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Large</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230540Z" creationid="Leo" creationdate="20210703T230540Z">
+        <seg>Grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launch Calculator</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183910Z" creationid="Leo" creationdate="20210702T183910Z">
@@ -4563,6 +4587,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060017Z" creationid="Leo" creationdate="20210625T175331Z">
         <seg>Significa que você não envolve &lt;k3&gt;Ctrl&lt;/k3&gt; ou &lt;k4&gt;Enter&lt;/k4&gt; (ou qualquer outra tecla) dentro de {chaves} ao criar uma hotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Medium (default)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230537Z" creationid="Leo" creationdate="20210703T230537Z">
+        <seg>Média (padrão)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5647,6 +5679,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selected tab:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230551Z" creationid="Leo" creationdate="20210703T230551Z">
+        <seg>Guia selecionada:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Send,</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045954Z" creationid="Leo" creationdate="20210629T045954Z">
@@ -5959,6 +5999,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Small</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230533Z" creationid="Leo" creationdate="20210703T230533Z">
+        <seg>Pequena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Small code (25 lines or less) will probably be fine to read without indentation, but it'll soon get sloppy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215846Z" creationid="Leo" creationdate="20210627T215846Z">
@@ -6155,6 +6203,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063119Z" creationid="Leo" creationdate="20210702T184509Z">
         <seg>Especifique com o código &lt;b0&gt;nnn&lt;/b0&gt; de leitura da tecla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify the settings the help should be started with by default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230411Z" creationid="Leo" creationdate="20210703T230411Z">
+        <seg>Escolha as configurações com as quais esta ajuda deve iniciar por padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6667,6 +6723,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T084759Z" creationid="Leo" creationdate="20210702T071106Z">
         <seg>Estes botões podem ser &lt;a0&gt;usados como hotkeys&lt;/a0&gt; com alguns (mas não todos) mouses que tenham uma segunda roda ou tenham suporte à inclinação da roda para qualquer dos lados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings are permanent; this is, they apply for all current and future visits to this help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230513Z" creationid="Leo" creationdate="20210703T230513Z">
+        <seg>Estas configurações são permanentes; isto é, elas se aplicam à presente e às futuras visitas a esta ajuda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7420,6 +7484,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070219Z" creationid="Leo" creationdate="20210701T070219Z">
         <seg>Versão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very large</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230542Z" creationid="Leo" creationdate="20210703T230542Z">
+        <seg>Enorme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Very small</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230531Z" creationid="Leo" creationdate="20210703T230531Z">
+        <seg>Minúscula</seg>
       </tuv>
     </tu>
     <tu>

@@ -1680,8 +1680,8 @@
       <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;Pause&lt;/k1&gt; or &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;ScrollLock&lt;/k3&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184020Z" creationid="Leo" creationdate="20210702T184020Z">
-        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;Pause&lt;/k1&gt; ou &lt;k2&gt;Ctrl&lt;/k2&gt;Ctrl+&lt;k3&gt;ScrollLock&lt;/k3&gt;</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085854Z" creationid="Leo" creationdate="20210702T184020Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;Pause&lt;/k1&gt; ou &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;ScrollLock&lt;/k3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6905,8 +6905,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This rarely-used method also prevents certain types of &lt;a1&gt;hotkeys&lt;/a1&gt; from requiring the &lt;a2&gt;keyboard hook&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184917Z" creationid="Leo" creationdate="20210702T184917Z">
-        <seg>Este método, raramente usado, também previne certos tipos de &lt;a1&gt;hotkeys&lt;/a1&gt; da exigência do &lt;a2&gt;gancho de teclado&lt;/a2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090029Z" creationid="Leo" creationdate="20210702T184917Z">
+        <seg>Este método, raramente usado, também dispensa certos tipos de &lt;a1&gt;hotkeys&lt;/a1&gt; da exigência do &lt;a2&gt;gancho de teclado&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

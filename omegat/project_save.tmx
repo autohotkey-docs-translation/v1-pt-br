@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, 2joy1 is the second joystick's first button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074142Z" creationid="Leo" creationdate="20210703T074142Z">
+        <seg>Por exemplo, 2joy1 é o primeiro botão do segundo joystick.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c1&gt;Send, +abC&lt;/c1&gt; would send the text "AbC", and &lt;c2&gt;Send, !+a&lt;/c2&gt; would press &lt;k3&gt;Alt&lt;/k3&gt;+&lt;k4&gt;Shift&lt;/k4&gt;+&lt;k5&gt;A&lt;/k5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220317Z" creationid="Leo" creationdate="20210624T010045Z">
@@ -3695,6 +3703,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the computer has more than one joystick and you want to use one beyond the first, include the joystick number (max 16) in front of the control name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074127Z" creationid="Leo" creationdate="20210703T074127Z">
+        <seg>Se o computador possui mais de um joystick e você deseja usar um que não seja o primeiro, inclua o número do joystick (máximo de 16) na frente do nome do controle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are having issues and you know the game uses DirectX, try the stuff described on the &lt;a0&gt;FAQ&lt;/a0&gt; page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182437Z" creationid="Leo" creationdate="20210625T182437Z">
@@ -3715,6 +3731,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201344Z" creationid="Leo" creationdate="20210622T201344Z">
         <seg>Se ficar confuso, tente reler a seção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have trouble getting a script to recognize your joystick, one person reported needing to specify a joystick number other than 1 even though only a single joystick was present.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074232Z" creationid="Leo" creationdate="20210703T074232Z">
+        <seg>Se você tiver problemas para fazer um script reconhecer um joystick, uma pessoa reportou a necessidade de especificar um número de joystick que não seja 1 mesmo que somente um joystick esteja presente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3995,6 +4019,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213230Z" creationid="Leo" creationdate="20210627T213230Z">
         <seg>É possível saber que a chave ainda existe usando o método &lt;a2&gt;HasKey&lt;/a2&gt;, e ainda assim ela será contada num Loop com &lt;a3&gt;For&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is unclear how this situation arises or whether it is normal, but experimenting with the joystick number in the &lt;a1&gt;joystick test script&lt;/a1&gt; can help determine if this applies to your system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074340Z" creationid="Leo" creationdate="20210703T074340Z">
+        <seg>Não está claro o porquê de essa situação ocorrer nem se é normal, mas experimentar com o número do joystick no &lt;a1&gt;script de teste de joystick&lt;/a1&gt; pode ajudar a determinar se isso se aplica ao seu sistema.</seg>
       </tuv>
     </tu>
     <tu>

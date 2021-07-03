@@ -4007,6 +4007,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In such cases, CapsLock is suppressed by the IME and cannot be detected by AutoHotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081710Z" creationid="Leo" creationdate="20210703T081710Z">
+        <seg>Nestes casos, o CapsLock é suprimido pelo IME e não pode ser detectado pelo AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the example below, you would hold down Numpad0 then press Numpad1 or Numpad2 to trigger one of the hotkeys:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T055515Z" creationid="Leo" creationdate="20210623T024931Z">
@@ -5987,6 +5995,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070357Z" creationid="Leo" creationdate="20210701T070357Z">
         <seg>Licença do Software:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some configurations of Windows IME (such as Japanese input with English keyboard) use CapsLock to toggle between modes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081646Z" creationid="Leo" creationdate="20210703T081646Z">
+        <seg>Algumas configurações do Editor de Método de Entrada do Windows (como entrada em japonês com teclado americano) usam a tecla CapsLock para alternar entre os modos.</seg>
       </tuv>
     </tu>
     <tu>

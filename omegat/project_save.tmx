@@ -2992,8 +2992,8 @@
       <tuv lang="en">
         <seg>Disable or remove any extra software that came with your keyboard or mouse or change its driver to a more standard one such as the one built into the OS.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081345Z" creationid="Leo" creationdate="20210703T081345Z">
-        <seg>Desabilite ou remova qualquer software extra que tenha vindo com seu teclado ou mouse ou altere seu driver para um mais padronizado, como aquele nativo do sistema operacional.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091336Z" creationid="Leo" creationdate="20210703T081345Z">
+        <seg>desabilite ou remova qualquer software extra que tenha vindo com seu teclado ou mouse ou altere seu driver para um mais padronizado, como aquele nativo do sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3953,8 +3953,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>If your key or mouse button is not detectable by the &lt;a1&gt;Key History&lt;/a1&gt; screen, one of the following might help:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080544Z" creationid="Leo" creationdate="20210703T080544Z">
-        <seg>Se sua tecla ou botão do mouse não for detectável pela tela do &lt;a1&gt;Histórico de Teclas&lt;/a1&gt;, uma das seguintes soluções pode ajudar:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091302Z" creationid="Leo" creationdate="20210703T080544Z">
+        <seg>se sua tecla ou botão do mouse não for detectável pela tela do &lt;a1&gt;Histórico de Teclas&lt;/a1&gt;, uma das seguintes soluções pode ajudar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6737,8 +6737,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This assumes there is such a driver for your particular keyboard or mouse and that you can live without the features provided by its custom driver and software.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081549Z" creationid="Leo" creationdate="20210703T081549Z">
-        <seg>Isto pressupõe que existe um driver para seu teclado ou mouse em particular e que você pode ficar sem as funcionalidades fornecidas pelo software e driver personalizado do teclado ou mouse. </seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091527Z" creationid="Leo" creationdate="20210703T081549Z">
+        <seg>Isto pressupõe que existe um driver para seu teclado ou mouse em particular e que você tolera ficar numa boa sem as funcionalidades fornecidas pelo software e driver personalizado do teclado ou mouse. </seg>
       </tuv>
     </tu>
     <tu>

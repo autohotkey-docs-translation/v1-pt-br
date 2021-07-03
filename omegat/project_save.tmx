@@ -8296,10 +8296,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Registry","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225144Z" creationid="Leo" creationdate="20210703T225144Z">
+        <seg>["Registro","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Remapping Keys","misc/Remap.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193426Z" creationid="Leo" creationdate="20210703T193426Z">
         <seg>["Remapeando Teclas","misc/Remap.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Screen","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225201Z" creationid="Leo" creationdate="20210703T225201Z">
+        <seg>["Tela","",</seg>
       </tuv>
     </tu>
     <tu>
@@ -8336,10 +8352,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Sound","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225210Z" creationid="Leo" creationdate="20210703T225210Z">
+        <seg>["Som","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Standard Windows Fonts","misc/FontsStandard.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222254Z" creationid="Leo" creationdate="20210703T222254Z">
         <seg>["Fontes Padrão do Windows","misc/FontsStandard.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["String","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225232Z" creationid="Leo" creationdate="20210703T225232Z">
+        <seg>["Strings","",</seg>
       </tuv>
     </tu>
     <tu>

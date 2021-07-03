@@ -7960,10 +7960,42 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Compiler Directives","misc/Ahk2ExeDirectives.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214310Z" creationid="Leo" creationdate="20210703T214310Z">
+        <seg>["Diretivas de Compiladores","misc/Ahk2ExeDirectives.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Concepts and Conventions","Concepts.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193339Z" creationid="Leo" creationdate="20210703T193339Z">
         <seg>["Conceitos e Convenções","Concepts.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Debugging Clients","AHKL_DBGPClients.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214137Z" creationid="Leo" creationdate="20210703T214137Z">
+        <seg>["Clientes de Depuração","AHKL_DBGPClients.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Functions","Functions.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214031Z" creationid="Leo" creationdate="20210703T214031Z">
+        <seg>["Funções","Functions.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Labels","misc/Labels.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214035Z" creationid="Leo" creationdate="20210703T214035Z">
+        <seg>["Rótulos","misc/Labels.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8004,6 +8036,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193846Z" creationid="Leo" creationdate="20210703T193846Z">
         <seg>["Scripts (diversos)","Scripts.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Threads","misc/Threads.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214127Z" creationid="Leo" creationdate="20210703T214127Z">
+        <seg>["Linhas de Execução (Threads)","misc/Threads.htm"],</seg>
       </tuv>
     </tu>
     <tu>

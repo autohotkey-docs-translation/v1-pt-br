@@ -110,6 +110,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"math functions and operators",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232830Z" creationid="Leo" creationdate="20210703T232830Z">
+        <seg>"Funções e operadores matemáticos",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"the &amp; operator",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232918Z" creationid="Leo" creationdate="20210703T232851Z">
+        <seg>"o operador &amp;",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"the &lt;&lt; operator",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232942Z" creationid="Leo" creationdate="20210703T232942Z">
+        <seg>"o operador &lt;&lt;",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"the | operator",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232928Z" creationid="Leo" creationdate="20210703T232928Z">
+        <seg>"o operador |",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"the ~ operator",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232909Z" creationid="Leo" creationdate="20210703T232909Z">
+        <seg>"o operador ~",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"v1":true,</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T063428Z" creationid="Ragnar-F" creationdate="20210701T063428Z">

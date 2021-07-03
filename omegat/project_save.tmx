@@ -7960,6 +7960,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Concepts and Conventions","Concepts.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193339Z" creationid="Leo" creationdate="20210703T193339Z">
+        <seg>["Conceitos e Convenções","Concepts.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["List of Keys","KeyList.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193617Z" creationid="Leo" creationdate="20210703T193617Z">
+        <seg>["Lista de Teclas","KeyList.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Quick Reference","AutoHotkey.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T101752Z" creationid="Leo" creationdate="20210703T101752Z">
@@ -7968,10 +7984,34 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Remapping Keys","misc/Remap.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193426Z" creationid="Leo" creationdate="20210703T193426Z">
+        <seg>["Remapeando Teclas","misc/Remap.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Scripting Language","Language.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193403Z" creationid="Leo" creationdate="20210703T193403Z">
+        <seg>["Linguagem de scripts","Language.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Usage and Syntax","",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T192425Z" creationid="Leo" creationdate="20210703T192425Z">
         <seg>["Uso e Sintaxe","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Using the Program","Program.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193328Z" creationid="Leo" creationdate="20210703T193328Z">
+        <seg>["Usando o Programa","Program.htm"],</seg>
       </tuv>
     </tu>
     <tu>

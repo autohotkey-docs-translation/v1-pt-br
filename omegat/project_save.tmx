@@ -2864,8 +2864,8 @@
       <tuv lang="en">
         <seg>Corresponds to the &lt;c1&gt;&lt;+&lt;/c1&gt; hotkey prefix.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183325Z" creationid="Leo" creationdate="20210702T183325Z">
-        <seg>Corresponde ao prefixo &lt;c1&gt;&lt;+&lt;/c1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085509Z" creationid="Leo" creationdate="20210702T183325Z">
+        <seg>Corresponde ao prefixo &lt;c1&gt;&lt;+&lt;/c1&gt; das hotkeys.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3761,8 +3761,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>However, hotkeys with the &lt;c4&gt;#&lt;/c4&gt; modifier can be triggered by either &lt;k5&gt;Win&lt;/k5&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182902Z" creationid="Leo" creationdate="20210702T182902Z">
-        <seg>No entanto, as hotkeys com o modificador &lt;c4&gt;#&lt;/c4&gt; podem ser desencadeadas por quaisquer das teclas &lt;k5&gt;Win&lt;/k5&gt;Win, esquerda ou direita.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085433Z" creationid="Leo" creationdate="20210702T182902Z">
+        <seg>No entanto, as hotkeys com o modificador &lt;c4&gt;#&lt;/c4&gt; podem ser desencadeadas por quaisquer das teclas &lt;k5&gt;Win&lt;/k5&gt;, esquerda ou direita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4457,8 +4457,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Left &lt;k0&gt;Win&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182706Z" creationid="Leo" creationdate="20210702T182637Z">
-        <seg>Tecla &lt;k0&gt;Win&lt;/k0&gt; da esquerda.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085245Z" creationid="Leo" creationdate="20210702T182637Z">
+        <seg>Tecla &lt;k0&gt;Win&lt;/k0&gt; (botão do Windows) da esquerda.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; If you press the following button, ActiveX is used to create a config file named 'chm_config.js' in the same directory as the CHM file, with the following content:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230740Z" creationid="Leo" creationdate="20210703T230740Z">
+        <seg>&lt;s0&gt;Observação: se você pressionar o botão a seguir, o ActiveX é usado para criar um arquivo de configuração chamado 'chm_config.js' no mesmo diretório do arquivo CHM, com o conteúdo abaixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; There are exceptions, but those tend to cause confusion a lot of the time.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212757Z" creationid="Leo" creationdate="20210622T212757Z">
@@ -2734,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Color theme:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230635Z" creationid="Leo" creationdate="20210703T230635Z">
+        <seg>Cor do tema:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Colors might turn out black (0x000000) no matter the color you try to get.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T233300Z" creationid="Leo" creationdate="20210625T182636Z">
@@ -2802,6 +2818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193037Z" creationid="Leo" creationdate="20210622T193037Z">
         <seg>Comandos x funções()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Content (default)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230559Z" creationid="Leo" creationdate="20210703T230559Z">
+        <seg>Conteúdo (padrão)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2970,6 +2994,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065827Z" creationid="Leo" creationdate="20210701T162315Z">
         <seg>Teclas de Controle do Cursor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dark</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230640Z" creationid="Leo" creationdate="20210703T230640Z">
+        <seg>Escura</seg>
       </tuv>
     </tu>
     <tu>
@@ -3663,6 +3695,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hidden</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230631Z" creationid="Leo" creationdate="20210703T230624Z">
+        <seg>Oculta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hip Hip Hooray!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210749Z" creationid="Leo" creationdate="20210622T210749Z">
@@ -4167,6 +4207,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Index</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230603Z" creationid="Leo" creationdate="20210703T230603Z">
+        <seg>Índice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>InputBox, OutputVar, Question 1, What is your first name?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051646Z" creationid="Leo" creationdate="20210626T051646Z">
@@ -4515,6 +4563,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220556Z" creationid="Leo" creationdate="20210625T203840Z">
         <seg>Forma “legada” de atribuição de variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light (default)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230639Z" creationid="Leo" creationdate="20210703T230639Z">
+        <seg>Clara (padrão)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5263,6 +5319,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Permission denied.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230748Z" creationid="Leo" creationdate="20210703T230748Z">
+        <seg>Permissão negada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Play/Pause</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183826Z" creationid="Leo" creationdate="20210702T183826Z">
@@ -5519,6 +5583,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run the CHM file as administrator or create the config file manually.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230805Z" creationid="Leo" creationdate="20210703T230805Z">
+        <seg>Execute o arquivo CHM como administrador ou crie o arquivo de configuração manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run this code to see your AHK version:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070801Z" creationid="Leo" creationdate="20210627T215100Z">
@@ -5603,6 +5675,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213340Z" creationid="Leo" creationdate="20210622T213340Z">
         <seg>O mesmo para as hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save settings</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230743Z" creationid="Leo" creationdate="20210703T230743Z">
+        <seg>Salvar configurações</seg>
       </tuv>
     </tu>
     <tu>
@@ -5939,6 +6019,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044435Z" creationid="Leo" creationdate="20210629T044435Z">
         <seg>Shift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sidebar visibility:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230619Z" creationid="Leo" creationdate="20210703T230610Z">
+        <seg>Visibilidade da barra lateral</seg>
       </tuv>
     </tu>
     <tu>
@@ -7500,6 +7588,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230531Z" creationid="Leo" creationdate="20210703T230531Z">
         <seg>Minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visible (default)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230629Z" creationid="Leo" creationdate="20210703T230629Z">
+        <seg>Visível (padrão)</seg>
       </tuv>
     </tu>
     <tu>

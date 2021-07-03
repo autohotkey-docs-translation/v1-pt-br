@@ -3286,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you configure a mystery key to send &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;F1&lt;/k1&gt;, you can then indirectly make that key as a hotkey by using &lt;c2&gt;^F1::&lt;/c2&gt; in a script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080949Z" creationid="Leo" creationdate="20210703T080949Z">
+        <seg>Por exemplo, se você configurar a tecla misteriosa para enviar &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;F1&lt;/k1&gt;, você pode então criar indiretamente uma hotkey com aquela tecla usando &lt;c2&gt;^F1::&lt;/c2&gt; em um script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the following hotkey does not use the keyboard hook, but as a side-effect it is triggered by pressing &lt;e3&gt;either&lt;/e3&gt; &lt;k4&gt;Home&lt;/k4&gt; or NumpadHome:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184957Z" creationid="Leo" creationdate="20210702T184957Z">
@@ -7032,6 +7040,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Try &lt;a0&gt;AHKHID&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081101Z" creationid="Leo" creationdate="20210703T081000Z">
+        <seg>Tente o &lt;a0&gt;AHKHID&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Try, fail, try, fail, try, try, try, fail, fail, &lt;b0&gt;succeed!&lt;/b0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215422Z" creationid="Leo" creationdate="20210627T215422Z">
@@ -7612,6 +7628,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065111Z" creationid="Leo" creationdate="20210701T065111Z">
         <seg>Você também pode obter ajuda ou encontrar vários scripts úteis em &lt;a0&gt;nosso amigável fórum de discussão&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also try searching the &lt;a1&gt;forum&lt;/a1&gt; for a keywords like &lt;c2&gt;RawInput*&lt;/c2&gt;, &lt;c3&gt;USB HID&lt;/c3&gt; or &lt;c4&gt;AHKHID&lt;/c4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081202Z" creationid="Leo" creationdate="20210703T081202Z">
+        <seg>Você também pode tentar pesquisar o &lt;a1&gt;fórum&lt;/a1&gt; por palavras-chaves como &lt;c2&gt;RawInput*&lt;/c2&gt;, &lt;c3&gt;USB HID&lt;/c3&gt; ou &lt;c4&gt;AHKHID&lt;/c4&gt;.</seg>
       </tuv>
     </tu>
     <tu>

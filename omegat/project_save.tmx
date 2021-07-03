@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"a custom function",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233149Z" creationid="Leo" creationdate="20210703T233149Z">
+        <seg>"uma função personalizada",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"commands/_CommentFlag.htm":"the default comment flag (semicolon)",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T231755Z" creationid="Leo" creationdate="20210703T231755Z">
@@ -126,10 +134,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"the ** operator",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233203Z" creationid="Leo" creationdate="20210703T233203Z">
+        <seg>"o operador **",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"the &lt;&lt; operator",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232942Z" creationid="Leo" creationdate="20210703T232942Z">
         <seg>"o operador &lt;&lt;",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"the &gt;&gt; operator",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233052Z" creationid="Leo" creationdate="20210703T233052Z">
+        <seg>"o operador &gt;&gt;",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"the Unicode version of AutoHotkey"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233231Z" creationid="Leo" creationdate="20210703T233231Z">
+        <seg>"a versão Unicode do AutoHotkey"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"the ^ operator",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233100Z" creationid="Leo" creationdate="20210703T233100Z">
+        <seg>"o operador ^",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"the expression syntax or a custom function",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233131Z" creationid="Leo" creationdate="20210703T233131Z">
+        <seg>"a sintaxe da expressão ou uma função personalizada",</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,8 +2024,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; If you press the following button, ActiveX is used to create a config file named 'chm_config.js' in the same directory as the CHM file, with the following content:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230740Z" creationid="Leo" creationdate="20210703T230740Z">
-        <seg>&lt;s0&gt;Observação: se você pressionar o botão a seguir, o ActiveX é usado para criar um arquivo de configuração chamado 'chm_config.js' no mesmo diretório do arquivo CHM, com o conteúdo abaixo:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233244Z" creationid="Leo" creationdate="20210703T230740Z">
+        <seg>&lt;s0&gt;Observação:&lt;/s0&gt; se você pressionar o botão a seguir, o ActiveX é usado para criar um arquivo de configuração chamado 'chm_config.js' no mesmo diretório do arquivo CHM, com o conteúdo abaixo:</seg>
       </tuv>
     </tu>
     <tu>

@@ -78,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"commands/_EscapeChar.htm#Delimiter":"the default delimiter character (comma)",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232319Z" creationid="Leo" creationdate="20210703T232319Z">
+        <seg>"commands/_EscapeChar.htm#Delimiter":"o caractere padrão de delimitação (vírgula)",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"commands/_EscapeChar.htm#DerefChar":"the default dereference character (percent)",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232627Z" creationid="Leo" creationdate="20210703T232627Z">
+        <seg>"commands/_EscapeChar.htm#DerefChar":"o caractere padrão de desreferenciação (porcentagem)",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"en":true,</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T063423Z" creationid="Ragnar-F" creationdate="20210701T063402Z">

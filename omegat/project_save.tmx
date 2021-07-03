@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Test hotkey:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091557Z" creationid="Leo" creationdate="20210703T091557Z">
+        <seg>; Testar hotkey:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; These are commands:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201939Z" creationid="Leo" creationdate="20210625T201939Z">
@@ -2152,8 +2160,8 @@
       <tuv lang="en">
         <seg>After copying the function into a script or saving it as &lt;e0&gt;SendSuppressedKeyUp.ahk&lt;/e0&gt; in a &lt;a1&gt;function library&lt;/a1&gt;, it can be used as follows:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T082341Z" creationid="Leo" creationdate="20210703T082341Z">
-        <seg>Depois de copiar a função para um script ou salvando-a como &lt;e0&gt;SendSuppressedKeyUp.ahk&lt;/e0&gt; dentro de uma &lt;a1&gt;biblioteca de função&lt;/a1&gt;, ela poderá ser usada assim:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091548Z" creationid="Leo" creationdate="20210703T082341Z">
+        <seg>Depois de copiar a função para um script ou salvá-la como &lt;e0&gt;SendSuppressedKeyUp.ahk&lt;/e0&gt; dentro de uma &lt;a1&gt;biblioteca de função&lt;/a1&gt;, ela poderá ser usada assim:</seg>
       </tuv>
     </tu>
     <tu>

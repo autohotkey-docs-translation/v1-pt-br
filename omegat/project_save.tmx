@@ -2094,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the following Joystick control names cannot be used as hotkeys, they can be used with &lt;a0&gt;GetKeyState()&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T072852Z" creationid="Leo" creationdate="20210703T072852Z">
+        <seg>Apesar de os nomes de controle de Joystick abaixo não poderem ser usados como hotkeys, eles podem ser usados com &lt;a0&gt;GetKeyState()&lt;/a0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ampersand may be used between any two keys or mouse buttons to combine them into a custom hotkey.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215506Z" creationid="Leo" creationdate="20210623T024111Z">

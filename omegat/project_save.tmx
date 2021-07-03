@@ -1888,8 +1888,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Multiple Joysticks&lt;/s0&gt;:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074043Z" creationid="Leo" creationdate="20210703T074043Z">
-        <seg>&lt;s0&gt;Joysticks Múltiplos&lt;/s0&gt;</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090636Z" creationid="Leo" creationdate="20210703T074043Z">
+        <seg>&lt;s0&gt;Joysticks Múltiplos&lt;/s0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3865,8 +3865,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>If the computer has more than one joystick and you want to use one beyond the first, include the joystick number (max 16) in front of the control name.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074127Z" creationid="Leo" creationdate="20210703T074127Z">
-        <seg>Se o computador possui mais de um joystick e você deseja usar um que não seja o primeiro, inclua o número do joystick (máximo de 16) na frente do nome do controle.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090800Z" creationid="Leo" creationdate="20210703T074127Z">
+        <seg>se o computador possui mais de um joystick e você deseja usar um que não seja o primeiro, inclua o número do joystick (máximo de 16) na frente do nome do controle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7258,8 +7258,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Using a joystick as a mouse.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074453Z" creationid="Leo" creationdate="20210703T074453Z">
-        <seg>Usar o joystick como um mouse.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090839Z" creationid="Leo" creationdate="20210703T074453Z">
+        <seg>usar o joystick como um mouse.</seg>
       </tuv>
     </tu>
     <tu>

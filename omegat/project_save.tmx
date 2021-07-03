@@ -3969,8 +3969,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>If your keyboard or mouse has a key not listed above, you might still be able to make it a hotkey by using the following steps:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075250Z" creationid="Leo" creationdate="20210703T075250Z">
-        <seg>Se a seu teclado ou mouse tem uma tecla não listada acima, você talvez ainda consiga criar uma hotkey com ela seguindo os passos a seguir:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090908Z" creationid="Leo" creationdate="20210703T075250Z">
+        <seg>Se seu teclado ou mouse tem uma tecla não listada acima, você talvez ainda consiga criar uma hotkey com ela seguindo os passos a seguir:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4611,6 +4611,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045719Z" creationid="Leo" creationdate="20210629T045719Z">
         <seg>MsgBox, %A_AhkVersion%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, %A_ThisHotkey% was pressed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091150Z" creationid="Leo" creationdate="20210703T091150Z">
+        <seg>MsgBox, %A_ThisHotkey% foi pressionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5625,8 +5633,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Select the menu item "View-&gt;&lt;a0&gt;Key history&lt;/a0&gt;"</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075809Z" creationid="Leo" creationdate="20210703T075809Z">
-        <seg>Selecione o item de menu "View-&gt;&lt;a0&gt;Key history&lt;/a0&gt;".</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091010Z" creationid="Leo" creationdate="20210703T075809Z">
+        <seg>Selecione o item de menu “View-&gt;&lt;a0&gt;Key history&lt;/a0&gt;”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6105,8 +6113,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Somewhere near the bottom are the key-down and key-up events for your key.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075858Z" creationid="Leo" creationdate="20210703T075830Z">
-        <seg>Em algum lugar perto do fim da página estão listados os eventos de pressionamento e soltura da sua tecla.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091110Z" creationid="Leo" creationdate="20210703T075830Z">
+        <seg>Em algum lugar perto do fim estão listados os eventos de pressionamento e soltura da sua tecla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7802,8 +7810,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>You can tell if a script has the keyboard hook by opening its main window and selecting "View-&gt;&lt;a1&gt;Key history&lt;/a1&gt;" from the menu bar.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075452Z" creationid="Leo" creationdate="20210703T075452Z">
-        <seg>Você pode determinar se um script possui o gancho de teclado abrindo sua janela principal e selecionando "View-&gt;&lt;a1&gt;Key history&lt;/a1&gt;" a partir da barra de menus.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090937Z" creationid="Leo" creationdate="20210703T075452Z">
+        <seg>Você pode determinar se um script possui o gancho de teclado abrindo sua janela principal e selecionando “View-&gt;&lt;a1&gt;Key history&lt;/a1&gt;” a partir da barra de menus.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2950,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disable or remove any extra software that came with your keyboard or mouse or change its driver to a more standard one such as the one built into the OS.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081345Z" creationid="Leo" creationdate="20210703T081345Z">
+        <seg>Desabilite ou remova qualquer software extra que tenha vindo com seu teclado ou mouse ou altere seu driver para um mais padronizado, como aquele nativo do sistema operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Don't be afraid to ask for help, even the smartest people ask others for help.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221333Z" creationid="Leo" creationdate="20210627T221333Z">
@@ -6279,6 +6287,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following is a last resort and generally should be attempted only in desperation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081236Z" creationid="Leo" creationdate="20210703T081236Z">
+        <seg>O que vem agora é um último recurso e geralmente deve ser usado só em caso de desespero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The function assigned to each of the keys listed below can be overridden by modifying the Windows registry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183650Z" creationid="Leo" creationdate="20210702T183650Z">
@@ -6623,6 +6639,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This assumes there is such a driver for your particular keyboard or mouse and that you can live without the features provided by its custom driver and software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081549Z" creationid="Leo" creationdate="20210703T081549Z">
+        <seg>Isto pressupõe que existe um driver para seu teclado ou mouse em particular e que você pode ficar sem as funcionalidades fornecidas pelo software e driver personalizado do teclado ou mouse. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command literally sends keystrokes, to simulate typing or pressing of keys.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003601Z" creationid="Leo" creationdate="20210624T003601Z">
@@ -6659,6 +6683,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004805Z" creationid="Leo" creationdate="20210624T004805Z">
         <seg>Isso é porque &lt;c7&gt;!A&lt;/c7&gt; faz pressionar &lt;k8&gt;Alt&lt;/k8&gt;+&lt;k9&gt;Shift&lt;/k9&gt;+&lt;k10&gt;A&lt;/k10&gt; e &lt;c11&gt;!a&lt;/c11&gt; faz pressionar &lt;k12&gt;Alt&lt;/k12&gt;+&lt;k13&gt;A&lt;/k13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is because the chance of success is low and it may cause unwanted side-effects that are difficult to undo:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081303Z" creationid="Leo" creationdate="20210703T081303Z">
+        <seg>Isso porque sua chance de sucesso é baixa e este método pode causar efeitos colaterais indesejados que são difíceis de serem desfeitos:</seg>
       </tuv>
     </tu>
     <tu>

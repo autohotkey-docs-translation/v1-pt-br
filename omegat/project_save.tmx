@@ -3887,6 +3887,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If your key or mouse button is not detectable by the &lt;a1&gt;Key History&lt;/a1&gt; screen, one of the following might help:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080544Z" creationid="Leo" creationdate="20210703T080544Z">
+        <seg>Se sua tecla ou botão do mouse não for detectável pela tela do &lt;a1&gt;Histórico de Teclas&lt;/a1&gt;, uma das seguintes soluções pode ajudar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your keyboard layout has AltGr instead of RAlt, you can probably use it as a hotkey prefix via &lt;c1&gt;&lt;^&gt;!&lt;/c1&gt; as described &lt;a2&gt;here&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183534Z" creationid="Leo" creationdate="20210702T183534Z">
@@ -5177,8 +5185,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Press one of the "mystery keys" on your keyboard.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075746Z" creationid="Leo" creationdate="20210703T075746Z">
-        <seg>Pressione uma das "teclas misteriosas" em seu teclado.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080746Z" creationid="Leo" creationdate="20210703T075746Z">
+        <seg>Pressione uma das “teclas misteriosas” em seu teclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5251,6 +5259,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184519Z" creationid="Leo" creationdate="20210702T184519Z">
         <seg>Reconhece as teclas incomuns não mencionadas acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reconfigure the software that came with your mouse or keyboard (sometimes accessible in the Control Panel or Start Menu) to have the "mystery key" send some other keystroke.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080654Z" creationid="Leo" creationdate="20210703T080654Z">
+        <seg>Reconfigure o software que veio com o seu mouse ou teclado (às vezes acessível no Painel de Controle ou Menu Iniciar) para fazer com a que a “tecla misteriosa” envie o pressionamento de alguma outra tecla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6103,6 +6119,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such a keystroke can then be defined as a hotkey in a script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080812Z" creationid="Leo" creationdate="20210703T080812Z">
+        <seg>O dito pressionamento pode então ser definido como uma hotkey em um script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Symbol</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023835Z" creationid="Leo" creationdate="20210623T023835Z">
@@ -6946,8 +6970,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>To remap some other key to &lt;e1&gt;become&lt;/e1&gt; a "mystery key", follow this example:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080306Z" creationid="Leo" creationdate="20210703T080306Z">
-        <seg>Para remapear alguma outra tecla para &lt;e1&gt;tornar-se&lt;/e1&gt; a "tecla misteriosa", siga este exemplo:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080726Z" creationid="Leo" creationdate="20210703T080306Z">
+        <seg>Para remapear alguma outra tecla para &lt;e1&gt;tornar-se&lt;/e1&gt; a “tecla misteriosa”, siga este exemplo:</seg>
       </tuv>
     </tu>
     <tu>

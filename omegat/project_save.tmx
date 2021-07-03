@@ -8000,6 +8000,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Scripts (misc)","Scripts.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193846Z" creationid="Leo" creationdate="20210703T193846Z">
+        <seg>["Scripts (diversos)","Scripts.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Usage and Syntax","",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T192425Z" creationid="Leo" creationdate="20210703T192425Z">

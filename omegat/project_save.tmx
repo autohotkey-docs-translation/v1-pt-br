@@ -7960,6 +7960,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Basic Usage","Objects.htm#Usage"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214525Z" creationid="Leo" creationdate="20210703T214525Z">
+        <seg>["Noções Básicas de Uso","Objects.htmUsage"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Compiler Directives","misc/Ahk2ExeDirectives.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214310Z" creationid="Leo" creationdate="20210703T214310Z">
@@ -7976,10 +7984,34 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Custom Objects","Objects.htm#Custom_Objects"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214542Z" creationid="Leo" creationdate="20210703T214542Z">
+        <seg>["Objetos Personalizados","Objects.htmustom_Objects"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Debugging Clients","AHKL_DBGPClients.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214137Z" creationid="Leo" creationdate="20210703T214137Z">
         <seg>["Clientes de Depuração","AHKL_DBGPClients.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Default Base Object","Objects.htm#Default_Base_Object"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214750Z" creationid="Leo" creationdate="20210703T214750Z">
+        <seg>["Objeto Base Padrão","Objects.htmefault_Base_Object"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Extended Usage","Objects.htm#Extended_Usage"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214534Z" creationid="Leo" creationdate="20210703T214534Z">
+        <seg>["Uso Estendido","Objects.htmExtended_Usage"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8004,6 +8036,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193617Z" creationid="Leo" creationdate="20210703T193617Z">
         <seg>["Lista de Teclas","KeyList.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Objects","Objects.htm",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214501Z" creationid="Leo" creationdate="20210703T214501Z">
+        <seg>["Objetos","Objects.htm",</seg>
       </tuv>
     </tu>
     <tu>

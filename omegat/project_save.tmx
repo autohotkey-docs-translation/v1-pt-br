@@ -7170,8 +7170,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Turn the wheel upward (away from you).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070935Z" creationid="Leo" creationdate="20210702T070935Z">
-        <seg>Girar a roda do mouse para cima (na direção contrária a você).</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T084229Z" creationid="Leo" creationdate="20210702T070935Z">
+        <seg>Girar a roda do mouse para cima (na direção afastando de você).</seg>
       </tuv>
     </tu>
     <tu>

@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"commands/_CommentFlag.htm":"the default comment flag (semicolon)",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T231755Z" creationid="Leo" creationdate="20210703T231755Z">
+        <seg>"commands/_CommentFlag.htm":"o sinalizador padrão de comentários (ponto-e-vírgula)",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"en":true,</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T063423Z" creationid="Ragnar-F" creationdate="20210701T063402Z">

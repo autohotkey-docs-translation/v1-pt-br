@@ -1736,8 +1736,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Caution:&lt;/s0&gt; This table &lt;b1&gt;does not&lt;/b1&gt; apply to &lt;a2&gt;hotkeys&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T231847Z" creationid="Leo" creationdate="20210625T175242Z">
-        <seg>&lt;s0&gt;Cuidado:&lt;/s0&gt; a tabela mencionada acima &lt;b1&gt;não se aplica&lt;/b1&gt; às hotkeys.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063435Z" creationid="Leo" creationdate="20210625T175242Z">
+        <seg>&lt;s0&gt;Cuidado:&lt;/s0&gt; a tabela mencionada acima &lt;b1&gt;não se aplica&lt;/b1&gt; às &lt;a2&gt;hotkeys&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5529,8 +5529,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Sends &lt;k0&gt;Win&lt;/k0&gt; (the key with the Windows logo) therefore &lt;c1&gt;Send #e&lt;/c1&gt; would hold down &lt;k2&gt;Win&lt;/k2&gt; and then press &lt;k3&gt;E&lt;/k3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063313Z" creationid="Leo" creationdate="20210624T045329Z">
-        <seg>Envia &lt;k0&gt;Win&lt;/k0&gt; (a tecla do logo do Windows), portanto &lt;c1&gt;Send #e&lt;/c1&gt; faz segurar a tecla &lt;k3&gt;Win&lt;/k3&gt; e então pressionar &lt;k2&gt;E&lt;/k2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063354Z" creationid="Leo" creationdate="20210624T045329Z">
+        <seg>Envia &lt;k0&gt;Win&lt;/k0&gt; (a tecla do logo do Windows), portanto &lt;c1&gt;Send #e&lt;/c1&gt;&lt;k2&gt;&lt;/k2&gt; faz segurar a tecla Win e então pressionar E&lt;k3&gt;&lt;/k3&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -8264,6 +8264,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Acknowledgements","misc/Acknowledgements.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233851Z" creationid="Leo" creationdate="20210703T233851Z">
+        <seg>["Agradecimentos","misc/Acknowledgements.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Basic Usage","Objects.htm#Usage"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214525Z" creationid="Leo" creationdate="20210703T214525Z">
@@ -8764,6 +8772,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225431Z" creationid="Leo" creationdate="20210703T225431Z">
         <seg>["Janelas","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["abbreviation expansion","Hotstrings.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233831Z" creationid="Leo" creationdate="20210703T233831Z">
+        <seg>["expansão de abreviatura","Hotstrings.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["absolute value, abs()","commands/Math.htm#Abs"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233843Z" creationid="Leo" creationdate="20210703T233843Z">
+        <seg>["valor absoluto, módulo, abs()","commands/Math.htmAbs"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["activate a window","commands/WinActivate.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233857Z" creationid="Leo" creationdate="20210703T233857Z">
+        <seg>["ativar uma janela","commands/WinActivate.htm"],</seg>
       </tuv>
     </tu>
     <tu>

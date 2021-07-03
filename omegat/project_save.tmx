@@ -1952,8 +1952,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Warning:&lt;/s0&gt; Only &lt;a1&gt;Send&lt;/a1&gt;, &lt;a2&gt;GetKeyName()&lt;/a2&gt;, &lt;a3&gt;GetKeyVK()&lt;/a3&gt;, &lt;a4&gt;GetKeySC()&lt;/a4&gt; and &lt;a5&gt;#MenuMaskKey&lt;/a5&gt; support combining VKnn and SCnnn.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185515Z" creationid="Leo" creationdate="20210702T185515Z">
-        <seg>&lt;s0&gt;Aviso:&lt;/s0&gt; Somente &lt;a1&gt;Send&lt;/a1&gt;, &lt;a2&gt;GetKeyName()&lt;/a2&gt;, &lt;a3&gt;GetKeyVK()&lt;/a3&gt;, &lt;a4&gt;GetKeySC()&lt;/a4&gt; e &lt;a5&gt;#MenuMaskKey&lt;/a5&gt; suportam a combinação de VKnn com SCnnn.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090203Z" creationid="Leo" creationdate="20210702T185515Z">
+        <seg>&lt;s0&gt;Aviso:&lt;/s0&gt; somente &lt;a1&gt;Send&lt;/a1&gt;, &lt;a2&gt;GetKeyName()&lt;/a2&gt;, &lt;a3&gt;GetKeyVK()&lt;/a3&gt;, &lt;a4&gt;GetKeySC()&lt;/a4&gt; e &lt;a5&gt;#MenuMaskKey&lt;/a5&gt; suportam a combinação de VKnn com SCnnn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2000,8 +2000,8 @@
       <tuv lang="en">
         <seg>&lt;s6&gt;[v1.1.27+]:&lt;/s6&gt; The presence of an invalid suffix prevents VKnn from being recognized.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185540Z" creationid="Leo" creationdate="20210702T185540Z">
-        <seg>&lt;s6&gt;[v1.1.27+]:&lt;/s6&gt; A presença de um sufixo inválido impede que VKnn de ser reconhecida.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090217Z" creationid="Leo" creationdate="20210702T185540Z">
+        <seg>&lt;s6&gt;[v1.1.27+]:&lt;/s6&gt; A presença de um sufixo inválido impede VKnn de ser reconhecida.</seg>
       </tuv>
     </tu>
     <tu>

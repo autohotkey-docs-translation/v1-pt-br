@@ -3302,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For possible solutions, see further below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080057Z" creationid="Leo" creationdate="20210703T080057Z">
+        <seg>Para possíveis soluções, continue lendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For this guide we will use the Installer since it is easiest to set up.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201635Z" creationid="Leo" creationdate="20210622T201635Z">
@@ -3751,6 +3759,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this is the case, you cannot directly make that particular key a hotkey because your keyboard driver or hardware handles it at a level too low for AutoHotkey to access.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080043Z" creationid="Leo" creationdate="20210703T080043Z">
+        <seg>Se esse for seu caso, você não poderá criar uma hotkey diretamente a partir daquela tecla porque seu driver de teclado ou hardware manipula-a num nível muito baixo para que o AutoHotkey acesse. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are having issues and you know the game uses DirectX, try the stuff described on the &lt;a0&gt;FAQ&lt;/a0&gt; page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182437Z" creationid="Leo" creationdate="20210625T182437Z">
@@ -3811,6 +3827,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215027Z" creationid="Leo" creationdate="20210627T215027Z">
         <seg>Se você ignorasse &lt;c0&gt;TituloJanela, TextoJaneta&lt;/c0&gt;, então ficaria assim e daria problemas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your key is detectable, make a note of the 3-digit hexadecimal value in the second column of the list (e.g. &lt;s0&gt;159&lt;/s0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080140Z" creationid="Leo" creationdate="20210703T080140Z">
+        <seg>Se sua tecla é detectável, tome nota do valor hexadecimal de 3 dígitos na segunda coluna da lista (por exemplo: &lt;s0&gt;159&lt;/s0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -4803,6 +4827,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203702Z" creationid="Leo" creationdate="20210625T203702Z">
         <seg>MinhaVar = Texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NOTE:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075902Z" creationid="Leo" creationdate="20210703T075902Z">
+        <seg>OBSERVAÇÃO:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5887,6 +5919,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some keys do not generate events and thus will not be visible here.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075914Z" creationid="Leo" creationdate="20210703T075914Z">
+        <seg>Algumas teclas não geram eventos e, por isso, não serão visíveis aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sometime you might want a hotkey or hotstring to only work (or be disabled) in a certain window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025742Z" creationid="Leo" creationdate="20210623T025742Z">
@@ -6796,6 +6836,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070734Z" creationid="Leo" creationdate="20210702T070734Z">
         <seg>Caso você queira sempre executar um clique lógico do botão direito, use &lt;c4&gt;Click Right&lt;/c4&gt; ou &lt;c5&gt;Send {Click Right}&lt;/c5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define this key as a hotkey, follow this example:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080152Z" creationid="Leo" creationdate="20210703T080152Z">
+        <seg>Para definir essa tecla como uma hotkey, siga o exemplo abaixo:</seg>
       </tuv>
     </tu>
     <tu>

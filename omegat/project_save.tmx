@@ -1648,8 +1648,8 @@
       <tuv lang="en">
         <seg>&lt;k0&gt;.&lt;/k0&gt; / &lt;k1&gt;Del&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181002Z" creationid="Leo" creationdate="20210702T181002Z">
-        <seg>&lt;k0&gt;.&lt;/k0&gt; / &lt;k1&gt;Del&lt;/k1&gt; (Observação: nos teclados ABNT/ABNT2, costuma haver uma vírgula na tecla Del, enquanto a tecla “ponto” não tem correspondente com NumLock desligada. Teste seu script para determinar qual tecla funciona.)</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085111Z" creationid="Leo" creationdate="20210702T181002Z">
+        <seg>&lt;k0&gt;.&lt;/k0&gt; / &lt;k1&gt;Del&lt;/k1&gt; (Observação: nos teclados ABNT/ABNT2, costuma haver uma vírgula na tecla Del, enquanto a tecla “ponto” não tem correspondente com NumLock desligada. Teste seu script para determinar qual das duas teclas é a que funciona.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1658,6 +1658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181057Z" creationid="Leo" creationdate="20210702T181057Z">
         <seg>&lt;k0&gt;/&lt;/k0&gt; (divisão)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;5&lt;/k0&gt; / typically does nothing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T084951Z" creationid="Leo" creationdate="20210703T084951Z">
+        <seg>&lt;k0&gt;5&lt;/k0&gt; / tipicamente não faz nada</seg>
       </tuv>
     </tu>
     <tu>
@@ -6283,6 +6291,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154728Z" creationid="Leo" creationdate="20210623T154728Z">
         <seg>As diretivas #IfWin são posicionais:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The 12 or more function keys at the top of most keyboards.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085138Z" creationid="Leo" creationdate="20210703T085138Z">
+        <seg>As 12 ou mais teclas de função que ficam na parte de cima da maioria dos teclados.</seg>
       </tuv>
     </tu>
     <tu>

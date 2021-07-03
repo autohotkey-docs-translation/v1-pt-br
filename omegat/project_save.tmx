@@ -8064,6 +8064,38 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Graphical User Interfaces","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221454Z" creationid="Leo" creationdate="20210703T221454Z">
+        <seg>["Interfaces Gráficas do Usuário","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Gui ListView control","commands/ListView.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221622Z" creationid="Leo" creationdate="20210703T221622Z">
+        <seg>["Controle ListView da Gui","commands/ListView.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Gui TreeView control","commands/TreeView.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221642Z" creationid="Leo" creationdate="20210703T221642Z">
+        <seg>["Controle TreeView da Gui","commands/TreeView.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Gui control types","commands/GuiControls.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221531Z" creationid="Leo" creationdate="20210703T221531Z">
+        <seg>["Tipos de controles da Gui","commands/GuiControls.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["If (expression)","commands/IfExpression.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221036Z" creationid="Leo" creationdate="20210703T221036Z">
@@ -8244,6 +8276,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214026Z" creationid="Leo" creationdate="20210703T214026Z">
         <seg>["Variáveis e Expressões","Variables.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["While-loop","commands/While.htm"]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221429Z" creationid="Leo" creationdate="20210703T221429Z">
+        <seg>["Loop com While","commands/While.htm"]</seg>
       </tuv>
     </tu>
     <tu>

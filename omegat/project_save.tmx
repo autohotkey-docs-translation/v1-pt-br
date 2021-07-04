@@ -8344,6 +8344,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Button controls (GUI)","commands/GuiControls.htm#Button"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T042447Z" creationid="Leo" creationdate="20210704T042447Z">
+        <seg>["Controles de botão (GUI)","commands/GuiControls.htm#Button"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Command and Function Index","commands/index.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214936Z" creationid="Leo" creationdate="20210703T214936Z">
@@ -8988,6 +8996,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T042307Z" creationid="Leo" creationdate="20210704T042307Z">
         <seg>["funções nativas","Functions.htmBuiltIn"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["built-in variables","Variables.htm#BuiltIn"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T042317Z" creationid="Leo" creationdate="20210704T042317Z">
+        <seg>["variáveis nativas","Variables.htm#BuiltIn"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["button list (mouse and joystick)","KeyList.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T042500Z" creationid="Leo" creationdate="20210704T042500Z">
+        <seg>["lista de botões (mouse e joystick)","KeyList.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["button state","commands/GetKeyState.htm#function"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T042655Z" creationid="Leo" creationdate="20210704T042655Z">
+        <seg>["estado de um botão","commands/GetKeyState.htm#function"],</seg>
       </tuv>
     </tu>
     <tu>

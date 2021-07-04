@@ -8312,6 +8312,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Bin directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Bin",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041137Z" creationid="Leo" creationdate="20210704T041137Z">
+        <seg>["Diretiva Bin (Ahk2Exe)","misc/Ahk2ExeDirectives.htmBin",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["BinMod script (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#PostExec",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041420Z" creationid="Leo" creationdate="20210704T041420Z">
+        <seg>["Script BinMode (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#PostExec",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Bind method (Func object)","objects/Func.htm#Bind"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041320Z" creationid="Leo" creationdate="20210704T041320Z">
+        <seg>["Método bind (Objeto Funciona)","objects/Func.htm#Bind"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Command and Function Index","commands/index.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214936Z" creationid="Leo" creationdate="20210703T214936Z">
@@ -8916,6 +8940,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041102Z" creationid="Leo" creationdate="20210704T041102Z">
         <seg>["soar o autofalante do PC","commands/SoundBeep.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["between (check if var between two values)","commands/IfBetween.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041125Z" creationid="Leo" creationdate="20210704T041125Z">
+        <seg>["between (checar se a variável está entre dois valores)","commands/IfBetween.htm"],</seg>
       </tuv>
     </tu>
     <tu>

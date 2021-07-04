@@ -8296,6 +8296,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["AutoIt v2 compatibility","misc/AutoIt2Compat.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040910Z" creationid="Leo" creationdate="20210704T040910Z">
+        <seg>["Compatibilidade com AutoIt v2","misc/AutoIt2Compat.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Basic Usage","Objects.htm#Usage"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214525Z" creationid="Leo" creationdate="20210703T214525Z">
@@ -8844,6 +8852,70 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040750Z" creationid="Leo" creationdate="20210704T040750Z">
         <seg>["acrescentar a um arquivo","commands/FileAppend.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["assigning values to variables","Variables.htm#AssignOp"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040808Z" creationid="Leo" creationdate="20210704T040808Z">
+        <seg>["atribuindo valores a variáveis","Variables.htmAssignOp"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["attributes of files and folders","commands/FileGetAttrib.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040820Z" creationid="Leo" creationdate="20210704T040820Z">
+        <seg>["atributos de arquivos e pastas","commands/FileGetAttrib.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["auto-execute section","Scripts.htm#auto"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040843Z" creationid="Leo" creationdate="20210704T040843Z">
+        <seg>["seção de execução automática","Scripts.htmuto"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["auto-replace text as you type it","Hotstrings.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040858Z" creationid="Leo" creationdate="20210704T040858Z">
+        <seg>["substituir texto automaticamente à medida que é digitado","Hotstrings.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["balloon tip","commands/TrayTip.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040926Z" creationid="Leo" creationdate="20210704T040926Z">
+        <seg>["Balão de aviso","commands/TrayTip.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["base (Objects)","Objects.htm#Custom_Objects"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040936Z" creationid="Leo" creationdate="20210704T040936Z">
+        <seg>["base (Objéthos)","Objects.htm#Custom_Objects"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["base property (Object)","objects/Object.htm#Base"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041002Z" creationid="Leo" creationdate="20210704T041002Z">
+        <seg>["propriedade-base (Objeto)","objects/Object.htmBase"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["beep the PC speaker","commands/SoundBeep.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041102Z" creationid="Leo" creationdate="20210704T041102Z">
+        <seg>["soar o autofalante do PC","commands/SoundBeep.htm"],</seg>
       </tuv>
     </tu>
     <tu>

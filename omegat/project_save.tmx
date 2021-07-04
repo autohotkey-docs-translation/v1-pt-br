@@ -8352,6 +8352,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Call method (Func object)","objects/Func.htm#Call"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T044306Z" creationid="Leo" creationdate="20210704T044306Z">
+        <seg>["método Call (Objeto Func)","objects/Func.htm#Call"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Command and Function Index","commands/index.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214936Z" creationid="Leo" creationdate="20210703T214936Z">

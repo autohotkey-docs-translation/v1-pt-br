@@ -8272,6 +8272,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["ActiveX controls (GUI)","commands/GuiControls.htm#ActiveX"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233921Z" creationid="Leo" creationdate="20210703T233921Z">
+        <seg>["controles do ActiveX (GUI)","commands/GuiControls.htmActiveX"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["AddResource directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#AddResource",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T234009Z" creationid="Leo" creationdate="20210703T234009Z">
+        <seg>["diretiva AddResource (Ahk2Exe)","misc/Ahk2ExeDirectives.htmAddResource",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Address of a variable","Variables.htm#amp"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040706Z" creationid="Leo" creationdate="20210704T040706Z">
+        <seg>["Endereço de uma variável","Variables.htmmp"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Basic Usage","Objects.htm#Usage"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214525Z" creationid="Leo" creationdate="20210703T214525Z">
@@ -8796,6 +8820,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233857Z" creationid="Leo" creationdate="20210703T233857Z">
         <seg>["ativar uma janela","commands/WinActivate.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["add","commands/EnvAdd.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233950Z" creationid="Leo" creationdate="20210703T233950Z">
+        <seg>["adição","commands/EnvAdd.htm"],</seg>
       </tuv>
     </tu>
     <tu>

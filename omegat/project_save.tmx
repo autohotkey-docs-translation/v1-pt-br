@@ -8680,6 +8680,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Func object","objects/Func.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073219Z" creationid="Leo" creationdate="20210709T073219Z">
+        <seg>["Func","objects/Func.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Function Objects","objects/Functor.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223615Z" creationid="Leo" creationdate="20210703T223615Z">
@@ -8696,10 +8704,34 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["GetAddress method (Object)","objects/Object.htm#GetAddress"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073340Z" creationid="Leo" creationdate="20210709T073322Z">
+        <seg>["método GetAddress (Objeto)","objects/Object.htm#GetAddress"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["GetCapacity method (Object)","objects/Object.htm#GetCapacity"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073336Z" creationid="Leo" creationdate="20210709T073336Z">
+        <seg>["método GetCapacity (Objeto)","objects/Object.htm#GetCapacity"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Graphical User Interfaces","",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221454Z" creationid="Leo" creationdate="20210703T221454Z">
         <seg>["Interfaces Gráficas do Usuário","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["GroupBox controls (GUI)","commands/GuiControls.htm#GroupBox"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073409Z" creationid="Leo" creationdate="20210709T073409Z">
+        <seg>["controles GroupBox (GUI)","commands/GuiControls.htm#GroupBox"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8724,6 +8756,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221531Z" creationid="Leo" creationdate="20210703T221531Z">
         <seg>["Tipos de controles da Gui","commands/GuiControls.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Gui","commands/Gui.htm",6,"SSSS"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073520Z" creationid="Leo" creationdate="20210709T073520Z">
+        <seg>["Gui (interface gráfica do usuário","commands/Gui.htm",6,"SSSS"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9836,6 +9876,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073049Z" creationid="Leo" creationdate="20210709T073049Z">
         <seg>["funções (bibliotecas)","Functions.htm#lib"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["g-label (responding to GUI events)","commands/Gui.htm#label"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073252Z" creationid="Leo" creationdate="20210709T073252Z">
+        <seg>["g-label (respondendo a eventos de GUIs)","commands/Gui.htm#label"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["game automation","commands/PixelSearch.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073259Z" creationid="Leo" creationdate="20210709T073259Z">
+        <seg>["automação de jogos","commands/PixelSearch.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["global variables in functions","Functions.htm#Global"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073354Z" creationid="Leo" creationdate="20210709T073354Z">
+        <seg>["variáveis globais em funções","Functions.htm#Global"],</seg>
       </tuv>
     </tu>
     <tu>

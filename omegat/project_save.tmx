@@ -9714,8 +9714,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["find a string","commands/StringGetPos.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072505Z" creationid="Leo" creationdate="20210709T072505Z">
-        <seg>["encontrar uma string","commands/IfExist.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072814Z" creationid="Leo" creationdate="20210709T072505Z">
+        <seg>["encontrar uma string","commands/StringGetPos.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9728,10 +9728,58 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["floating point (Format)","commands/Format.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072749Z" creationid="Leo" creationdate="20210709T072607Z">
+        <seg>["ponto flutuante (Format)","commands/Format.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["floating point (check if it is one)","commands/IfIs.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072526Z" creationid="Leo" creationdate="20210709T072526Z">
         <seg>["ponto flutuante (verificar se se trata de um)","commands/IfIs.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["focus","commands/ControlFocus.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072617Z" creationid="Leo" creationdate="20210709T072617Z">
+        <seg>["foco","commands/ControlFocus.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["folder/directory copy","commands/FileCopyDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072634Z" creationid="Leo" creationdate="20210709T072634Z">
+        <seg>["copiar pasta/diretório","commands/FileCopyDir.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["folder/directory create","commands/FileCreateDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072733Z" creationid="Leo" creationdate="20210709T072641Z">
+        <seg>["criar pasta/diretório","commands/FileCreateDir.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["folder/directory move","commands/FileMoveDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072713Z" creationid="Leo" creationdate="20210709T072645Z">
+        <seg>["mover pasta/diretório","commands/FileMoveDir.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["folder/directory remove","commands/FileRemoveDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072706Z" creationid="Leo" creationdate="20210709T072706Z">
+        <seg>["excluir pasta/diretório","commands/FileRemoveDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>

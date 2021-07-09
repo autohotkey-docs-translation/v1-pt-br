@@ -8386,8 +8386,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["Clone method (Object)","objects/Object.htm#Clone"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065237Z" creationid="Leo" creationdate="20210709T065237Z">
-        <seg>["Clonar método (Objeto)","objects/Object.htm#Clone"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070953Z" creationid="Leo" creationdate="20210709T065237Z">
+        <seg>["Método clonar (Objeto)","objects/Object.htm#Clone"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8488,6 +8488,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["DateTime controls (GUI)","commands/GuiControls.htm#DateTime"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070738Z" creationid="Leo" creationdate="20210709T070738Z">
+        <seg>["Controles DateTime (GUI)","commands/GuiControls.htm#DateTime"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Debug directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Debug",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070747Z" creationid="Leo" creationdate="20210709T070747Z">
+        <seg>["Diretiva de depuração (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Debug",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Debugging Clients","AHKL_DBGPClients.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214137Z" creationid="Leo" creationdate="20210703T214137Z">
@@ -8500,6 +8516,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214750Z" creationid="Leo" creationdate="20210703T214750Z">
         <seg>["Objeto Base Padrão","Objects.htmefault_Base_Object"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Default","commands/Switch.htm",3,""],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070832Z" creationid="Leo" creationdate="20210709T070832Z">
+        <seg>["Default" (dentro de um switch),"commands/Switch.htm",3,""],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Delete method (Object)","objects/Object.htm#Delete"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071003Z" creationid="Leo" creationdate="20210709T071003Z">
+        <seg>["Método Delete (Objeto)","objects/Object.htm#Delete"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9380,6 +9412,54 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070708Z" creationid="Leo" creationdate="20210709T070708Z">
         <seg>["datas e horários (operações matemáticas)","commands/EnvSub.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["dates and times (of files)","commands/FileSetTime.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070721Z" creationid="Leo" creationdate="20210709T070721Z">
+        <seg>["datas e horários (de arquivos)","commands/EnvSub.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["debugger","commands/OutputDebug.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070753Z" creationid="Leo" creationdate="20210709T070753Z">
+        <seg>["depurador","commands/OutputDebug.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["debugging a script","Scripts.htm#debug"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070802Z" creationid="Leo" creationdate="20210709T070802Z">
+        <seg>["depurando um script script","Scripts.htm#debug"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["decimal places","commands/Format.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070808Z" creationid="Leo" creationdate="20210709T070808Z">
+        <seg>["casas decimais","commands/Format.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["delete files","commands/FileDelete.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070846Z" creationid="Leo" creationdate="20210709T070846Z">
+        <seg>["excluir arquivos","commands/FileDelete.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["delete folder/directory","commands/FileRemoveDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070909Z" creationid="Leo" creationdate="20210709T070909Z">
+        <seg>["excluir uma pasta/diretório","commands/FileCreateDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>

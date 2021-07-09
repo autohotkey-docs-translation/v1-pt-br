@@ -8464,6 +8464,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Count method (Object)","objects/Object.htm#Count"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070337Z" creationid="Leo" creationdate="20210709T070337Z">
+        <seg>["Método Count (Objeto)","objects/Object.htm#Count"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Custom Objects","Objects.htm#Custom_Objects"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214542Z" creationid="Leo" creationdate="20210703T214542Z">
@@ -9244,6 +9252,78 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070036Z" creationid="Leo" creationdate="20210709T070036Z">
         <seg>["Conceitos e convenções","Concepts.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["context menu (GUI)","commands/Gui.htm#GuiContextMenu"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070116Z" creationid="Leo" creationdate="20210709T070116Z">
+        <seg>["Menu de contexto (GUI)","commands/Gui.htm#GuiContextMenu"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["continuation sections","Scripts.htm#continuation"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070202Z" creationid="Leo" creationdate="20210709T070126Z">
+        <seg>["Continuações de seção","Scripts.htm#continuation"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["control flow","Language.htm#control-flow"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070225Z" creationid="Leo" creationdate="20210709T070225Z">
+        <seg>["Fluxo de controle","Language.htm#control-flow"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["convert a script to an EXE","Scripts.htm#ahk2exe"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070249Z" creationid="Leo" creationdate="20210709T070249Z">
+        <seg>["converter um script em um EXE","Scripts.htm#ahk2exe"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["coordinates","commands/CoordMode.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070255Z" creationid="Leo" creationdate="20210709T070255Z">
+        <seg>["coordenadas","commands/CoordMode.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["copy file","commands/FileCopy.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070305Z" creationid="Leo" creationdate="20210709T070305Z">
+        <seg>["copiar arquivo","commands/FileCopy.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["copy folder/directory","commands/FileCopyDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070315Z" creationid="Leo" creationdate="20210709T070315Z">
+        <seg>["copiar pasta/diretório","commands/FileCopyDir.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["create file","commands/FileAppend.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070349Z" creationid="Leo" creationdate="20210709T070349Z">
+        <seg>["Criar um arquivo","commands/FileAppend.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["create folder/directory","commands/FileCreateDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070401Z" creationid="Leo" creationdate="20210709T070401Z">
+        <seg>["criar uma pasta/diretório","commands/FileCreateDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>

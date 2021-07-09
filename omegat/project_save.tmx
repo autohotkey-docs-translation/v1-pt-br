@@ -8576,10 +8576,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Enumerator object","objects/Enumerator.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071953Z" creationid="Leo" creationdate="20210709T071953Z">
+        <seg>["Objeto enumerador","objects/Enumerator.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Exception Object","commands/Throw.htm#Exception"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223043Z" creationid="Leo" creationdate="20210703T223043Z">
         <seg>["Exceção","commands/Throw.htmException"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["ExeName directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#ExeName",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072042Z" creationid="Leo" creationdate="20210709T072042Z">
+        <seg>["diretiva ExeName (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#ExeName",99],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8600,10 +8616,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["FAQ (Frequently Asked Questions)","FAQ.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072108Z" creationid="Leo" creationdate="20210709T072108Z">
+        <seg>["FAQ (Perguntas Frequentes)","FAQ.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["File Object","objects/File.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223500Z" creationid="Leo" creationdate="20210703T223500Z">
         <seg>["Arquivo","objects/File.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["File object","objects/File.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072201Z" creationid="Leo" creationdate="20210709T072201Z">
+        <seg>["objeto arquivo","objects/File.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9588,6 +9620,54 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071808Z" creationid="Leo" creationdate="20210709T071808Z">
         <seg>["variáveis dinâmicas","Language.htm#dynamic-variables"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["environment variables (change them)","commands/EnvSet.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072015Z" creationid="Leo" creationdate="20210709T072015Z">
+        <seg>["variáveis de ambiente (alterá-las)","commands/EnvSet.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["environment variables","Concepts.htm#environment-variables"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072001Z" creationid="Leo" creationdate="20210709T072001Z">
+        <seg>["variáveis de ambiente","Concepts.htm#environment-variables"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["escape sequence","misc/EscapeChar.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072028Z" creationid="Leo" creationdate="20210709T072028Z">
+        <seg>["sequência de escape","misc/EscapeChar.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["expressions","Variables.htm#Expressions"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072052Z" creationid="Leo" creationdate="20210709T072052Z">
+        <seg>["expressões","Variables.htm#Expressions"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["file attributes","commands/FileSetAttrib.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072115Z" creationid="Leo" creationdate="20210709T072115Z">
+        <seg>["atributos de arquivos","commands/FileSetAttrib.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["file or folder (does it exist)","commands/IfExist.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072216Z" creationid="Leo" creationdate="20210709T072216Z">
+        <seg>["arquivo ou pasta (determinar se existe)","commands/IfExist.htm"],</seg>
       </tuv>
     </tu>
     <tu>

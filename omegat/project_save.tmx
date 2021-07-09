@@ -8760,10 +8760,42 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Gui styles reference","misc/Styles.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073549Z" creationid="Leo" creationdate="20210709T073549Z">
+        <seg>["referência de estilos de GUIs","misc/Styles.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Gui","commands/Gui.htm",6,"SSSS"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073520Z" creationid="Leo" creationdate="20210709T073520Z">
-        <seg>["Gui (interface gráfica do usuário","commands/Gui.htm",6,"SSSS"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073553Z" creationid="Leo" creationdate="20210709T073520Z">
+        <seg>["GUI (interface gráfica do usuário","commands/Gui.htm",6,"SSSS"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["HasKey method (Object)","objects/Object.htm#HasKey"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073618Z" creationid="Leo" creationdate="20210709T073618Z">
+        <seg>["método HasKey (Objeto)","objects/Object.htm#HasKey"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Hotkey controls (GUI)","commands/GuiControls.htm#Hotkey"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073738Z" creationid="Leo" creationdate="20210709T073738Z">
+        <seg>["controles de Hotkeys (GUI)","commands/GuiControls.htm#Hotkey"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Hotkeys (general information)","Hotkeys.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073724Z" creationid="Leo" creationdate="20210709T073724Z">
+        <seg>["Hotkeys (informações gerais)","Hotkeys.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9900,6 +9932,46 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073354Z" creationid="Leo" creationdate="20210709T073354Z">
         <seg>["variáveis globais em funções","Functions.htm#Global"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["hexadecimal format","commands/Format.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073627Z" creationid="Leo" creationdate="20210709T073627Z">
+        <seg>["formato hexadecimal","commands/Format.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["hibernate or suspend","commands/Shutdown.htm#Suspend"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073636Z" creationid="Leo" creationdate="20210709T073636Z">
+        <seg>["hibernar ou suspender","commands/Shutdown.htm#Suspend"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["hidden text","commands/DetectHiddenText.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073647Z" creationid="Leo" creationdate="20210709T073647Z">
+        <seg>["texto oculto","commands/DetectHiddenText.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["hidden windows","commands/DetectHiddenWindows.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073653Z" creationid="Leo" creationdate="20210709T073653Z">
+        <seg>["janelas ocultas","commands/DetectHiddenWindows.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["hook","commands/_InstallKeybdHook.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073717Z" creationid="Leo" creationdate="20210709T073717Z">
+        <seg>["gancho","commands/_InstallKeybdHook.htm"],</seg>
       </tuv>
     </tu>
     <tu>

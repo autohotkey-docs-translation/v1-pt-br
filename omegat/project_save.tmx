@@ -8480,6 +8480,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Custom controls (GUI)","commands/GuiControls.htm#Custom"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070635Z" creationid="Leo" creationdate="20210709T070635Z">
+        <seg>["Controles personalizados (GUI)","commands/GuiControls.htm#Custom"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Debugging Clients","AHKL_DBGPClients.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214137Z" creationid="Leo" creationdate="20210703T214137Z">
@@ -9324,6 +9332,54 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070401Z" creationid="Leo" creationdate="20210709T070401Z">
         <seg>["criar uma pasta/diretório","commands/FileCreateDir.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["current directory","commands/SetWorkingDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070425Z" creationid="Leo" creationdate="20210709T070425Z">
+        <seg>["diretório atual","commands/SetWorkingDir.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["current thread","misc/Threads.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070509Z" creationid="Leo" creationdate="20210709T070509Z">
+        <seg>["fio de execução (thread) atual","misc/Threads.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["cursor shape","Variables.htm#Cursor"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070520Z" creationid="Leo" creationdate="20210709T070520Z">
+        <seg>["formato do cursor","Variables.htm#Cursor"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["custom combination hotkeys","Hotkeys.htm#combo"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070614Z" creationid="Leo" creationdate="20210709T070614Z">
+        <seg>["hotkeys de combinação personalizada de teclas","Hotkeys.htm#combo"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["dates and times (compare)","commands/EnvSub.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070653Z" creationid="Leo" creationdate="20210709T070653Z">
+        <seg>["datas e horários (comparar)","commands/EnvSub.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["dates and times (math)","commands/EnvAdd.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070708Z" creationid="Leo" creationdate="20210709T070708Z">
+        <seg>["datas e horários (operações matemáticas)","commands/EnvSub.htm"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -8394,16 +8394,16 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["Close method (File)","objects/File.htm#Close"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065411Z" creationid="Leo" creationdate="20210709T065411Z">
-        <seg>["Método close (Arquivo)","objects/File.htmlose"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065919Z" creationid="Leo" creationdate="20210709T065411Z">
+        <seg>["Método close (Arquivo)","objects/File.htm#Close"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>["ComboBox controls (GUI)","commands/GuiControls.htm#ComboBox"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065510Z" creationid="Leo" creationdate="20210709T065510Z">
-        <seg>["Controles de ComboBox (GUI)","commands/GuiControls.htmomboBox"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065846Z" creationid="Leo" creationdate="20210709T065510Z">
+        <seg>["Controles de ComboBox (GUI)","commands/GuiControls.htm#ComboBox"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8416,10 +8416,18 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Compatibility","Compat.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065933Z" creationid="Leo" creationdate="20210709T065933Z">
+        <seg>["Compatibilidade","Compat.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Compiler Directives","misc/Ahk2ExeDirectives.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065643Z" creationid="Leo" creationdate="20210703T214310Z">
-        <seg>["Compiler Directives","misc/Ahk2ExeDirectives.htm"],["Diretivas de Compiladores","misc/Ahk2ExeDirectives.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065949Z" creationid="Leo" creationdate="20210703T214310Z">
+        <seg>["Diretivas do compilador","misc/Ahk2ExeDirectives.htm"],["Diretivas de Compiladores","misc/Ahk2ExeDirectives.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8428,6 +8436,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193339Z" creationid="Leo" creationdate="20210703T193339Z">
         <seg>["Conceitos e Convenções","Concepts.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["ConsoleApp directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#ConsoleApp",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070054Z" creationid="Leo" creationdate="20210709T070054Z">
+        <seg>["Diretiva ConsoleApp (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#ConsoleApp",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Cont directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Cont",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070106Z" creationid="Leo" creationdate="20210709T070106Z">
+        <seg>["Diretiva Continuação (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Cont",99],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9188,6 +9212,38 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065724Z" creationid="Leo" creationdate="20210709T065724Z">
         <seg>["comentários em scripts","Language.htm#comments"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["compile a script","Scripts.htm#ahk2exe"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065940Z" creationid="Leo" creationdate="20210709T065940Z">
+        <seg>["compilar um script","Scripts.htm#ahk2exe"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["concatenate, in expressions","Variables.htm#concat"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070007Z" creationid="Leo" creationdate="20210709T070007Z">
+        <seg>["concatenar, em expressões","Variables.htm#concat"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["concatenate, script lines","Scripts.htm#continuation"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070028Z" creationid="Leo" creationdate="20210709T070028Z">
+        <seg>["concatenar, linhas do script","Scripts.htm#continuation"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["concepts and conventions","Concepts.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070036Z" creationid="Leo" creationdate="20210709T070036Z">
+        <seg>["Conceitos e convenções","Concepts.htm"],</seg>
       </tuv>
     </tu>
     <tu>

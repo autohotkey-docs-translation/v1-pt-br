@@ -8360,6 +8360,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Checkbox controls (GUI)","commands/GuiControls.htm#Checkbox"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T064924Z" creationid="Leo" creationdate="20210709T064924Z">
+        <seg>["Controles de checkbox (GUI)","commands/GuiControls.htm#Checkbox"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Command and Function Index","commands/index.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214936Z" creationid="Leo" creationdate="20210703T214936Z">
@@ -9044,6 +9052,46 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T064736Z" creationid="Leo" creationdate="20210709T064736Z">
         <seg>["Strings que diferenciam maiúsculas de minúsculas","commands/StringCaseSense.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["choose file","commands/FileSelectFile.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T064939Z" creationid="Leo" creationdate="20210709T064939Z">
+        <seg>["selecionar um arquivo","commands/FileSelectFile.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["choose folder","commands/FileSelectFolder.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T064948Z" creationid="Leo" creationdate="20210709T064948Z">
+        <seg>["selecionar uma pasta","commands/FileSelectFolder.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["class (Objects)","Objects.htm#Custom_Classes"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065136Z" creationid="Leo" creationdate="20210709T065136Z">
+        <seg>["classe (Objetos)","Objects.htm#Custom_Classes"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["class name of a window","commands/WinGetClass.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065153Z" creationid="Leo" creationdate="20210709T065153Z">
+        <seg>["nome de classe de uma janela","commands/WinGetClass.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["class","Objects.htm#Custom_Classes",5],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065045Z" creationid="Leo" creationdate="20210709T065045Z">
+        <seg>["classes","Objects.htm#Custom_Classes",5],</seg>
       </tuv>
     </tu>
     <tu>

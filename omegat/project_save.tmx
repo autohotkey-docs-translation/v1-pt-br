@@ -8352,6 +8352,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["CLSID List (My Computer, etc.)","misc/CLSID-List.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065426Z" creationid="Leo" creationdate="20210709T065426Z">
+        <seg>["Lista CLSID (Meu computador, etc.)","misc/CLSID-List.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Call method (Func object)","objects/Func.htm#Call"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T044306Z" creationid="Leo" creationdate="20210704T044306Z">
@@ -8364,6 +8372,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T064924Z" creationid="Leo" creationdate="20210709T064924Z">
         <seg>["Controles de checkbox (GUI)","commands/GuiControls.htm#Checkbox"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Click a mouse button","commands/Click.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065205Z" creationid="Leo" creationdate="20210709T065205Z">
+        <seg>["Clicar um botão do mouse","commands/Click.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Clone method (Object)","objects/Object.htm#Clone"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065237Z" creationid="Leo" creationdate="20210709T065237Z">
+        <seg>["Clonar método (Objeto)","objects/Object.htm#Clone"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Close method (File)","objects/File.htm#Close"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065411Z" creationid="Leo" creationdate="20210709T065411Z">
+        <seg>["Método close (Arquivo)","objects/File.htmlose"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9092,6 +9124,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065045Z" creationid="Leo" creationdate="20210709T065045Z">
         <seg>["classes","Objects.htm#Custom_Classes",5],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["close a window","commands/WinClose.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065359Z" creationid="Leo" creationdate="20210709T065359Z">
+        <seg>["fechar uma janela","commands/WinClose.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["color names, RGB/HTML","commands/Progress.htm#colors"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065437Z" creationid="Leo" creationdate="20210709T065437Z">
+        <seg>["nomes das cores, RGB/HTML","commands/Progress.htm#colors"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["color of pixels","commands/PixelSearch.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065455Z" creationid="Leo" creationdate="20210709T065455Z">
+        <seg>["cor dos píxeis","commands/PixelSearch.htm"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -8776,6 +8776,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["HTML color names","commands/Progress.htm#colors"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073821Z" creationid="Leo" creationdate="20210709T073821Z">
+        <seg>["nomes das cores no HTML","commands/Progress.htm#colors"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["HWND (of a control)","commands/ControlGet.htm#Hwnd"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073829Z" creationid="Leo" creationdate="20210709T073829Z">
+        <seg>["HWND (de um controle)","commands/ControlGet.htm#Hwnd"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["HWND (of a window)","misc/WinTitle.htm#ahk_id"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073838Z" creationid="Leo" creationdate="20210709T073838Z">
+        <seg>["HWND (de uma janela)","misc/WinTitle.htm#ahk_id"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["HasKey method (Object)","objects/Object.htm#HasKey"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073618Z" creationid="Leo" creationdate="20210709T073618Z">
@@ -8788,6 +8812,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073738Z" creationid="Leo" creationdate="20210709T073738Z">
         <seg>["controles de Hotkeys (GUI)","commands/GuiControls.htm#Hotkey"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Hotkey, other features","HotkeyFeatures.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073758Z" creationid="Leo" creationdate="20210709T073758Z">
+        <seg>["Hotkey, outras características","HotkeyFeatures.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8808,10 +8840,34 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Hotstrings (general information)","Hotstrings.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073810Z" creationid="Leo" creationdate="20210709T073810Z">
+        <seg>["Hotstrings (informações gerais)","Hotstrings.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["ID number for a window","commands/WinGet.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073901Z" creationid="Leo" creationdate="20210709T073901Z">
+        <seg>["número ID de uma janela","commands/WinGet.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["If (expression)","commands/IfExpression.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221036Z" creationid="Leo" creationdate="20210703T221036Z">
         <seg>["If (expressão)","commands/IfExpression.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["If (legacy)","commands/IfEqual.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073919Z" creationid="Leo" creationdate="20210709T073919Z">
+        <seg>["If (forma legada)","commands/IfEqual.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9972,6 +10028,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073717Z" creationid="Leo" creationdate="20210709T073717Z">
         <seg>["gancho","commands/_InstallKeybdHook.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["icon, changing","commands/Menu.htm#Icon"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073848Z" creationid="Leo" creationdate="20210709T073848Z">
+        <seg>["ícone, alterar","commands/Menu.htm#Icon"],</seg>
       </tuv>
     </tu>
     <tu>

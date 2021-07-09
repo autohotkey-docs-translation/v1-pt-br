@@ -8488,6 +8488,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["DPI scaling","commands/Gui.htm#DPIScale"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071518Z" creationid="Leo" creationdate="20210709T071518Z">
+        <seg>["Escala de DPI","commands/Gui.htm#DPIScale"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["DateTime controls (GUI)","commands/GuiControls.htm#DateTime"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070738Z" creationid="Leo" creationdate="20210709T070738Z">
@@ -9516,6 +9524,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071445Z" creationid="Leo" creationdate="20210709T071445Z">
         <seg>["dupla desreferência","Language.htm#dynamic-variables"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["download a file","commands/URLDownloadToFile.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071453Z" creationid="Leo" creationdate="20210709T071453Z">
+        <seg>["baixar um arquivo","commands/URLDownloadToFile.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["drag and drop (GUI windows)","commands/Gui.htm#GuiDropFiles"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071605Z" creationid="Leo" creationdate="20210709T071605Z">
+        <seg>["arrastar-e-soltar (janelas de GUI)","commands/Gui.htm#GuiDropFiles"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["drag the mouse","commands/MouseClickDrag.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071611Z" creationid="Leo" creationdate="20210709T071611Z">
+        <seg>["arrastar o mouse","commands/MouseClickDrag.htm"],</seg>
       </tuv>
     </tu>
     <tu>

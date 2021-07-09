@@ -8544,6 +8544,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["DropDownList controls (GUI)","commands/GuiControls.htm#DropDownList"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071631Z" creationid="Leo" creationdate="20210709T071631Z">
+        <seg>["controles DropDownList (GUI)","commands/GuiControls.htm#DropDownList"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Edit controls (GUI)","commands/GuiControls.htm#Edit"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071818Z" creationid="Leo" creationdate="20210709T071818Z">
+        <seg>["controles Edit (GUI)","commands/GuiControls.htm#Edit"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Encoding property (File)","objects/File.htm#Encoding"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071937Z" creationid="Leo" creationdate="20210709T071937Z">
+        <seg>["Codificação (Arquivo)","objects/File.htm#Encoding"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Enumerator Object","objects/Enumerator.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223032Z" creationid="Leo" creationdate="20210703T222819Z">
@@ -9548,6 +9572,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071611Z" creationid="Leo" creationdate="20210709T071611Z">
         <seg>["arrastar o mouse","commands/MouseClickDrag.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["dynamic function calls","Functions.htm#DynCall"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071759Z" creationid="Leo" creationdate="20210709T071759Z">
+        <seg>["chamadas dinâmicas de função","Functions.htm#DynCall"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["dynamic variables","Language.htm#dynamic-variables"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071808Z" creationid="Leo" creationdate="20210709T071808Z">
+        <seg>["variáveis dinâmicas","Language.htm#dynamic-variables"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -9672,6 +9672,70 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["file pattern","commands/LoopFile.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072406Z" creationid="Leo" creationdate="20210709T072406Z">
+        <seg>["padrão de caminho de arquivo","commands/LoopFile.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["file, creating","commands/FileAppend.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072416Z" creationid="Leo" creationdate="20210709T072416Z">
+        <seg>["arquivo, criar","commands/FileAppend.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["file, reading","commands/LoopReadFile.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072426Z" creationid="Leo" creationdate="20210709T072426Z">
+        <seg>["arquivo, ler","commands/FileAppend.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["file, writing/appending","commands/FileAppend.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072437Z" creationid="Leo" creationdate="20210709T072437Z">
+        <seg>["arquivo, gravar/acrescentar","commands/FileAppend.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["find a file","commands/IfExist.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072458Z" creationid="Leo" creationdate="20210709T072458Z">
+        <seg>["encontrar um arquivo","commands/IfExist.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["find a string","commands/StringGetPos.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072505Z" creationid="Leo" creationdate="20210709T072505Z">
+        <seg>["encontrar uma string","commands/IfExist.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["find a window","commands/WinExist.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072511Z" creationid="Leo" creationdate="20210709T072511Z">
+        <seg>["encontrar uma janela","commands/WinActivate.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["floating point (check if it is one)","commands/IfIs.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072526Z" creationid="Leo" creationdate="20210709T072526Z">
+        <seg>["ponto flutuante (verificar se se trata de um)","commands/IfIs.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["{ ... } (block)","commands/Block.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T220944Z" creationid="Leo" creationdate="20210703T220944Z">

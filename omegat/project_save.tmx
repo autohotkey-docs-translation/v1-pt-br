@@ -8624,6 +8624,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["FTP uploading example","commands/FileAppend.htm#FTP"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073025Z" creationid="Leo" creationdate="20210709T073025Z">
+        <seg>["exemplo de upload via FTP","commands/FileAppend.htm#FTP"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["File Object","objects/File.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223500Z" creationid="Leo" creationdate="20210703T223500Z">
@@ -9690,8 +9698,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["file, reading","commands/LoopReadFile.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072426Z" creationid="Leo" creationdate="20210709T072426Z">
-        <seg>["arquivo, ler","commands/FileAppend.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072841Z" creationid="Leo" creationdate="20210709T072426Z">
+        <seg>["arquivo, ler","commands/LoopReadFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9780,6 +9788,54 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072706Z" creationid="Leo" creationdate="20210709T072706Z">
         <seg>["excluir pasta/diretório","commands/FileRemoveDir.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["folder/directory select","commands/FileSelectFolder.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072925Z" creationid="Leo" creationdate="20210709T072925Z">
+        <seg>["selecionar pasta/diretório","commands/FileSelectFolder.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["format (defaults)","commands/Format.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073000Z" creationid="Leo" creationdate="20210709T073000Z">
+        <seg>["formatar (padrões)","commands/Format.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["free space","commands/DriveSpaceFree.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073013Z" creationid="Leo" creationdate="20210709T073013Z">
+        <seg>["espaço livre","commands/DriveSpaceFree.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["function objects","objects/Functor.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073210Z" creationid="Leo" creationdate="20210709T073210Z">
+        <seg>["Objetos de Função","objects/Functor.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["functions (defining and calling)","Functions.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073042Z" creationid="Leo" creationdate="20210709T073042Z">
+        <seg>["funções (definindo e chamando)","Functions.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["functions (libraries)","Functions.htm#lib"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073049Z" creationid="Leo" creationdate="20210709T073049Z">
+        <seg>["funções (bibliotecas)","Functions.htm#lib"],</seg>
       </tuv>
     </tu>
     <tu>

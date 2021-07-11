@@ -9040,14 +9040,6 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Ln()","commands/Math.htm#Ln",2],</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054413Z" creationid="Leo" creationdate="20210711T054402Z">
-        <seg>["Ln()","commands/Math.htm#Ln",2],[</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>["Locale","commands/StringCaseSense.htm#Locale"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054537Z" creationid="Leo" creationdate="20210711T054537Z">

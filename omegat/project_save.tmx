@@ -8928,6 +8928,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Join (continuation sections)","Scripts.htm#Join"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053322Z" creationid="Leo" creationdate="20210711T053322Z">
+        <seg>["Join (continuações de seção)","Scripts.htm#Join"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Labels","misc/Labels.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214035Z" creationid="Leo" creationdate="20210703T214035Z">
@@ -10084,6 +10092,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053015Z" creationid="Leo" creationdate="20210711T053015Z">
         <seg>["controles remotos infravermelhos","scripts/index.htm#WinLIRC"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["installer options","Program.htm#install"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053131Z" creationid="Leo" creationdate="20210711T053131Z">
+        <seg>["opções do instalador","Program.htm#install"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["integer (Format)","commands/Format.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053204Z" creationid="Leo" creationdate="20210711T053204Z">
+        <seg>["inteiro (Formato)","commands/Format.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["integer (check if it is one)","commands/IfIs.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053155Z" creationid="Leo" creationdate="20210711T053155Z">
+        <seg>["inteiro (checar se se trata de um)","commands/IfIs.htm"],</seg>
       </tuv>
     </tu>
     <tu>

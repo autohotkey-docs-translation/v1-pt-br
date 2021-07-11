@@ -9720,6 +9720,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Write method (File)","objects/File.htm#Write"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070155Z" creationid="Leo" creationdate="20210711T070155Z">
+        <seg>["Método Write (Arquivo)","objects/File.htm#Write"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["WriteLine method (File)","objects/File.htm#WriteLine"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070214Z" creationid="Leo" creationdate="20210711T070202Z">
+        <seg>["Método WriteLine (Arquivo)","objects/File.htm#WriteLine"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["WriteNumType method (File)","objects/File.htm#WriteNum"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070230Z" creationid="Leo" creationdate="20210711T070230Z">
+        <seg>["Método WriteNumType (Arquivo)","objects/File.htm#WriteNum"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["abbreviation expansion","Hotstrings.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233831Z" creationid="Leo" creationdate="20210703T233831Z">
@@ -11556,6 +11580,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070004Z" creationid="Leo" creationdate="20210711T070004Z">
         <seg>["diretório de trabalho","commands/SetWorkingDir.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["write file","commands/FileAppend.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070142Z" creationid="Leo" creationdate="20210711T070142Z">
+        <seg>["adicionar texto a um arquivo","commands/FileAppend.htm"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -9160,6 +9160,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Object functions and methods","objects/Object.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055928Z" creationid="Leo" creationdate="20210711T055928Z">
+        <seg>["Funções e métodos de objetos","objects/Object.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Object","objects/Object.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222710Z" creationid="Leo" creationdate="20210703T222710Z">
@@ -9168,10 +9176,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Objects (general information)","Objects.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055920Z" creationid="Leo" creationdate="20210711T055920Z">
+        <seg>["Objetos (informações gerais)","Objects.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Objects","Objects.htm",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214501Z" creationid="Leo" creationdate="20210703T214501Z">
         <seg>["Objetos","Objects.htm",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Owner of a GUI window","commands/Gui.htm#Owner"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060017Z" creationid="Leo" creationdate="20210711T060017Z">
+        <seg>["Proprietário de uma janela de GUI","commands/Gui.htm#Owner"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10540,6 +10564,54 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055508Z" creationid="Leo" creationdate="20210711T055508Z">
         <seg>["number (tipo de dados)","commands/IfIs.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["open file","commands/FileOpen.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055946Z" creationid="Leo" creationdate="20210711T055946Z">
+        <seg>["abrir arquivo","commands/FileOpen.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["operators in expressions","Variables.htm#Operators"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055953Z" creationid="Leo" creationdate="20210711T055953Z">
+        <seg>["operadoras em expressões","Variables.htm#Operators"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["parameters passed into a script","Scripts.htm#cmd"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060031Z" creationid="Leo" creationdate="20210711T060031Z">
+        <seg>["parâmetros passados para um script","Scripts.htm#cmd"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["parse a string (Loop)","commands/LoopParse.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060121Z" creationid="Leo" creationdate="20210711T060121Z">
+        <seg>["analisar uma string (Loop)","commands/LoopParse.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["parse a string (StrSplit)","commands/StrSplit.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060128Z" creationid="Leo" creationdate="20210711T060128Z">
+        <seg>["analisar uma string (StrSplit)","commands/StrSplit.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["performance of scripts","misc/Performance.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060138Z" creationid="Leo" creationdate="20210711T060138Z">
+        <seg>["desempenho de scripts","misc/Performance.htm"],</seg>
       </tuv>
     </tu>
     <tu>

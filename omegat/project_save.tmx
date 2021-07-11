@@ -8290,24 +8290,24 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["ActiveX controls (GUI)","commands/GuiControls.htm#ActiveX"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233921Z" creationid="Leo" creationdate="20210703T233921Z">
-        <seg>["controles do ActiveX (GUI)","commands/GuiControls.htmActiveX"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T085852Z" creationid="Leo" creationdate="20210703T233921Z">
+        <seg>["controles do ActiveX (GUI)","commands/GuiControls.htm#ActiveX"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>["AddResource directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#AddResource",99],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T234009Z" creationid="Leo" creationdate="20210703T234009Z">
-        <seg>["diretiva AddResource (Ahk2Exe)","misc/Ahk2ExeDirectives.htmAddResource",99],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T085900Z" creationid="Leo" creationdate="20210703T234009Z">
+        <seg>["diretiva AddResource (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#AddResource",99],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>["Address of a variable","Variables.htm#amp"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040706Z" creationid="Leo" creationdate="20210704T040706Z">
-        <seg>["Endereço de uma variável","Variables.htmmp"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T085912Z" creationid="Leo" creationdate="20210704T040706Z">
+        <seg>["Endereço de uma variável","Variables.htm#amp"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8330,8 +8330,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["Bin directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Bin",99],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041137Z" creationid="Leo" creationdate="20210704T041137Z">
-        <seg>["Diretiva Bin (Ahk2Exe)","misc/Ahk2ExeDirectives.htmBin",99],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090034Z" creationid="Leo" creationdate="20210704T041137Z">
+        <seg>["Diretiva Bin (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Bin",99],</seg>
       </tuv>
     </tu>
     <tu>
@@ -8914,8 +8914,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["Image Lists (GUI)","commands/ListView.htm#IL"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T052940Z" creationid="Leo" creationdate="20210711T052940Z">
-        <seg>["Listas de Imagens (GUI)","commands/GuiControls.htm#Hotkey"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090643Z" creationid="Leo" creationdate="20210711T052940Z">
+        <seg>["Listas de Imagens (GUI)","commands/ListView.htm#IL"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9746,8 +9746,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["absolute value, abs()","commands/Math.htm#Abs"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233843Z" creationid="Leo" creationdate="20210703T233843Z">
-        <seg>["valor absoluto, módulo, abs()","commands/Math.htmAbs"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T085841Z" creationid="Leo" creationdate="20210703T233843Z">
+        <seg>["valor absoluto, módulo, abs()","commands/Math.htm#Abs"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9786,8 +9786,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["assigning values to variables","Variables.htm#AssignOp"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040808Z" creationid="Leo" creationdate="20210704T040808Z">
-        <seg>["atribuindo valores a variáveis","Variables.htmAssignOp"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T085952Z" creationid="Leo" creationdate="20210704T040808Z">
+        <seg>["atribuindo valores a variáveis","Variables.htm#AssignOp"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9802,8 +9802,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["auto-execute section","Scripts.htm#auto"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040843Z" creationid="Leo" creationdate="20210704T040843Z">
-        <seg>["seção de execução automática","Scripts.htmuto"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090010Z" creationid="Leo" creationdate="20210704T040843Z">
+        <seg>["seção de execução automática","Scripts.htm#auto"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9834,8 +9834,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["base property (Object)","objects/Object.htm#Base"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041002Z" creationid="Leo" creationdate="20210704T041002Z">
-        <seg>["propriedade-base (Objeto)","objects/Object.htmBase"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090019Z" creationid="Leo" creationdate="20210704T041002Z">
+        <seg>["propriedade-base (Objeto)","objects/Object.htm#Base"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9882,8 +9882,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["built-in functions","Functions.htm#BuiltIn"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T042307Z" creationid="Leo" creationdate="20210704T042307Z">
-        <seg>["funções nativas","Functions.htmBuiltIn"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090157Z" creationid="Leo" creationdate="20210704T042307Z">
+        <seg>["funções nativas","Functions.htm#BuiltIn"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10170,16 +10170,16 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["dates and times (math)","commands/EnvAdd.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070708Z" creationid="Leo" creationdate="20210709T070708Z">
-        <seg>["datas e horários (operações matemáticas)","commands/EnvSub.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090206Z" creationid="Leo" creationdate="20210709T070708Z">
+        <seg>["datas e horários (operações matemáticas)","commands/EnvAdd.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>["dates and times (of files)","commands/FileSetTime.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070721Z" creationid="Leo" creationdate="20210709T070721Z">
-        <seg>["datas e horários (de arquivos)","commands/EnvSub.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090220Z" creationid="Leo" creationdate="20210709T070721Z">
+        <seg>["datas e horários (de arquivos)","commands/FileSetTime.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10218,8 +10218,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["delete folder/directory","commands/FileRemoveDir.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070909Z" creationid="Leo" creationdate="20210709T070909Z">
-        <seg>["excluir uma pasta/diretório","commands/FileCreateDir.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090236Z" creationid="Leo" creationdate="20210709T070909Z">
+        <seg>["excluir uma pasta/diretório","commands/FileRemoveDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10242,16 +10242,16 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["dialog InputBox","commands/InputBox.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071045Z" creationid="Leo" creationdate="20210709T071045Z">
-        <seg>["caixa de diálogo InputBox","commands/FileSelectFolder.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090308Z" creationid="Leo" creationdate="20210709T071045Z">
+        <seg>["caixa de diálogo InputBox","commands/InputBox.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>["dialog MsgBox","commands/MsgBox.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071053Z" creationid="Leo" creationdate="20210709T071053Z">
-        <seg>["caixa de diálogo MensagemBox","commands/FileSelectFolder.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090348Z" creationid="Leo" creationdate="20210709T071053Z">
+        <seg>["caixa de diálogo MsgBox","commands/MsgBox.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10418,8 +10418,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["find a window","commands/WinExist.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072511Z" creationid="Leo" creationdate="20210709T072511Z">
-        <seg>["encontrar uma janela","commands/WinActivate.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090432Z" creationid="Leo" creationdate="20210709T072511Z">
+        <seg>["encontrar uma janela","commands/WinExist.htm"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -11440,6 +11440,62 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["variadic functions","Functions.htm#Variadic"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065456Z" creationid="Leo" creationdate="20210711T065456Z">
+        <seg>["Funções variádicas","Functions.htm#Variadic"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["variants (duplicate hotkeys and hotstrings)","commands/_IfWinActive.htm#variant"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065509Z" creationid="Leo" creationdate="20210711T065509Z">
+        <seg>["variantes (hotkeys e hotstrings duplicadas)","commands/_IfWinActive.htm#variant"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["version of a file","commands/FileGetVersion.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065518Z" creationid="Leo" creationdate="20210711T065518Z">
+        <seg>["versão de um arquivo","commands/FileGetVersion.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["virtual key","commands/Send.htm#vk"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065531Z" creationid="Leo" creationdate="20210711T065531Z">
+        <seg>["tecla virtual","commands/Send.htm#vk"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["volume (changing it)","commands/SoundSet.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065612Z" creationid="Leo" creationdate="20210711T065612Z">
+        <seg>["volume (aumentar/diminuir)","commands/SoundSet.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["wait (sleep)","commands/Sleep.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065624Z" creationid="Leo" creationdate="20210711T065624Z">
+        <seg>["esperar (sleep)","commands/Sleep.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["wait for a key to be released or pressed","commands/KeyWait.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065641Z" creationid="Leo" creationdate="20210711T065641Z">
+        <seg>["aguardar pelo pressionamento ou soltura de uma tecla","commands/KeyWait.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["{ ... } (block)","commands/Block.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T220944Z" creationid="Leo" creationdate="20210703T220944Z">

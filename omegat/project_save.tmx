@@ -9480,6 +9480,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Silent Install/Uninstall","Program.htm#install"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062338Z" creationid="Leo" creationdate="20210711T062338Z">
+        <seg>["Instalação/Desinstalação silenciosa","Program.htm#install"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Slider controls (GUI)","commands/GuiControls.htm#Slider"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062442Z" creationid="Leo" creationdate="20210711T062442Z">
+        <seg>["Controles de Slider (GUI)","commands/GuiControls.htm#Slider"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Sound","",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225210Z" creationid="Leo" creationdate="20210703T225210Z">
@@ -11036,6 +11052,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062318Z" creationid="Leo" creationdate="20210711T062318Z">
         <seg>["avaliação booleana em curto-circuito","Functions.htm#ShortCircuit"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["shortcut file","commands/FileCreateShortcut.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062325Z" creationid="Leo" creationdate="20210711T062325Z">
+        <seg>["arquivo de atalho","commands/FileCreateShortcut.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["size of a file/folder","commands/FileGetSize.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062349Z" creationid="Leo" creationdate="20210711T062349Z">
+        <seg>["tamanho de um arquivo/pasta","commands/FileGetSize.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["size of a window","commands/WinGetPos.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062431Z" creationid="Leo" creationdate="20210711T062431Z">
+        <seg>["tamanho de uma janela","commands/WinGetPos.htm"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -9834,8 +9834,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["base (Objects)","Objects.htm#Custom_Objects"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040936Z" creationid="Leo" creationdate="20210704T040936Z">
-        <seg>["base (Objéthos)","Objects.htm#Custom_Objects"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T071340Z" creationid="Leo" creationdate="20210704T040936Z">
+        <seg>["base (Objetos)","Objects.htm#Custom_Objects"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10202,8 +10202,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["debugging a script","Scripts.htm#debug"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070802Z" creationid="Leo" creationdate="20210709T070802Z">
-        <seg>["depurando um script script","Scripts.htm#debug"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T071515Z" creationid="Leo" creationdate="20210709T070802Z">
+        <seg>["depurando um script","Scripts.htm#debug"],</seg>
       </tuv>
     </tu>
     <tu>

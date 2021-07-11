@@ -8546,8 +8546,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["Default","commands/Switch.htm",3,""],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070832Z" creationid="Leo" creationdate="20210709T070832Z">
-        <seg>["Default" (dentro de um switch),"commands/Switch.htm",3,""],</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T082620Z" creationid="Leo" creationdate="20210709T070832Z">
+        <seg>["Default","commands/Switch.htm",3,""],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9866,8 +9866,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["bitwise operations","Variables.htm#bitwise"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041453Z" creationid="Leo" creationdate="20210704T041453Z">
-        <seg>["operações bit a bit","Variables.htm</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T082515Z" creationid="Leo" creationdate="20210704T041453Z">
+        <seg>["operações bit a bit","Variables.htm#bitwise"],</seg>
       </tuv>
     </tu>
     <tu>

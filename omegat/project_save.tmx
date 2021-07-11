@@ -9568,10 +9568,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Thread","commands/Thread.htm",6,"SEE"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063831Z" creationid="Leo" creationdate="20210711T063831Z">
+        <seg>["Fio de execução","commands/Thread.htm",6,"SEE"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Threads","misc/Threads.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214127Z" creationid="Leo" creationdate="20210703T214127Z">
         <seg>["Linhas de Execução (Threads)","misc/Threads.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Timer (timed subroutines)","commands/SetTimer.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064120Z" creationid="Leo" creationdate="20210711T064120Z">
+        <seg>["Timer (subrotinas baseadas em tempo)","commands/SetTimer.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -11244,6 +11260,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063824Z" creationid="Leo" creationdate="20210711T063824Z">
         <seg>["Send, em modo texto","commands/Send.htm#SendText"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["threads","misc/Threads.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063838Z" creationid="Leo" creationdate="20210711T063838Z">
+        <seg>["fios de execução","misc/Threads.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["time","commands/IfIs.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064048Z" creationid="Leo" creationdate="20210711T064048Z">
+        <seg>["time (tipo de dados)","commands/IfIs.htm"],</seg>
       </tuv>
     </tu>
     <tu>

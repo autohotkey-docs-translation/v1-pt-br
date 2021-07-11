@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12175,5 +12175,27 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">docs/static/source/data_toc.js</prop>
+      <prop type="prev">["Debugging Clients","AHKL_DBGPClients.htm"],</prop>
+      <prop type="next">["Objects","Objects.htm",</prop>
+      <tuv lang="en">
+        <seg>["Compiler Directives","misc/Ahk2ExeDirectives.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T082129Z" creationid="Ragnar-F" creationdate="20210711T082129Z">
+        <seg>["Diretivas de Compiladores","misc/Ahk2ExeDirectives.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">docs/static/source/data_toc.js</prop>
+      <prop type="prev">["Recent Changes","AHKL_ChangeLog.htm"],</prop>
+      <prop type="next">["Script Compatibility","Compat.htm"],</prop>
+      <tuv lang="en">
+        <seg>["Script Showcase","scripts/index.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T081928Z" creationid="Ragnar-F" creationdate="20210711T081928Z">
+        <seg>["Mostruário de Scripts","scripts/index.htm"],</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

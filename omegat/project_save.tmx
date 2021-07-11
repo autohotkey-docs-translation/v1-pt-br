@@ -9008,6 +9008,38 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["ListView controls (GUI)","commands/ListView.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054341Z" creationid="Leo" creationdate="20210711T054341Z">
+        <seg>["Controles de visualização de lista (ListView) (GUI)","commands/ListView.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["ListView, getting text from","commands/ControlGet.htm#List"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054401Z" creationid="Leo" creationdate="20210711T054401Z">
+        <seg>["Visualização de lista, obter texto de","commands/ControlGet.htm#List"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Ln()","commands/Math.htm#Ln",2],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054413Z" creationid="Leo" creationdate="20210711T054402Z">
+        <seg>["Ln()","commands/Math.htm#Ln",2],[</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Locale","commands/StringCaseSense.htm#Locale"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054537Z" creationid="Leo" creationdate="20210711T054537Z">
+        <seg>["Localização geográfica","commands/StringCaseSense.htm#Locale"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Long Paths","misc/LongPaths.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T220813Z" creationid="Leo" creationdate="20210703T220813Z">
@@ -10260,6 +10292,46 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054200Z" creationid="Leo" creationdate="20210711T054200Z">
         <seg>["continuação da linha","Scripts.htm#continuation"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["lnk (link/shortcut) file","commands/FileCreateShortcut.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054437Z" creationid="Leo" creationdate="20210711T054437Z">
+        <seg>["arquivo lnk (atalho/link)","commands/FileCreateShortcut.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["local variables","Functions.htm#Local"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054447Z" creationid="Leo" creationdate="20210711T054447Z">
+        <seg>["variáveis locais","Functions.htm#Local"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["logarithm, log()","commands/Math.htm#Log"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054550Z" creationid="Leo" creationdate="20210711T054550Z">
+        <seg>["logaritmo, log()","commands/Math.htm#Log"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["long file name (converting to)","commands/LoopFile.htm#LoopFileLongPath"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054614Z" creationid="Leo" creationdate="20210711T054614Z">
+        <seg>["nome longo de arquivo (converter para)","commands/LoopFile.htm#LoopFileLongPath"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["long paths","misc/LongPaths.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054628Z" creationid="Leo" creationdate="20210711T054628Z">
+        <seg>["caminhos longos","misc/LongPaths.htm"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -8880,10 +8880,50 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["IgnoreBegin directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#IgnoreKeep",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T052837Z" creationid="Leo" creationdate="20210711T052837Z">
+        <seg>["Diretiva IgnoreBegin (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#IgnoreKeep",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["IgnoreEnd directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#IgnoreKeep",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T052900Z" creationid="Leo" creationdate="20210711T052900Z">
+        <seg>["Diretiva IgnoreEnd (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#IgnoreKeep",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Image Lists (GUI)","commands/ListView.htm#IL"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T052940Z" creationid="Leo" creationdate="20210711T052940Z">
+        <seg>["Listas de Imagens (GUI)","commands/GuiControls.htm#Hotkey"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Implementation","Objects.htm#Implementation"]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214758Z" creationid="Leo" creationdate="20210703T214758Z">
         <seg>["Implementação","Objects.htmImplementation"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Insert method (Object)","objects/Object.htm#Insert"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053038Z" creationid="Leo" creationdate="20210711T053030Z">
+        <seg>["Método Insert (Objeto)","objects/Object.htm#Insert"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["InsertAt method (Object)","objects/Object.htm#InsertAt"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053108Z" creationid="Leo" creationdate="20210711T053108Z">
+        <seg>["Método InsertAt (Objeto)","objects/Object.htm#InsertAt"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10036,6 +10076,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073848Z" creationid="Leo" creationdate="20210709T073848Z">
         <seg>["ícone, alterar","commands/Menu.htm#Icon"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["infrared remote controls","scripts/index.htm#WinLIRC"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053015Z" creationid="Leo" creationdate="20210711T053015Z">
+        <seg>["controles remotos infravermelhos","scripts/index.htm#WinLIRC"],</seg>
       </tuv>
     </tu>
     <tu>

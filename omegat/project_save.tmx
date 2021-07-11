@@ -9544,6 +9544,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Tab controls (GUI)","commands/GuiControls.htm#Tab"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063650Z" creationid="Leo" creationdate="20210711T063650Z">
+        <seg>["Controles de várias abas (GUI)","commands/GuiControls.htm#Tab"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Tell method (File)","objects/File.htm#Tell"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063706Z" creationid="Leo" creationdate="20210711T063706Z">
+        <seg>["Método Tell (Arquivo)","objects/File.htm#Tell"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Text controls (GUI)","commands/GuiControls.htm#Text"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063745Z" creationid="Leo" creationdate="20210711T063745Z">
+        <seg>["Controles de texto (GUI)","commands/GuiControls.htm#Text"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Threads","misc/Threads.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214127Z" creationid="Leo" creationdate="20210703T214127Z">
@@ -11180,6 +11204,46 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063451Z" creationid="Leo" creationdate="20210711T063451Z">
         <seg>["subtrair","commands/EnvSub.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["suspend or hibernate","commands/Shutdown.htm#Suspend"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063616Z" creationid="Leo" creationdate="20210711T063616Z">
+        <seg>["suspender ou hibernar o computador","commands/Shutdown.htm#Suspend"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["terminate a window","commands/WinKill.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063718Z" creationid="Leo" creationdate="20210711T063718Z">
+        <seg>["finalizar uma janela","commands/WinKill.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["terminate script","commands/ExitApp.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063727Z" creationid="Leo" creationdate="20210711T063727Z">
+        <seg>["finalizar o script","commands/ExitApp.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["ternary operator (?:)","Variables.htm#ternary"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063736Z" creationid="Leo" creationdate="20210711T063736Z">
+        <seg>["operador ternário (?:)","Variables.htm#ternary"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["text-mode Send","commands/Send.htm#SendText"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063824Z" creationid="Leo" creationdate="20210711T063824Z">
+        <seg>["Send, em modo texto","commands/Send.htm#SendText"],</seg>
       </tuv>
     </tu>
     <tu>

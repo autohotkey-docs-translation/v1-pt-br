@@ -9464,6 +9464,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Set directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Set",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062147Z" creationid="Leo" creationdate="20210711T062147Z">
+        <seg>["Diretiva Set (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Set",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["SetCapacity method (Object)","objects/Object.htm#SetCapacity"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062201Z" creationid="Leo" creationdate="20210711T062201Z">
+        <seg>["Método SetCapacity (Objeto)","objects/Object.htm#SetCapacity"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Sound","",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225210Z" creationid="Leo" creationdate="20210703T225210Z">
@@ -10980,6 +10996,46 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061841Z" creationid="Leo" creationdate="20210711T061841Z">
         <seg>["notação científica","commands/Format.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["select file","commands/FileSelectFile.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062013Z" creationid="Leo" creationdate="20210711T062013Z">
+        <seg>["Serlecionar arquivo","commands/FileSelectFile.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["select folder","commands/FileSelectFolder.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062018Z" creationid="Leo" creationdate="20210711T062018Z">
+        <seg>["selecionar pasta","commands/FileSelectFolder.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["sending data between scripts","commands/OnMessage.htm#SendString"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062030Z" creationid="Leo" creationdate="20210711T062030Z">
+        <seg>["Enviar dados entre scripts","commands/OnMessage.htm#SendString"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["short file name (8.3 format)","commands/LoopFile.htm#LoopFileShortPath"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062243Z" creationid="Leo" creationdate="20210711T062243Z">
+        <seg>["nome curto de arquivo (formato 8.3)","commands/LoopFile.htm#LoopFileShortPath"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["short-circuit boolean evaluation","Functions.htm#ShortCircuit"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062318Z" creationid="Leo" creationdate="20210711T062318Z">
+        <seg>["avaliação booleana em curto-circuito","Functions.htm#ShortCircuit"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -9592,6 +9592,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["TreeView controls (GUI)","commands/TreeView.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064511Z" creationid="Leo" creationdate="20210711T064511Z">
+        <seg>["Controles de visualização em árvore de blocos (GUI)","commands/TreeView.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Tutorial (quick start)","Tutorial.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214822Z" creationid="Leo" creationdate="20210703T214822Z">
@@ -11276,6 +11284,62 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064048Z" creationid="Leo" creationdate="20210711T064048Z">
         <seg>["time (tipo de dados)","commands/IfIs.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["times and dates (compare)","commands/EnvSub.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064140Z" creationid="Leo" creationdate="20210711T064140Z">
+        <seg>["horários e datas (comparar)","commands/EnvSub.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["times and dates (math)","commands/EnvAdd.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064156Z" creationid="Leo" creationdate="20210711T064156Z">
+        <seg>["horários e datas (operações matemáticas)","commands/EnvAdd.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["times and dates (of files)","commands/FileSetTime.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064205Z" creationid="Leo" creationdate="20210711T064205Z">
+        <seg>["horários e datas (de arquivos)","commands/FileSetTime.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["title of a window","commands/WinSetTitle.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064214Z" creationid="Leo" creationdate="20210711T064214Z">
+        <seg>["título de uma janela","commands/WinSetTitle.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["transparency of a window","commands/WinSet.htm#trans"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064226Z" creationid="Leo" creationdate="20210711T064226Z">
+        <seg>["transparência de uma janela","commands/WinSet.htm#trans"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["tray icon","Program.htm#tray-icon"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064242Z" creationid="Leo" creationdate="20210711T064242Z">
+        <seg>["ícone da bandeja","Program.htm#tray-icon"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["tray menu (customizing)","commands/Menu.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064344Z" creationid="Leo" creationdate="20210711T064344Z">
+        <seg>["menu da área de notificação (personalizar)","commands/Menu.htm"],</seg>
       </tuv>
     </tu>
     <tu>

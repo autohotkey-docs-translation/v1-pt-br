@@ -9136,6 +9136,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["NewEnum method (Object)","objects/Object.htm#NewEnum"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055441Z" creationid="Leo" creationdate="20210711T055441Z">
+        <seg>["Método NewEnum (Objeto)","objects/Object.htm#NewEnum"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Object Types","",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222703Z" creationid="Leo" creationdate="20210703T222703Z">
@@ -10460,6 +10468,70 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055231Z" creationid="Leo" creationdate="20210711T055231Z">
         <seg>["velocidade do mouse","commands/SetDefaultMouseSpeed.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["mouse wheel","commands/Click.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055236Z" creationid="Leo" creationdate="20210711T055236Z">
+        <seg>["roda do mouse","commands/Click.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["move a window","commands/WinMove.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055247Z" creationid="Leo" creationdate="20210711T055247Z">
+        <seg>["mover uma janela","commands/WinMove.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["move file","commands/FileMove.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055255Z" creationid="Leo" creationdate="20210711T055255Z">
+        <seg>["mover um arquivo","commands/FileMove.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["move folder/directory","commands/FileMoveDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055304Z" creationid="Leo" creationdate="20210711T055304Z">
+        <seg>["mover uma pasta/diretório","commands/FileMoveDir.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["multiply","commands/EnvMult.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055351Z" creationid="Leo" creationdate="20210711T055351Z">
+        <seg>["multiplicar","commands/EnvMult.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["mute (changing it)","commands/SoundSet.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055402Z" creationid="Leo" creationdate="20210711T055402Z">
+        <seg>["mutar (alterar)","commands/SoundSet.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["number format","commands/Format.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055521Z" creationid="Leo" creationdate="20210711T055521Z">
+        <seg>["formato de números","commands/Format.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["number","commands/IfIs.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055508Z" creationid="Leo" creationdate="20210711T055508Z">
+        <seg>["number (tipo de dados)","commands/IfIs.htm"],</seg>
       </tuv>
     </tu>
     <tu>

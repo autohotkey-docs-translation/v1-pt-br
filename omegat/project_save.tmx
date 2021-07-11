@@ -8928,6 +8928,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["JScript, embedded/inline","commands/DllCall.htm#COM"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053716Z" creationid="Leo" creationdate="20210711T053716Z">
+        <seg>["JScript, embutido/'inline'","commands/DllCall.htm#COM"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Join (continuation sections)","Scripts.htm#Join"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053322Z" creationid="Leo" creationdate="20210711T053322Z">

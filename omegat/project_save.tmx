@@ -9144,6 +9144,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Obey directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Obey",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055859Z" creationid="Leo" creationdate="20210711T055859Z">
+        <seg>["Diretiva Obey (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Obey",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Object Types","",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222703Z" creationid="Leo" creationdate="20210703T222703Z">
@@ -10522,8 +10530,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["number format","commands/Format.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055521Z" creationid="Leo" creationdate="20210711T055521Z">
-        <seg>["formato de números","commands/Format.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055528Z" creationid="Leo" creationdate="20210711T055521Z">
+        <seg>["formato de número","commands/Format.htm"],</seg>
       </tuv>
     </tu>
     <tu>

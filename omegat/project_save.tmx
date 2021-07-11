@@ -9088,6 +9088,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["MaxIndex method (Object)","objects/Object.htm#MinMaxIndex"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054836Z" creationid="Leo" creationdate="20210711T054836Z">
+        <seg>["Método MaxIndex (Objeto)","objects/Object.htm#MinMaxIndex"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Menu Bar (GUI)","commands/Gui.htm#Menu"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054853Z" creationid="Leo" creationdate="20210711T054853Z">
+        <seg>["Barra de Menu (GUI)","commands/Gui.htm#Menu"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Menu Icon","commands/Menu.htm#MenuIcon"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054900Z" creationid="Leo" creationdate="20210711T054900Z">
+        <seg>["Ícone de Menu","commands/Menu.htm#MenuIcon"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Misc.","",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222644Z" creationid="Leo" creationdate="20210703T222644Z">
@@ -10332,6 +10356,38 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054628Z" creationid="Leo" creationdate="20210711T054628Z">
         <seg>["caminhos longos","misc/LongPaths.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["main window","Program.htm#main-window"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054707Z" creationid="Leo" creationdate="20210711T054707Z">
+        <seg>["janela principal","Program.htm#main-window"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["math functions","commands/Math.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054712Z" creationid="Leo" creationdate="20210711T054712Z">
+        <seg>["funções matemáticas","commands/Math.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["math operations (expressions)","Variables.htm#Expressions"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054722Z" creationid="Leo" creationdate="20210711T054722Z">
+        <seg>["operações matemáticas (expressões)","Variables.htm#Expressions"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["message list (WM_*)","misc/SendMessageList.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054926Z" creationid="Leo" creationdate="20210711T054926Z">
+        <seg>["lista de mensagens (WM_*)","misc/SendMessageList.htm"],</seg>
       </tuv>
     </tu>
     <tu>

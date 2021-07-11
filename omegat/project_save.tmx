@@ -9586,8 +9586,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["Timer (timed subroutines)","commands/SetTimer.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064120Z" creationid="Leo" creationdate="20210711T064120Z">
-        <seg>["Timer (subrotinas baseadas em tempo)","commands/SetTimer.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T072110Z" creationid="Leo" creationdate="20210711T064120Z">
+        <seg>["Timer (sub-rotinas baseadas em tempo)","commands/SetTimer.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9610,8 +9610,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["Unicode text and clipboard","commands/Transform.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064549Z" creationid="Leo" creationdate="20210711T064549Z">
-        <seg>["Texto unicode e área de transferência","commands/Transform.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T072030Z" creationid="Leo" creationdate="20210711T064549Z">
+        <seg>["Texto Unicode e área de transferência","commands/Transform.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -11162,8 +11162,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["select file","commands/FileSelectFile.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062013Z" creationid="Leo" creationdate="20210711T062013Z">
-        <seg>["Serlecionar arquivo","commands/FileSelectFile.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T072004Z" creationid="Leo" creationdate="20210711T062013Z">
+        <seg>["Selecionar arquivo","commands/FileSelectFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>

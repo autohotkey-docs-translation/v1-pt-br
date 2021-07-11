@@ -8960,10 +8960,50 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Length method (Object)","objects/Object.htm#Length"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054027Z" creationid="Leo" creationdate="20210711T054027Z">
+        <seg>["método Lenght (Objeto)","objects/Object.htm#Length"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Length property (File)","objects/File.htm#Length"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054112Z" creationid="Leo" creationdate="20210711T054112Z">
+        <seg>["propriedade Lenght (Arquivo)","objects/File.htm#Length"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Let directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Let",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054119Z" creationid="Leo" creationdate="20210711T054119Z">
+        <seg>["Diretiva Let (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#Let",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Link controls (GUI)","commands/GuiControls.htm#Link"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054213Z" creationid="Leo" creationdate="20210711T054213Z">
+        <seg>["Controles de link (GUI)","commands/GuiControls.htm#Link"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["List of Keys","KeyList.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193617Z" creationid="Leo" creationdate="20210703T193617Z">
         <seg>["Lista de Teclas","KeyList.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["ListBox controls (GUI)","commands/GuiControls.htm#ListBox"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054320Z" creationid="Leo" creationdate="20210711T054320Z">
+        <seg>["Controles de caixa de listagem (GUI)","commands/GuiControls.htm#ListBox"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10196,6 +10236,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054012Z" creationid="Leo" creationdate="20210711T054012Z">
         <seg>["comprimento de uma string","commands/StrLen.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["libraries of functions","Functions.htm#lib"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054125Z" creationid="Leo" creationdate="20210711T054125Z">
+        <seg>["bibliotecas de funções","Functions.htm#lib"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["license","license.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054132Z" creationid="Leo" creationdate="20210711T054132Z">
+        <seg>["licença","license.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["line continuation","Scripts.htm#continuation"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054200Z" creationid="Leo" creationdate="20210711T054200Z">
+        <seg>["continuação da linha","Scripts.htm#continuation"],</seg>
       </tuv>
     </tu>
     <tu>

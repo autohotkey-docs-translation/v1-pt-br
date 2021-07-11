@@ -9640,6 +9640,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["UseResourceLang directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#UseResourceLang",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064752Z" creationid="Leo" creationdate="20210711T064752Z">
+        <seg>["Diretiva UseResourceLang (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#UseResourceLang",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Using the Program","Program.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193328Z" creationid="Leo" creationdate="20210703T193328Z">
@@ -11364,6 +11372,54 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064344Z" creationid="Leo" creationdate="20210711T064344Z">
         <seg>["menu da área de notificação (personalizar)","commands/Menu.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["user (run as a different user)","commands/RunAs.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064734Z" creationid="Leo" creationdate="20210711T064734Z">
+        <seg>["usuário (executar como um usuário diferente)","commands/RunAs.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["user library","Functions.htm#lib"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064740Z" creationid="Leo" creationdate="20210711T064740Z">
+        <seg>["biblioteca do usuário","Functions.htm#lib"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["variables","Variables.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064756Z" creationid="Leo" creationdate="20210711T064756Z">
+        <seg>["Variáveis","Variables.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["variables, assigning to","commands/SetEnv.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064810Z" creationid="Leo" creationdate="20210711T064810Z">
+        <seg>["Variáveis, atribuindo valores a","commands/SetEnv.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["variables, built-in","Variables.htm#BuiltIn"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064817Z" creationid="Leo" creationdate="20210711T064817Z">
+        <seg>["Variáveis, nativas","Variables.htm#BuiltIn"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["variables, comparing them","commands/IfEqual.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065243Z" creationid="Leo" creationdate="20210711T065243Z">
+        <seg>["variáveis, compará-las","commands/IfEqual.htm"],</seg>
       </tuv>
     </tu>
     <tu>

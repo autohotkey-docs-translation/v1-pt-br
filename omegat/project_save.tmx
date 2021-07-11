@@ -9280,6 +9280,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["RGB color names","commands/Progress.htm#colors"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061804Z" creationid="Leo" creationdate="20210711T061804Z">
+        <seg>["Nomes das cores RGB","commands/Progress.htm#colors"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["RGB colors","commands/PixelGetColor.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061809Z" creationid="Leo" creationdate="20210711T061809Z">
+        <seg>["Cores RGB","commands/PixelGetColor.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Radio controls (GUI)","commands/GuiControls.htm#Radio"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060836Z" creationid="Leo" creationdate="20210711T060836Z">
@@ -9392,6 +9408,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["RemoveAt method (Object)","objects/Object.htm#RemoveAt"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061727Z" creationid="Leo" creationdate="20210711T061727Z">
+        <seg>["Método RemoveAt (Objeto)","objects/Object.htm#RemoveAt"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Screen","",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T225201Z" creationid="Leo" creationdate="20210703T225201Z">
@@ -9410,8 +9434,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["Script Showcase","scripts/index.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214917Z" creationid="Leo" creationdate="20210703T214917Z">
-        <seg>["Mostruário de Scripts","scripts/index.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061858Z" creationid="Leo" creationdate="20210703T214917Z">
+        <seg>["Mostra de scripts","scripts/index.htm"],["Mostruário de Scripts","scripts/index.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9428,6 +9452,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193846Z" creationid="Leo" creationdate="20210703T193846Z">
         <seg>["Scripts (diversos)","Scripts.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Seek method (File)","objects/File.htm#Seek"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062007Z" creationid="Leo" creationdate="20210711T062007Z">
+        <seg>["Método Seek (Arquivo)","objects/File.htm#Seek"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10900,6 +10932,54 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061638Z" creationid="Leo" creationdate="20210711T061638Z">
         <seg>["excluir uma pasta/diretório","commands/FileRemoveDir.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["rename file","commands/FileMove.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061732Z" creationid="Leo" creationdate="20210711T061732Z">
+        <seg>["renomear um arquivo","commands/FileMove.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["resize a window","commands/WinMove.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061739Z" creationid="Leo" creationdate="20210711T061739Z">
+        <seg>["redimensionar uma janela","commands/WinMove.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["restart the computer","commands/Shutdown.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061747Z" creationid="Leo" creationdate="20210711T061747Z">
+        <seg>["reiniciar o computador","commands/Shutdown.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["rounding a number","commands/Math.htm#Round"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061823Z" creationid="Leo" creationdate="20210711T061823Z">
+        <seg>["arredondar um número","commands/Math.htm#Round"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["scan code","commands/Send.htm#vk"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061836Z" creationid="Leo" creationdate="20210711T061836Z">
+        <seg>["código de leitura","commands/Send.htm#vk"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["scientific notation","commands/Format.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061841Z" creationid="Leo" creationdate="20210711T061841Z">
+        <seg>["notação científica","commands/Format.htm"],</seg>
       </tuv>
     </tu>
     <tu>

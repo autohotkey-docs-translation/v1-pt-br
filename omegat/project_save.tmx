@@ -9272,6 +9272,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["RawRead method (File)","objects/File.htm#RawRead"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061010Z" creationid="Leo" creationdate="20210711T061010Z">
+        <seg>["Método RawRead (Arquivo)","objects/File.htm#RawRead"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["RawWrite method (File)","objects/File.htm#RawWrite"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061029Z" creationid="Leo" creationdate="20210711T061029Z">
+        <seg>["Método RawWrite (Arquivo)","objects/File.htm#RawWrite"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Read method (File)","objects/File.htm#Read"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061047Z" creationid="Leo" creationdate="20210711T061047Z">
+        <seg>["Método Read (Arquivo)","objects/File.htm#Read"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Recent Changes","AHKL_ChangeLog.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214837Z" creationid="Leo" creationdate="20210703T214837Z">
@@ -10740,6 +10764,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060651Z" creationid="Leo" creationdate="20210711T060651Z">
         <seg>["sair de um script","commands/ExitApp.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["raw-mode Send","commands/Send.htm#SendRaw"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060951Z" creationid="Leo" creationdate="20210711T060951Z">
+        <seg>["Send, em modo bruto (raw)","commands/Send.htm#SendRaw"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["read file","commands/FileRead.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061036Z" creationid="Leo" creationdate="20210711T061036Z">
+        <seg>["ler um arquivo","commands/FileRead.htm"],</seg>
       </tuv>
     </tu>
     <tu>

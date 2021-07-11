@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Callouts","misc/RegExCallout.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061346Z" creationid="Leo" creationdate="20210711T061346Z">
+        <seg>Chamadas","misc/RegExCallout.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CapsLock and IME</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065603Z" creationid="Leo" creationdate="20210702T065603Z">
@@ -5547,6 +5555,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204213Z" creationid="Leo" creationdate="20210701T070103Z">
         <seg>Referência rápida | AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quick Reference","misc/RegEx-QuickRef.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061253Z" creationid="Leo" creationdate="20210711T061253Z">
+        <seg>Referência Rápida","misc/RegEx-QuickRef.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -9296,10 +9312,42 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["ReadLine method (File)","objects/File.htm#ReadLine"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061059Z" creationid="Leo" creationdate="20210711T061059Z">
+        <seg>["Método ReadLine (Arquivo)","objects/File.htm#ReadLine"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["ReadNumType method (File)","objects/File.htm#ReadNum"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061111Z" creationid="Leo" creationdate="20210711T061111Z">
+        <seg>["Método ReadNumType (Arquivo)","objects/File.htm#ReadNum"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Recent Changes","AHKL_ChangeLog.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214837Z" creationid="Leo" creationdate="20210703T214837Z">
         <seg>["Mudanças Recentes","AHKL_ChangeLog.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Reference-Counting","Objects.htm#Refs"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061224Z" creationid="Leo" creationdate="20210711T061224Z">
+        <seg>["Contagem de referência","Objects.htm#Refs"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["RegEx:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061239Z" creationid="Leo" creationdate="20210711T061239Z">
+        <seg>["RegExes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10780,6 +10828,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061036Z" creationid="Leo" creationdate="20210711T061036Z">
         <seg>["ler um arquivo","commands/FileRead.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["reboot","commands/Shutdown.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061126Z" creationid="Leo" creationdate="20210711T061126Z">
+        <seg>["reiniciar o computador","commands/Shutdown.htm"],</seg>
       </tuv>
     </tu>
     <tu>

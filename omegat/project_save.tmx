@@ -9664,10 +9664,34 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Wheel hotkeys for mouse","Hotkeys.htm#Wheel"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065655Z" creationid="Leo" creationdate="20210711T065655Z">
+        <seg>["Hotkeys com a roda do mouse","Hotkeys.htm#Wheel"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Wheel, simulating rotation","commands/Click.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065709Z" creationid="Leo" creationdate="20210711T065709Z">
+        <seg>["Roda, simular rotação","commands/Click.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["While-loop","commands/While.htm"]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221429Z" creationid="Leo" creationdate="20210703T221429Z">
         <seg>["Loop com While","commands/While.htm"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Winamp automation","misc/Winamp.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065812Z" creationid="Leo" creationdate="20210711T065812Z">
+        <seg>["Automação do Winamp","misc/Winamp.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -11492,6 +11516,46 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065641Z" creationid="Leo" creationdate="20210711T065641Z">
         <seg>["aguardar pelo pressionamento ou soltura de uma tecla","commands/KeyWait.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["whitespace","commands/AutoTrim.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065718Z" creationid="Leo" creationdate="20210711T065718Z">
+        <seg>["espaço em branco","commands/AutoTrim.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["wildcards (for files &amp; folders)","commands/LoopFile.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065800Z" creationid="Leo" creationdate="20210711T065800Z">
+        <seg>["curingas (para arquivos e pastas)","commands/LoopFile.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["window group","misc/WinTitle.htm#ahk_group"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065822Z" creationid="Leo" creationdate="20210711T065822Z">
+        <seg>["grupo de janelas","misc/WinTitle.htm#ahk_group"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["window messages","misc/SendMessageList.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065855Z" creationid="Leo" creationdate="20210711T065855Z">
+        <seg>["mensagens do Windows","misc/SendMessageList.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["working directory","commands/SetWorkingDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070004Z" creationid="Leo" creationdate="20210711T070004Z">
+        <seg>["diretório de trabalho","commands/SetWorkingDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -9536,6 +9536,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Super-global variables","Functions.htm#SuperGlobal"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063515Z" creationid="Leo" creationdate="20210711T063515Z">
+        <seg>["Variáveis supraglobais","Functions.htm#SuperGlobal"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Threads","misc/Threads.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214127Z" creationid="Leo" creationdate="20210703T214127Z">
@@ -11148,6 +11156,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063152Z" creationid="Leo" creationdate="20210711T063152Z">
         <seg>["string (buscar uma)","commands/InStr.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["structures, via DllCall","commands/DllCall.htm#struct"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063235Z" creationid="Leo" creationdate="20210711T063235Z">
+        <seg>["estruturas, via DllCall","commands/DllCall.htm#struct"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["styles for GUI command","misc/Styles.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063441Z" creationid="Leo" creationdate="20210711T063441Z">
+        <seg>["estilos relativos ao comando GUI","misc/Styles.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["subtract","commands/EnvSub.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063451Z" creationid="Leo" creationdate="20210711T063451Z">
+        <seg>["subtrair","commands/EnvSub.htm"],</seg>
       </tuv>
     </tu>
     <tu>

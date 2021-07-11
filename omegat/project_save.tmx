@@ -9368,10 +9368,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Regular Expression Callouts","misc/RegExCallout.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061529Z" creationid="Leo" creationdate="20210711T061529Z">
+        <seg>["Chamadas em Expressões Regulares","misc/RegExCallout.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Remapping Keys","misc/Remap.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T193426Z" creationid="Leo" creationdate="20210703T193426Z">
         <seg>["Remapeando Teclas","misc/Remap.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Remove method (Object)","objects/Object.htm#Remove"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061719Z" creationid="Leo" creationdate="20210711T061719Z">
+        <seg>["Método Remove (Objeto)","objects/Object.htm#Remove"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10836,6 +10852,54 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061126Z" creationid="Leo" creationdate="20210711T061126Z">
         <seg>["reiniciar o computador","commands/Shutdown.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["registry loop","commands/LoopReg.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061453Z" creationid="Leo" creationdate="20210711T061453Z">
+        <seg>["loop no registro","commands/LoopReg.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["regular expressions:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061535Z" creationid="Leo" creationdate="20210711T061535Z">
+        <seg>["expressões regulares:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["remap joystick","misc/RemapJoystick.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061557Z" creationid="Leo" creationdate="20210711T061557Z">
+        <seg>["remapear botões do joystick","misc/RemapJoystick.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["remap keys or mouse buttons","misc/Remap.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061614Z" creationid="Leo" creationdate="20210711T061614Z">
+        <seg>["remapear teclas e botões do mouse","misc/Remap.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["remote controls, hand-held","scripts/index.htm#WinLIRC"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061623Z" creationid="Leo" creationdate="20210711T061623Z">
+        <seg>["controles remotos de mão","scripts/index.htm#WinLIRC"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["remove folder/directory","commands/FileRemoveDir.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061638Z" creationid="Leo" creationdate="20210711T061638Z">
+        <seg>["excluir uma pasta/diretório","commands/FileRemoveDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>

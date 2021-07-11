@@ -9200,6 +9200,38 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Picture controls (GUI)","commands/GuiControls.htm#Picture"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060154Z" creationid="Leo" creationdate="20210711T060154Z">
+        <seg>["Controles de imagens (GUI)","commands/GuiControls.htm#Picture"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Pop method (Object)","objects/Object.htm#Pop"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060318Z" creationid="Leo" creationdate="20210711T060318Z">
+        <seg>["Método Pop (Objeto)","objects/Object.htm#Pop"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Pos property (File)","objects/File.htm#Seek"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060346Z" creationid="Leo" creationdate="20210711T060346Z">
+        <seg>["Propriedade Pos (Arquivo)","objects/File.htm#Seek"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["PostExec directive (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#PostExec",99],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060356Z" creationid="Leo" creationdate="20210711T060356Z">
+        <seg>["Diretiva PostExec (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#PostExec",99],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Process","",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223801Z" creationid="Leo" creationdate="20210703T223801Z">
@@ -10612,6 +10644,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060138Z" creationid="Leo" creationdate="20210711T060138Z">
         <seg>["desempenho de scripts","misc/Performance.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["play a sound or video file","commands/SoundPlay.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060212Z" creationid="Leo" creationdate="20210711T060212Z">
+        <seg>["reproduzir um arquivo de som ou vídeo","commands/SoundPlay.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["power (exponentiation)","Variables.htm#pow"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060412Z" creationid="Leo" creationdate="20210711T060412Z">
+        <seg>["potência (exponenciação)","Variables.htm#pow"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["prefix and suffix keys","Hotkeys.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060440Z" creationid="Leo" creationdate="20210711T060440Z">
+        <seg>["teclas de prefixos e sufixos","Hotkeys.htm"],</seg>
       </tuv>
     </tu>
     <tu>

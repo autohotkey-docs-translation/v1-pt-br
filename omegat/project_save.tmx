@@ -9240,10 +9240,34 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Progress controls (GUI)","commands/GuiControls.htm#Progress"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060545Z" creationid="Leo" creationdate="20210711T060545Z">
+        <seg>["Controles de progresso (GUI)","commands/GuiControls.htm#Progress"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Push method (Object)","objects/Object.htm#Push"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060618Z" creationid="Leo" creationdate="20210711T060618Z">
+        <seg>["método Push (Objeto)","objects/Object.htm#Push"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Quick Reference","AutoHotkey.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T101752Z" creationid="Leo" creationdate="20210703T101752Z">
         <seg>["Referência Rápida","AutoHotkey.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Radio controls (GUI)","commands/GuiControls.htm#Radio"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060836Z" creationid="Leo" creationdate="20210711T060836Z">
+        <seg>["Controles de botões de seleção (GUI)","commands/GuiControls.htm#Radio"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -10668,6 +10692,54 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060440Z" creationid="Leo" creationdate="20210711T060440Z">
         <seg>["teclas de prefixos e sufixos","Hotkeys.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["print a file","commands/Run.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060446Z" creationid="Leo" creationdate="20210711T060446Z">
+        <seg>["imprimir um arquivo","commands/Run.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["priority of a process","commands/Process.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060454Z" creationid="Leo" creationdate="20210711T060454Z">
+        <seg>["prioridade de um processo","commands/Process.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["priority of a thread","commands/Thread.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060528Z" creationid="Leo" creationdate="20210711T060528Z">
+        <seg>["prioridade de um fio de execução","commands/Thread.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["properties (Objects)","Objects.htm#Custom_Classes_property"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060553Z" creationid="Leo" creationdate="20210711T060553Z">
+        <seg>["propriedades (Objetos)","Objects.htm#Custom_Classes_property"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["properties of a file or folder","commands/Run.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060609Z" creationid="Leo" creationdate="20210711T060609Z">
+        <seg>["propriedades de um arquivo ou pasta","commands/Run.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["quit script","commands/ExitApp.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060651Z" creationid="Leo" creationdate="20210711T060651Z">
+        <seg>["sair de um script","commands/ExitApp.htm"],</seg>
       </tuv>
     </tu>
     <tu>

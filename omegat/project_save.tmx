@@ -11400,6 +11400,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["variables, ListVars","commands/ListVars.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065249Z" creationid="Leo" creationdate="20210711T065249Z">
+        <seg>["variáveis, ListVars","commands/ListVars.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["variables, assigning to","commands/SetEnv.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064810Z" creationid="Leo" creationdate="20210711T064810Z">
@@ -11420,6 +11428,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065243Z" creationid="Leo" creationdate="20210711T065243Z">
         <seg>["variáveis, compará-las","commands/IfEqual.htm"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["variables, type of data","commands/IfIs.htm"],</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065359Z" creationid="Leo" creationdate="20210711T065359Z">
+        <seg>["variáveis, tipo de dados","commands/IfIs.htm"],</seg>
       </tuv>
     </tu>
     <tu>

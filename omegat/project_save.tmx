@@ -38,6 +38,118 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Applies to AutoHotkey {0} and later":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T101121Z" creationid="Ragnar-F" creationdate="20210717T101044Z">
+        <seg>"Applies to AutoHotkey {0} and later":"Aplica-se a AutoHotkey {0} e posterior",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Applies to:\nAutoHotkey_L Revision {0} and later\nAutoHotkey v1.0.90.00 and later":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T101042Z" creationid="Ragnar-F" creationdate="20210717T100912Z">
+        <seg>"Applies to:\nAutoHotkey_L Revision {0} and later\nAutoHotkey v1.0.90.00 and later":"Aplica-se a:\nAutoHotkey_L Revision {0} e posterior\nAutoHotkey v1.0.90.00 e posterior",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Back to top":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100910Z" creationid="Ragnar-F" creationdate="20210717T100904Z">
+        <seg>"Back to top":"Voltar ao início",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Built-in Functions":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T093654Z" creationid="Ragnar-F" creationdate="20210717T093459Z">
+        <seg>"Built-in Functions":"Funções Nativas",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Built-in Variables":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T093717Z" creationid="Ragnar-F" creationdate="20210717T093428Z">
+        <seg>"Built-in Variables":"Variáveis Nativas",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"C":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100656Z" creationid="Ragnar-F" creationdate="20210717T100640Z">
+        <seg>"C":"S",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Change the font size":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T095827Z" creationid="Ragnar-F" creationdate="20210717T095821Z">
+        <seg>"Change the font size":"Mudar o tamanho da fonte",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Change the language":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T095554Z" creationid="Ragnar-F" creationdate="20210717T095316Z">
+        <seg>"Change the language":"Mudar o idioma",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Change the version":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T095546Z" creationid="Ragnar-F" creationdate="20210717T095404Z">
+        <seg>"Change the version":"Mudar a versão",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Commands":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T093948Z" creationid="Ragnar-F" creationdate="20210717T093941Z">
+        <seg>"Commands":"Comandos",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Content tab":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T092950Z" creationid="Ragnar-F" creationdate="20210717T092610Z">
+        <seg>"Content tab":"Guia de Sumário",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Control Flow Statements":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T093649Z" creationid="Ragnar-F" creationdate="20210717T093517Z">
+        <seg>"Control Flow Statements":"Instruções de Fluxo de Controle",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"C̲ontent":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T091611Z" creationid="Ragnar-F" creationdate="20210717T091542Z">
+        <seg>"C̲ontent":"S̲umário",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Declarations":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T093836Z" creationid="Ragnar-F" creationdate="20210717T093828Z">
+        <seg>"Declarations":"Declarações",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Delicious", "Price":</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064816Z" creationid="Leo" creationdate="20210627T064553Z">
@@ -46,10 +158,218 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"Deprecated.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T101129Z" creationid="Ragnar-F" creationdate="20210717T101129Z">
+        <seg>"Deprecated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Directives":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T093415Z" creationid="Ragnar-F" creationdate="20210717T093404Z">
+        <seg>"Directives":"Diretivas",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Download code":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100848Z" creationid="Ragnar-F" creationdate="20210717T100757Z">
+        <seg>"Download code":"Baixar código",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Edit this document on GitHub":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T095536Z" creationid="Ragnar-F" creationdate="20210717T095428Z">
+        <seg>"Edit this document on GitHub":"Editar este documento no GitHub",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Filter":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T093339Z" creationid="Ragnar-F" creationdate="20210717T093312Z">
+        <seg>"Filter":"Filtro",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Go back":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T095653Z" creationid="Ragnar-F" creationdate="20210717T095649Z">
+        <seg>"Go back":"Voltar",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Go forward":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T095745Z" creationid="Ragnar-F" creationdate="20210717T095739Z">
+        <seg>"Go forward":"Encaminhar",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Go to previous/next occurrence":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T094854Z" creationid="Ragnar-F" creationdate="20210717T094842Z">
+        <seg>"Go to previous/next occurrence":"Ir para ocorrência prévia/próxima",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Go to the homepage":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T095114Z" creationid="Ragnar-F" creationdate="20210717T095042Z">
+        <seg>"Go to the homepage":"Ir para a página inicial",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Hide or show the sidebar":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T095623Z" creationid="Ragnar-F" creationdate="20210717T095013Z">
+        <seg>"Hide or show the sidebar":"Esconder ou mostrar a barra lateral",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Highlight keywords":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T095637Z" creationid="Ragnar-F" creationdate="20210717T094359Z">
+        <seg>"Highlight keywords":"Destacar palavras-chave",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"If at first you don't succeed, try, try, try again." - Hickson, William E.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221217Z" creationid="Leo" creationdate="20210627T215709Z">
         <seg>“Se de começo você não conseguir, tente, tente, tente novamente.” — William E. Hickson.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Index tab":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T093023Z" creationid="Ragnar-F" creationdate="20210717T093002Z">
+        <seg>"Index tab":"Guia de Índice",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"In̲dex":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T092609Z" creationid="Ragnar-F" creationdate="20210717T092014Z">
+        <seg>"In̲dex":"Í̲ndice",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"N":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100710Z" creationid="Ragnar-F" creationdate="20210717T100658Z">
+        <seg>"N":"Í",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Open the help settings":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100640Z" creationid="Ragnar-F" creationdate="20210717T100622Z">
+        <seg>"Open the help settings":"Abrir as configurações de ajuda",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Open this document in the default browser (requires internet connection).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100002Z" creationid="Ragnar-F" creationdate="20210717T100002Z">
+        <seg>"Open this document in the default browser (requires internet connection).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Operators":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T093900Z" creationid="Ragnar-F" creationdate="20210717T093855Z">
+        <seg>"Operators":"Operadores",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Print this document":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T095858Z" creationid="Ragnar-F" creationdate="20210717T095840Z">
+        <seg>"Print this document":"Imprimir este documento",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"S":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100735Z" creationid="Ragnar-F" creationdate="20210717T100713Z">
+        <seg>"S":"U",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Search tab":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T094111Z" creationid="Ragnar-F" creationdate="20210717T094053Z">
+        <seg>"Search tab":"Guia de Pesquisar",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Search":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T094233Z" creationid="Ragnar-F" creationdate="20210717T094225Z">
+        <seg>"Search":"Pesquisar",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Select code":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100756Z" creationid="Ragnar-F" creationdate="20210717T100750Z">
+        <seg>"Select code":"Selecionar código",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Shortcut:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T091921Z" creationid="Ragnar-F" creationdate="20210717T091921Z">
+        <seg>"Shortcut:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Skip navigation":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T094930Z" creationid="Ragnar-F" creationdate="20210717T094925Z">
+        <seg>"Skip navigation":"Pular navegação",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"S̲earch":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T094028Z" creationid="Ragnar-F" creationdate="20210717T093952Z">
+        <seg>"S̲earch":"Pesqu̲isar",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Use the dark or light theme":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100537Z" creationid="Ragnar-F" creationdate="20210717T100329Z">
+        <seg>"Use the dark or light theme":"Usar o tema escuro ou claro",</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2562,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202452Z" creationid="Leo" creationdate="20210622T202452Z">
         <seg>Uma janela deve abrir, provavelmente o Bloco de Notas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ALT+C":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T091914Z" creationid="Ragnar-F" creationdate="20210717T091850Z">
+        <seg>ALT+C":"Tecla de atalho: ALT+S",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ALT+N":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T093155Z" creationid="Ragnar-F" creationdate="20210717T093027Z">
+        <seg>ALT+N":"Tecla de atalho: ALT+Í",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ALT+S":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T094151Z" creationid="Ragnar-F" creationdate="20210717T094113Z">
+        <seg>ALT+S":"Tecla de atalho: ALT+U",</seg>
       </tuv>
     </tu>
     <tu>
@@ -4807,6 +5151,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Middle-click to copy the link address.":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100327Z" creationid="Ragnar-F" creationdate="20210717T100004Z">
+        <seg>Middle-click to copy the link address.":"Abra este documento no navegador padrão (requer conexão com a internet). Clique com o botão do meio do mouse para copiar o endereço do link.",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Miscellaneous topics</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070813Z" creationid="Leo" creationdate="20210701T070813Z">
@@ -5203,6 +5555,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070039Z" creationid="Leo" creationdate="20210702T070039Z">
         <seg>Nome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New scripts should use {0} instead.":true</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T101328Z" creationid="Ragnar-F" creationdate="20210717T101145Z">
+        <seg>New scripts should use {0} instead.":"Obsoleto. Novos scripts devem usar {0} em seu lugar."</seg>
       </tuv>
     </tu>
     <tu>

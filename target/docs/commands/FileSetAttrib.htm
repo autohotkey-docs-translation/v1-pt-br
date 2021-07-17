@@ -30,12 +30,11 @@
       <li>O = OFFLINE</li>
       <li>T = TEMPORARY</li>
     </ul>
-    <p class="note"><strong>Note</strong>: Currently, the compression state of files cannot be changed with this command.</p>
+    <p class="note"><strong>Observação</strong>: Currently, the compression state of files cannot be changed with this command.</p>
   </dd>
 
   <dt>FilePattern</dt>
   <dd>The name of a single file or folder, or a wildcard pattern such as <code>C:\Temp\*.tmp</code>. <em>FilePattern</em> is assumed to be in <a href="../Variables.htm#WorkingDir">%A_WorkingDir%</a> if an absolute path isn't specified.
-    
     <p>If omitted, the current file of the innermost enclosing <a href="LoopFile.htm">File-Loop</a> will be used instead.</p></dd>
 
   <dt>OperateOnFolders?</dt>
@@ -45,7 +44,7 @@
       <li>1 = All files and folders that match the wildcard pattern are operated upon.</li>
       <li>2 = Only folders are operated upon (no files).</li>
     </ul>
-      <p class="note"><strong>Note</strong>: If <em>FilePattern</em> is a single folder rather than a wildcard pattern, it will always be operated upon regardless of this setting.</p>
+      <p class="note"><strong>Observação</strong>: If <em>FilePattern</em> is a single folder rather than a wildcard pattern, it will always be operated upon regardless of this setting.</p>
       <p>This parameter can be an <a href="../Variables.htm#Expressions">expression</a>.</p></dd>
 
   <dt>Recurse?</dt>
@@ -67,22 +66,22 @@
 <p><a href="FileGetAttrib.htm">FileGetAttrib</a>, <a href="FileGetTime.htm">FileGetTime</a>, <a href="FileSetTime.htm">FileSetTime</a>, <a href="FileGetSize.htm">FileGetSize</a>, <a href="FileGetVersion.htm">FileGetVersion</a>, <a href="LoopFile.htm">File-loop</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExTurnOnMultiple">
-<p><a class="ex_number" href="#ExTurnOnMultiple"></a>  Turns on the "read-only" and "hidden" attributes of all files and directories (subdirectories are not recursed into).</p>
+<p><a class="ex_number" href="#ExTurnOnMultiple"></a> Turns on the "read-only" and "hidden" attributes of all files and directories (subdirectories are not recursed into).</p>
 <pre>FileSetAttrib, +RH, C:\MyFiles\*.*, 1  <em>; +RH is identical to +R+H</em></pre>
 </div>
 
 <div class="ex" id="ExToggle">
-<p><a class="ex_number" href="#ExToggle"></a>  Toggles the "hidden" attribute of a single directory.</p>
+<p><a class="ex_number" href="#ExToggle"></a> Toggles the "hidden" attribute of a single directory.</p>
 <pre>FileSetAttrib, ^H, C:\MyFiles</pre>
 </div>
 
 <div class="ex" id="ExMixed">
-<p><a class="ex_number" href="#ExMixed"></a>  Turns off the "read-only" attribute and turns on the "archive" attribute of a single file.</p>
+<p><a class="ex_number" href="#ExMixed"></a> Turns off the "read-only" attribute and turns on the "archive" attribute of a single file.</p>
 <pre>FileSetAttrib, -R+A, C:\New Text File.txt</pre>
 </div>
 
 <div class="ex" id="ExRecurse">
-<p><a class="ex_number" href="#ExRecurse"></a>  Recurses through all .ini files on the C drive and turns on their "archive" attribute.</p>
+<p><a class="ex_number" href="#ExRecurse"></a> Recurses through all .ini files on the C drive and turns on their "archive" attribute.</p>
 <pre>FileSetAttrib, +A, C:\*.ini, , 1</pre>
 </div>
 

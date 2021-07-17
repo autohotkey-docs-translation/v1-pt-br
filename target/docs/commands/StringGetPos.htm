@@ -33,7 +33,7 @@
   <dd>
     <p>This affects which occurrence will be found if <em>SearchText</em> occurs more than once within <em>InputVar</em>. If this parameter is omitted, it defaults to L1 (meaning <em>InputVar</em> will be searched starting from the left for the first match). To change this behavior, specify one of the following options:</p>
     <p><strong>L<em>n</em>:</strong> The search will start looking at the left side of <em>InputVar</em> and will continue rightward until the <em>n</em>th match is found.</p>
-    <p><strong>R<em>n</em>:</strong> The search will start looking at the right side of <em>InputVar</em> and will continue leftward until the <em>n</em>th match is found. If <em>n</em> is omitted (or if <em>Occurrence</em> is 1), it defaults to R1.  </p>
+    <p><strong>R<em>n</em>:</strong> The search will start looking at the right side of <em>InputVar</em> and will continue leftward until the <em>n</em>th match is found. If <em>n</em> is omitted (or if <em>Occurrence</em> is 1), it defaults to R1. </p>
     <p>For example, to find the fourth occurrence from the right, specify R4. Note: If <em>n</em> is less than or equal to zero, no match will be found.</p>
   </dd>
 
@@ -54,7 +54,7 @@
 <p><a href="InStr.htm">InStr()</a>, <a href="RegExMatch.htm">RegExMatch()</a>, <a href="IfInString.htm">IfInString</a>, <a href="IfIn.htm">if var in/contains MatchList</a>, <a href="StringCaseSense.htm">StringCaseSense</a>, <a href="StringReplace.htm">StringReplace</a>, <a href="SplitPath.htm">SplitPath</a>, <a href="StringLeft.htm">StringLeft</a>, <a href="StringLeft.htm">StringRight</a>, <a href="StringMid.htm">StringMid</a>, <a href="StringTrimLeft.htm">StringTrimLeft</a>, <a href="StringTrimLeft.htm">StringTrimRight</a>, <a href="StringLen.htm">StringLen</a>, <a href="StringLower.htm">StringLower</a>, <a href="StringLower.htm">StringUpper</a>, <a href="IfIs.htm">if var is type</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a>  Retrieves and analyzes the position of a substring.</p>
+<p><a class="ex_number" href="#ExBasic"></a> Retrieves and analyzes the position of a substring.</p>
 <pre>Haystack := "abcdefghijklmnopqrs"
 Needle := "def"
 StringGetPos, pos, Haystack, %Needle%
@@ -63,7 +63,7 @@ if (pos &gt;= 0)
 </div>
 
 <div class="ex" id="ExSplitPath">
-<p><a class="ex_number" href="#ExSplitPath"></a>  Divides up the full path name of a file into components. Note that it would be much easier to use <a href="StrSplit.htm">StrSplit()</a>, <a href="StringSplit.htm">StringSplit</a> or a <a href="LoopParse.htm">parsing loop</a> to do this, so the below is just for illustration.</p>
+<p><a class="ex_number" href="#ExSplitPath"></a> Divides up the full path name of a file into components. Note that it would be much easier to use <a href="StrSplit.htm">StrSplit()</a>, <a href="StringSplit.htm">StringSplit</a> or a <a href="LoopParse.htm">parsing loop</a> to do this, so the below is just for illustration.</p>
 <pre>FileSelectFile, file, , , Pick a filename in a deeply nested folder:
 if (file != "")
 {

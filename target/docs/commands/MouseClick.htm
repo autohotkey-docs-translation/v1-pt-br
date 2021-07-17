@@ -12,7 +12,7 @@
 
 <h1>MouseClick</h1>
 
-<p>Clicks or holds down a mouse button, or turns the mouse wheel. NOTE: The <a href="Click.htm">Click command</a> is generally more flexible and easier to use.</p>
+<p>Clicks or holds down a mouse button, or turns the mouse wheel. OBSERVAÇÃO: The <a href="Click.htm">Click command</a> is generally more flexible and easier to use.</p>
 
 <pre class="Syntax"><span class="func">MouseClick</span> <span class="optional">, WhichButton, X, Y, ClickCount, Speed, DownOrUp, Relative</span></pre>
 <h2 id="Parameters">Parameters</h2>
@@ -31,7 +31,7 @@
 
   <dt>Speed</dt>
   <dd><p>The speed to move the mouse in the range 0 (fastest) to 100 (slowest), which can be an <a href="../Variables.htm#Expressions">expression</a>.</p>
-    <p class="note"><strong>Note</strong>: A speed of 0 will move the mouse instantly.</p>
+    <p class="note"><strong>Observação</strong>: A speed of 0 will move the mouse instantly.</p>
     <p>If omitted, the default speed (as set by <a href="SetDefaultMouseSpeed.htm">SetDefaultMouseSpeed</a> or 2 otherwise) will be used.</p>
       <p><em>Speed</em> is ignored for <a href="SendMode.htm">SendInput/Play modes</a>; they move the mouse instantaneously (though <a href="SetMouseDelay.htm">SetMouseDelay</a> has a mode that applies to SendPlay). To visually move the mouse more slowly -- such as a script that performs a demonstration for an audience -- use <code><a href="Send.htm#Click">SendEvent {Click 100 200}</a></code> or <code><a href="SendMode.htm">SendMode</a> Event</code> (optionally in conjuction with <a href="BlockInput.htm">BlockInput</a>).</p></dd>
 
@@ -78,23 +78,23 @@ Send, {Shift up}</pre>
   <a href="MouseMove.htm">MouseMove</a>, <a href="ControlClick.htm">ControlClick</a>, <a href="BlockInput.htm">BlockInput</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExDoubleClick">
-<p><a class="ex_number" href="#ExDoubleClick"></a>  Double-clicks at the current mouse position.</p>
+<p><a class="ex_number" href="#ExDoubleClick"></a> Double-clicks at the current mouse position.</p>
 <pre>MouseClick, left
 MouseClick, left</pre>
 </div>
 
 <div class="ex" id="ExDoubleClick2">
-<p><a class="ex_number" href="#ExDoubleClick2"></a>  Same as above.</p>
+<p><a class="ex_number" href="#ExDoubleClick2"></a> Same as above.</p>
 <pre>MouseClick, left,,, 2</pre>
 </div>
 
 <div class="ex" id="ExMove">
-<p><a class="ex_number" href="#ExMove"></a>  Moves the mouse cursor to a specific position, then right-clicks once.</p>
+<p><a class="ex_number" href="#ExMove"></a> Moves the mouse cursor to a specific position, then right-clicks once.</p>
 <pre>MouseClick, right, 200, 300</pre>
 </div>
 
 <div class="ex" id="ExWheel">
-<p><a class="ex_number" href="#ExWheel"></a>  Simulates the turning of the mouse wheel.</p>
+<p><a class="ex_number" href="#ExWheel"></a> Simulates the turning of the mouse wheel.</p>
 <pre>#up::MouseClick, WheelUp,,, 2  <em>; Turn it by two notches.</em>
 #down::MouseClick, WheelDown,,, 2</pre>
 </div>

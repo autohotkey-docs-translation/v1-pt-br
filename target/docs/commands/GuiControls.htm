@@ -255,10 +255,10 @@ Gui, Add, Link,, Links may be used anywhere in the text like &lt;a id="A"&gt;thi
 <p>Appearance:</p>
 <img src="../static/ctrl_hotkey.png" alt="Hotkey" />
 <p>When the <a href="Gui.htm#Submit">Gui Submit</a> command is used, the control's <a href="Gui.htm#var">associated output variable</a> (if any) receives the hotkey modifiers and name, which are compatible with the <a href="Hotkey.htm">Hotkey</a> command. Examples: <code>^!C</code>, <code>+!Home</code>, <code>+^Down</code>, <code>^Numpad1</code>, <code>!NumpadEnd</code>. If there is no hotkey in the control, the output variable is made blank.</p>
-  <p class="note"><strong>Note</strong>: Some keys are displayed the same even though they are retrieved as different names. For example, both <code>^Numpad7</code> and <code>^NumpadHome</code> might be displayed as Ctrl + Num 7.</p>
+  <p class="note"><strong>Observação</strong>: Some keys are displayed the same even though they are retrieved as different names. For example, both <code>^Numpad7</code> and <code>^NumpadHome</code> might be displayed as Ctrl + Num 7.</p>
 <p>By default, the control starts off with no hotkey specified. To instead have a default, specify its modifiers and name as the last parameter as in this example: <code>Gui, Add, Hotkey, vChosenHotkey, ^!p</code>. The only modifiers supported are ^ (Control), ! (Alt), and + (Shift). See the <a href="../KeyList.htm">key list</a> for available key names.</p>
 <p>A <a href="Gui.htm#label">g-label</a> such as <code><strong>g</strong>MySubroutine</code> may be listed in the control's options. This would cause the <em>MySubroutine</em> label to be launched automatically whenever the user changes the hotkey. Each launch of the g-label also stores the hotkey in control's <a href="Gui.htm#var">associated output variable</a> (if any).</p>
-  <p class="note"><strong>Note</strong>: The g-label is launched even when an incomplete hotkey is present. For example, if the user holds down <kbd>Ctrl</kbd>, the g-label is launched once and the output variable contains only a circumflex (^). When the user completes the hotkey, the label is launched again and the variable contains the complete hotkey.</p>
+  <p class="note"><strong>Observação</strong>: The g-label is launched even when an incomplete hotkey is present. For example, if the user holds down <kbd>Ctrl</kbd>, the g-label is launched once and the output variable contains only a circumflex (^). When the user completes the hotkey, the label is launched again and the variable contains the complete hotkey.</p>
 <p>To restrict the types of hotkeys the user may enter, include the word <strong>Limit</strong> followed by the sum of one or more of the following numbers:</p>
 <ul>
   <li>1: Prevent unmodified keys</li>
@@ -482,7 +482,7 @@ SB_SetText("There are " . RowCount . " rows selected.")</pre>
 <p>Divides the bar into multiple sections according to the specified widths (in pixels).</p>
 <pre class="Syntax"><span class="func">SB_SetParts</span>(<span class="optional">Width1, Width2, ... Width255</span>)</pre>
 <p>If all parameters are omitted, the bar is restored to having only a single, long part. Otherwise, specify the width of each part except the last (the last will fill the remaining width of the bar). For example, <code>SB_SetParts(50, 50)</code> would create three parts: the first two of width 50 and the last one of all the remaining width.</p>
-<p class="note"><strong>Note</strong>: Any parts "deleted" by SB_SetParts() will start off with no text the next time they are shown (furthermore, their icons are automatically destroyed).</p>
+<p class="note"><strong>Observação</strong>: Any parts "deleted" by SB_SetParts() will start off with no text the next time they are shown (furthermore, their icons are automatically destroyed).</p>
 <p>Upon success, SB_SetParts() returns a non-zero value (the status bar's <a href="ControlGet.htm#Hwnd">HWND</a>). Upon failure it returns 0.</p>
 
 <h4 id="SB_SetIcon">SB_SetIcon</h4>
@@ -501,7 +501,7 @@ SB_SetText("There are " . RowCount . " rows selected.")</pre>
 <p><strong>G-Label notifications</strong>: A <a href="Gui.htm#label">g-label</a> such as <code><strong>g</strong>MySubroutine</code> may be listed in the control's options. This would cause the <em>MySubroutine</em> label to be launched automatically whenever the user clicks on the bar. This subroutine may consult the built-in variables <a href="../Variables.htm#Gui">A_Gui</a> and <a href="../Variables.htm#GuiControl">A_GuiControl</a>. More importantly, it may consult <strong>A_GuiEvent</strong>, which contains one of the following strings (for compatibility with future versions, a script should not assume these are the only possible values):</p>
 <ul>
   <li><strong>Normal</strong>: The user left-clicked the bar. The variable A_EventInfo contains the part number (however, the part number might be a very large integer if the user clicks near the sizing grip at the right side of the bar).</li>
-  <li><strong>RightClick</strong>: The user right-clicked the bar. The variable A_EventInfo contains the part number. NOTE: <a href="Gui.htm#GuiContextMenu">GuiContextMenu</a> will not be called for the status bar if it has a g-label. Also, the g-label's RightClick event should be used instead of <a href="Gui.htm#GuiContextMenu">GuiContextMenu</a> when the script needs to know which part number the user clicked on (A_EventInfo).</li>
+  <li><strong>RightClick</strong>: The user right-clicked the bar. The variable A_EventInfo contains the part number. OBSERVAÇÃO: <a href="Gui.htm#GuiContextMenu">GuiContextMenu</a> will not be called for the status bar if it has a g-label. Also, the g-label's RightClick event should be used instead of <a href="Gui.htm#GuiContextMenu">GuiContextMenu</a> when the script needs to know which part number the user clicked on (A_EventInfo).</li>
   <li><strong>DoubleClick</strong>: The user double-clicked the bar. The variable A_EventInfo contains the part number.</li>
   <li><strong>R</strong>: The user <em>double-right</em>-clicked the bar.  The variable A_EventInfo contains the part number.</li>
 </ul>

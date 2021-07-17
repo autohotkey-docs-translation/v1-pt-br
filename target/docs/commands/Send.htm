@@ -73,7 +73,7 @@
         <td><code>Send #e</code> holds down <kbd>Win</kbd> and then presses <kbd>E</kbd></td>
       </tr>
     </table>
-    <p class="note"><strong>Note</strong>: As capital letters are produced by sending <kbd>Shift</kbd>, <code>A</code> produces a different effect in some programs than <code>a</code>. For example, <code>!A</code> presses <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd> and <code>!a</code> presses <kbd>Alt</kbd>+<kbd>A</kbd>. Se estiver em dúvida, use letra minúscula.</p>
+    <p class="note"><strong>Observação</strong>: As capital letters are produced by sending <kbd>Shift</kbd>, <code>A</code> produces a different effect in some programs than <code>a</code>. For example, <code>!A</code> presses <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>A</kbd> and <code>!a</code> presses <kbd>Alt</kbd>+<kbd>A</kbd>. Se estiver em dúvida, use letra minúscula.</p>
     <p>The characters <code>{}</code> are used to enclose <a href="#keynames">key names and other options</a>, and to send special characters literally. For example, <code>{Tab}</code> is <kbd>Tab</kbd> and <code>{!}</code> is a literal exclamation mark.</p>
     <p><span class="ver">[v1.1.27+]:</span> Enclosing a plain ASCII letter (a-z or A-Z) in braces forces it to be sent as the corresponding virtual keycode, even if the character does not exist on the current keyboard layout. In other words, <code>Send a</code> produces the letter "a" while <code>Send {a}</code> may or may not produce "a", depending on the keyboard layout. For details, see the <a href="#AZ">remarks below</a>.</p>
   </dd>
@@ -288,7 +288,7 @@
   </tr>
   <tr>
     <td>{Sleep}</td>
-    <td><kbd>Sleep</kbd>.</td>
+    <td><kbd>Adormecer</kbd></td>
   </tr>
   <tr id="asc">
     <td>{ASC nnnnn}</td>
@@ -302,9 +302,7 @@
   </tr>
   <tr id="vk" class="sep_below">
     <td><p>{vkXX}<br>
-      
       {scYYY}<br>
-    
     {vkXXscYYY}</p></td>
     <td><p>Sends a keystroke that has virtual key XX and scan code YYY. Por exemplo: <code>Send {vkFFsc159}</code>. If the sc or vk portion is omitted, the most appropriate value is sent in its place.</p>
       <p>The values for XX and YYY are hexadecimal and can usually be determined from the main window's <a href="KeyHistory.htm">View-&gt;Key history</a> menu item. See also: <a href="../KeyList.htm#SpecialKeys">Special Keys</a></p>
@@ -502,9 +500,9 @@ Send +{TAB 4}  <em>; Presses Shift-Tab 4 times.</em></pre>
 <p id="Down"><strong>To hold down or release a key</strong>: Enclose in braces the name of the key followed by the word <strong>Down</strong> or <strong>Up</strong>. Por exemplo:</p>
 <pre>Send {b down}{b up}
 Send {TAB down}{TAB up}
-Send {Up down}  <em>; Press down the up-arrow key.</em>
-Sleep 1000  <em>; Keep it down for one second.</em>
-Send {Up up}  <em>; Release the up-arrow key.</em></pre>
+Send {Up down}  <em>; Pressiona e segura a tecla SETA PARA CIMA.</em>
+Sleep 1000  <em>; Segura a tecla por um segundo (1000 milissegundos).</em>
+Send {Up up}  <em>; Solta a tecla SETA PARA CIMA.</em></pre>
 <p>When a key is held down via the method above, it does not begin auto-repeating like it would if you were physically holding it down (this is because auto-repeat is a driver/hardware feature). However, a <a href="Loop.htm">Loop</a> can be used to simulate auto-repeat. The following example sends 20 tab keystrokes:</p>
 <pre>Loop 20
 {
@@ -563,22 +561,22 @@ Send {Tab up}  <em>; Release the key.</em></pre>
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a>  Types a two-line signature.</p>
+<p><a class="ex_number" href="#ExBasic"></a> Types a two-line signature.</p>
 <pre>Send Sincerely,{enter}John Smith</pre>
 </div>
 
 <div class="ex" id="ExModifier">
-<p><a class="ex_number" href="#ExModifier"></a>  Selects the File-&gt;Save menu (Alt+F followed by S).</p>
+<p><a class="ex_number" href="#ExModifier"></a> Selects the File-&gt;Save menu (Alt+F followed by S).</p>
 <pre>Send !fs</pre>
 </div>
 
 <div class="ex" id="ExBrace">
-<p><a class="ex_number" href="#ExBrace"></a>  Jumps to the end of the text then send four shift+left-arrow keystrokes.</p>
+<p><a class="ex_number" href="#ExBrace"></a> Jumps to the end of the text then send four shift+left-arrow keystrokes.</p>
 <pre>Send {End}+{Left 4}</pre>
 </div>
 
 <div class="ex" id="ExSendInputRaw">
-<p><a class="ex_number" href="#ExSendInputRaw"></a>  Sends a long series of <a href="#Raw">raw characters</a> via the fastest method.</p>
+<p><a class="ex_number" href="#ExSendInputRaw"></a> Sends a long series of <a href="#Raw">raw characters</a> via the fastest method.</p>
 <pre><a href="#SendInputDetail">SendInput</a> {Raw}A long series of raw characters sent via the fastest method.</pre>
 </div>
 

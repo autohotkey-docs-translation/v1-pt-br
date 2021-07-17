@@ -37,7 +37,7 @@
   <dd><p>The name of the <a href="../misc/Labels.htm">label</a> whose contents will be executed (as a new <a href="../misc/Threads.htm">thread</a>) when the hotkey is pressed. Both normal labels and <a href="../Hotkeys.htm">hotkey</a>/<a href="../Hotstrings.htm">hotstring</a> labels can be used, but if the script contains multiple labels with the same name, only the first can be used. The trailing colon(s) should not be included. If <em>Label</em> is dynamic (e.g. %VarContainingLabelName%), <a href="IsLabel.htm">IsLabel(VarContainingLabelName)</a> may be called beforehand to verify that the label exists.</p>
   <p id="Functor"><span class="ver">[v1.1.20+]:</span> If not a valid label name, this parameter can be the name of a function, or a single variable reference containing a <a href="../objects/Functor.htm">function object</a>. For example, <code>Hotkey %FuncObj%, On</code> or <code>Hotkey % FuncObj, On</code>. Other expressions which return objects are currently unsupported. When the hotkey executes, the function is called without parameters. Hotkeys can also be <a href="../Hotkeys.htm#Function">defined as functions</a> without the Hotkey command.</p>
       <p>This parameter can be left blank if <em>KeyName</em> already exists as a hotkey, in which case its label will not be changed. This is useful to change only the hotkey's <em>Options</em>.</p>
-      <p class="note"><strong>Note</strong>: If the label or function is specified but the hotkey is disabled from a previous use of this command, the hotkey will remain disabled. To prevent this, include the word ON in <em>Options</em>.</p>
+      <p class="note"><strong>Observação</strong>: If the label or function is specified but the hotkey is disabled from a previous use of this command, the hotkey will remain disabled. To prevent this, include the word ON in <em>Options</em>.</p>
       <p>This parameter can also be one of the following special values:</p>
       <p><strong>On</strong>: The hotkey becomes enabled. No action is taken if the hotkey is already On.</p>
       <p><strong>Off</strong>: The hotkey becomes disabled. No action is taken if the hotkey is already Off.</p>
@@ -59,20 +59,14 @@
       </dd>
 
   <dt>IfWinActive<br>
-    
     IfWinExist<br>
-    
     IfWinNotActive<br>
-    
     IfWinNotExist<br>
-    
     If, Expression<br>
-    
     If, % FunctionObject</dt>
   <dd><p>These sub-commands make all subsequently-created hotkeys context sensitive. See <a href="#IfWin">below</a> for details.</p></dd>
 
   <dt>WinTitle<br>
-    
     WinText</dt>
   <dd><p>Within these parameters, any variable reference such as %var% becomes permanent the moment the command finishes. In other words, subsequent changes to the contents of the variable are not seen by existing IfWin hotkeys.</p>
       <p>Like <a href="_IfWinActive.htm">#IfWinActive/Exist</a>, <em>WinTitle</em> and <em>WinText</em> use the default settings for <a href="SetTitleMatchMode.htm">SetTitleMatchMode</a> and <a href="DetectHiddenWindows.htm">DetectHiddenWindows</a> as set in the <a href="../Scripts.htm#auto">auto-execute section</a>. See <a href="_IfWinActive.htm">#IfWinActive/Exist</a> for details.</p></dd>
@@ -174,7 +168,7 @@ Hotkey, ^!c, MyLabelForAllOtherWindows</pre>
 <p><a href="../Hotkeys.htm#Symbols">Hotkey Symbols</a>, <a href="_IfWinActive.htm">#IfWinActive/Exist</a>, <a href="_MaxThreadsBuffer.htm">#MaxThreadsBuffer</a>, <a href="_MaxThreadsPerHotkey.htm">#MaxThreadsPerHotkey</a>, <a href="Suspend.htm">Suspend</a>, <a href="IsLabel.htm">IsLabel()</a>, <a href="../misc/Threads.htm">Threads</a>, <a href="Thread.htm">Thread</a>, <a href="Critical.htm">Critical</a>, <a href="Gosub.htm">Gosub</a>, <a href="Return.htm">Return</a>, <a href="Menu.htm">Menu</a>, <a href="SetTimer.htm">SetTimer</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a>  Creates a Ctrl-Alt-Z hotkey.</p>
+<p><a class="ex_number" href="#ExBasic"></a> Creates a Ctrl-Alt-Z hotkey.</p>
 <pre>Hotkey, ^!z, MyLabel
 return
 
@@ -184,33 +178,33 @@ return</pre>
 </div>
 
 <div class="ex" id="ExAltTab">
-<p><a class="ex_number" href="#ExAltTab"></a>  Makes RCtrl &amp; RShift operate like Alt-Tab.</p>
+<p><a class="ex_number" href="#ExAltTab"></a> Makes RCtrl &amp; RShift operate like Alt-Tab.</p>
 <pre>Hotkey, RCtrl &amp; RShift, AltTab</pre>
 </div>
 
 <div class="ex" id="ExOn">
-<p><a class="ex_number" href="#ExOn"></a>  Re-enables the Win-C hotkey.</p>
+<p><a class="ex_number" href="#ExOn"></a> Re-enables the Win-C hotkey.</p>
 <pre>Hotkey, #c, On</pre>
 </div>
 
 <div class="ex" id="ExOff">
-<p><a class="ex_number" href="#ExOff"></a>  Disables the Shift-Win-C hotkey.</p>
+<p><a class="ex_number" href="#ExOff"></a> Disables the Shift-Win-C hotkey.</p>
 <pre>Hotkey, $+#c, Off</pre>
 </div>
 
 <div class="ex" id="ExT">
-<p><a class="ex_number" href="#ExT"></a>  Changes a hotkey to allow 5 threads.</p>
+<p><a class="ex_number" href="#ExT"></a> Changes a hotkey to allow 5 threads.</p>
 <pre>Hotkey, ^!a, , T5</pre>
 </div>
 
 <div class="ex" id="ExIfWin">
-<p><a class="ex_number" href="#ExIfWin"></a>  Creates a Ctrl-Alt-C hotkey that works only in Notepad.</p>
+<p><a class="ex_number" href="#ExIfWin"></a> Creates a Ctrl-Alt-C hotkey that works only in Notepad.</p>
 <pre>Hotkey, IfWinActive, ahk_class Notepad
 Hotkey, ^!c, MyLabelForNotepad</pre>
 </div>
 
 <div class="ex" id="ExampleIfFn">
-<p><a class="ex_number" href="#ExampleIfFn"></a>  Creates a GUI that allows to register primitive three-key combination hotkeys.</p>
+<p><a class="ex_number" href="#ExampleIfFn"></a> Creates a GUI that allows to register primitive three-key combination hotkeys.</p>
 <pre>Gui Add, Text, xm, Prefix key:
 Gui Add, Edit, yp x100 w100 vPrefix, Space
 Gui Add, Text, xm, Suffix hotkey:

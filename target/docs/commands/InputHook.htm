@@ -33,7 +33,7 @@ ih.Start()
 ih.Wait()
 if (ih.Input = CtrlC)
     MsgBox, You pressed Control-C.</pre>
-    <p class="note"><strong>Note</strong>: The characters <kbd>Ctrl</kbd>+<kbd>A</kbd> through <kbd>Ctrl</kbd>+<kbd>Z</kbd> correspond to <a href="Chr.htm">Chr(1)</a> through <a href="Chr.htm">Chr(26)</a>. Also, the <strong>M</strong> option might cause some keyboard shortcuts such as <kbd>Ctrl</kbd>+<kbd>←</kbd> to misbehave while an Input is in progress.</p>
+    <p class="note"><strong>Observação</strong>: The characters <kbd>Ctrl</kbd>+<kbd>A</kbd> through <kbd>Ctrl</kbd>+<kbd>Z</kbd> correspond to <a href="Chr.htm">Chr(1)</a> through <a href="Chr.htm">Chr(26)</a>. Also, the <strong>M</strong> option might cause some keyboard shortcuts such as <kbd>Ctrl</kbd>+<kbd>←</kbd> to misbehave while an Input is in progress.</p>
     <p id="option-t"><strong>T</strong>: Sets <a href="#Timeout">Timeout</a> (e.g. <code>T3</code> or <code>T2.5</code>).</p>
     <p id="vis"><strong>V</strong>: Sets <a href="#VisibleText">VisibleText</a> and <a href="#VisibleNonText">VisibleNonText</a> to true. Normally, the user's input is blocked (hidden from the system). Use this option to have the user's keystrokes sent to the active window.</p>
     <p id="asterisk"><strong>*</strong>: Wildcard. Sets <a href="#FindAnywhere">FindAnywhere</a> to true, allowing matches to be found anywhere within what the user types.</p>
@@ -141,7 +141,7 @@ if (ih.Input = CtrlC)
 <p><strong>Returns</strong> <a href="#EndReason">EndReason</a>.</p>
 </div>
 
-<div class="methodShort" id="Stop"><h2>Stop</h2>
+<div class="methodShort" id="Stop"><h2>Parar</h2>
 <p>Terminates the Input and sets <a href="#EndReason">EndReason</a> to the word Stopped.</p>
 <pre class="Syntax">InputHook.<span class="func">Stop</span>()</pre>
 <p>Has no effect if the Input is not in progress.</p>
@@ -268,7 +268,7 @@ if (ih.Input = CtrlC)
 <pre class="Syntax">Boolean := InputHook.NotifyNonText</pre>
 <pre class="Syntax">InputHook.NotifyNonText := Boolean</pre>
 <p>Type: <a href="../Concepts.htm#boolean">Integer (boolean)</a>. Default: false.</p>
-<p>Setting this to true enables notifications for all keypresses which do not produce text, such as when pressing <kbd>Left</kbd> or <kbd>Alt</kbd>+<kbd>F</kbd>. Setting this property does not affect a key's <a href="#KeyOpt">options</a>, since the production of text depends on the active window's keyboard layout at the time the key is pressed.  </p>
+<p>Setting this to true enables notifications for all keypresses which do not produce text, such as when pressing <kbd>Left</kbd> or <kbd>Alt</kbd>+<kbd>F</kbd>. Setting this property does not affect a key's <a href="#KeyOpt">options</a>, since the production of text depends on the active window's keyboard layout at the time the key is pressed. </p>
 <p>NotifyNonText is applied to key-up events by considering whether a previous key-down with a matching VK code was classified as text or non-text. For example, if NotifyNonText is true, pressing <kbd>Ctrl</kbd>+<kbd>A</kbd> will produce <a href="#OnKeyDown">OnKeyDown</a> and <a href="#OnKeyUp">OnKeyUp</a> calls for both <kbd>Ctrl</kbd> and <kbd>A</kbd>, while pressing <kbd>A</kbd> on its own will not call OnKeyDown or OnKeyUp unless <a href="#KeyOpt">KeyOpt</a> has been used to enable notifications for that key.</p>
 <p>See <a href="#VisibleText">VisibleText</a> for details about which keys are counted as producing text.</p>
 </div>
@@ -390,7 +390,7 @@ OutputVar := ih.Input
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExKeyWaitAny">
-<p><a class="ex_number" href="#ExKeyWaitAny"></a>  Waits for the user to press any single key.</p>
+<p><a class="ex_number" href="#ExKeyWaitAny"></a> Waits for the user to press any single key.</p>
 <pre>
 MsgBox % KeyWaitAny()
 
@@ -410,7 +410,7 @@ KeyWaitAny(Options:="")
 </pre>
 </div>
 <div class="ex" id="ExKeyWaitCombo">
-<p><a class="ex_number" href="#ExKeyWaitCombo"></a>  Waits for any key in combination with Ctrl/Alt/Shift/Win.</p>
+<p><a class="ex_number" href="#ExKeyWaitCombo"></a> Waits for any key in combination with Ctrl/Alt/Shift/Win.</p>
 <pre>
 MsgBox % KeyWaitCombo()
 
@@ -429,7 +429,7 @@ KeyWaitCombo(Options:="")
 </pre>
 </div>
 <div class="ex" id="ExSac">
-<p><a class="ex_number" href="#ExSac"></a>  Simple auto-complete: any day of the week.  Pun aside, this is a fully functional example.  Simply run the script and start typing today, press <kbd>Tab</kbd> to complete or press <kbd>Esc</kbd> to exit.</p>
+<p><a class="ex_number" href="#ExSac"></a> Simple auto-complete: any day of the week.  Pun aside, this is a fully functional example.  Simply run the script and start typing today, press <kbd>Tab</kbd> to complete or press <kbd>Esc</kbd> to exit.</p>
 <pre>global WordList := "Monday`nTuesday`nWednesday`nThursday`nFriday`nSaturday`nSunday"
 
 global Suffix := "", SacHook

@@ -258,7 +258,7 @@ if WinExist()
 <p id="MinSize"><strong>MinSize</strong> and <strong>MaxSize</strong> <span class="ver">[v1.0.44.13+]:</span> Determines the minimum and/or maximum size of the window, such as when the user drags its edges to resize it. Specify the word <em>MinSize</em> and/or <em>MaxSize</em> with no suffix to use the window's current size as the limit (if the window has no current size, it will use the size from the first use of <a href="#Show">Gui Show</a>). Alternatively, append the width, followed by an X, followed by the height; for example: <code>Gui +Resize +MinSize640x480</code>. The dimensions are in pixels, and they specify the size of the window's client area (which excludes borders, title bar, and <a href="#Menu">menu bar</a>). Specify each number as decimal, not hexadecimal.</p>
 <p>Either the width or the height may be omitted to leave it unchanged (e.g. <code>+MinSize640x</code> or <code>+MinSizex480</code>). Furthermore, Min/MaxSize can be specified more than once to use the window's current size for one dimension and an explicit size for the other. For example, <code>+MinSize +MinSize640x</code> would use the window's current size for the height and 640 for the width.</p>
 <p>If <em>MinSize</em> and <em>MaxSize</em> are never used, the operating system's defaults are used (similarly, <code>Gui -MinSize -MaxSize</code> can be used to return to the defaults).</p>
-<p class="note"><strong>Note</strong>: the window must have <a href="#Resize">+Resize</a> to allow resizing by the user.</p>
+<p class="note"><strong>Observação</strong>: the window must have <a href="#Resize">+Resize</a> to allow resizing by the user.</p>
 <p id="OwnDialogs"><strong>OwnDialogs</strong>: <code>Gui +OwnDialogs</code> should be specified in each <a href="../misc/Threads.htm">thread</a> (such as a ButtonOK subroutine) for which subsequently displayed <a href="MsgBox.htm">MsgBox</a>, <a href="InputBox.htm">InputBox</a>, <a href="FileSelectFile.htm">FileSelectFile</a>, and <a href="FileSelectFolder.htm">FileSelectFolder</a> dialogs should be owned by the window. Such dialogs become modal, meaning that the user cannot interact with the GUI window until dismissing the dialog. By contrast, <a href="ToolTip.htm">ToolTip</a>, <a href="Progress.htm">Progress</a>, and <a href="Progress.htm">SplashImage</a> windows do not become modal even though they become owned; they will merely stay always on top of their owner. In either case, any owned dialog or window is automatically destroyed when its GUI window is <a href="#Destroy">destroyed</a>.</p>
 <p>There is typically no need to turn this setting back off because it does not affect other <a href="../misc/Threads.htm">threads</a>. However, if a thread needs to display both owned and unowned dialogs, it may turn off this setting via <code>Gui -OwnDialogs</code>.</p>
 <p>If no window name prefix is specified -- such as using <code>Gui +OwnDialogs</code> rather than <code>Gui MyGui:+OwnDialogs</code> -- the <a href="#DefaultWin">thread's default window</a> will own the dialogs.</p>
@@ -272,7 +272,7 @@ Gui, MyGui:+Owner  <em>; Make <i>MyGui</i> owned by <a href="Menu.htm#MainWindow
 <p id="Resize"><strong>Resize</strong>: Makes the window resizable and enables its maximize button in the title bar. To avoid enabling the maximize button, specify <code>+Resize -MaximizeBox</code>.</p>
 <p><strong>SysMenu</strong> (present by default): Specify <code>-SysMenu</code> (minus SysMenu) to omit the system menu and icon in the window's upper left corner. This will also omit the minimize, maximize, and close buttons in the title bar.</p>
 <p id="Theme"><strong>Theme</strong>: By specifying <code>-Theme</code>, all subsequently created controls in the window will have Classic Theme appearance on Windows XP and beyond. To later create additional controls that obey the current theme, turn it back on via <code>+Theme</code>.</p>
-<p class="note"><strong>Note</strong>: The Theme option has no effect on operating systems older than Windows XP, nor does it have any effect on XP itself if the Classic Theme is in effect.</p>
+<p class="note"><strong>Observação</strong>: The Theme option has no effect on operating systems older than Windows XP, nor does it have any effect on XP itself if the Classic Theme is in effect.</p>
 <p>Finally, this setting may be changed for an individual control by specifying <code>+Theme</code> or <code>-Theme</code> in its options when it is created.</p>
 <p><strong>ToolWindow</strong>: Provides a narrower title bar but the window will have no taskbar button. This always hides the maximize and minimize buttons, regardless of whether the <a href="../misc/Styles.htm#WS_MAXIMIZEBOX">WS_MAXIMIZEBOX</a> and <a href="../misc/Styles.htm#WS_MINIMIZEBOX">WS_MINIMIZEBOX</a> styles are present.</p>
 <p><strong>(Unnamed Style)</strong>: Specify a plus or minus sign followed immediately by a decimal or hexadecimal <a href="../misc/Styles.htm">style number</a>.</p>
@@ -356,14 +356,14 @@ gui, show</pre>
 
 <h3 id="Events">Storing and Responding to User Input</h3>
 <p id="var"><strong>V</strong>: Variable. Associates a variable with a control. Immediately after the letter V, specify the name of a global variable (or a <a href="../Functions.htm#ByRef">ByRef local</a> that points to a global, or <span class="ver">[in v1.0.46.01+]</span> a <a href="../Functions.htm#static">static variable</a>). For example, specifying <code><strong>v</strong>MyEdit</code> would store the control's contents in the variable <em>MyEdit</em> whenever the <a href="#Submit">Gui Submit</a> command is used. If a control is not input-capable -- such as a Text control or GroupBox -- associating a variable with it can still be helpful since that variable's name serves as the control's unique identifier for use with <a href="GuiControl.htm">GuiControl</a>, <a href="GuiControlGet.htm">GuiControlGet</a>, and <a href="../Variables.htm#GuiControl">A_GuiControl</a>.</p>
-  <p class="note"><strong>Note</strong>: <a href="#Submit">Gui Submit</a> does not change the contents of variables of non-input-capable controls (such as Text and GroupBox), nor certain others as documented in their sections (such as <a href="ListView.htm">ListView</a> and <a href="TreeView.htm">TreeView</a>).</p>
+  <p class="note"><strong>Observação</strong>: <a href="#Submit">Gui Submit</a> does not change the contents of variables of non-input-capable controls (such as Text and GroupBox), nor certain others as documented in their sections (such as <a href="ListView.htm">ListView</a> and <a href="TreeView.htm">TreeView</a>).</p>
 <p id="label"><strong>G</strong>: Gosub (g-label). Launches a subroutine or function automatically when the user clicks or changes a control. Immediately after the letter G, specify the name of the <a href="../misc/Labels.htm">label</a> to execute. <code>gCancel</code> may be specified to perform an implicit <a href="#Cancel">Gui Cancel</a> (but if a label named "Cancel" exists in the script, it will be executed instead). The subroutine may consult the following built-in variables: <a href="../Variables.htm#Gui">A_Gui</a>, <a href="../Variables.htm#GuiControl">A_GuiControl</a>, <a href="../Variables.htm#GuiEvent">A_GuiEvent</a>, and <a href="../Variables.htm#EventInfo">A_EventInfo</a>.</p>
 <p><span class="ver">[v1.1.20+]:</span> If not a valid label name, a function name can be used instead. Alternatively, the <a href="GuiControl.htm#Functor">GuiControl</a> command can be used to associate a <a href="../objects/Functor.htm">function object</a> with the control. The function can optionally accept the following parameters (where <code>gCtrlEvent</code> sets the function):</p>
 <pre class="Syntax"><span class="func">CtrlEvent</span>(CtrlHwnd, GuiEvent, EventInfo, ErrLevel:="")</pre>
 <p>The meanings of the parameters depends on the type of control. Note that if the fourth parameter is declared without a default value, the function will only be called by events which supply four parameters.</p>
 
 <h3 id="OtherOptions">Controls: Common Styles and Other Options</h3>
-<p class="note"><strong>Note</strong>: In the absence of a preceding sign, a plus sign is assumed; for example, <code>Wrap</code> is the same as <code>+Wrap</code>. By contrast, <code>-Wrap</code> would remove the word-wrapping property.</p>
+<p class="note"><strong>Observação</strong>: In the absence of a preceding sign, a plus sign is assumed; for example, <code>Wrap</code> is the same as <code>+Wrap</code>. By contrast, <code>-Wrap</code> would remove the word-wrapping property.</p>
 <p id="AltSubmit"><strong>AltSubmit</strong>: Uses alternate submit method. For DropDownList, ComboBox, and ListBox this causes the <a href="#Submit">Gui Submit</a> command to store the position of the selected item rather than its text. If no item is selected, a ComboBox will still store the text in its edit field; similarly, a DropDownList or ListBox will still make its <a href="#var">output variable</a> blank. Note: AltSubmit also affects the behavior of <a href="GuiControlGet.htm">GuiControlGet</a> when retrieves the contents of such a control.</p>
 <p><strong>C</strong>: Color of text (has no effect on <a href="GuiControls.htm#Button">buttons</a>). Specify the letter C followed immediately by a color name (see <a href="Progress.htm#colors">color chart</a>) or RGB value (the 0x prefix is optional). Examples: <code>cRed</code>, <code>cFF2211</code>, <code>c0xFF2211</code>, <code>cDefault</code>.</p>
 <p><strong>Choose</strong>: Pre-select a single item in a <a href="../commands/GuiControls.htm#ComboBox">ComboBox</a>, <a href="../commands/GuiControls.htm#DateTime">DateTime</a>, <a href="../commands/GuiControls.htm#DropDownList">DropDownList</a>, <a href="../commands/GuiControls.htm#ListBox">ListBox</a> or <a href="../commands/GuiControls.htm#Tab">Tab</a> control. Specify the word <code>Choose</code> followed immediately by the number of an item. Por exemplo: <code>Choose2</code></p>
@@ -434,7 +434,6 @@ Known limitation: If the first control in the window is disabled (possibly depen
 <ol>
   <li><a href="../Variables.htm#GuiControl">A_GuiControl</a>, which contains the <a href="../Variables.htm#GuiControl">text or variable name</a> of the control that received the event (blank if none).</li>
   <li><a href="../Variables.htm#EventInfo">A_EventInfo</a>: When a ListBox, ListView, or TreeView is the target of the context menu (as determined by A_GuiControl above), A_EventInfo specifies which of the control's items is the target:
-    
     <ul>
       <li><a href="GuiControls.htm#ListBox">ListBox</a> or <a href="ListView.htm">ListView</a>: A_EventInfo contains the number of the currently focused row (0 if none).</li>
       <li><a href="TreeView.htm">TreeView</a>: For right-clicks, A_EventInfo contains the clicked item's ID number (or 0 if the user clicked somewhere other than an item). For <kbd>Menu</kbd> and <kbd>Shift</kbd>+<kbd>F10</kbd>, A_EventInfo contains the selected item's ID number.</li>
@@ -442,7 +441,7 @@ Known limitation: If the first control in the window is disabled (possibly depen
   <li>A_GuiX and A_GuiY, which contain the X and Y coordinates of where the script should display the menu (e.g. <code><a href="Menu.htm">Menu</a>, MyContext, Show, %A_GuiX%, %A_GuiY%</code>). Coordinates are relative to the upper-left corner of the window.</li>
   <li>A_GuiEvent, which contains the word RightClick if the user right-clicked, or Normal if the menu was triggered by <kbd>Menu</kbd> or <kbd>Shift</kbd>+<kbd>F10</kbd>.</li>
 </ol>
-<p class="note"><strong>Note</strong>: Since <a href="GuiControls.htm#Edit">Edit</a> and <a href="GuiControls.htm#MonthCal">MonthCal</a> controls have their own context menu, a right-click in one of them will not launch GuiContextMenu.</p>
+<p class="note"><strong>Observação</strong>: Since <a href="GuiControls.htm#Edit">Edit</a> and <a href="GuiControls.htm#MonthCal">MonthCal</a> controls have their own context menu, a right-click in one of them will not launch GuiContextMenu.</p>
 <p><span class="ver">[v1.1.20+]:</span> If GuiContextMenu is a function, its parameters are as follows:</p>
 <pre class="Syntax"><span class="func">GuiContextMenu</span>(GuiHwnd, CtrlHwnd, EventInfo, IsRightClick, X, Y)</pre>
 <p><em>CtrlHwnd</em> is blank if the event was not received by a control. <em>IsRightClick</em> is true if A_GuiEvent is RightClick.</p>
@@ -456,7 +455,6 @@ Known limitation: If the first control in the window is disabled (possibly depen
   <li>A_GuiEvent, which contains the names of the files that were dropped, with each filename except the last terminated by a linefeed (`n).</li>
 </ol>
 <p>To extract the individual files, use a <a href="LoopParse.htm">parsing loop</a> as shown below:
-
 </p>
 <pre><em>; EXAMPLE #1:</em>
 Loop, Parse, A_GuiEvent, `n
@@ -535,14 +533,14 @@ Gui Show</pre>
 <h2 id="Examples">Exemplos</h2>
 
 <div class="ex" id="ExPopup">
-<p><a class="ex_number" href="#ExPopup"></a>  Creates a popup window similar to <a href="SplashTextOn.htm">SplashTextOn</a>.</p>
+<p><a class="ex_number" href="#ExPopup"></a> Creates a popup window similar to <a href="SplashTextOn.htm">SplashTextOn</a>.</p>
 <pre>Gui, +AlwaysOnTop +Disabled -SysMenu +Owner  <em>; +Owner avoids a taskbar button.</em>
 Gui, Add, Text,, Some text to display.
 Gui, Show, NoActivate, Title of Window  <em>; NoActivate avoids deactivating the currently active window.</em></pre>
 </div>
 
 <div class="ex" id="ExInputBox">
-<p><a class="ex_number" href="#ExInputBox"></a>  Creates a simple input-box that asks for the first and last name.</p>
+<p><a class="ex_number" href="#ExInputBox"></a> Creates a simple input-box that asks for the first and last name.</p>
 <pre>Gui, Add, Text,, First name:
 Gui, Add, Text,, Last name:
 Gui, Add, Edit, vFirstName ym  <em>; The ym option starts a new column of controls.</em>
@@ -559,7 +557,7 @@ ExitApp</pre>
 </div>
 
 <div class="ex" id="ExTab">
-<p><a class="ex_number" href="#ExTab"></a>  Creates a tab control with multiple tabs, each containing different controls to interact with.</p>
+<p><a class="ex_number" href="#ExTab"></a> Creates a tab control with multiple tabs, each containing different controls to interact with.</p>
 <pre>Gui, Add, Tab2,, First Tab|Second Tab|Third Tab  <em>; Tab2 vs. Tab requires <span class="ver">[v1.0.47.05+]</span>.</em>
 Gui, Add, Checkbox, vMyCheckbox, Sample checkbox
 Gui, Tab, 2
@@ -581,7 +579,7 @@ ExitApp</pre>
 </div>
 
 <div class="ex" id="ExListBox">
-<p><a class="ex_number" href="#ExListBox"></a>  Creates a ListBox control containing files in a directory.</p>
+<p><a class="ex_number" href="#ExListBox"></a> Creates a ListBox control containing files in a directory.</p>
 <pre>Gui, Add, Text,, Pick a file to launch from the list below.`nTo cancel, press ESCAPE or close this window.
 Gui, Add, ListBox, vMyListBox gMyListBox w640 r10
 Gui, Add, Button, Default, OK
@@ -614,7 +612,7 @@ ExitApp</pre>
 </div>
 
 <div class="ex" id="ExToolTip">
-<p><a class="ex_number" href="#ExToolTip"></a>  Displays a context-sensitive help (via ToolTip) whenever the user moves the mouse over a particular control.</p>
+<p><a class="ex_number" href="#ExToolTip"></a> Displays a context-sensitive help (via ToolTip) whenever the user moves the mouse over a particular control.</p>
 <pre>Gui, Add, Edit, v<strong>MyEdit</strong>
 <strong>MyEdit</strong>_TT := "This is a tooltip for the control whose variable is MyEdit."
 Gui, Add, DropDownList, v<strong>MyDDL</strong>, Red|Green|Blue
@@ -654,7 +652,7 @@ ExitApp</pre>
 </div>
 
 <div class="ex" id="OSD">
-<p><a class="ex_number" href="#OSD"></a>  Creates an On-screen display (OSD) via transparent window.</p>
+<p><a class="ex_number" href="#OSD"></a> Creates an On-screen display (OSD) via transparent window.</p>
 <pre>CustomColor := "EEAA99"  <em>; Can be any RGB color (it will be made transparent below).</em>
 Gui +LastFound +AlwaysOnTop -Caption +ToolWindow  <em>; +ToolWindow avoids a taskbar button and an alt-tab menu item.</em>
 Gui, Color, %CustomColor%
@@ -674,7 +672,7 @@ return</pre>
 </div>
 
 <div class="ex" id="ExProgressBar">
-<p><a class="ex_number" href="#ExProgressBar"></a>  Creates a moving progress bar overlayed on a background image.</p>
+<p><a class="ex_number" href="#ExProgressBar"></a> Creates a moving progress bar overlayed on a background image.</p>
 <pre>Gui, Color, White
 Gui, Add, Picture, x0 y0 h350 w450, %A_WinDir%\system32\ntimage.gif
 Gui, Add, Button, Default xp+20 yp+250, Start the Bar Moving
@@ -700,7 +698,7 @@ ExitApp</pre>
 </div>
 
 <div class="ex" id="ExImageViewer">
-<p><a class="ex_number" href="#ExImageViewer"></a>  Creates a simple image viewer.</p>
+<p><a class="ex_number" href="#ExImageViewer"></a> Creates a simple image viewer.</p>
 <pre>Gui, +Resize
 Gui, Add, Button, default, &amp;Load New Image
 Gui, Add, Radio, ym+5 x+10 vRadio checked, Load &amp;actual size
@@ -733,7 +731,7 @@ ExitApp</pre>
 </div>
 
 <div class="ex" id="ExEditor">
-<p><a class="ex_number" href="#ExEditor"></a>  Creates a simple text editor with menu bar.</p>
+<p><a class="ex_number" href="#ExEditor"></a> Creates a simple text editor with menu bar.</p>
 <pre><em>; Create the sub-menus for the menu bar:</em>
 Menu, FileMenu, Add, &amp;New, FileNew
 Menu, FileMenu, Add, &amp;Open, FileOpen

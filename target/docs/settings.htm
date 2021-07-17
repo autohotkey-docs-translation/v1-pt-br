@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 
 <head>
-  <title>Help Settings</title>
+  <title>Configurações da Ajuda</title>
   <meta name="robots" content="noindex, nofollow" />
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -35,72 +35,72 @@
 </head>
 
 <body>
-  <h1>Help Settings</h1>
-  <p>Specify the settings the help should be started with by default. These settings are permanent; this is, they apply for all current and future visits to this help.</p>
+  <h1>Configurações da Ajuda</h1>
+  <p>Escolha as configurações com as quais esta ajuda deve iniciar por padrão. Estas configurações são permanentes; isto é, elas se aplicam à presente e às futuras visitas a esta ajuda.</p>
   <table>
     <tr>
       <td>
-        <label for="fontSize">Content font size:</label>
+        <label for="fontSize">Tamanho da fonte do conteúdo:</label>
       </td>
       <td>
         <select id="fontSize" size="1">
-          <option value="0.6">Very small</option>
-          <option value="0.8">Small</option>
-          <option value="1" selected>Medium (default)</option>
-          <option value="1.2">Large</option>
-          <option value="1.4">Very large</option>
+          <option value="0.6">Minúscula</option>
+          <option value="0.8">Pequena</option>
+          <option value="1" selected>Média (padrão)</option>
+          <option value="1.2">Grande</option>
+          <option value="1.4">Enorme</option>
         </select>
       </td>
     </tr>
     <tr>
       <td>
-        <label for="clickTab">Selected tab:</label>
+        <label for="clickTab">Guia selecionada:</label>
       </td>
       <td>
         <select id="clickTab" size="1">
-          <option value="0" selected>Content (default)</option>
-          <option value="1">Index</option>
-          <option value="2">Search</option>
+          <option value="0" selected>Conteúdo (padrão)</option>
+          <option value="1">Índice</option>
+          <option value="2">Pesquisar</option>
         </select>
       </td>
     </tr>
     <tr>
       <td>
-        <label for="displaySidebar">Sidebar visibility:</label>
+        <label for="displaySidebar">Visibilidade da barra lateral:</label>
       </td>
       <td>
         <select id="displaySidebar" size="1">
-          <option value="0">Hidden</option>
-          <option value="1" selected>Visible (default)</option>
+          <option value="0">Oculta</option>
+          <option value="1" selected>Visível (padrão)</option>
         </select>
       </td>
     </tr>
     <tr>
       <td>
-        <label for="colorTheme">Color theme:</label>
+        <label for="colorTheme">Cor do tema:</label>
       </td>
       <td>
         <select id="colorTheme" size="1">
-          <option value="0" selected>Light (default)</option>
-          <option value="1">Dark</option>
+          <option value="0" selected>Clara (padrão)</option>
+          <option value="1">Escura</option>
         </select>
       </td>
     </tr>
   </table>
   <div class="note" id="activex" style="display: none">
     <p>
-      <strong>Note:</strong> If you press the following button, ActiveX is used to create a config file named 'chm_config.js' in the same directory as the CHM file, with the following content:</p>
+      <strong>Observação:</strong> se você pressionar o botão a seguir, o ActiveX é usado para criar um arquivo de configuração chamado 'chm_config.js' no mesmo diretório do arquivo CHM, com o conteúdo abaixo:</p>
     <pre class="NoIndent no-highlight" id="config-stringified"></pre>
   </div>
   <table>
     <tr>
       <td>&nbsp;</td>
       <td style="text-align: right">
-        <button id="save-settings" disabled>Save settings</button>
+        <button id="save-settings" disabled>Salvar configurações</button>
       </td>
     </tr>
   </table>
-  <p id="permission-denied" style="display: none">Permission denied. Run the CHM file as administrator or create the config file manually.</p>
+  <p id="permission-denied" style="display: none">Permissão negada. Execute o arquivo CHM como administrador ou crie o arquivo de configuração manualmente.</p>
 
   <script>
     var config = {};

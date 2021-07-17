@@ -38,7 +38,7 @@ OldValue := <span class="func">Hotstring</span>("<a href="#MouseReset">MouseRese
     <p>The replacement string, or a <a href="../misc/Labels.htm">label</a>, <a href="../Functions.htm">function</a> or <a href="../objects/Functor.htm">function object</a> to call (as a new <a href="../misc/Threads.htm">thread</a>) when the hotstring triggers.</p>
     <p>By default, all strings are treated as replacement text. To specify a label or function by name, include the <a href="../Hotstrings.htm#X">X (execute)</a> option in <em>String</em>. Both normal labels and <a href="../Hotkeys.htm">hotkey</a>/<a href="../Hotstrings.htm">hotstring</a> labels can be used, and the trailing colon(s) should not be included. If a function and a label exist with the same name, the label takes precedence. To use the function instead, pass a <a href="../objects/Func.htm">function reference</a>.</p>
     <p>This parameter can be left blank if the hotstring already exists, in which case its replacement will not be changed. This is useful to change only the hotstring's options, or to turn it on or off.</p>
-    <p class="note"><strong>Note</strong>: If this parameter is specified but the hotstring is disabled from a previous use of this function, the hotstring will remain disabled. To prevent this, include the word <code>"On"</code> in <em>OnOffToggle</em>.</p>
+    <p class="note"><strong>Observação</strong>: If this parameter is specified but the hotstring is disabled from a previous use of this function, the hotstring will remain disabled. To prevent this, include the word <code>"On"</code> in <em>OnOffToggle</em>.</p>
   </dd>
 
   <dt>OnOffToggle</dt>
@@ -108,7 +108,7 @@ MsgBox The previous value was: %prev_chars%</pre>
 <h2 id="Examples">Exemplos</h2>
 
 <div class="ex" id="ExHelper">
-<p><a class="ex_number" href="#ExHelper"></a>  Hotstring Helper. The following script might be useful if you are a heavy user of hotstrings. It's based on <a href="../Hotstrings.htm#Helper">the script created by Andreas Borutta</a>. By pressing <kbd>Win</kbd>+<kbd>H</kbd> (or another hotkey of your choice), the currently selected text can be turned into a hotstring.  For example, if you have "by the way" selected in a word processor, pressing <kbd>Win</kbd>+<kbd>H</kbd> will prompt you for its abbreviation (e.g. btw) and then add the new hotstring to the script. The hotstring will be activated without reloading the script.</p>
+<p><a class="ex_number" href="#ExHelper"></a> Hotstring Helper. The following script might be useful if you are a heavy user of hotstrings. It's based on <a href="../Hotstrings.htm#Helper">the script created by Andreas Borutta</a>. By pressing <kbd>Win</kbd>+<kbd>H</kbd> (or another hotkey of your choice), the currently selected text can be turned into a hotstring.  For example, if you have "by the way" selected in a word processor, pressing <kbd>Win</kbd>+<kbd>H</kbd> will prompt you for its abbreviation (e.g. btw) and then add the new hotstring to the script. The hotstring will be activated without reloading the script.</p>
 <pre>#h::  <em>; Win+H hotkey
 ; Get the text currently selected. The clipboard is used instead of
 ; "ControlGet Selected" because it works in a greater variety of editors

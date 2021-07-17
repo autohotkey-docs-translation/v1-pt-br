@@ -1,36 +1,36 @@
 tocData = [
-  ["Quick Reference","AutoHotkey.htm"],
-  ["Usage and Syntax","",
+  ["Referência Rápida","AutoHotkey.htm"],
+  ["Uso e Sintaxe","",
   [
-    ["Using the Program","Program.htm"],
-    ["Concepts and Conventions","Concepts.htm"],
-    ["Scripting Language","Language.htm"],
+    ["Usando o Programa","Program.htm"],
+    ["Conceitos e Convenções","Concepts.htm"],
+    ["Linguagem de scripts","Language.htm"],
     ["Hotkeys","Hotkeys.htm"],
     ["Hotstrings","Hotstrings.htm"],
-    ["Remapping Keys","misc/Remap.htm"],
-    ["List of Keys","KeyList.htm"],
-    ["Scripts (misc)","Scripts.htm"],
-    ["Variables and Expressions","Variables.htm"],
-    ["Functions","Functions.htm"],
-    ["Labels","misc/Labels.htm"],
-    ["Threads","misc/Threads.htm"],
-    ["Debugging Clients","AHKL_DBGPClients.htm"],
-    ["Compiler Directives","misc/Ahk2ExeDirectives.htm"],
-    ["Objects","Objects.htm",
+    ["Remapeando Teclas","misc/Remap.htm"],
+    ["Lista de Teclas","KeyList.htm"],
+    ["Scripts (diversos)","Scripts.htm"],
+    ["Variáveis e Expressões","Variables.htm"],
+    ["Funções","Functions.htm"],
+    ["Rótulos","misc/Labels.htm"],
+    ["Linhas de Execução (Threads)","misc/Threads.htm"],
+    ["Clientes de Depuração","AHKL_DBGPClients.htm"],
+    ["Diretivas de Compiladores","misc/Ahk2ExeDirectives.htm"],
+    ["Objetos","Objects.htm",
     [
-      ["Basic Usage","Objects.htm#Usage"],
-      ["Extended Usage","Objects.htm#Extended_Usage"],
-      ["Custom Objects","Objects.htm#Custom_Objects"],
-      ["Default Base Object","Objects.htm#Default_Base_Object"],
-      ["Implementation","Objects.htm#Implementation"]
+      ["Noções Básicas de Uso","Objects.htm#Usage"],
+      ["Uso Estendido","Objects.htm#Extended_Usage"],
+      ["Objetos Personalizados","Objects.htm#Custom_Objects"],
+      ["Objeto Base Padrão","Objects.htm#Default_Base_Object"],
+      ["Implementação","Objects.htm#Implementation"]
     ]]
   ]],
-  ["Frequently Asked Questions","FAQ.htm"],
-  ["Tutorial (quick start)","Tutorial.htm"],
-  ["Recent Changes","AHKL_ChangeLog.htm"],
-  ["Script Showcase","scripts/index.htm"],
-  ["Script Compatibility","Compat.htm"],
-  ["Command and Function Index","commands/index.htm"],
+  ["Perguntas Frequentes (FAQ)","FAQ.htm"],
+  ["Tutorial (início rápido)","Tutorial.htm"],
+  ["Mudanças Recentes","AHKL_ChangeLog.htm"],
+  ["Mostruário de Scripts","scripts/index.htm"],
+  ["Compatibilidade de Scripts","Compat.htm"],
+  ["Índice de Comandos e Funções","commands/index.htm"],
   ["Environment","",
   [
     ["ClipWait","commands/ClipWait.htm"],
@@ -41,7 +41,7 @@ tocData = [
     ["OnClipboardChange()","commands/OnClipboardChange.htm#function"],
     ["SysGet","commands/SysGet.htm"]
   ]],
-  ["External Libraries","",
+  ["Bibliotecas Externas","",
   [
     ["DllCall()","commands/DllCall.htm"],
     ["NumGet()","commands/NumGet.htm"],
@@ -65,7 +65,7 @@ tocData = [
       ["ObjAddRef() / ObjRelease()","commands/ObjAddRef.htm"]
     ]]
   ]],
-  ["File, Directory and Disk","",
+  ["Arquivos, Diretórios e Discos","",
   [
     ["Drive","commands/Drive.htm"],
     ["DriveGet","commands/DriveGet.htm"],
@@ -100,16 +100,16 @@ tocData = [
     ["IniDelete","commands/IniDelete.htm"],
     ["IniRead","commands/IniRead.htm"],
     ["IniWrite","commands/IniWrite.htm"],
-    ["Long Paths","misc/LongPaths.htm"],
-    ["Loop (files & folders)","commands/LoopFile.htm"],
-    ["Loop (read file contents)","commands/LoopReadFile.htm"],
+    ["Caminhos Longos","misc/LongPaths.htm"],
+    ["Loop (arquivos e pastas)","commands/LoopFile.htm"],
+    ["Loop (ler conteúdo de um arquivo)","commands/LoopReadFile.htm"],
     ["SetWorkingDir","commands/SetWorkingDir.htm"],
     ["SplitPath","commands/SplitPath.htm"]
   ]],
-  ["Flow of Control","",
+  ["Fluxo de Controle","",
   [
     ["#Include[Again]","commands/_Include.htm"],
-    ["{ ... } (block)","commands/Block.htm"],
+    ["{ ... } (bloco)","commands/Block.htm"],
     ["Break","commands/Break.htm"],
     ["Catch","commands/Catch.htm"],
     ["Continue","commands/Continue.htm"],
@@ -123,8 +123,8 @@ tocData = [
     ["Goto","commands/Goto.htm"],
     ["If","commands/IfExpression.htm",
     [
-      ["If (traditional)","commands/IfEqual.htm"],
-      ["If (expression)","commands/IfExpression.htm"],
+      ["If (tradicional)","commands/IfEqual.htm"],
+      ["If (expressão)","commands/IfExpression.htm"],
       ["If var [not] between Low and High","commands/IfBetween.htm"],
       ["If var is [not] type","commands/IfIs.htm"],
       ["If var [not] in/contains MatchList","commands/IfIn.htm"],
@@ -137,10 +137,10 @@ tocData = [
     ["Loop","commands/Loop.htm",
     [
       ["Loop","commands/Loop.htm"],
-      ["Loop (files & folders)","commands/LoopFile.htm"],
-      ["Loop (parse a string)","commands/LoopParse.htm"],
-      ["Loop (read file contents)","commands/LoopReadFile.htm"],
-      ["Loop (registry)","commands/LoopReg.htm"]
+      ["Loop (arquivos e pastas)","commands/LoopFile.htm"],
+      ["Loop (analisar uma string)","commands/LoopParse.htm"],
+      ["Loop (ler conteúdo de um arquivo)","commands/LoopReadFile.htm"],
+      ["Loop (registro)","commands/LoopReg.htm"]
     ]],
     ["OnError()","commands/OnError.htm"],
     ["OnExit","commands/OnExit.htm#command"],
@@ -157,18 +157,18 @@ tocData = [
     ["Throw","commands/Throw.htm"],
     ["Try","commands/Try.htm"],
     ["Until","commands/Until.htm"],
-    ["While-loop","commands/While.htm"]
+    ["Loop com While","commands/While.htm"]
   ]],
-  ["Graphical User Interfaces","",
+  ["Interfaces Gráficas do Usuário","",
   [
     ["FileSelectFile","commands/FileSelectFile.htm"],
     ["FileSelectFolder","commands/FileSelectFolder.htm"],
     ["Gui","commands/Gui.htm"],
-    ["Gui control types","commands/GuiControls.htm"],
+    ["Tipos de controles da Gui","commands/GuiControls.htm"],
     ["GuiControl","commands/GuiControl.htm"],
     ["GuiControlGet","commands/GuiControlGet.htm"],
-    ["Gui ListView control","commands/ListView.htm"],
-    ["Gui TreeView control","commands/TreeView.htm"],
+    ["Controle ListView da Gui","commands/ListView.htm"],
+    ["Controle TreeView da Gui","commands/TreeView.htm"],
     ["IfMsgBox","commands/IfMsgBox.htm"],
     ["Image Handles","misc/ImageHandles.htm"],
     ["InputBox","commands/InputBox.htm"],
@@ -181,12 +181,12 @@ tocData = [
     ["Progress","commands/Progress.htm"],
     ["SplashImage","commands/Progress.htm"],
     ["SplashTextOn/Off","commands/SplashTextOn.htm"],
-    ["Standard Windows Fonts","misc/FontsStandard.htm"],
-    ["Styles for a window/control","misc/Styles.htm"],
+    ["Fontes Padrão do Windows","misc/FontsStandard.htm"],
+    ["Estilos para janelas/controles","misc/Styles.htm"],
     ["ToolTip","commands/ToolTip.htm"],
     ["TrayTip","commands/TrayTip.htm"]
   ]],
-  ["Maths","commands/Math.htm",
+  ["Operações Matemáticas","commands/Math.htm",
   [
     ["Abs()","commands/Math.htm#Abs"],
     ["Ceil()","commands/Math.htm#Ceil"],
@@ -211,7 +211,7 @@ tocData = [
   ]],
   ["Mouse and Keyboard","",
   [
-    ["Hotkeys and Hotstrings","Hotkeys.htm",
+    ["Hotkeys e Hotstrings","Hotkeys.htm",
     [
       ["#HotkeyInterval","commands/_HotkeyInterval.htm"],
       ["#HotkeyModifierTimeout","commands/_HotkeyModifierTimeout.htm"],
@@ -246,7 +246,7 @@ tocData = [
     ["GetKeyState","commands/GetKeyState.htm#command"],
     ["GetKeyState()","commands/GetKeyState.htm#function"],
     ["GetKeyVK()","commands/GetKey.htm"],
-    ["List of Keys","KeyList.htm"],
+    ["Lista de Teclas","KeyList.htm"],
     ["KeyHistory","commands/KeyHistory.htm"],
     ["KeyWait","commands/KeyWait.htm"],
     ["Input","commands/Input.htm"],
@@ -266,7 +266,7 @@ tocData = [
     ["SetScrollLockState","commands/SetNumScrollCapsLockState.htm"],
     ["SetStoreCapsLockMode","commands/SetStoreCapslockMode.htm"]
   ]],
-  ["Misc.","",
+  ["Diversos","",
   [
     ["AutoTrim","commands/AutoTrim.htm"],
     ["Edit","commands/Edit.htm"],
@@ -282,24 +282,24 @@ tocData = [
     ["URLDownloadToFile","commands/URLDownloadToFile.htm"],
     ["VarSetCapacity()","commands/VarSetCapacity.htm"]
   ]],
-  ["Object Types","",
+  ["Tipos de Objetos","",
   [
-    ["Object","objects/Object.htm"],
-    ["Enumerator Object","objects/Enumerator.htm"],
-    ["Exception Object","commands/Throw.htm#Exception"],
-    ["File Object","objects/File.htm"],
-    ["Func Object","objects/Func.htm"],
-    ["Function Objects","objects/Functor.htm"],
-    ["RegExMatch Object","commands/RegExMatch.htm#MatchObject"]
+    ["Objeto","objects/Object.htm"],
+    ["Enumerador","objects/Enumerator.htm"],
+    ["Exceção","commands/Throw.htm#Exception"],
+    ["Arquivo","objects/File.htm"],
+    ["Func","objects/Func.htm"],
+    ["Objetos de Função","objects/Functor.htm"],
+    ["RegExMatch","commands/RegExMatch.htm#MatchObject"]
   ]],
-  ["Process","",
+  ["Processos","",
   [
     ["Process","commands/Process.htm"],
     ["Run[Wait]","commands/Run.htm"],
     ["RunAs","commands/RunAs.htm"],
     ["Shutdown","commands/Shutdown.htm"]
   ]],
-  ["Registry","",
+  ["Registro","",
   [
     ["Loop (registry)","commands/LoopReg.htm"],
     ["RegDelete","commands/RegDelete.htm"],
@@ -307,13 +307,13 @@ tocData = [
     ["RegWrite","commands/RegWrite.htm"],
     ["SetRegView","commands/SetRegView.htm"]
   ]],
-  ["Screen","",
+  ["Tela","",
   [
     ["ImageSearch","commands/ImageSearch.htm"],
     ["PixelGetColor","commands/PixelGetColor.htm"],
     ["PixelSearch","commands/PixelSearch.htm"]
   ]],
-  ["Sound","",
+  ["Som","",
   [
     ["SoundBeep","commands/SoundBeep.htm"],
     ["SoundGet","commands/SoundGet.htm"],
@@ -322,7 +322,7 @@ tocData = [
     ["SoundSet","commands/SoundSet.htm"],
     ["SoundSetWaveVolume","commands/SoundSetWaveVolume.htm"]
   ]],
-  ["String","",
+  ["Strings","",
   [
     ["Asc()","commands/Asc.htm"],
     ["Chr()","commands/Chr.htm"],
@@ -331,7 +331,7 @@ tocData = [
     ["If[Not]InString","commands/IfInString.htm"],
     ["If var [not] in/contains MatchList","commands/IfIn.htm"],
     ["InStr()","commands/InStr.htm"],
-    ["Loop (parse a string)","commands/LoopParse.htm"],
+    ["Loop (analisar uma string)","commands/LoopParse.htm"],
     ["Ord()","commands/Ord.htm"],
     ["RegEx Quick Reference","misc/RegEx-QuickRef.htm"],
     ["RegExMatch()","commands/RegExMatch.htm"],
@@ -356,9 +356,9 @@ tocData = [
     ["SubStr()","commands/SubStr.htm"],
     ["Trim() / LTrim() / RTrim()","commands/Trim.htm"]
   ]],
-  ["Window","",
+  ["Janelas","",
   [
-    ["Controls","",
+    ["Controles","",
     [
       ["Control","commands/Control.htm"],
       ["ControlClick","commands/ControlClick.htm"],
@@ -375,14 +375,14 @@ tocData = [
       ["SetControlDelay","commands/SetControlDelay.htm"],
       ["WinMenuSelectItem","commands/WinMenuSelectItem.htm"]
     ]],
-    ["Window Groups","",
+    ["Grupos de Janelas","",
     [
       ["GroupActivate","commands/GroupActivate.htm"],
       ["GroupAdd","commands/GroupAdd.htm"],
       ["GroupClose","commands/GroupClose.htm"],
       ["GroupDeactivate","commands/GroupDeactivate.htm"]
     ]],
-    ["Window Titles","misc/WinTitle.htm"],
+    ["Títulos de Janelas","misc/WinTitle.htm"],
     ["#WinActivateForce","commands/_WinActivateForce.htm"],
     ["DetectHiddenText","commands/DetectHiddenText.htm"],
     ["DetectHiddenWindows","commands/DetectHiddenWindows.htm"],
@@ -418,7 +418,7 @@ tocData = [
     ["WinWait[Not]Active","commands/WinWaitActive.htm"],
     ["WinWaitClose","commands/WinWaitClose.htm"]
   ]],
-  ["#Directives","",
+  ["Diretivas com #","",
   [
     ["#AllowSameLineComments","commands/_AllowSameLineComments.htm"],
     ["#ClipboardTimeout","commands/_ClipboardTimeout.htm"],

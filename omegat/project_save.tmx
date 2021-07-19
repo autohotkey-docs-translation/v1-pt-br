@@ -3150,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can I find my script somewhere else?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173315Z" creationid="Setur" creationdate="20210719T173315Z">
+        <seg>Posso encontrar meu script em algum outro lugar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CapsLock and IME</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065603Z" creationid="Leo" creationdate="20210702T065603Z">
@@ -4279,10 +4287,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can I find and fix errors in my code?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173321Z" creationid="Setur" creationdate="20210719T173321Z">
+        <seg>Como eu posso consertar erros em meu código?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How do I restore the right-click context menu options for .ahk files?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173134Z" creationid="Setur" creationdate="20210719T173134Z">
         <seg>Como eu restauro as opções do menu contexto do clique com o botão direito para os arquivos .ahk?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How do I work around problems caused by User Account Control (UAC)?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173225Z" creationid="Setur" creationdate="20210719T173225Z">
+        <seg>Como eu contorno problemas causados pelo Controle de Conta de Usuário (UAC)?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4331,6 +4355,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081815Z" creationid="Leo" creationdate="20210703T081815Z">
         <seg>Entretanto, os atalhos &lt;k0&gt;Alt&lt;/k0&gt;+&lt;k1&gt;CapsLock&lt;/k1&gt;, &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;CapsLock&lt;/k3&gt; e &lt;k4&gt;Shift&lt;/k4&gt;+&lt;k5&gt;CapsLock&lt;/k5&gt; podem ser desabilitadas com uma solução de contorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I can't edit my script via tray icon because it won't start due to an error.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173306Z" creationid="Setur" creationdate="20210719T173306Z">
+        <seg>Eu não consigo editar meu script pelo ícone da bandeja porque aquele não inicia devido a um erro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8436,6 +8468,38 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065114Z" creationid="Leo" creationdate="20210701T065114Z">
         <seg>Por que estou vendo isto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why are the non-ASCII characters in my script displaying or sending incorrectly?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173423Z" creationid="Setur" creationdate="20210719T173423Z">
+        <seg>Por que caracteres do meu script que não sejam ASCII estão sendo exibidos ou enviados incorretamente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why do some lines in my script never execute?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173142Z" creationid="Setur" creationdate="20210719T173142Z">
+        <seg>Por que algumas linhas do script nunca execeutam?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why doesn't my script work on Windows &lt;e0&gt;xxx&lt;/e0&gt; even though it worked on a previous version?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173201Z" creationid="Setur" creationdate="20210719T173201Z">
+        <seg>Por que meu script não roda no Windows &lt;e0&gt;xxx&lt;/e0&gt; mesmo que tenha funcionado em uma versão anterior?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why is the Run command unable to launch my game or program?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173335Z" creationid="Setur" creationdate="20210719T173335Z">
+        <seg>Por que o comando Run não consegue rodar meu jogo ou programa?</seg>
       </tuv>
     </tu>
     <tu>

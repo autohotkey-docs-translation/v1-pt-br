@@ -4046,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>General Troubleshooting</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173000Z" creationid="Setur" creationdate="20210719T173000Z">
+        <seg>Resolução de Problemas em Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Getting Started</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T064712Z" creationid="Leo" creationdate="20210701T064712Z">
@@ -4267,6 +4275,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045930Z" creationid="Leo" creationdate="20210629T045930Z">
         <seg>Hotstrings.htm#EndChars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How do I restore the right-click context menu options for .ahk files?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173134Z" creationid="Setur" creationdate="20210719T173134Z">
+        <seg>Como eu restauro as opções do menu contexto do clique com o botão direito para os arquivos .ahk?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7561,8 +7577,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This page lists questions and answers about language syntax, general troubleshooting, common tasks, hotkeys, hotstrings and remapping.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T172410Z" creationid="Setur" creationdate="20210719T172410Z">
-        <seg>Esta página lista perguntas e respostas sobre a sintaxe da linguagem, resolução geral de problemas, tarefas comuns, teclas de atalho (hotkeys), hotstrings e remapeamento de teclas.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173024Z" creationid="Setur" creationdate="20210719T172410Z">
+        <seg>Esta página lista perguntas e respostas sobre a sintaxe da linguagem, resolução de problemas em geral, tarefas comuns, teclas de atalho (hotkeys), hotstrings e remapeamento de teclas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8216,6 +8232,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What can I do if AutoHotkey won't install?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173053Z" creationid="Setur" creationdate="20210719T173053Z">
+        <seg>O que posso fazer quando eu não conseguir instalar o AutoHotkey?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What if you wanted to use &lt;e0&gt;ExcludeTitle&lt;/e0&gt; but not fill in &lt;e1&gt;WinText&lt;/e1&gt; or &lt;e2&gt;WinTitle&lt;/e2&gt;?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214919Z" creationid="Leo" creationdate="20210627T214919Z">
@@ -8260,6 +8284,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T213130Z" creationid="Leo" creationdate="20210626T051028Z">
         <seg>Quando &lt;b0&gt;não&lt;/b0&gt; usar sinais de porcentagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When are quotation marks used with commands and their parameters?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T172849Z" creationid="Setur" creationdate="20210719T172849Z">
+        <seg>Quando são usadas aspas com os comandos e seus parâmetros?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When exactly are variable names enclosed in percent signs?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T172926Z" creationid="Setur" creationdate="20210719T172926Z">
+        <seg>Quando exatamente os nomes de variáveis devem ser envolvidos por sinais de porcentagem?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When should percent signs and commas be escaped?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T172940Z" creationid="Setur" creationdate="20210719T172940Z">
+        <seg>Quando os sinais de porcentagem e vírgulas devem ser escapados?</seg>
       </tuv>
     </tu>
     <tu>

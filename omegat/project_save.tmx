@@ -3734,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit Script</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182800Z" creationid="Setur" creationdate="20210719T182800Z">
+        <seg>Edit Script (Editar Script)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enjoy!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214216Z" creationid="Leo" creationdate="20210627T214216Z">
@@ -6615,6 +6623,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run as administrator (if UAC was enabled when AutoHotkey was installed)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182826Z" creationid="Setur" creationdate="20210719T182826Z">
+        <seg>Run as administrator (Executar como administrador, se a UAC estava habilitada no momento em que o AutoHotkey foi instalado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run the CHM file as administrator or create the config file manually.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230805Z" creationid="Leo" creationdate="20210703T230805Z">
@@ -6627,6 +6643,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070801Z" creationid="Leo" creationdate="20210627T215100Z">
         <seg>Execute este código para ver a versão de seu AutoHotkey:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run with UI Access (if &lt;a0&gt;the option&lt;/a0&gt; was enabled during installation)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182901Z" creationid="Setur" creationdate="20210719T182901Z">
+        <seg>Run with UI Access (Executar com Acesso à IU, se &lt;a0&gt;a opção&lt;/a0&gt; estava marcada durante a instalação)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7283,6 +7307,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182021Z" creationid="Setur" creationdate="20210719T182021Z">
         <seg>Algumas vezes as políticas do sistema ou outros fatores impedem arquivos de serem extraídos ou executados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes these options are overridden by settings in the current user's profile, such as if &lt;e0&gt;Open With&lt;/e0&gt; has been used to change the default program for opening .ahk files.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183012Z" creationid="Setur" creationdate="20210719T183012Z">
+        <seg>Algumas vezes essas opções são sobrescritas por configurações do perfil do usuário atual, como se &lt;e0&gt;Abrir Com&lt;/e0&gt; tivesse sido usada para mudar o programa padrão para abrir arquivos .ahk.</seg>
       </tuv>
     </tu>
     <tu>

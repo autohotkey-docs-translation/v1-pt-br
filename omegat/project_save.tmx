@@ -3958,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For further explanation of how percent signs are used, see &lt;a0&gt;Legacy Syntax&lt;/a0&gt; and &lt;a1&gt;Dynamic Variables&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180126Z" creationid="Setur" creationdate="20210719T180126Z">
+        <seg>Para explicações mais detalhadas de como usar os sinais de porcentagem, veja &lt;a0&gt;Sintaxe Legada&lt;/a0&gt; e &lt;a1&gt;Variáveis Dinâmicas&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For more in-depth information and examples, check out the &lt;a0&gt;Run&lt;/a0&gt; page.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183430Z" creationid="Leo" creationdate="20210625T183430Z">

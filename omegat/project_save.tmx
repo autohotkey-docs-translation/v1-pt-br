@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Allows a script's hidden main window to be detected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195626Z" creationid="Setur" creationdate="20210719T195626Z">
+        <seg>; Permite que a janela principal oculta de um script seja detectada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Any window that isn't Untitled - Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154522Z" creationid="Leo" creationdate="20210623T154522Z">
@@ -1154,6 +1162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052639Z" creationid="Leo" creationdate="20210626T052639Z">
         <seg>; Atribuir o valor de uma variável a outra com um texto extra (forma legada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Avoids the need to specify the full path of the file below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195837Z" creationid="Setur" creationdate="20210719T195837Z">
+        <seg>; Evita a necessidade de especificar o caminho completo do arquivo abaixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1992,8 +2008,8 @@
       <tuv lang="en">
         <seg>&lt;e0&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201924Z" creationid="Leo" creationdate="20210625T201924Z">
-        <seg>&lt;e0&gt;</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195609Z" creationid="Leo" creationdate="20210625T201924Z">
+        <seg>&lt;e0&gt;&lt;e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4162,6 +4178,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193341Z" creationid="Leo" creationdate="20210622T193341Z">
         <seg>Determinando a versão de seu AHK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First, here is an example that closes another script:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195607Z" creationid="Setur" creationdate="20210719T195607Z">
+        <seg>Primeiro, eis um exemplo que fecha outro script:</seg>
       </tuv>
     </tu>
     <tu>

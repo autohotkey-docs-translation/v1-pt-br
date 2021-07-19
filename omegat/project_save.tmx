@@ -1048,8 +1048,8 @@
       <tuv lang="en">
         <seg>::btw::by the way</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045931Z" creationid="Leo" creationdate="20210629T045931Z">
-        <seg>::btw::by the way</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192207Z" creationid="Leo" creationdate="20210629T045931Z">
+        <seg>::flni::falando nisso</seg>
       </tuv>
     </tu>
     <tu>
@@ -3598,6 +3598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ControlSend,, abc, game_title</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192333Z" creationid="Setur" creationdate="20210719T192333Z">
+        <seg>ControlSend,, abc, titulo_do_jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Corresponds to the &lt;c1&gt;&lt;!&lt;/c1&gt; hotkey prefix.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183407Z" creationid="Leo" creationdate="20210702T183407Z">
@@ -5403,6 +5411,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220746Z" creationid="Leo" creationdate="20210627T064503Z">
         <seg>No exemplo posto, o valor &lt;c0&gt;“um”&lt;/c0&gt; é armazenado na chave &lt;c1&gt;1&lt;/c1&gt; do objeto (também conhecido como índice 1), e o valor &lt;c2&gt;17&lt;/c2&gt; é armazenado na chave &lt;c3&gt;4&lt;/c3&gt; do objeto (ou índice 4).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase &lt;a0&gt;SetKeyDelay&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192253Z" creationid="Setur" creationdate="20210719T192253Z">
+        <seg>Aumente o valor de &lt;a0&gt;SetKeyDelay&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7407,6 +7423,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SendPlay may have no effect at all on Windows Vista or later if User Account Control is enabled, even if the script is running as an administrator.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192240Z" creationid="Setur" creationdate="20210719T192240Z">
+        <seg>SendPlay pode não ter efeito algum no Windows Vista ou posterior se o Controle de Conta do Usuário (UAC) estiver habilitado, mesmo que o script esteja rodando como administrador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SendRaw, SendInput, SendPlay, SendEvent.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050001Z" creationid="Leo" creationdate="20210629T050001Z">
@@ -8948,6 +8972,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081101Z" creationid="Leo" creationdate="20210703T081000Z">
         <seg>Tente o &lt;a0&gt;AHKHID&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try &lt;a0&gt;ControlSend&lt;/a0&gt;, which might work in cases where the other Send modes fail:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192326Z" creationid="Setur" creationdate="20210719T192326Z">
+        <seg>Tente &lt;a0&gt;ControlSend&lt;/a0&gt;, o qual pode funcionar nos casos em que os outros modos do comando Send falharem:</seg>
       </tuv>
     </tu>
     <tu>

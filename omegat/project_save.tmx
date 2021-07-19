@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Otherwise:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200732Z" creationid="Setur" creationdate="20210719T200732Z">
+        <seg>; Do contrário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Press Ctrl+Alt+P to pause. Press it again to resume.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200320Z" creationid="Setur" creationdate="20210719T200320Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091557Z" creationid="Leo" creationdate="20210703T091557Z">
         <seg>; Testar hotkey:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; The user signaled the loop to stop by pressing Win-Z again.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201022Z" creationid="Setur" creationdate="20210719T201022Z">
+        <seg>; O usuário sinalizou o loop para parar quando aquele pressionou Win-Z de novo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e7&gt;&lt;s8&gt;; The next four lines are the action you want to repeat (update them to suit your preferences):&lt;/s8&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200826Z" creationid="Setur" creationdate="20210719T200826Z">
+        <seg>&lt;e7&gt;&lt;s8&gt;; As próximas quatro linhas são a ação que você quer que repita (altere-as para adequarem-se às suas necessidades):&lt;/s8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e8&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052532Z" creationid="Leo" creationdate="20210626T052532Z">
@@ -2186,6 +2210,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052608Z" creationid="Leo" creationdate="20210626T052608Z">
         <seg>&lt;e9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e9&gt;&lt;s10&gt;; But leave the rest below unchanged.&lt;/s10&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200923Z" creationid="Setur" creationdate="20210719T200923Z">
+        <seg>&lt;e9&gt;&lt;s10&gt;; Mas deixe o resto abaixo do jeito que está.&lt;/s10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5863,6 +5895,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>KeepWinZRunning := true</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200744Z" creationid="Setur" creationdate="20210719T200744Z">
+        <seg>ManterWinZRodando := true</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>KeyList.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044503Z" creationid="Leo" creationdate="20210629T044503Z">
@@ -9292,6 +9332,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190731Z" creationid="Setur" creationdate="20210719T190731Z">
         <seg>Para contornar isso, use &lt;c2&gt;%A_WinDir%\SysNative&lt;/c2&gt; no lugar; esse é um diretório virtual visível somente pelos programas de 32 bits rodando em sistemas de 64 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ToolTip, Press Win-Z again to stop this from flashing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200907Z" creationid="Setur" creationdate="20210719T200907Z">
+        <seg>ToolTip, Pressione Win-Z de novo para impedir que esta janela fique alertando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14100,6 +14148,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045553Z" creationid="Leo" creationdate="20210629T045553Z">
         <seg>if Var1 &lt; %Var2%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if not KeepWinZRunning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200935Z" creationid="Setur" creationdate="20210719T200935Z">
+        <seg>if not ManterWinZRodando</seg>
       </tuv>
     </tu>
     <tu>

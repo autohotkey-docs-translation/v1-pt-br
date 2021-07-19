@@ -153,13 +153,13 @@ ShowInputBox(DefaultValue)
             MsgText := "You didn't provide an abbreviation"
         else if !Hotstring.Replacement
             MsgText := "You didn't provide a replacement"
-        else
+        elseelse
         {
             Hotstring(Hotstring.Label, Hotstring.Replacement)  <em>; Enable the hotstring now.</em>
             FileAppend, `n%UserInput%, %A_ScriptFullPath%  <em>; Save the hotstring for later use.</em>
         }
     }
-    else
+    elseelse
         MsgText := "The hotstring appears to be improperly formatted"
 
     if MsgText

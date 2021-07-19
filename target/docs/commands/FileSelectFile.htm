@@ -88,7 +88,7 @@ Thread, NoTimers, false</pre>
 <pre>FileSelectFile, SelectedFile, 3, , Open a file, Text Documents (*.txt; *.doc)
 if (SelectedFile = "")
     MsgBox, The user didn't select anything.
-else
+elseelse
     MsgBox, The user selected the following:`n%SelectedFile%</pre>
 </div>
 
@@ -109,7 +109,7 @@ Loop, parse, files, `n
 {
     if (A_Index = 1)
         MsgBox, The selected files are all contained in %A_LoopField%.
-    else
+    elseelse
     {
         MsgBox, 4, , The next file is %A_LoopField%.  Continue?
         IfMsgBox, No, break

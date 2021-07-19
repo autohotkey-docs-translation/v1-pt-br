@@ -398,7 +398,7 @@ ContinueSearch := true</pre>
   <tr id="ThisLabel">
     <td>A_ThisLabel<br>
     <span class="ver">[v1.0.46.16+]</span></td>
-    <td>The name of the <a href="misc/Labels.htm">label</a> (subroutine) that is currently executing (blank if none); for example: MyLabel. It is updated whenever the script executes <a href="commands/Gosub.htm">Gosub</a>/<a href="commands/Return.htm">Return</a> or <a href="commands/Goto.htm">Goto</a>. It is also updated for automatically-called labels such as <a href="commands/SetTimer.htm">timers</a>, <a href="commands/Gui.htm#DefaultWin">GUI threads</a>, <a href="commands/Menu.htm">menu items</a>, <a href="Hotkeys.htm">hotkeys</a>, <a href="Hotstrings.htm">hotstrings</a>, <a href="commands/OnClipboardChange.htm#label">OnClipboardChange labels</a>, and <a href="commands/OnExit.htm#command">OnExit labels</a>. However, A_ThisLabel is not updated when execution "falls into" a label from above; when that happens, A_ThisLabel retains its previous value. See also: <a href="#ThisHotkey">A_ThisHotkey</a> and <a href="commands/IsLabel.htm">IsLabel()</a></td>
+    <td>The name of the <a href="misc/Labels.htm">label</a> (subroutine) that is currently executing (blank if none); for example: MyLabel. It is updated whenever the script executes <a href="commands/Gosub.htm">Gosub</a>/<a href="commands/Return.htm">Return</a> or <a href="commands/Goto.htm">Goto</a>. It is also updated for automatically-called labels such as <a href="commands/SetTimer.htm">timers</a>, <a href="commands/Gui.htm#DefaultWin">GUI threads</a>, <a href="commands/Menu.htm">menu items</a>, <a href="Hotkeys.htm">hotkeys</a>, <a href="Hotstrings.htmHotstrings.htm">hotstrings</a>, <a href="commands/OnClipboardChange.htm#label">OnClipboardChange labels</a>, and <a href="commands/OnExit.htm#command">OnExit labels</a>. However, A_ThisLabel is not updated when execution "falls into" a label from above; when that happens, A_ThisLabel retains its previous value. See also: <a href="#ThisHotkey">A_ThisHotkey</a> and <a href="commands/IsLabel.htm">IsLabel()</a></td>
   </tr>
   <tr id="AhkVersion">
     <td>A_AhkVersion</td>
@@ -759,7 +759,7 @@ MsgBox,  %ElapsedTime% milliseconds have elapsed.</pre>
   </tr>
   <tr id="ThisHotkey">
     <td>A_ThisHotkey</td>
-    <td><p>The most recently executed <a href="Hotkeys.htm">hotkey</a> or <a href="Hotstrings.htm">non-auto-replace hotstring</a> (blank if none), e.g. #z. This value will change if the <a href="misc/Threads.htm">current thread</a> is interrupted by another hotkey, so be sure to copy it into another variable immediately if you need the original value for later use in a subroutine.</p>
+    <td><p>The most recently executed <a href="Hotkeys.htm">hotkey</a> or <a href="Hotstrings.htmHotstrings.htm">non-auto-replace hotstring</a> (blank if none), e.g. #z. This value will change if the <a href="misc/Threads.htm">current thread</a> is interrupted by another hotkey, so be sure to copy it into another variable immediately if you need the original value for later use in a subroutine.</p>
       <p>When a hotkey is first created -- either by the <a href="commands/Hotkey.htm">Hotkey command</a> or a <a href="Hotkeys.htm">double-colon label</a> in the script -- its key name and the ordering of its modifier symbols becomes the permanent name of that hotkey, shared by all <a href="commands/_IfWinActive.htm#variant">variants</a> of the hotkey.</p>
       <p>When a hotstring is first created, the exact text used to create it becomes the permanent name of the hotstring.</p>
       <p>See also: <a href="#ThisLabel">A_ThisLabel</a></p></td>
@@ -782,7 +782,7 @@ MsgBox,  %ElapsedTime% milliseconds have elapsed.</pre>
   </tr>
   <tr id="EndChar">
     <td>A_EndChar</td>
-    <td>The <a href="Hotstrings.htm#EndChars">ending character</a> that was pressed by the user to trigger the most recent <a href="Hotstrings.htm">non-auto-replace hotstring</a>. If no ending character was required  (due to the * option), this variable will be blank.</td>
+    <td>The <a href="Hotstrings.htm#EndChars">ending character</a> that was pressed by the user to trigger the most recent <a href="Hotstrings.htmHotstrings.htm">non-auto-replace hotstring</a>. If no ending character was required  (due to the * option), this variable will be blank.</td>
   </tr>
 </table>
 <h3 id="os">Operating System and User Info</h3>

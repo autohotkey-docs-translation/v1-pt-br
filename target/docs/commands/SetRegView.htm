@@ -60,12 +60,12 @@ SetRegView Default
 <p><a class="ex_number" href="#Ex32Or64"></a>  Shows how to detect the type of EXE and operating system on which the script is running.</p>
 <pre id="example2">if (A_PtrSize = 8)
     script_is := "64-bit"
-else <em>; if (A_PtrSize = 4)</em>
+elseelse <em>; if (A_PtrSize = 4)</em>
     script_is := "32-bit"
 
 if (A_Is64bitOS)
     OS_is := "64-bit"
-else
+elseelse
     OS_is := "32-bit, which has only a single registry view"
 
 MsgBox This script is %script_is%, and the OS is %OS_is%.</pre>

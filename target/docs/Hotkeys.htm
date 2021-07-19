@@ -291,7 +291,7 @@ GroupAdd AltTabWindow, ahk_class #32771  <em>; Older, or with classic alt-tab en
         if RegExMatch(path, "\*?\K(.*)\\[^\\]+(?= [-*] )", path)
             if (FileExist(path) &amp;&amp; A_ThisHotkey = "^+e")
                 Run explorer.exe /select`,"%path%"
-            else
+            elseelse
                 Run explorer.exe "%path1%"
     }</pre>
 <p id="function-details"><span class="ver">[v1.1.28+]:</span> Hotstrings can also be defined this way. Multiple hotkeys or hotstrings can be stacked together to call the same function.</p>

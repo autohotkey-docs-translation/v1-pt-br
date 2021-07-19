@@ -162,7 +162,7 @@ WM_QUERYENDSESSION(wParam, lParam)
     ENDSESSION_LOGOFF := 0x80000000
     if (lParam &amp; ENDSESSION_LOGOFF)  <em>; User is logging off.</em>
         EventType := "Logoff"
-    else  <em>; System is either shutting down or restarting.</em>
+    elseelse  <em>; System is either shutting down or restarting.</em>
         EventType := "Shutdown"
     try
     {
@@ -180,7 +180,7 @@ WM_QUERYENDSESSION(wParam, lParam)
         MsgBox, 4,, %EventType% in progress.  Allow it?
         IfMsgBox Yes
             return true  <em>; Tell the OS to allow the shutdown/logoff to continue.</em>
-        else
+        elseelse
             return false  <em>; Tell the OS to abort the shutdown/logoff.</em>
     }
 }

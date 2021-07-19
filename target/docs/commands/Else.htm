@@ -24,7 +24,7 @@
 <p>If an <em>Else</em> owns more than one line, those lines must be enclosed in braces (to create a <a href="Block.htm">block</a>). However, if only one line belongs to an <em>Else</em>, the braces are optional. Por exemplo:</p>
 <pre>if (count &gt; 0)  <em>; No braces are required around the next line because it's only a single line.</em>
     MsgBox Press OK to begin the process.
-else  <em>; Braces must be used around the section below because it consists of more than one line.</em>
+elseelse  <em>; Braces must be used around the section below because it consists of more than one line.</em>
 {
     WinClose Untitled - Notepad
     MsgBox There are no items present.
@@ -65,7 +65,7 @@ else  <em>; Braces must be used around the section below because it consists of 
     WinActivate
     Send This is a test.{Enter}
 }
-else
+elseelse
 {
     WinActivate, Some Other Window
     MouseClick, Left, 100, 200

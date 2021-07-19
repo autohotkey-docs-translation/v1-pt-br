@@ -590,7 +590,7 @@ else if (A_GuiEvent = "N")
     iValue := NumGet(A_EventInfo + 3*A_PtrSize + 4, "int")
     if (iValue &gt;= 0)
         ToolTip Field #%iField% modified: %iValue%
-    else
+    elseelse
         ToolTip Field #%iField% left empty
 }
 return

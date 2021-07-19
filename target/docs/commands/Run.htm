@@ -111,7 +111,7 @@ if not (A_IsAdmin or RegExMatch(full_command_line, " /restart(?!\S)"))
     {
         if A_IsCompiled
             Run *RunAs "%A_ScriptFullPath%" /restart
-        else
+        elseelse
             Run *RunAs "%A_AhkPath%" /restart "%A_ScriptFullPath%"
     }
     ExitApp

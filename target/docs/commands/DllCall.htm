@@ -312,7 +312,7 @@ SystemCursor(OnOff=1)   <em>; INIT = "I","Init"; OFF = 0,"Off"; TOGGLE = -1,"T",
     }
     if (OnOff = 0 or OnOff = "Off" or $ = "h" and (OnOff &lt; 0 or OnOff = "Toggle" or OnOff = "T"))
         $ := "b"  <em>; use blank cursors</em>
-    else
+    elseelse
         $ := "h"  <em>; use the saved cursors</em>
 
     Loop %c0%

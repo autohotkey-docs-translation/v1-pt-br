@@ -43,7 +43,7 @@
 <p>Array wrapper objects may also be returned by COM methods and <a href="ComObjActive.htm">ComObjActive()</a>. Scripts may determine if a value is an array as follows:</p>
 <pre>if ComObjType(<i>obj</i>) &amp; 0x2000
     MsgBox % "Array subtype: " . ComObjType(obj) &amp; 0xfff
-else
+elseelse
     MsgBox Not an array.</pre>
 <p>Arrays with up to 8 dimensions are supported.</p>
 <p><span class="ver">[v1.0.96.00+]:</span> Since SafeArrays are not designed to support multiple references, when one SafeArray is assigned to an element of another SafeArray, a separate copy is created. However, this only occurs if the wrapper object has the F_OWNVALUE flag, which indicates it is responsible for destroying the array. This flag can be removed by using <a href="ComObjFlags.htm">ComObjFlags()</a>.</p>

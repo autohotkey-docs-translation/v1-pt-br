@@ -129,7 +129,7 @@ else if (JoyY &gt; 70)
     KeyToHoldDown := "Down"
 else if (JoyY &lt; 30)
     KeyToHoldDown := "Up"
-else
+elseelse
     KeyToHoldDown := ""
 
 if (KeyToHoldDown = KeyToHoldDownPrev)  <em>; The correct key is already down (or no key is needed).</em>
@@ -165,7 +165,7 @@ else if POV between 4501 and 13500  <em>; 45 to 135 degrees: Right</em>
     KeyToHoldDown := "Right"
 else if POV between 13501 and 22500 <em>; 135 to 225 degrees: Down</em>
     KeyToHoldDown := "Down"
-else                                <em>; 225 to 315 degrees: Left</em>
+elseelse                                <em>; 225 to 315 degrees: Left</em>
     KeyToHoldDown := "Left"
 
 if (KeyToHoldDown = KeyToHoldDownPrev)  <em>; The correct key is already down (or no key is needed).</em>

@@ -42,7 +42,7 @@
     <em>; Get first matching process.</em>
     if queryEnum[proc]
         MsgBox 0, Command line, % proc.CommandLine
-    else
+    elseelse
         MsgBox Process not found!
     <em>; Free all global objects (not necessary when using local vars).</em>
     wmi := queryEnum := proc := ""

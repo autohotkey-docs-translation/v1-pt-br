@@ -95,7 +95,7 @@ if not NewPID
     MsgBox The specified process did not appear within 5.5 seconds.
     return
 }
-<em>; Otherwise:</em>
+<em>; Do contrário:</em>
 MsgBox A matching process has appeared (Process ID is %NewPID%).
 Process, Priority, %NewPID%, Low
 Process, Priority,, High  <em>; Have the script set itself to high priority.</em>
@@ -131,7 +131,7 @@ Gui, Destroy
 Process, Priority, %active_pid%, %MyListBox%
 if ErrorLevel
     MsgBox Success: Its priority was changed to "%MyListBox%".
-else
+elseelse
     MsgBox Error: Its priority could not be changed to "%MyListBox%".
 return</pre>
 </div>

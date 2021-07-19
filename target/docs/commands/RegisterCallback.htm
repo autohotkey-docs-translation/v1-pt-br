@@ -77,7 +77,7 @@ DllCall(callback, "float", 10.5, "int64", 42)        <em>; Call TheFunc via call
 TheFunc(params*) {
     if IsObject(params)
         MsgBox % params[1]
-    else
+    elseelse
         MsgBox % <a href="NumGet.htm">NumGet</a>(params+0, "float") ", " NumGet(params+A_PtrSize, "int64")
 }</pre>
 <p>Most callbacks use the <em>stdcall</em> calling convention, which requires a fixed number of parameters. In those cases, <em>ParamCount</em> must be set to the size of the parameter list, where Int64 and Double count as two 32-bit parameters.</p>

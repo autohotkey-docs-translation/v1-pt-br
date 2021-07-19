@@ -224,7 +224,7 @@ Loop, Files, %CopySourcePattern%
     copy_it := false
     if not FileExist(CopyDest "\" A_LoopFileName)  <em>; Always copy if target file doesn't yet exist.</em>
         copy_it := true
-    else
+    elseelse
     {
         FileGetTime, time, %CopyDest%\%A_LoopFileName%
         EnvSub, time, %A_LoopFileTimeModified%, seconds  <em>; Subtract the source file's time from the destination's.</em>

@@ -4406,6 +4406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;c0&gt;#Space&lt;/c0&gt; is &lt;k1&gt;Win&lt;/k1&gt;+&lt;k2&gt;Space&lt;/k2&gt; and &lt;c3&gt;^!Tab&lt;/c3&gt; is &lt;k4&gt;Ctrl&lt;/k4&gt;+&lt;k5&gt;Alt&lt;/k5&gt;+&lt;k6&gt;Tab&lt;/k6&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203709Z" creationid="Setur" creationdate="20210719T203709Z">
+        <seg>Por exemplo, &lt;c0&gt;#Space&lt;/c0&gt; e &lt;k1&gt;Win&lt;/k1&gt;+&lt;k2&gt;Space&lt;/k2&gt; e &lt;c3&gt;^!Tab&lt;/c3&gt; é &lt;k4&gt;Ctrl&lt;/k4&gt;+&lt;k5&gt;Alt&lt;/k5&gt;+&lt;k6&gt;Tab&lt;/k6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c1&gt;Send, +abC&lt;/c1&gt; would send the text "AbC", and &lt;c2&gt;Send, !+a&lt;/c2&gt; would press &lt;k3&gt;Alt&lt;/k3&gt;+&lt;k4&gt;Shift&lt;/k4&gt;+&lt;k5&gt;A&lt;/k5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220317Z" creationid="Leo" creationdate="20210624T010045Z">
@@ -5047,6 +5055,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can Tab and Space be defined as hotkeys?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203630Z" creationid="Setur" creationdate="20210719T203630Z">
+        <seg>Como definir as teclas Tab e Espaço como hotkeys?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How can Winamp be controlled even when it isn't active?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174029Z" creationid="Setur" creationdate="20210719T174029Z">
@@ -5467,6 +5483,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201344Z" creationid="Leo" creationdate="20210622T201344Z">
         <seg>Se ficar confuso, tente reler a seção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a five-button mouse whose fourth and fifth buttons cannot be &lt;a0&gt;seen&lt;/a0&gt;, you can try changing your mouse driver to the default driver included with the OS.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203542Z" creationid="Setur" creationdate="20210719T203542Z">
+        <seg>Se você tiver um mouse de cinco botões cujo quarto e quinto botões não podem ser &lt;a0&gt;vistos&lt;/a0&gt;, você pode tentar alterar o driver do seu mouse para o driver padrão incluído com o sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9111,6 +9135,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This assumes there is such a driver for your particular mouse and that you can live without the features provided by your mouse's custom software.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203622Z" creationid="Setur" creationdate="20210719T203622Z">
+        <seg>Isso assume que existe um driver para seu mouse em particular e que você pode ficar numa boa sem as funcionalidades extras proporcionadas pelo software personalizado do seu mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can be done by applying &lt;a0&gt;this registry patch&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183058Z" creationid="Setur" creationdate="20210719T183039Z">
@@ -9171,6 +9203,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081303Z" creationid="Leo" creationdate="20210703T081303Z">
         <seg>Isso porque sua chance de sucesso é baixa e este método pode causar efeitos colaterais indesejados que são difíceis de serem desfeitos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is described on the &lt;a0&gt;remapping&lt;/a0&gt; page.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203726Z" creationid="Setur" creationdate="20210719T203726Z">
+        <seg>Isso está descrito na página de &lt;a0&gt;remapeamento de teclas&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9816,6 +9856,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;a0&gt;built-in variables for hotkeys&lt;/a0&gt; as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203743Z" creationid="Setur" creationdate="20210719T203743Z">
+        <seg>Use &lt;a0&gt;variáveis nativas para hotkeys&lt;/a0&gt; assim:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use SendPlay via the &lt;a0&gt;SendPlay&lt;/a0&gt; command, &lt;a1&gt;SendMode Play&lt;/a1&gt; and/or the &lt;a2&gt;hotstring option SP&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192111Z" creationid="Setur" creationdate="20210719T192111Z">
@@ -9828,6 +9876,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003518Z" creationid="Leo" creationdate="20210624T003518Z">
         <seg>Use o comando &lt;a0&gt;Send&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the names of the keys (Tab and Space) rather than their characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203647Z" creationid="Setur" creationdate="20210719T203647Z">
+        <seg>Use os nomes das teclas (Tab e Space) em vez de seus caracteres.</seg>
       </tuv>
     </tu>
     <tu>

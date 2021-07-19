@@ -3158,6 +3158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can I run AHK from a USB drive?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173701Z" creationid="Setur" creationdate="20210719T173701Z">
+        <seg>Posso rodar o AHK a partir de um pendrive?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CapsLock and IME</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065603Z" creationid="Leo" creationdate="20210702T065603Z">
@@ -3298,6 +3306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193037Z" creationid="Leo" creationdate="20210622T193037Z">
         <seg>Comandos x funções()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Common Tasks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173631Z" creationid="Setur" creationdate="20210719T173631Z">
+        <seg>Tarefas comuns</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091336Z" creationid="Leo" creationdate="20210703T081345Z">
         <seg>desabilite ou remova qualquer software extra que tenha vindo com seu teclado ou mouse ou altere seu driver para um mais padronizado, como aquele nativo do sistema operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does it really contain a virus?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173627Z" creationid="Setur" creationdate="20210719T173627Z">
+        <seg>Ele contém mesmo um vírus?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4291,6 +4315,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173321Z" creationid="Setur" creationdate="20210719T173321Z">
         <seg>Como eu posso consertar erros em meu código?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can performance be improved for games or at other times when the CPU is under heavy load?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173552Z" creationid="Setur" creationdate="20210719T173552Z">
+        <seg>Como posso melhorar o desempenho do meu script durante a execução de jogos ou quando o processador estiver sob forte demanda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can the output of a command line operation be retrieved?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173721Z" creationid="Setur" creationdate="20210719T173721Z">
+        <seg>Como posso obter a saída de uma operação da linha de comando?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5475,6 +5515,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183744Z" creationid="Leo" creationdate="20210702T183744Z">
         <seg>Mutar o volume</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My antivirus program flagged AHK as malware.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173616Z" creationid="Setur" creationdate="20210719T173616Z">
+        <seg>Meu antivirus está dizendo que o AHK é malware.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8424,6 +8472,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Where can I find the official build, or older releases?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173650Z" creationid="Setur" creationdate="20210719T173650Z">
+        <seg>Onde posso achar o build oficial, ou versões mais antigas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whether it's 1, or 3253 (or more).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210452Z" creationid="Leo" creationdate="20210623T195908Z">
@@ -8492,6 +8548,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173201Z" creationid="Setur" creationdate="20210719T173201Z">
         <seg>Por que meu script não roda no Windows &lt;e0&gt;xxx&lt;/e0&gt; mesmo que tenha funcionado em uma versão anterior?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why don't Hotstrings, Send, and MouseClick work in certain games?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173458Z" creationid="Setur" creationdate="20210719T173458Z">
+        <seg>Por que as Hotstrings, o comando Send e o comando MouseClick não funcionam em alguns jogos?</seg>
       </tuv>
     </tu>
     <tu>

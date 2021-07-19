@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Update this to reflect the script's name (case sensitive).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195938Z" creationid="Setur" creationdate="20210719T195938Z">
+        <seg>; Mude isto para refletir o nome do script (diferencia maiúsculas de minúsculas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Variable inside a command that uses InputVar and OutputVar.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052818Z" creationid="Leo" creationdate="20210626T052818Z">
@@ -6911,6 +6919,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PostMessage, 0x0111, 65305,,, ScriptFileName.ahk - AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200029Z" creationid="Setur" creationdate="20210719T200019Z">
+        <seg>PostMessage, 0x0111, 65305,,, NomeDoArquivoDoScript.ahk - AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press one of the "mystery keys" on your keyboard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080746Z" creationid="Leo" creationdate="20210703T075746Z">
@@ -8992,6 +9008,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To &lt;a0&gt;suspend&lt;/a0&gt;, &lt;a1&gt;pause&lt;/a1&gt; or &lt;a2&gt;reload&lt;/a2&gt; another script, replace the last line above with one of these:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200007Z" creationid="Setur" creationdate="20210719T200007Z">
+        <seg>Para &lt;a0&gt;suspender&lt;/a0&gt;, &lt;a1&gt;pausar&lt;/a1&gt; ou &lt;a2&gt;recarregar&lt;/a2&gt; outro script, substitua a linha acima com uma destas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add new keys and values:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212207Z" creationid="Leo" creationdate="20210627T212207Z">
@@ -9924,6 +9948,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T224029Z" creationid="Leo" creationdate="20210629T045915Z">
         <seg>WinActivate, Sem título - Bloco de Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WinClose ScriptFileName.ahk - AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195851Z" creationid="Setur" creationdate="20210719T195851Z">
+        <seg>WinClose NomeDoArquivoDoScript.ahk - AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>

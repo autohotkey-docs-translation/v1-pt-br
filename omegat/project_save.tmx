@@ -7791,6 +7791,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;a0&gt;Special Keys&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204708Z" creationid="Setur" creationdate="20210719T204708Z">
+        <seg>Vide &lt;a0&gt;Teclas Especiais&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;a0&gt;download page of AutoHotkey&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195056Z" creationid="Setur" creationdate="20210719T195056Z">
@@ -9179,6 +9187,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212842Z" creationid="Leo" creationdate="20210627T212842Z">
         <seg>Este método acrescenta os valores ao final do vetor &lt;i0&gt;MeuObjeto&lt;/i0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This &lt;a0&gt;example script&lt;/a0&gt; makes &lt;k1&gt;000&lt;/k1&gt; into an equals key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204748Z" creationid="Setur" creationdate="20210719T204748Z">
+        <seg>Este &lt;a0&gt;script de exemplo&lt;/a0&gt; transforma a tecla &lt;k1&gt;000&lt;/k1&gt; uma tecla de “igual”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10648,6 +10664,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Yes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204714Z" creationid="Setur" creationdate="20210719T204714Z">
+        <seg>Sim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are using &lt;c0&gt;MyVar&lt;/c0&gt; to store the return value of the function that is to the right of the &lt;c1&gt;:=&lt;/c1&gt; operator.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201829Z" creationid="Leo" creationdate="20210625T201829Z">
@@ -10668,6 +10692,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081202Z" creationid="Leo" creationdate="20210703T081202Z">
         <seg>Você também pode tentar pesquisar o &lt;a1&gt;fórum&lt;/a1&gt; por palavras-chaves como &lt;c2&gt;RawInput*&lt;/c2&gt;, &lt;c3&gt;USB HID&lt;/c3&gt; ou &lt;c4&gt;AHKHID&lt;/c4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the action by replacing the &lt;c2&gt;Send, =&lt;/c2&gt; line with line(s) of your choice.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204814Z" creationid="Setur" creationdate="20210719T204814Z">
+        <seg>Você pode alterar a ação substituindo a linha &lt;c2&gt;Send, =&lt;/c2&gt; com a linha(s) de sua escolha.</seg>
       </tuv>
     </tu>
     <tu>

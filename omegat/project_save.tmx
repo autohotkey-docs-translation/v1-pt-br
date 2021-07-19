@@ -7223,6 +7223,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press &lt;k0&gt;Win&lt;/k0&gt;+&lt;k1&gt;R&lt;/k1&gt; to open the Run dialog, then enter &lt;c2&gt;shell:startup&lt;/c2&gt; and click OK or &lt;k3&gt;Enter&lt;/k3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202820Z" creationid="Setur" creationdate="20210719T202820Z">
+        <seg>Pressione &lt;k0&gt;Win&lt;/k0&gt;+&lt;k1&gt;R&lt;/k1&gt; para abrir a janela Executar, daí digite &lt;c2&gt;shell:startup&lt;/c2&gt; e clique OK ou &lt;k3&gt;Enter&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press one of the "mystery keys" on your keyboard.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080746Z" creationid="Leo" creationdate="20210703T075746Z">
@@ -9319,6 +9327,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will open the Startup folder for the current user.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202832Z" creationid="Setur" creationdate="20210719T202832Z">
+        <seg>Isso irá abrir a pasta Inicializar do usuário atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will prevent many issues when you start having a lot of stuff in your scripts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221742Z" creationid="Leo" creationdate="20210622T210529Z">
@@ -9476,6 +9492,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T232339Z" creationid="Leo" creationdate="20210625T180912Z">
         <seg>Para segurar ou soltar uma tecla, envolva o nome da tecla em chaves e aí use as palavras UP ou DOWN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To instead open the folder for all users, enter &lt;c4&gt;shell:common startup&lt;/c4&gt; (however, in that case you must be an administrator to proceed).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202911Z" creationid="Setur" creationdate="20210719T202911Z">
+        <seg>Se, em vez disso, você quiser abrir a pasta Inicializar comum a todos os usuários, digite &lt;c4&gt;shell:common startup&lt;/c4&gt; (entretanto, neste caso você precisará ser um administrador para proceder).</seg>
       </tuv>
     </tu>
     <tu>

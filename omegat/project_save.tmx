@@ -3230,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But first, you need to find the script file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185216Z" creationid="Setur" creationdate="20210719T185216Z">
+        <seg>Mas antes, você deve encontrar o arquivo do script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But in fact &lt;b0&gt;they are needed&lt;/b0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175627Z" creationid="Leo" creationdate="20210625T175627Z">
@@ -3698,6 +3706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023842Z" creationid="Leo" creationdate="20210623T023842Z">
         <seg>Descrição</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disable UAC completely.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185130Z" creationid="Setur" creationdate="20210719T185130Z">
+        <seg>Desabilite o UAC completamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5747,6 +5763,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070702Z" creationid="Leo" creationdate="20210622T211749Z">
         <seg>Encontre o arquivo &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; ou um arquivo em que esteja escrito “AutoHotkey” e tenha um ponto de interrogação amarelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Look for AutoHotkey.ahk in the following directories:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185227Z" creationid="Setur" creationdate="20210719T185227Z">
+        <seg>Procure por AutoHotkey.ahk nos diretórios seguintes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7807,6 +7831,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The directory where you installed AutoHotkey, usually C:\Program Files\AutoHotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185705Z" creationid="Setur" creationdate="20210719T185705Z">
+        <seg>O diretório em que você instalou o AutoHotkey, normalmente C:\Arquivos de Programas\AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first line:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203226Z" creationid="Leo" creationdate="20210622T203226Z">
@@ -8283,6 +8315,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221040Z" creationid="Leo" creationdate="20210627T215434Z">
         <seg>Foi assim que muitos “prós” aprenderam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is not recommended, and is not feasible on Windows 8 or later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185138Z" creationid="Setur" creationdate="20210719T185138Z">
+        <seg>Isso não é recomendado e não é viável no Windows 8 e posteriores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9064,6 +9104,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What do I do?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185143Z" creationid="Setur" creationdate="20210719T185143Z">
+        <seg>O que eu faço?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What if you wanted to use &lt;e0&gt;ExcludeTitle&lt;/e0&gt; but not fill in &lt;e1&gt;WinText&lt;/e1&gt; or &lt;e2&gt;WinTitle&lt;/e2&gt;?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214919Z" creationid="Leo" creationdate="20210627T214919Z">
@@ -9512,6 +9560,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You need to fix the error in your script before you can get your tray icon back.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185206Z" creationid="Setur" creationdate="20210719T185206Z">
+        <seg>Você deve reparar o erro em seu script antes que você obtenha seu ícone de bandeja novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You ran AutoHotkey without &lt;a0&gt;telling it&lt;/a0&gt; which script file to run, and it couldn't find a script in either of &lt;a1&gt;the usual places&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204302Z" creationid="Leo" creationdate="20210701T065240Z">
@@ -9572,6 +9628,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215403Z" creationid="Leo" creationdate="20210627T215403Z">
         <seg>Você vai aprender um bocado desse jeito lendo a documentação, lendo os erros e descobrindo o que funciona e o que não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your &lt;e0&gt;Documents&lt;/e0&gt; (or &lt;e1&gt;My Documents&lt;/e1&gt;) folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185244Z" creationid="Setur" creationdate="20210719T185244Z">
+        <seg>Sua pasta de &lt;e0&gt;Documentos&lt;/e0&gt; (ou &lt;e1&gt;Meus Documentos&lt;/e1&gt;).</seg>
       </tuv>
     </tu>
     <tu>

@@ -2798,6 +2798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternatively, you can create a script file (something.ahk) anywhere you like, and run the script file instead of running AutoHotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190331Z" creationid="Setur" creationdate="20210719T190331Z">
+        <seg>Alternativamente, você pode criar um arquivo de script (algumacoisa.ahk) em qualquer lugar que você quiser, e executar o arquivo de script em vez de abrir o executável do AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although any single character can be used as a key name, its meaning (scan code or virtual keycode) depends on the current keyboard layout.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T083131Z" creationid="Leo" creationdate="20210702T071642Z">
@@ -4975,6 +4983,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If that doesn't work, you can open the file in Notepad or another editor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190211Z" creationid="Setur" creationdate="20210719T190211Z">
+        <seg>Se isso não funcionar, você pode abrir o arquivo no Bloco de Notas ou outro editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the computer has more than one joystick and you want to use one beyond the first, include the joystick number (max 16) in front of the control name.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090800Z" creationid="Leo" creationdate="20210703T074127Z">
@@ -5051,6 +5067,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074232Z" creationid="Leo" creationdate="20210703T074232Z">
         <seg>Se você tiver problemas para fazer um script reconhecer um joystick, uma pessoa reportou a necessidade de especificar um número de joystick que não seja 1 mesmo que somente um joystick esteja presente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you launch AutoHotkey from the Start menu or by running AutoHotkey.exe directly (without command line parameters), it will look for a script in one of the locations shown above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190249Z" creationid="Setur" creationdate="20210719T190249Z">
+        <seg>Se você executar o AutoHotkey a partir do Menu Iniciar ou executando o arquivo AutoHotkey.exe diretamente (sem parâmetros da linha de comando), ele irá procurar por um script em um dos locais acima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6331,6 +6355,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185827Z" creationid="Leo" creationdate="20210702T185827Z">
         <seg>Note que &lt;a2&gt;símbolos de prefixos de hotkeys&lt;/a2&gt; como ^ (control) e + (shift) não são suportados (apesar de &lt;a3&gt;GetKeyState()&lt;/a3&gt; poder ser usada como substituta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that depending on your system settings the ".ahk" part may be hidden, but the file should have an icon like</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190137Z" creationid="Setur" creationdate="20210719T190137Z">
+        <seg>Note que, dependendo das configurações do seu sistema, a parte ".ahk" pode estar oculta, mas o arquivo deverá ter um ícone como</seg>
       </tuv>
     </tu>
     <tu>
@@ -9532,6 +9564,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183941Z" creationid="Leo" creationdate="20210625T183941Z">
         <seg>Você pode identificar o que é um comando ao olhar para sua sintaxe, ou seja, sua forma, seu visual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can usually edit a script file by right clicking it and selecting &lt;e0&gt;Edit Script&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190159Z" creationid="Setur" creationdate="20210719T190159Z">
+        <seg>Você geralmente pode editar um arquivo de script clicando com o botão direito e selecionando &lt;e0&gt;Edit Script&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

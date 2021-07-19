@@ -7463,6 +7463,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right click inside the window, and click "Paste Shortcut".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202943Z" creationid="Setur" creationdate="20210719T202943Z">
+        <seg>Clique com o botão direito dentro da janela e clique em "Colar atalho".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-Click on your desktop.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202256Z" creationid="Leo" creationdate="20210622T202256Z">
@@ -8043,6 +8051,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T231446Z" creationid="Leo" creationdate="20210703T230610Z">
         <seg>Visibilidade da barra lateral:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, the middle button and the turning of the &lt;a2&gt;mouse wheel&lt;/a2&gt; should be assignable normally except on mice whose drivers directly control those buttons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203132Z" creationid="Setur" creationdate="20210719T203132Z">
+        <seg>De maneira similar, o botão do meio e o rolar da &lt;a2&gt;roda do mouse&lt;/a2&gt; devem ser atribuíveis normalmente exceto em mouses cujos drivers controlam diretamente tais botões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8671,6 +8687,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The fourth button (XButton1) and the fifth button (XButton2) might be assignable if your mouse driver allows their clicks to be &lt;a0&gt;seen&lt;/a0&gt; by the system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203212Z" creationid="Setur" creationdate="20210719T203212Z">
+        <seg>O quarto botão (XButton1) e o quinto botão (XButton2) talvez sejam atribuíveis se o driver de seu mouse permitir que seus cliques sejam &lt;a0&gt;visíveis&lt;/a0&gt; pelo sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The function assigned to each of the keys listed below can be overridden by modifying the Windows registry.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183650Z" creationid="Leo" creationdate="20210702T183650Z">
@@ -8683,6 +8707,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212636Z" creationid="Leo" creationdate="20210622T212636Z">
         <seg>A tecla ou combinação de teclas deve aparecer à &lt;b1&gt;esquerda&lt;/b1&gt; dos &lt;c2&gt;::&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The left and right mouse buttons should be assignable normally (for example, &lt;c0&gt;#LButton::&lt;/c0&gt; is the &lt;k1&gt;Win&lt;/k1&gt;+LeftButton hotkey).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203051Z" creationid="Setur" creationdate="20210719T203051Z">
+        <seg>Os botões esquerdo e direito devem ser atribuíveis normalmente (por exemplo, &lt;c0&gt;#LButton::&lt;/c0&gt; é a hotkey &lt;k1&gt;Win&lt;/k1&gt;+BotãoDireito).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8795,6 +8827,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210210Z" creationid="Leo" creationdate="20210622T210210Z">
         <seg>Segunda linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcut to the script should now be in the Startup folder.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202958Z" creationid="Setur" creationdate="20210719T202958Z">
+        <seg>O atalho para o script deverá agora estar na pasta Inicializar.</seg>
       </tuv>
     </tu>
     <tu>

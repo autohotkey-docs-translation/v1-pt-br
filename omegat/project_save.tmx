@@ -2790,6 +2790,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any advice?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174330Z" creationid="Setur" creationdate="20210719T174330Z">
+        <seg>Algum conselho?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text needs to be in quotes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204124Z" creationid="Leo" creationdate="20210625T204124Z">
@@ -4391,6 +4399,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can a hotkey or hotstring be made exclusive to certain program(s)?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174531Z" creationid="Setur" creationdate="20210719T174531Z">
+        <seg>Como fazer com que uma hotkey ou hotstring funcione exclusivamente em um(alguns) programa(s)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can a prefix key be made to perform its native function rather than doing nothing?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174621Z" creationid="Setur" creationdate="20210719T174621Z">
+        <seg>Como posso fazer com que uma tecla de prefixo execute sua função nativa em vez de não fazer nada?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How can a repeating action be stopped without exiting the script?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173808Z" creationid="Setur" creationdate="20210719T173808Z">
@@ -4423,6 +4447,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can keys or mouse buttons be remapped so that they become different keys?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174437Z" creationid="Setur" creationdate="20210719T174437Z">
+        <seg>Como remapear teclas e botões do mouse de forma que eles se tornem teclas diferentes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How can performance be improved for games or at other times when the CPU is under heavy load?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173552Z" creationid="Setur" creationdate="20210719T173552Z">
@@ -4431,10 +4463,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can tab and space be defined as hotkeys?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174340Z" creationid="Setur" creationdate="20210719T174340Z">
+        <seg>Como definir as teclas Tab e Espaço como hotkeys?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How can the output of a command line operation be retrieved?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173721Z" creationid="Setur" creationdate="20210719T173721Z">
         <seg>Como posso obter a saída de uma operação da linha de comando?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How do I detect the double press of a key or button?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174458Z" creationid="Setur" creationdate="20210719T174458Z">
+        <seg>Como eu detecto o duplo pressionamento de uma tecla ou botão?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4755,6 +4803,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204201Z" creationid="Leo" creationdate="20210625T204201Z">
         <seg>No modo de expressão, as variáveis não precisam de sinais de porcentagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, I want a certain key to act as it normally does except when a specific window is active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174551Z" creationid="Setur" creationdate="20210719T174551Z">
+        <seg>Em outras palavras, eu quero que determinada tecla funcione normalmente exceto quando uma janela específica está ativa.</seg>
       </tuv>
     </tu>
     <tu>

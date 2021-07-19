@@ -3742,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consider the following example, which makes Numpad0 into a prefix key:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203954Z" creationid="Setur" creationdate="20210719T203954Z">
+        <seg>Considere o exemplo seguinte, em que a tecla Numpad0 é feita de tecla de prefixo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content (default)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230559Z" creationid="Leo" creationdate="20210703T230559Z">
@@ -4969,8 +4977,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Hotstrings.htm</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044512Z" creationid="Leo" creationdate="20210629T044512Z">
-        <seg>Hotstrings.htm</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203806Z" creationid="Leo" creationdate="20210629T044512Z">
+        <seg>Hotstrings.htmHotstrings.htm</seg>
       </tuv>
     </tu>
     <tu>
@@ -5067,6 +5075,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174029Z" creationid="Setur" creationdate="20210719T174029Z">
         <seg>Como posso controlar o Winamp mesmo que a janela dele não esteja ativa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can a &lt;a0&gt;hotkey&lt;/a0&gt; or &lt;a1&gt;hotstring&lt;/a1&gt; be made exclusive to certain program(s)?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203837Z" creationid="Setur" creationdate="20210719T203837Z">
+        <seg>Como posso fazer com que uma &lt;a0&gt;hotkey&lt;/a0&gt; ou &lt;a1&gt;hotstring&lt;/a1&gt; seja exclusiva de certo(s) programa(s)?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6447,6 +6463,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox double-press</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203800Z" creationid="Setur" creationdate="20210719T203800Z">
+        <seg>MsgBox pressione duas vezes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, %A_AhkVersion%</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045719Z" creationid="Leo" creationdate="20210629T045719Z">
@@ -6951,6 +6975,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Now, to make Numpad0 send a real Numpad0 keystroke whenever it wasn't used to launch a hotkey such as the above, add the following hotkey:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204353Z" creationid="Setur" creationdate="20210719T204353Z">
+        <seg>Agora, para fazer com que a tecla Numpad0 envie um pressionamento real de Numpad0 toda vez que ela não tiver sido usada como uma hotkey como no caso acima, adicione a hotkey a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number := 6</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052146Z" creationid="Leo" creationdate="20210626T052146Z">
@@ -6987,6 +7019,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045918Z" creationid="Leo" creationdate="20210629T045918Z">
         <seg>Numpad0 &amp; Numpad1::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Numpad0 &amp; Numpad1::MsgBox, You pressed Numpad1 while holding down Numpad0.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204006Z" creationid="Setur" creationdate="20210719T204006Z">
+        <seg>Numpad0 &amp; Numpad1::MsgBox, Você pressionou Numpad1 enquanto segurava Numpad0.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8819,6 +8859,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090422Z" creationid="Leo" creationdate="20210703T073435Z">
         <seg>o controle de ponto de visão (hat switch ou comutador). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The preferred method is &lt;a0&gt;#IfWinActive&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203854Z" creationid="Setur" creationdate="20210719T203854Z">
+        <seg>O método preferido é &lt;a0&gt;#IfWinActive&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14164,6 +14212,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185020Z" creationid="Leo" creationdate="20210702T185020Z">
         <seg>^VK24::MsgBox Você pressionou Home ou NumpadHome enquanto mantinha pressionada a tecla Control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^a::MsgBox You pressed Control-A while Notepad is active.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203927Z" creationid="Setur" creationdate="20210719T203927Z">
+        <seg>^a::MsgBox Você pressionou Ctrl+A enquanto o Bloco de Notas estava ativo.</seg>
       </tuv>
     </tu>
     <tu>

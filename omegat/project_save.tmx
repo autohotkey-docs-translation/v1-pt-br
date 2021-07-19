@@ -3710,6 +3710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Disable the local security policy "Run all administrators in Admin Approval Mode" (not recommended).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185122Z" creationid="Setur" creationdate="20210719T185122Z">
+        <seg>Desabilite a política de segurança "Executar todos os administradores em Modo de Aprovação do Administrador" (não recomendado).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Does it really contain a virus?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173627Z" creationid="Setur" creationdate="20210719T173627Z">
@@ -6287,6 +6295,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that this also causes any programs launched by the script to run as administrator, and may require the user to accept an approval prompt when launching the script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185046Z" creationid="Setur" creationdate="20210719T185046Z">
+        <seg>Note que isso faz com que quaisquer programas abertos pelo script também rodem como administrador, e podem exigir que o usuário aceite um prompt de aprovação ao executar o script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number := 6</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052146Z" creationid="Leo" creationdate="20210626T052146Z">
@@ -6803,6 +6819,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230805Z" creationid="Leo" creationdate="20210703T230805Z">
         <seg>Execute o arquivo CHM como administrador ou crie o arquivo de configuração manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run the script &lt;a0&gt;as administrator&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184950Z" creationid="Setur" creationdate="20210719T184950Z">
+        <seg>Execute o script &lt;a0&gt;como administrador&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

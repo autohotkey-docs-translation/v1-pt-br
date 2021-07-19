@@ -4334,6 +4334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find the script file, select it, and press &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;C&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202542Z" creationid="Setur" creationdate="20210719T202542Z">
+        <seg>Encontre o arquivo do script, selecione-o e pressione &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;C&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finding your AHK version</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193341Z" creationid="Leo" creationdate="20210622T193341Z">
@@ -5939,6 +5947,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T222019Z" creationid="Leo" creationdate="20210627T222019Z">
         <seg>É uma sensação ótima conseguir fazer algo sem ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's also possible with some rudimentary methods using Gui, but in a limited way.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202317Z" creationid="Setur" creationdate="20210719T202317Z">
+        <seg>Também é possível desenhar por métodos rudimentares usando Gui, mas de forma limitada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8607,6 +8623,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The easiest is to place a shortcut to the script in the Startup folder:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202522Z" creationid="Setur" creationdate="20210719T202522Z">
+        <seg>O mais fácil é colocar um atalho para o script na pasta Inicializar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The first line:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203226Z" creationid="Leo" creationdate="20210622T203226Z">
@@ -8855,6 +8879,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are also user-created solutions such as &lt;a0&gt;OnWin.ahk&lt;/a0&gt; and &lt;a1&gt;[How to] Hook on to Shell to receive its messages&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202437Z" creationid="Setur" creationdate="20210719T202437Z">
+        <seg>Também há algumas soluções criadas por usuários como &lt;a0&gt;OnWin.ahk&lt;/a0&gt; e &lt;a1&gt;[Como] Enganchar no Shell para receber suas mensagens&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are many variations of this problem, such as:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183615Z" creationid="Setur" creationdate="20210719T183615Z">
@@ -8891,6 +8923,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051512Z" creationid="Leo" creationdate="20210626T051512Z">
         <seg>Há vários jeitos de fazer isso, mas o mais simples é por meio do comando &lt;a0&gt;InputBox&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are several ways to make a script (or any program) launch automatically every time you start your PC.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202502Z" creationid="Setur" creationdate="20210719T202502Z">
+        <seg>Existem vários jeitos de fazer com que um script (ou qualquer programa) inicie automaticamente toda vez que você iniciar seu PC.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9684,6 +9724,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201859Z" creationid="Setur" creationdate="20210719T201859Z">
         <seg>Use o comando &lt;a0&gt;FormatTime&lt;/a0&gt; ou as &lt;a1&gt;variáveis nativas para data e horário&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;a0&gt;WinWait&lt;/a0&gt;, &lt;a1&gt;WinWaitClose&lt;/a1&gt; or &lt;a2&gt;WinWait[Not]Active&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202337Z" creationid="Setur" creationdate="20210719T202337Z">
+        <seg>Use &lt;a0&gt;WinWait&lt;/a0&gt;, &lt;a1&gt;WinWaitclose&lt;/a1&gt; ou &lt;a2&gt;WinWait[Not]Active&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

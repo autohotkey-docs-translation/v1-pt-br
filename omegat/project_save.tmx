@@ -3718,6 +3718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Everywhere in &lt;a0&gt;expressions&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T175239Z" creationid="Setur" creationdate="20210719T175239Z">
+        <seg>Em qualquer lugar dentro de &lt;a0&gt;expressões&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Everywhere in expressions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051246Z" creationid="Leo" creationdate="20210626T051246Z">

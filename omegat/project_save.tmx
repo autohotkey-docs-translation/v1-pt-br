@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Prevents the status bar from showing a mouse-hover link instead of "Done".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201445Z" creationid="Setur" creationdate="20210719T201445Z">
+        <seg>; Impede que a barra de status exiba um link de sobreposição de cursor em vez de "Concluído".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Release the up-arrow key.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181141Z" creationid="Leo" creationdate="20210625T181141Z">
@@ -2574,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Older, less reliable method:&lt;/s0&gt; The technique in the following example will work with MS Internet Explorer for most pages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201400Z" creationid="Setur" creationdate="20210719T201400Z">
+        <seg>Um método mais antigo e menos confiável: a técnica no exemplo a seguir funcionará com o Internet Explorer na maioria das páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Other:&lt;/s0&gt; The suggestions above cover the most common problems.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182430Z" creationid="Setur" creationdate="20210719T182430Z">
@@ -2746,6 +2762,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T223631Z" creationid="Leo" creationdate="20210623T023445Z">
         <seg>Uma coisa legal de se saber é que você pode ter várias linhas de código para cada hotkey, para cada rótulo e para um bando de outras coisas de que não falamos ainda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A similar technique might work in other browsers:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201412Z" creationid="Setur" creationdate="20210719T201412Z">
+        <seg>Uma técnica similar talvez funcione em outros navegadores:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6255,6 +6279,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MsgBox The page is done loading.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201522Z" creationid="Setur" creationdate="20210719T201522Z">
+        <seg>MsgBox A página terminou de carregar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox The wait timed out or the window was closed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201514Z" creationid="Setur" creationdate="20210719T201514Z">
+        <seg>MsgBox A espera se esgotou ou a janela foi fechada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MsgBox, %A_AhkVersion%</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045719Z" creationid="Leo" creationdate="20210629T045719Z">
@@ -8351,6 +8391,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;a0&gt;EnvAdd&lt;/a0&gt; command can add or subtract a quantity of days, hours, minutes, or seconds to a time-string that is in the &lt;a1&gt;YYYYMMDDHH24MISS&lt;/a1&gt; format.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201617Z" creationid="Setur" creationdate="20210719T201617Z">
+        <seg>O comando &lt;a0&gt;EnvAdd&lt;/a0&gt; pode adicionar ou subtrair uma quantidade de dias, horas, minutos ou segundos de uma string de tempo que esteja no formato &lt;a1&gt;YYYYMMDDHH24MISS&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;a0&gt;gigantic table on the Send page&lt;/a0&gt; shows pretty much every special key built-in to AHK.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T045425Z" creationid="Leo" creationdate="20210624T045425Z">
@@ -8443,6 +8491,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203226Z" creationid="Leo" creationdate="20210622T203226Z">
         <seg>Primeira linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following example subtracts 7 days from the specified time:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201635Z" creationid="Setur" creationdate="20210719T201635Z">
+        <seg>O exemplo abaixo subtrai 7 dias do horário especificado:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14026,8 +14082,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>else</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220741Z" creationid="Leo" creationdate="20210627T220741Z">
-        <seg>else</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201515Z" creationid="Leo" creationdate="20210627T220741Z">
+        <seg>elseelse</seg>
       </tuv>
     </tu>
     <tu>

@@ -4078,6 +4078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For complex scripts, see &lt;a3&gt;Interactive Debugging&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190448Z" creationid="Setur" creationdate="20210719T190448Z">
+        <seg>Para scripts complexos, vide &lt;a3&gt;Depuração Interativa&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For details, see &lt;a3&gt;auto-execute section&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183257Z" creationid="Setur" creationdate="20210719T183257Z">
@@ -4234,6 +4242,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080057Z" creationid="Leo" creationdate="20210703T080057Z">
         <seg>Para possíveis soluções, continue lendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For simple scripts, see &lt;a0&gt;Debugging a Script&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190419Z" creationid="Setur" creationdate="20210719T190419Z">
+        <seg>Para scripts simples, veja &lt;a0&gt;Depurando um Script&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4995,6 +5011,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090800Z" creationid="Leo" creationdate="20210703T074127Z">
         <seg>se o computador possui mais de um joystick e você deseja usar um que não seja o primeiro, inclua o número do joystick (máximo de 16) na frente do nome do controle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the program you are trying to start is in &lt;c0&gt;%A_WinDir%\System32&lt;/c0&gt; and you are using AutoHotkey 32-bit on a 64-bit system, the &lt;a1&gt;File System Redirector&lt;/a1&gt; may be interfering.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190646Z" creationid="Setur" creationdate="20210719T190646Z">
+        <seg>Se o programa que você está tentando iniciar está na pasta &lt;c0&gt;%A_WinDir\System32%&lt;/c0&gt; e você está usando AutoHotkey de 32 bits num sistema de 64 bits, o &lt;a1&gt;Redirecionador de Arquivos do Sistema&lt;/a1&gt; pode estar interferindo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6935,6 +6959,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run, %A_ProgramFiles%\Some Application\App.exe, %A_ProgramFiles%\Some Application</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190549Z" creationid="Setur" creationdate="20210719T190549Z">
+        <seg>Run, %A_ProgramFiles%\Um Programa\App.exe, %A_ProgramFiles%\Um programa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run, %A_ProgramFiles%\Some_Program\Program.exe</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050335Z" creationid="Leo" creationdate="20210629T050335Z">
@@ -7075,6 +7107,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221152Z" creationid="Leo" creationdate="20210627T221152Z">
         <seg>Veja o artigo &lt;a0&gt;Indentation Style&lt;/a0&gt; na Wikipédia em inglês para ver vários estilos e exemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See also &lt;a0&gt;Command Line Parameter "Script Filename"&lt;/a0&gt; and &lt;a1&gt;Portability of AutoHotkey.exe&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190403Z" creationid="Setur" creationdate="20210719T190403Z">
+        <seg>Veja também &lt;a0&gt;Parâmetro da Linha de Comando "Nome do Arquivo de Script"&lt;/a0&gt; e &lt;a1&gt;Portabilidade do AutoHotkey.exe&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7547,6 +7587,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075914Z" creationid="Leo" creationdate="20210703T075914Z">
         <seg>Algumas teclas não geram eventos e, por isso, não serão visíveis aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some programs need to be started in their own directories (when in doubt, it is usually best to do so).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190527Z" creationid="Setur" creationdate="20210719T190527Z">
+        <seg>Alguns programas precisam ser iniciados em seus próprios diretórios (quando em dúvida, costuma ser melhor fazê-lo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8728,6 +8776,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To show contents of a variable, use &lt;a1&gt;MsgBox&lt;/a1&gt; or &lt;a2&gt;ToolTip&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190437Z" creationid="Setur" creationdate="20210719T190437Z">
+        <seg>Para exibir o conteúdo de uma variável, use &lt;a1&gt;MsgBox&lt;/a1&gt; ou &lt;a2&gt;ToolTip&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To turn off context sensitivity for subsequent hotkeys or hotstrings, specify any #IfWin directive but leave all of its parameters blank.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220000Z" creationid="Leo" creationdate="20210623T154300Z">
@@ -9420,6 +9476,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173458Z" creationid="Setur" creationdate="20210719T173458Z">
         <seg>Por que as Hotstrings, o comando Send e o comando MouseClick não funcionam em alguns jogos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why is the &lt;a0&gt;Run&lt;/a0&gt; command unable to launch my game or program?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190506Z" creationid="Setur" creationdate="20210719T190506Z">
+        <seg>Por que o comando &lt;a0&gt;Run&lt;/a0&gt; é incapaz de executar meu jogo ou programa?</seg>
       </tuv>
     </tu>
     <tu>

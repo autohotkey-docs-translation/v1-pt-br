@@ -8720,6 +8720,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When commas or percent signs are enclosed in quotes within an &lt;a0&gt;expression&lt;/a0&gt;, the accent is permitted but not necessary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T181710Z" creationid="Setur" creationdate="20210719T181710Z">
+        <seg>Quando vírgulas ou sinais de porcentagem estão entre aspas dentro de uma &lt;a0&gt;expressão&lt;/a0&gt;, o acento é permitido mas não necessário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When exactly are variable names enclosed in percent signs?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T172926Z" creationid="Setur" creationdate="20210719T172926Z">

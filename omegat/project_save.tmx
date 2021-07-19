@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any lines you want to execute immediately when the script starts should appear at the top of the script, prior to the first &lt;a0&gt;hotkey&lt;/a0&gt;, &lt;a1&gt;hotstring&lt;/a1&gt;, or &lt;a2&gt;Return&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183241Z" creationid="Setur" creationdate="20210719T183241Z">
+        <seg>Quaisquer linhas que você quiser que sejam executadas imediatamente quando o script inicia devem vir no começo do script, antes da primeira &lt;a0&gt;hotkey&lt;/a0&gt;, &lt;a1&gt;hotstring&lt;/a1&gt; ou &lt;a2&gt;Return&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text needs to be in quotes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204124Z" creationid="Leo" creationdate="20210625T204124Z">
@@ -3954,6 +3962,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210032Z" creationid="Leo" creationdate="20210622T202024Z">
         <seg>Para instruções em vídeo, assista &lt;a0&gt;Instalar e Hello World&lt;/a0&gt; no YouTube (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, see &lt;a3&gt;auto-execute section&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183257Z" creationid="Setur" creationdate="20210719T183257Z">
+        <seg>Para detalhes, vide &lt;a3&gt;seção de autoexecução&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5251,6 +5267,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221607Z" creationid="Leo" creationdate="20210622T210503Z">
         <seg>Ela literalmente &lt;s1&gt;para&lt;/s1&gt; o código, impedindo que ele prossiga na execução rumo às linhas abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It may also be necessary to repair the default registry values, either by reinstalling AutoHotkey or by running AutoHotkey Setup (from the Start menu) and selecting &lt;e0&gt;apply&lt;/e0&gt; near the top of the window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183152Z" creationid="Setur" creationdate="20210719T183152Z">
+        <seg>Também pode ser necessário restaurar os valores padrão do registro, seja reinstalando o AutoHotkey ou executando seu setup (a partir do Menu Iniciar) e selecionando &lt;e0&gt;aplicar&lt;/e0&gt; perto do topo da janela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7979,6 +8003,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091527Z" creationid="Leo" creationdate="20210703T081549Z">
         <seg>Isto pressupõe que existe um driver para seu teclado ou mouse em particular e que você tolera ficar numa boa sem as funcionalidades fornecidas pelo software e driver personalizado do teclado ou mouse. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be done by applying &lt;a0&gt;this registry patch&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183058Z" creationid="Setur" creationdate="20210719T183039Z">
+        <seg>Isso pode ser feito &lt;a0&gt;aplicando-se este patch do registro&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be fixed by deleting the following registry key:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183044Z" creationid="Setur" creationdate="20210719T183028Z">
+        <seg>Para consertar isso, delete esta chave de registro:</seg>
       </tuv>
     </tu>
     <tu>

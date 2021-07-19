@@ -2070,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c2&gt;EnvAdd, VarContainingTimestamp, -7, days&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201654Z" creationid="Setur" creationdate="20210719T201654Z">
+        <seg>&lt;c2&gt;EnvAdd, VarContendoOHorario, -7, days&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c2&gt;Send&lt;/c2&gt; is the command, anything after the comma (,) will be typed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210323Z" creationid="Leo" creationdate="20210622T210323Z">
@@ -2938,6 +2946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183400Z" creationid="Setur" creationdate="20210719T183400Z">
         <seg>Do mesmo modo, uma &lt;a0&gt;hotkey&lt;/a0&gt; que executa mais que uma linha deve ter sua primeira linha &lt;e1&gt;debaixo&lt;/e1&gt; da hotkey, não na mesma linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, the built-in variable &lt;a1&gt;A_Now&lt;/a1&gt; contains the current local time.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201751Z" creationid="Setur" creationdate="20210719T201751Z">
+        <seg>A variável nativa &lt;a1&gt;A_Now&lt;/a1&gt; também contém o horário local atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4250,6 +4266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204232Z" creationid="Leo" creationdate="20210701T071651Z">
         <seg>Finalmente, o AutoHotkey não seria o que é hoje se não fosse por &lt;a0&gt;estes outros indivíduos&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, there are several built-in &lt;a2&gt;date/time variables&lt;/a2&gt;, as well as the &lt;a3&gt;FormatTime&lt;/a3&gt; command to create a custom date/time string.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201829Z" creationid="Setur" creationdate="20210719T201829Z">
+        <seg>Finalmente, há várias variáveis de &lt;a2&gt;data/horário&lt;/a2&gt; nativas, bem como o comando &lt;a3&gt;FormatTime&lt;/a3&gt; para criar uma string de data/horário personalizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7535,6 +7559,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;a0&gt;Automating Winamp&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201925Z" creationid="Setur" creationdate="20210719T201925Z">
+        <seg>Vide &lt;a0&gt;Automatização do Winamp&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;a0&gt;Portability of AutoHotkey.exe&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195110Z" creationid="Setur" creationdate="20210719T195110Z">
@@ -9264,6 +9296,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To determine the amount of time between two dates or times, see &lt;a0&gt;EnvSub&lt;/a0&gt;, which gives an example.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201717Z" creationid="Setur" creationdate="20210719T201717Z">
+        <seg>Para determinar a quantidade de tempo entre duas datas ou horários, veja &lt;a0&gt;EnvSub&lt;/a0&gt;, que contém um exemplo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To directly add a key and value, just set a key that doesn't exist yet.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212258Z" creationid="Leo" creationdate="20210627T212258Z">
@@ -9548,6 +9588,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203221Z" creationid="Leo" creationdate="20210622T203221Z">
         <seg>Até lá, aqui está uma explicação do código acima:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;a0&gt;FormatTime&lt;/a0&gt; or &lt;a1&gt;built-in variables for date and time&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201859Z" creationid="Setur" creationdate="20210719T201859Z">
+        <seg>Use o comando &lt;a0&gt;FormatTime&lt;/a0&gt; ou as &lt;a1&gt;variáveis nativas para data e horário&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3470,6 +3470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Common workarounds are as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184516Z" creationid="Setur" creationdate="20210719T184516Z">
+        <seg>Soluções de contorno comuns são as seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compile Script (depending on the &lt;e0&gt;Install script compiler&lt;/e0&gt; installation option)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182751Z" creationid="Setur" creationdate="20210719T182751Z">
@@ -3810,6 +3818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182800Z" creationid="Setur" creationdate="20210719T182800Z">
         <seg>Edit Script (Editar Script)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable the &lt;e0&gt;&lt;a1&gt;Add 'Run with UI Access' to context menus&lt;/a1&gt;&lt;/e0&gt; option in AutoHotkey Setup.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184550Z" creationid="Setur" creationdate="20210719T184550Z">
+        <seg>Habilite a opção &lt;e0&gt;&lt;a1&gt;Add 'Run with UI Access' to context menus&lt;/a1&gt;&lt;/e0&gt; na instalação do AutoHotkey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6375,6 +6391,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once it is enabled, launch your script file by right-clicking it and selecting &lt;e2&gt;Run with UI Access&lt;/e2&gt;, or use a &lt;a3&gt;command line&lt;/a3&gt; like &lt;c4&gt;"AutoHotkeyU32_UIA.exe" "Your script.ahk"&lt;/c4&gt; (but include full paths).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184918Z" creationid="Setur" creationdate="20210719T184918Z">
+        <seg>Uma vez habilitada a opção, execute seu arquivo de script clicando com o botão direito nele e selecione &lt;e2&gt;Run with UI Access&lt;/e2&gt;, ou use uma &lt;a3&gt;linha de comando&lt;/a3&gt; como &lt;c4&gt;"AutoHotkeyU32_UIA.exe" "Seu script.ahk"&lt;/c4&gt; (mas inclua caminhos completos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have AutoHotkey installed, you will probably want it to do stuff.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070550Z" creationid="Leo" creationdate="20210622T202059Z">
@@ -8299,6 +8323,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212116Z" creationid="Leo" creationdate="20210627T212116Z">
         <seg>Esta notação permite somente que você use strings literais para as chaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option can be enabled or disabled without reinstalling AutoHotkey by re-running AutoHotkey Setup from the Start menu.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184657Z" creationid="Setur" creationdate="20210719T184657Z">
+        <seg>Essa opção pode ser habilitada ou desabilitada sem reinstalar o AutoHotkey ao se reexecutar o instalador a partir do Menu Iniciar.</seg>
       </tuv>
     </tu>
     <tu>

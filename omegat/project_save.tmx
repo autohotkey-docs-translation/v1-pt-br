@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c1&gt;MsgBox The current percentage is 25`%.&lt;/c1&gt; Literal commas must also be escaped (&lt;c2&gt;`,&lt;/c2&gt;) except when used in &lt;a3&gt;MsgBox&lt;/a3&gt; or the last parameter of any command (in which case the accent is permitted but not necessary).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180711Z" creationid="Setur" creationdate="20210719T180711Z">
+        <seg>&lt;c1&gt;MsgBox A porcentagem atual é de 25`%.&lt;/c1&gt; Vírgulas literais também devem ser escapadas (&lt;c2&gt;`,&lt;/c2&gt;) exceto quando usados dentro de &lt;a3&gt;MsgBox&lt;/a3&gt; ou como último parâmetro de qualquer comando (caso em que o acento é permitido mas não necessário).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c1&gt;Run, Notepad.exe "C:\My Documents\Address List.txt"&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T175007Z" creationid="Setur" creationdate="20210719T175007Z">
@@ -5471,6 +5479,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Literal percent signs must be &lt;a0&gt;escaped&lt;/a0&gt; by preceding them with an accent/backtick.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180541Z" creationid="Setur" creationdate="20210719T180541Z">
+        <seg>Sinais de porcentagem literais devem ser &lt;a0&gt;escapados&lt;/a0&gt; precedendo-os com um acento grave (backtick).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Look for &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; or a file that says AutoHotkey and has a yellow question mark on it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070702Z" creationid="Leo" creationdate="20210622T211749Z">
@@ -8708,6 +8724,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T172926Z" creationid="Setur" creationdate="20210719T172926Z">
         <seg>Quando exatamente os nomes de variáveis devem ser envolvidos por sinais de porcentagem?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When should percent signs and commas be &lt;a0&gt;escaped&lt;/a0&gt;?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180506Z" creationid="Setur" creationdate="20210719T180506Z">
+        <seg>Quando os sinais de porcentagem e vírgulas devem ser &lt;a0&gt;escapados&lt;/a0&gt;?</seg>
       </tuv>
     </tu>
     <tu>

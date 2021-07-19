@@ -1814,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;User Account Control (UAC)&lt;/a0&gt; is a common cause of problems, especially when moving from Windows XP/Vista/7 to Vista/7/8/10.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184128Z" creationid="Setur" creationdate="20210719T184128Z">
+        <seg>O &lt;a0&gt;Controle de Conta do Usuário&lt;/a0&gt; é uma causa comum de problemas, especialmente quando se está migrando do Windows XP/Vista/7 para Vista/7/8/10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Variables&lt;/a0&gt; are like little post-it notes that hold some information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203458Z" creationid="Leo" creationdate="20210625T203458Z">
@@ -2750,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also refer to the following question:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184036Z" creationid="Setur" creationdate="20210719T184036Z">
+        <seg>Também veja a seguinte pergunta:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also, a &lt;a0&gt;hotkey&lt;/a0&gt; that executes more than one line must list its first line &lt;e1&gt;beneath&lt;/e1&gt; the hotkey, not on the same line.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183400Z" creationid="Setur" creationdate="20210719T183400Z">
@@ -2786,6 +2802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T083131Z" creationid="Leo" creationdate="20210702T071642Z">
         <seg>Apesar de qualquer caractere individual poder ser usado como nome de tecla, seu significado (código de leitura ou código virtual) depende do layout do teclado usado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although it is present in Windows Vista and later, it is enabled by default on new systems or new installs, and it is more difficult to disable on Windows 8 and later.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184220Z" creationid="Setur" creationdate="20210719T184220Z">
+        <seg>Apesar de ser um componente presente no Windows Vista e posteriores, ele é habilitado por padrão em sistemas novos ou novas instalações, e é mais difícil de desabilitar no Windows 8 e mais recentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3162,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070517Z" creationid="Leo" creationdate="20210622T192458Z">
         <seg>Tutorial para iniciantes | AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Behaviour depends on the audio drivers, which are necessarily different to the ones used on XP.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184006Z" creationid="Setur" creationdate="20210719T184006Z">
+        <seg>O comportamento depende de drivers de áudio, que são necessariamente diferente daqueles usados no Windows XP.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5099,6 +5131,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T175101Z" creationid="Setur" creationdate="20210719T175101Z">
         <seg>Em parâmetros que sejam variáveis de entrada ou de saída:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In particular, device numbers are different and some components may be unavailable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183945Z" creationid="Setur" creationdate="20210719T183945Z">
+        <seg>Em particular, números de dispositivos são diferentes e alguns componentes podem não estar disponíveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7651,6 +7691,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180337Z" creationid="Setur" creationdate="20210719T180337Z">
         <seg>O prefixo &lt;a0&gt;porcentagem seguido de espaço&lt;/a0&gt; faz com que um parâmetro de um comando seja interpretado como uma expressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;a4&gt;soundcard analysis script&lt;/a4&gt; can be used to find the correct device numbers.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184029Z" creationid="Setur" creationdate="20210719T184029Z">
+        <seg>O &lt;a4&gt;script de análise de placa de som&lt;/a4&gt; pode ser usado para encontrar os números de dispositivos corretos.</seg>
       </tuv>
     </tu>
     <tu>

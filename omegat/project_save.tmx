@@ -2806,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although AutoHotkey supports Unicode text, it is optimized for backward-compatibility, which means defaulting to the ANSI encoding rather than the more internationally recommended UTF-8.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190847Z" creationid="Setur" creationdate="20210719T190847Z">
+        <seg>Apesar de o AutoHotkey suportar texto Unicode, ele é otimizado para retrocompatibilidade, o que significa usar a codificação ANSI em vez da internacionalmente recomendada UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although any single character can be used as a key name, its meaning (scan code or virtual keycode) depends on the current keyboard layout.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T083131Z" creationid="Leo" creationdate="20210702T071642Z">
@@ -3026,6 +3034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215039Z" creationid="Leo" creationdate="20210622T202111Z">
         <seg>O AHK não é mágica; nós todos queríamos que fosse, mas não é.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoHotkey will not automatically recognize a UTF-8 file unless it begins with a byte order mark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191039Z" creationid="Setur" creationdate="20210719T191039Z">
+        <seg>O AutoHotkey não irá reconhecer um arquivo UTF-8 automaticamente a não ser que ele inicie com uma marca de ordem de bytes (BOM — Byte Order Mark).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7055,6 +7071,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save the script as UTF-8 with BOM.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190755Z" creationid="Setur" creationdate="20210719T190755Z">
+        <seg>Salve o arquivo do script como UTF-8 com BOM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts.htm#continuation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043641Z" creationid="Leo" creationdate="20210629T043641Z">
@@ -7387,6 +7411,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044435Z" creationid="Leo" creationdate="20210629T044435Z">
         <seg>Shift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Short answer:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190739Z" creationid="Setur" creationdate="20210719T190739Z">
+        <seg>Resposta curta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8788,6 +8820,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220000Z" creationid="Leo" creationdate="20210623T154300Z">
         <seg>Para desabilitar a “sensibilidade ao contexto” para as hotkeys e hotstrings subsequentes, especifique qualquer diretiva #IfWin mas deixe todos seus parâmetros em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To work around this, use &lt;c2&gt;%A_WinDir%\SysNative&lt;/c2&gt; instead; this is a virtual directory only visible to 32-bit programs running on 64-bit systems.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190731Z" creationid="Setur" creationdate="20210719T190731Z">
+        <seg>Para contornar isso, use &lt;c2&gt;%A_WinDir%\SysNative&lt;/c2&gt; no lugar; esse é um diretório virtual visível somente pelos programas de 32 bits rodando em sistemas de 64 bits.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Press Ctrl+Alt+P to pause. Press it again to resume.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200320Z" creationid="Setur" creationdate="20210719T200320Z">
+        <seg>; Pressione Ctrl+Alt+P para pausar. Pressione de novo para retomar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Press down the up-arrow key.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181101Z" creationid="Leo" creationdate="20210625T181101Z">
@@ -1298,6 +1306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181141Z" creationid="Leo" creationdate="20210625T181141Z">
         <seg>; Solta a tecla SETA PARA CIMA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Reload.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200219Z" creationid="Setur" creationdate="20210719T200219Z">
+        <seg>; Recarrega.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,14 +2026,6 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T231610Z" creationid="Leo" creationdate="20210624T010544Z">
         <seg>&lt;c9&gt;^A&lt;/c9&gt; produz um efeito diferente de &lt;c10&gt;^a&lt;/c10&gt; em alguns programas</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;e0&gt;</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195609Z" creationid="Leo" creationdate="20210625T201924Z">
-        <seg>&lt;e0&gt;&lt;e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5431,6 +5439,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other words, pressing the hotkey once will start the Loop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200418Z" creationid="Setur" creationdate="20210719T200418Z">
+        <seg>Em outras palavras, pressionar a hotkey uma vez irá iniciar o Loop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In parameters that are input or output variables.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051049Z" creationid="Leo" creationdate="20210626T051049Z">
@@ -6919,10 +6935,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PostMessage, 0x0111, 65303,,, ScriptFileName.ahk - AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200212Z" creationid="Setur" creationdate="20210719T200212Z">
+        <seg>PostMessage, 0x0111, 65303,,, NomeDoArquivoDoScript.ahk - AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PostMessage, 0x0111, 65305,,, ScriptFileName.ahk - AutoHotkey</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200029Z" creationid="Setur" creationdate="20210719T200019Z">
         <seg>PostMessage, 0x0111, 65305,,, NomeDoArquivoDoScript.ahk - AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PostMessage, 0x0111, 65306,,, ScriptFileName.ahk - AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200202Z" creationid="Setur" creationdate="20210719T200202Z">
+        <seg>PostMessage, 0x0111, 65306,,, NomeDoArquivoDoScript.ahk - AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -9112,6 +9144,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To pause or resume the entire script at the press of a key, assign a hotkey to the &lt;a0&gt;Pause&lt;/a0&gt; command as in this example:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200302Z" creationid="Setur" creationdate="20210719T200302Z">
+        <seg>Para pausar ou retomar o script inteiro pressionando uma tecla, atribua a hotkey ao comando &lt;a0&gt;Pause&lt;/a0&gt; como neste exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To read other UTF-8 files which lack a byte order mark, use &lt;c0&gt;&lt;a1&gt;FileEncoding&lt;/a1&gt; UTF-8-RAW&lt;/c0&gt;, the &lt;c2&gt;*P65001&lt;/c2&gt; option with &lt;a3&gt;FileRead&lt;/a3&gt;, or &lt;c4&gt;"UTF-8-RAW"&lt;/c4&gt; for the third parameter of &lt;a5&gt;FileOpen()&lt;/a5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191618Z" creationid="Setur" creationdate="20210719T191618Z">
@@ -9180,6 +9220,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190437Z" creationid="Setur" creationdate="20210719T190437Z">
         <seg>Para exibir o conteúdo de uma variável, use &lt;a1&gt;MsgBox&lt;/a1&gt; ou &lt;a2&gt;ToolTip&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To stop an action that is repeating inside a &lt;a0&gt;Loop&lt;/a0&gt;, consider the following working example, which is a hotkey that both starts and stops its own repeating action.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200406Z" creationid="Setur" creationdate="20210719T200406Z">
+        <seg>Para interromper uma ação que está se repetindo dentro de um &lt;a0&gt;Loop&lt;/a0&gt;, considere o exemplo funcional abaixo, que é uma hotkey que tanto inicia quanto interrompe sua própria ação repetitiva.</seg>
       </tuv>
     </tu>
     <tu>

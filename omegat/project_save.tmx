@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Escaped&lt;/a0&gt; percent signs (&lt;c1&gt;`%&lt;/c1&gt;) and percent signs in &lt;a2&gt;quoted literal strings&lt;/a2&gt; have no special meaning (they are interpreted as literal percent signs).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180442Z" creationid="Setur" creationdate="20210719T180442Z">
+        <seg>Sinais de porcentagem &lt;a0&gt;escapados&lt;/a0&gt; (&lt;c1&gt;`%&lt;/c1&gt;) e sinais de porcentagem dentro de &lt;a2&gt;strings literais entre aspas&lt;/a2&gt; não têm significado especial (eles são interpretados como sinais de porcentagem literais).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;GNU General Public License&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063043Z" creationid="Leo" creationdate="20210701T070506Z">
@@ -6207,6 +6215,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Percent signs can also have other meanings:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180136Z" creationid="Setur" creationdate="20210719T180136Z">
+        <seg>Sinais de porcentagem também podem ter outros significados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Permission denied.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230748Z" creationid="Leo" creationdate="20210703T230748Z">
@@ -7371,6 +7387,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T045425Z" creationid="Leo" creationdate="20210624T045425Z">
         <seg>A &lt;a0&gt;tabela gigante na página sobre Send&lt;/a0&gt; mostra basicamente todas as teclas especiais nativas do AHK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;a0&gt;percent-space prefix&lt;/a0&gt; causes a command parameter to be interpreted as an expression.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180337Z" creationid="Setur" creationdate="20210719T180337Z">
+        <seg>O prefixo &lt;a0&gt;porcentagem seguido de espaço&lt;/a0&gt; faz com que um parâmetro de um comando seja interpretado como uma expressão.</seg>
       </tuv>
     </tu>
     <tu>

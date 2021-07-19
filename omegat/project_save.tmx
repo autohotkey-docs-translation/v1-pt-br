@@ -3150,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can I draw something with AHK?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174203Z" creationid="Setur" creationdate="20210719T174203Z">
+        <seg>Como eu desenho alguma coisa com o AHK?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can I find my script somewhere else?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173315Z" creationid="Setur" creationdate="20210719T173315Z">
@@ -4263,6 +4271,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hotkeys, Hotstrings, and Remapping</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174237Z" creationid="Setur" creationdate="20210719T174237Z">
+        <seg>Hotkeys, Hotstrings e Remapeamento de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hotstring modifiers go between the first set of colons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025516Z" creationid="Leo" creationdate="20210623T025516Z">
@@ -4311,10 +4327,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can I change the default editor, which is accessible via context menu or tray icon?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174104Z" creationid="Setur" creationdate="20210719T174104Z">
+        <seg>Como posso alterar o editor atual, que é acessível por meio do menu contexto ou ícone da bandeja?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How can I find and fix errors in my code?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173321Z" creationid="Setur" creationdate="20210719T173321Z">
         <seg>Como eu posso consertar erros em meu código?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can I save the contents of my GUI associated variables?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174149Z" creationid="Setur" creationdate="20210719T174149Z">
+        <seg>Como posso salvar o conteúdo das variáveis associadas à minha GUI?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4331,6 +4363,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173950Z" creationid="Setur" creationdate="20210719T173950Z">
         <seg>Como posso enviar a data e/ou o horário atuais?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can I start an action when a window appears, closes or becomes [in]active?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174226Z" creationid="Setur" creationdate="20210719T174226Z">
+        <seg>Como posso iniciar uma ação quando uma janela aparece, fecha ou torna-se (in)ativa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can MsgBox's button names be changed?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174045Z" creationid="Setur" creationdate="20210719T174045Z">
+        <seg>Como posso alterar os nomes dos botões das Caixas de Mensagens (MsgBox)?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4387,6 +4435,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173721Z" creationid="Setur" creationdate="20210719T173721Z">
         <seg>Como posso obter a saída de uma operação da linha de comando?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How do I put my hotkeys and hotstrings into effect automatically every time I start my PC?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174309Z" creationid="Setur" creationdate="20210719T174309Z">
+        <seg>Como eu ponho minhas hotkeys e hotstrings em funcionamento automaticamente toda vez que eu inicio meu PC?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4475,6 +4531,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214200Z" creationid="Leo" creationdate="20210627T214200Z">
         <seg>Espero que você tenha aprendido algo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm having trouble getting my mouse buttons working as hotkeys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174324Z" creationid="Setur" creationdate="20210719T174324Z">
+        <seg>Estou tendo problemas para fazer os botões do meu mouse funcionarem como hotkeys.</seg>
       </tuv>
     </tu>
     <tu>

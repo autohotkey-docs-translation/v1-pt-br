@@ -1878,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c1&gt;Run, Notepad.exe "C:\My Documents\Address List.txt"&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T175007Z" creationid="Setur" creationdate="20210719T175007Z">
+        <seg>&lt;c1&gt;Run, Notepad.exe "C:\Meus Documentos\Lista de Endereços.txt"&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c1&gt;^&lt;/c1&gt; means &lt;k2&gt;Ctrl&lt;/k2&gt;, &lt;c3&gt;j&lt;/c3&gt; is the letter &lt;k4&gt;J&lt;/k4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210120Z" creationid="Leo" creationdate="20210622T210120Z">
@@ -4895,6 +4903,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In parameters that are input or output variables:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T175101Z" creationid="Setur" creationdate="20210719T175101Z">
+        <seg>Em parâmetros que sejam variáveis de entrada ou de saída:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In short, you would probably want to choose UNICODE.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201823Z" creationid="Leo" creationdate="20210622T201823Z">
@@ -6035,6 +6051,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214534Z" creationid="Leo" creationdate="20210627T214534Z">
         <seg>Na página do comando &lt;a0&gt;ControlGetText&lt;/a0&gt; você verá isto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the left side of &lt;a0&gt;traditional (non-expression) if-statements&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T175217Z" creationid="Setur" creationdate="20210719T175217Z">
+        <seg>No lado esquerdo das &lt;a0&gt;instruções com if tradicionais (que não sejam expressões)&lt;/a0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8380,6 +8404,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045545Z" creationid="Leo" creationdate="20210629T045545Z">
         <seg>Var8 := Var " Text"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variable names are always enclosed in percent signs except in cases illustrated in &lt;s0&gt;bold&lt;/s0&gt; below:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T175050Z" creationid="Setur" creationdate="20210719T175050Z">
+        <seg>Nomes de variáveis são sempre envoltos em sinais de porcentagem exceto nos casos ilustrados em &lt;s0&gt;negrito&lt;/s0&gt; abaixo:</seg>
       </tuv>
     </tu>
     <tu>

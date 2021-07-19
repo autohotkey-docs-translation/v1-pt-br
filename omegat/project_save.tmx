@@ -1798,6 +1798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;RunWait&lt;/a0&gt; %ComSpec% /c dir &gt; C:\My Temp File.txt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195409Z" creationid="Setur" creationdate="20210719T195409Z">
+        <seg>&lt;a0&gt;RunWait&lt;/a0&gt; %ComSpec% /c dir &gt; C:\Meu Arquivo Temporario.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Script compatibility&lt;/a0&gt; - AutoHotkey 1.0 users read this</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204223Z" creationid="Leo" creationdate="20210701T071235Z">
@@ -2762,6 +2770,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215201Z" creationid="Leo" creationdate="20210627T213533Z">
         <seg>Permite que você remova um intervalo de chaves que sejam strings ou números/inteiros entre &lt;e0&gt;PrimeiraChave&lt;/e0&gt; e &lt;e1&gt;UltimaChave&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also note that Ahk2Exe saves settings to the following registry key:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195242Z" creationid="Setur" creationdate="20210719T195242Z">
+        <seg>Também note que o Ahk2Exe salva as configurações na seguinte chave do registro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4070,10 +4086,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>FileDelete, C:\My Temp File.txt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195455Z" creationid="Setur" creationdate="20210719T195455Z">
+        <seg>FileDelete, C:\Meu Arquivo Temporario.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FileExist(VariableContainingPath)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202224Z" creationid="Leo" creationdate="20210625T202224Z">
         <seg>FileExist(VariavelContendoOCaminho)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FileRead, VarToContainContents, C:\My Temp File.txt</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195445Z" creationid="Setur" creationdate="20210719T195445Z">
+        <seg>FileRead, VariavelQueContemOConteudo, C:\Meu Arquivo Temporario.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -5315,6 +5347,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204201Z" creationid="Leo" creationdate="20210625T204201Z">
         <seg>No modo de expressão, as variáveis não precisam de sinais de porcentagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In fact, if the file is deleted immediately after use, it often does not actually get written to disk.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195353Z" creationid="Setur" creationdate="20210719T195353Z">
+        <seg>De fato, se o arquivo for deletado imediatamente depois do uso, ele não costuma ser gravado no disco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8031,6 +8071,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Testing shows that due to file caching, a temporary file can be very fast for relatively small outputs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195322Z" creationid="Setur" creationdate="20210719T195322Z">
+        <seg>Testes mostram que devido ao cache de arquivos, um arquivo temporário pode ser bem rápido para pequenas saídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text editors with AutoHotkey support</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204218Z" creationid="Leo" creationdate="20210701T070539Z">
@@ -8171,6 +8219,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185715Z" creationid="Leo" creationdate="20210702T185715Z">
         <seg>Os botões do joystick.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The compiler itself (Ahk2Exe) is not needed to run scripts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195255Z" creationid="Setur" creationdate="20210719T195255Z">
+        <seg>O compilador em si (Ahk2Exe) não é necessário para rodar scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8932,6 +8988,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070734Z" creationid="Leo" creationdate="20210702T070734Z">
         <seg>Caso você queira sempre executar um clique lógico do botão direito, use &lt;c4&gt;Click Right&lt;/c4&gt; ou &lt;c5&gt;Send {Click Right}&lt;/c5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To avoid using a temporary file (especially if the output is large), consider using the &lt;a0&gt;Shell.Exec()&lt;/a0&gt; method as shown in the examples for the &lt;a1&gt;Run&lt;/a1&gt; command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195549Z" creationid="Setur" creationdate="20210719T195549Z">
+        <seg>Para evitar o uso de um arquivo temporário (especialmente se a saída for grande), considere usar o método &lt;a0&gt;Shell.Exec()&lt;/a0&gt; como mostrado nos exemplos do comando &lt;a1&gt;Run&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

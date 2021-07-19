@@ -8776,6 +8776,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To read other UTF-8 files which lack a byte order mark, use &lt;c0&gt;&lt;a1&gt;FileEncoding&lt;/a1&gt; UTF-8-RAW&lt;/c0&gt;, the &lt;c2&gt;*P65001&lt;/c2&gt; option with &lt;a3&gt;FileRead&lt;/a3&gt;, or &lt;c4&gt;"UTF-8-RAW"&lt;/c4&gt; for the third parameter of &lt;a5&gt;FileOpen()&lt;/a5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191618Z" creationid="Setur" creationdate="20210719T191618Z">
+        <seg>Para ler outros arquivos UTF-8 que não contêm uma BOM, use o comando &lt;c0&gt;&lt;a1&gt;FileEncoding&lt;/a1&gt; UTF-8-RAW&lt;/c0&gt;, a opção &lt;c2&gt;*P65001&lt;/c2&gt; com o comando &lt;a3&gt;FileRead&lt;/a3&gt;, ou &lt;c4&gt;UTF-8-RAW&lt;/c4&gt; como terceiro parâmetro da função &lt;a5&gt;FileOpen()&lt;/a5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remap some other key to &lt;e1&gt;become&lt;/e1&gt; a "mystery key", follow this example:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080726Z" creationid="Leo" creationdate="20210703T080306Z">

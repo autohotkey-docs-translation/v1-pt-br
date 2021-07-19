@@ -1078,6 +1078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>:SP:btw::by the way</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192145Z" creationid="Setur" creationdate="20210719T192145Z">
+        <seg>:SP:flni::falando nisso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Add the value of a variable to another (expression).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052439Z" creationid="Leo" creationdate="20210626T052439Z">
@@ -4975,6 +4983,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If all these fail, it may not be possible for AHK to work with your game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191911Z" creationid="Setur" creationdate="20210719T191911Z">
+        <seg>Se todas estas falharem, então pode não ser possível que o AHK funcione com o seu jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If everything you try fails, it may not be possible to use AutoHotkey for your needs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070728Z" creationid="Leo" creationdate="20210625T182800Z">
@@ -5043,6 +5059,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190646Z" creationid="Setur" creationdate="20210719T190646Z">
         <seg>Se o programa que você está tentando iniciar está na pasta &lt;c0&gt;%A_WinDir\System32%&lt;/c0&gt; e você está usando AutoHotkey de 32 bits num sistema de 64 bits, o &lt;a1&gt;Redirecionador de Arquivos do Sistema&lt;/a1&gt; pode estar interferindo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they do, there is a high chance that AutoHotkey will not work with that game.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192022Z" creationid="Setur" creationdate="20210719T192022Z">
+        <seg>Se tiverem, haverá uma alta probabilidade de o AutoHotkey não funcionar com esse jogo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7257,8 +7281,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Send, abc</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045946Z" creationid="Leo" creationdate="20210629T045946Z">
-        <seg>Send, abc</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192115Z" creationid="Leo" creationdate="20210629T045946Z">
+        <seg>Send, abcSend, abc</seg>
       </tuv>
     </tu>
     <tu>
@@ -7675,6 +7699,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025742Z" creationid="Leo" creationdate="20210623T025742Z">
         <seg>Às vezes você pode querer que uma hotkey ou hotstring só funcione (ou fique desabilitada) em uma determinada janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes games have a hack and cheat prevention measure, such as GameGuard and Hackshield.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191935Z" creationid="Setur" creationdate="20210719T191935Z">
+        <seg>Às vezes os jogos têm medidas de prevenção de hack ou cheats, como GameGuard e Hackshield.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8988,6 +9020,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203221Z" creationid="Leo" creationdate="20210622T203221Z">
         <seg>Até lá, aqui está uma explicação do código acima:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use SendPlay via the &lt;a0&gt;SendPlay&lt;/a0&gt; command, &lt;a1&gt;SendMode Play&lt;/a1&gt; and/or the &lt;a2&gt;hotstring option SP&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192111Z" creationid="Setur" creationdate="20210719T192111Z">
+        <seg>Use SendPlay via comando &lt;a0&gt;SendPlay&lt;/a0&gt;, &lt;a1&gt;SendMode Play&lt;/a1&gt; e/ou a &lt;a2&gt;opção SP das hotstrings&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

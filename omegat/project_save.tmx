@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Break out of this loop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201044Z" creationid="Setur" creationdate="20210719T201044Z">
+        <seg>; Libertar-se deste loop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; CORRECT</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T211126Z" creationid="Leo" creationdate="20210625T175500Z">
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T082004Z" creationid="Leo" creationdate="20210703T082004Z">
         <seg>; Requer AutoHotkey v1.1.26+ e o gancho de teclado deve estar instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Reset in preparation for the next press of this hotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201111Z" creationid="Setur" creationdate="20210719T201111Z">
+        <seg>; Recomeçar em preparação ao próximo pressionamento desta hotkey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6799,6 +6815,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On a related note, the contents of the address bar and status bar can be retrieved as demonstrated at &lt;a1&gt;www.autohotkey.com/forum/topic19255.html&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201330Z" creationid="Setur" creationdate="20210719T201330Z">
+        <seg>Observação relacionada: o conteúdo da barra de endereços e da barra de status podem ser obtidos como demonstrado em &lt;a1&gt;www.autohotkey.com/forum/topic19255.html&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the &lt;a0&gt;ControlGetText&lt;/a0&gt; page you will see this:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214534Z" creationid="Leo" creationdate="20210627T214534Z">
@@ -7123,6 +7147,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183245Z" creationid="Leo" creationdate="20210702T183245Z">
         <seg>RControl (ou RCtrl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rajat created &lt;a0&gt;this script&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201125Z" creationid="Setur" creationdate="20210719T201125Z">
+        <seg>Rajat criou &lt;a0&gt;este script&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10124,6 +10156,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192908Z" creationid="Leo" creationdate="20210622T192908Z">
         <seg>Hotkeys e hotstrings que funcionam em só em uma ou algumas janelas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With Internet Explorer, perhaps the most reliable method is to use DllCall() and COM as demonstrated at &lt;a0&gt;www.autohotkey.com/forum/topic19256.html&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201216Z" creationid="Setur" creationdate="20210719T201216Z">
+        <seg>Com o Internet Explorer, talvez o método mais confiável é usar DllCall() e COM como demonstrado em &lt;a0&gt;www.autohotkey.com/forum/topic19256.html&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

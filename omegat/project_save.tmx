@@ -4319,6 +4319,62 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can I send text to a window which isn't active or isn't visible?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174010Z" creationid="Setur" creationdate="20210719T174010Z">
+        <seg>Como posso enviar texto para uma janela que não esteja ativa ou visível?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can I send the current Date and/or Time?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173950Z" creationid="Setur" creationdate="20210719T173950Z">
+        <seg>Como posso enviar a data e/ou o horário atuais?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can Winamp be controlled even when it isn't active?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174029Z" creationid="Setur" creationdate="20210719T174029Z">
+        <seg>Como posso controlar o Winamp mesmo que a janela dele não esteja ativa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can a repeating action be stopped without exiting the script?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173808Z" creationid="Setur" creationdate="20210719T173808Z">
+        <seg>Como que uma ação que se repete pode ser interrompida sem que eu finalize o script?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can a script close, pause, suspend or reload other script(s)?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173746Z" creationid="Setur" creationdate="20210719T173746Z">
+        <seg>Como que um script pode fechar, pausar, suspender ou recarregar outro(s) script(s)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can context sensitive help for AutoHotkey commands be used in any editor?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173853Z" creationid="Setur" creationdate="20210719T173853Z">
+        <seg>Como usar, em qualquer editor, a ajuda sensível ao contexto dos comandos do AutoHotkey?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can dates and times be compared or manipulated?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173926Z" creationid="Setur" creationdate="20210719T173926Z">
+        <seg>Como comparar ou manipular datas e horários?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How can performance be improved for games or at other times when the CPU is under heavy load?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173552Z" creationid="Setur" creationdate="20210719T173552Z">
@@ -4355,6 +4411,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192602Z" creationid="Leo" creationdate="20210622T192602Z">
         <seg>Como criar um script</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to detect when a web page is finished loading?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173910Z" creationid="Setur" creationdate="20210719T173910Z">
+        <seg>Como detectar que uma página da web terminou de ser carregada?</seg>
       </tuv>
     </tu>
     <tu>

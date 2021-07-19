@@ -2414,6 +2414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Other:&lt;/s0&gt; The suggestions above cover the most common problems.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182430Z" creationid="Setur" creationdate="20210719T182430Z">
+        <seg>&lt;s0&gt;Outros problemas:&lt;/s0&gt; As sugestões acima cobrem a maior parte dos problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Reverse direction&lt;/s0&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080241Z" creationid="Leo" creationdate="20210703T080241Z">
@@ -3390,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compile Script (depending on the &lt;e0&gt;Install script compiler&lt;/e0&gt; installation option)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182751Z" creationid="Setur" creationdate="20210719T182751Z">
+        <seg>Compile Script (Compilar Script, dependendo da opção &lt;e0&gt;Install script compiler&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content (default)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230559Z" creationid="Leo" creationdate="20210703T230559Z">
@@ -3994,6 +4010,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202343Z" creationid="Leo" creationdate="20210622T202343Z">
         <seg>Por exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For further assistance, post on the forums.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182439Z" creationid="Setur" creationdate="20210719T182439Z">
+        <seg>Para mais assistência, poste nos fóruns.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6055,6 +6079,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Normally if AutoHotkey is installed, right-clicking an AutoHotkey script (.ahk) file should give the following options:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182518Z" creationid="Setur" creationdate="20210719T182518Z">
+        <seg>Normalmente se o AutoHotkey está instalado, clicar com o botão direito num script do AutoHotkey (arquivo .ahk) deve apresentar as opções a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not indented:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220605Z" creationid="Leo" creationdate="20210627T220605Z">
@@ -6571,6 +6603,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202256Z" creationid="Leo" creationdate="20210622T202256Z">
         <seg>Clique com o botão direito na sua área de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run Script</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182529Z" creationid="Setur" creationdate="20210719T182529Z">
+        <seg>Run Script (Executar Script)</seg>
       </tuv>
     </tu>
     <tu>

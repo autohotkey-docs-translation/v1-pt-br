@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>%AssociatedVar%</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202210Z" creationid="Setur" creationdate="20210719T202210Z">
+        <seg>%VariavelAssociada%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044437Z" creationid="Leo" creationdate="20210629T044437Z">
@@ -3510,6 +3518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ButtonSubmit:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202145Z" creationid="Setur" creationdate="20210719T202145Z">
+        <seg>ButtonEnviar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, UAC protects "elevated" programs (that is, programs which are running as admin) from being automated by non-elevated programs, since that would allow them to bypass security restrictions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184329Z" creationid="Setur" creationdate="20210719T184329Z">
@@ -4334,6 +4350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For Example:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202101Z" creationid="Setur" creationdate="20210719T202101Z">
+        <seg>Por exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a list of all built-in commands, function and variables, see &lt;a0&gt;section 5&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210206Z" creationid="Leo" creationdate="20210622T202649Z">
@@ -4718,6 +4742,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gui, Add, Button,, Submit</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202137Z" creationid="Setur" creationdate="20210719T202137Z">
+        <seg>Gui, Add, Button,, Enviar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gui, Add, Edit, vAssociatedVar</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202130Z" creationid="Setur" creationdate="20210719T202130Z">
+        <seg>Gui, Add, Edit, vVariavelAssociada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gui, Add, Text,, Enter some Text and press Submit:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202122Z" creationid="Setur" creationdate="20210719T202122Z">
+        <seg>Gui, Add, Text,, Insira algum texto e pressione Enviar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hand-held Remote Controls</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065428Z" creationid="Leo" creationdate="20210702T065428Z">
@@ -4771,6 +4819,14 @@
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063156Z" creationid="Leo" creationdate="20210622T202801Z">
         <seg>Eis um script bem básico contendo uma tecla de atalho que faz o programa digitar texto 
 usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressionada: (NdT: daqui em diante, a expressão “tecla de atalho” será substituída por “hotkey”, para melhor combinar com a identidade do programa.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here is an &lt;a0&gt;example&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202000Z" creationid="Setur" creationdate="20210719T202000Z">
+        <seg>Aqui está um &lt;a0&gt;exemplo&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4899,6 +4955,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045930Z" creationid="Leo" creationdate="20210629T045930Z">
         <seg>Hotstrings.htm#EndChars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can &lt;a0&gt;MsgBox&lt;/a0&gt;'s button names be changed?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201949Z" creationid="Setur" creationdate="20210719T201949Z">
+        <seg>Como alterar os nomes dos botões de uma &lt;a0&gt;MsgBox&lt;/a0&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5639,6 +5703,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the example section of &lt;a0&gt;Edit&lt;/a0&gt; you will find a script that allows you to change the default editor.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202032Z" creationid="Setur" creationdate="20210719T202032Z">
+        <seg>Na seção de exemplos do termo &lt;a0&gt;Edit&lt;/a0&gt; você encontrará um script que permite que você mude o editor padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the following code, both lines are run only if &lt;e0&gt;MyVar&lt;/e0&gt; equals 5:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202920Z" creationid="Leo" creationdate="20210625T202920Z">
@@ -6355,6 +6427,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220724Z" creationid="Leo" creationdate="20210627T220724Z">
         <seg>MsgBox, Tome cuidado!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MsgBox, Content of the edit control:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202201Z" creationid="Setur" creationdate="20210719T202201Z">
+        <seg>MsgBox, Conteúdo do controle 'edit':</seg>
       </tuv>
     </tu>
     <tu>
@@ -7563,6 +7643,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201925Z" creationid="Setur" creationdate="20210719T201925Z">
         <seg>Vide &lt;a0&gt;Automatização do Winamp&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;a0&gt;GDI+ standard library&lt;/a0&gt; by tic.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202258Z" creationid="Setur" creationdate="20210719T202258Z">
+        <seg>Vide &lt;a0&gt;biblioteca padrão GDI+&lt;/a0&gt;, por tic.</seg>
       </tuv>
     </tu>
     <tu>

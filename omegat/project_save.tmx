@@ -5239,6 +5239,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other words, UTF-8 files which lack a byte order mark are misinterpreted, causing non-ASCII characters to be decoded incorrectly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191121Z" creationid="Setur" creationdate="20210719T191121Z">
+        <seg>Em outras palavras, os arquivos UTF-8 que não contêm uma BOM são interpretados erroneamente, causando a decodificação incorreta dos caracteres que não sejam ASCII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In other words, if the user has swapped the buttons via system settings, &lt;c0&gt;LButton::&lt;/c0&gt; is physically activated by clicking the &lt;s1&gt;right&lt;/s1&gt; mouse button, but &lt;c2&gt;Send {LButton}&lt;/c2&gt; performs the same as physically clicking the &lt;s3&gt;left&lt;/s3&gt; button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070422Z" creationid="Leo" creationdate="20210702T070422Z">
@@ -8784,6 +8792,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To resolve this, save the file as UTF-8 with BOM or &lt;a0&gt;add the /CP65001 command line switch&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191232Z" creationid="Setur" creationdate="20210719T191232Z">
+        <seg>Para resolver isso, salve o arquivo como UTF com BOM ou &lt;a0&gt;adicione o switch /CP65001 da linha de comando&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To retrieve values:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211623Z" creationid="Leo" creationdate="20210627T211623Z">
@@ -8796,6 +8812,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182835Z" creationid="Leo" creationdate="20210625T182835Z">
         <seg>Para abrir um programa como &lt;i0&gt;mspaint.exe, calc.exe, script.ahk&lt;/i0&gt; ou até abrir uma pasta, você pode usar o comando &lt;a1&gt;Run&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To save as UTF-8 with BOM in Notepad, select &lt;e0&gt;UTF-8&lt;/e0&gt; from the &lt;e1&gt;Encoding&lt;/e1&gt; drop-down in the Save As dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191424Z" creationid="Setur" creationdate="20210719T191424Z">
+        <seg>Para salvar como UTF-8 com BOM no Bloco de Notas, selecione &lt;e0&gt;UTF-8&lt;/e0&gt; no menu suspenso &lt;e1&gt;Codificação&lt;/e1&gt; dentro da janela Salvar como.</seg>
       </tuv>
     </tu>
     <tu>

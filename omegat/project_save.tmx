@@ -3294,6 +3294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But there are some alternatives, try all the solutions mentioned below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191848Z" creationid="Setur" creationdate="20210719T191848Z">
+        <seg>Mas há algumas alternativas; tente todas as soluções abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But you are now wondering if hotstrings have any cool modifiers since hotkeys do.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T225949Z" creationid="Leo" creationdate="20210623T025449Z">
@@ -6383,6 +6391,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not all games allow AHK to send keys and clicks or receive pixel colors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191835Z" creationid="Setur" creationdate="20210719T191835Z">
+        <seg>Nem todos os jogos permitem que o AHK envie pressionamentos de teclas ou cliques ou receba cores de píxeis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not indented:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220605Z" creationid="Leo" creationdate="20210627T220605Z">
@@ -6403,6 +6419,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185827Z" creationid="Leo" creationdate="20210702T185827Z">
         <seg>Note que &lt;a2&gt;símbolos de prefixos de hotkeys&lt;/a2&gt; como ^ (control) e + (shift) não são suportados (apesar de &lt;a3&gt;GetKeyState()&lt;/a3&gt; poder ser usada como substituta).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that INI files accessed with the standard INI commands do not support UTF-8; they must be saved as ANSI or UTF-16.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191736Z" creationid="Setur" creationdate="20210719T191736Z">
+        <seg>Note que arquivos INÍCIO acessados com os comandos INI padrão não suportam UTF-8; eles devem ser salvos como ANSI ou UTF-16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7931,6 +7955,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184029Z" creationid="Setur" creationdate="20210719T184029Z">
         <seg>O &lt;a4&gt;script de análise de placa de som&lt;/a4&gt; pode ser usado para encontrar os números de dispositivos corretos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;c6&gt;-RAW&lt;/c6&gt; suffix can be omitted, but in that case any newly created files will have a byte order mark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191700Z" creationid="Setur" creationdate="20210719T191700Z">
+        <seg>O sufixo &lt;c6&gt;-RAW&lt;/c6&gt; pode ser omitido, mas neste caso somente os novos arquivos terão uma marca de ordem de bytes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9524,6 +9556,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173423Z" creationid="Setur" creationdate="20210719T173423Z">
         <seg>Por que caracteres do meu script que não sejam ASCII estão sendo exibidos ou enviados incorretamente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Why do &lt;a0&gt;Hotstrings&lt;/a0&gt;, &lt;a1&gt;Send&lt;/a1&gt;, and &lt;a2&gt;Click&lt;/a2&gt; have no effect in certain games?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191802Z" creationid="Setur" creationdate="20210719T191802Z">
+        <seg>Por que &lt;a0&gt;Hotstrings&lt;/a0&gt;, &lt;a1&gt;Send&lt;/a1&gt; e &lt;a2&gt;Click&lt;/a2&gt; não têm efeito em alguns jogos?</seg>
       </tuv>
     </tu>
     <tu>

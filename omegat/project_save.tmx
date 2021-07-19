@@ -4118,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you are running AutoHotkeyU32.exe, look for AutoHotkeyU32.ahk.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190106Z" creationid="Setur" creationdate="20210719T190106Z">
+        <seg>Por exemplo, se você está rodando o executável AutoHotkeyU32.exe, procure por AutoHotkeyU32.ahk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you configure a mystery key to send &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;F1&lt;/k1&gt;, you can then indirectly make that key as a hotkey by using &lt;c2&gt;^F1::&lt;/c2&gt; in a script.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080949Z" creationid="Leo" creationdate="20210703T080949Z">
@@ -4987,6 +4995,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182437Z" creationid="Leo" creationdate="20210625T182437Z">
         <seg>Se você estiver tendo problemas e sabe que o jogo usa DirectX, tente aquilo que está descrito na página das &lt;a0&gt;Perguntas Frequentes&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are running another AutoHotkey executable directly, the name of the script depends on the executable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185745Z" creationid="Setur" creationdate="20210719T185745Z">
+        <seg>Se você está usando outro executável do AutoHotkey diretamente, o nome do script depende do executável.</seg>
       </tuv>
     </tu>
     <tu>

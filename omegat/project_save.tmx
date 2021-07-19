@@ -2430,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Setup hangs:&lt;/s0&gt; If the setup window comes up blank or not at all, try one or both of the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182144Z" creationid="Setur" creationdate="20210719T182144Z">
+        <seg>&lt;s0&gt;Travamentos na instalação:&lt;/s0&gt; Se a janela de instalação aparece em branco ou nem aparece, tente uma ou ambas as soluções a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;This is important:&lt;/s0&gt; A lot of games, especially modern ones, have cheat prevention software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181830Z" creationid="Leo" creationdate="20210625T181830Z">
@@ -4319,6 +4327,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hold &lt;k0&gt;Ctrl&lt;/k0&gt; or &lt;k1&gt;Shift&lt;/k1&gt; when the installer starts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182202Z" creationid="Setur" creationdate="20210719T182202Z">
+        <seg>Segure &lt;k0&gt;Ctrl&lt;/k0&gt;Ctrl ou &lt;k1&gt;Shift&lt;/k1&gt;Shift quando o instalador iniciar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Homepage</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183739Z" creationid="Leo" creationdate="20210702T183739Z">
@@ -4799,10 +4815,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you get a UAC prompt, hold &lt;k2&gt;Ctrl&lt;/k2&gt; or &lt;k3&gt;Shift&lt;/k3&gt; as you click Yes/Continue.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182242Z" creationid="Setur" creationdate="20210719T182242Z">
+        <seg>Se aparecer um prompt da UAC, segure &lt;k2&gt;Ctrl&lt;/k2&gt; ou &lt;k3&gt;Shift&lt;/k3&gt;Shift enquanto você clica em Yes/Continue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you get confused, try reading the section again.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201344Z" creationid="Leo" creationdate="20210622T201344Z">
         <seg>Se ficar confuso, tente reler a seção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have manually extracted the setup files from the installer EXE, use either &lt;c1&gt;setup.exe /S&lt;/c1&gt; or &lt;c2&gt;AutoHotkeyU32.exe Installer.ahk /S&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182403Z" creationid="Setur" creationdate="20210719T182403Z">
+        <seg>Se você extraiu manualmente os arquivos de instalação do EXE instalador, use ou &lt;c1&gt;setup.exe /S&lt;/c1&gt; ou &lt;c2&gt;AutoHotkeyU32.exe Installer.ahk /S&lt;/c2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5107,6 +5139,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212325Z" creationid="Leo" creationdate="20210627T212325Z">
         <seg>Método InsertAt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install using &lt;a0&gt;command line options&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182322Z" creationid="Setur" creationdate="20210719T182322Z">
+        <seg>Instalar usando as &lt;a0&gt;opções da linha de comando&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9156,6 +9196,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182654Z" creationid="Leo" creationdate="20210625T182654Z">
         <seg>Você também deve tentar rodar o jogo em modo de janela (windowed), se possível.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should get a prompt asking whether you want to install with default options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182305Z" creationid="Setur" creationdate="20210719T182305Z">
+        <seg>Você deverá ver uma mensagem perguntando se você quer instalar com as opções padrão.</seg>
       </tuv>
     </tu>
     <tu>

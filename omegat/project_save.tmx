@@ -3270,6 +3270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, UAC protects "elevated" programs (that is, programs which are running as admin) from being automated by non-elevated programs, since that would allow them to bypass security restrictions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184329Z" creationid="Setur" creationdate="20210719T184329Z">
+        <seg>Por padrão, o UAC protege programas “elevados” (isto é, programas que estão sendo executados como administrador) de serem automatizados por programas não elevados, já que isso permitiria contornar restrições de segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Callouts","misc/RegExCallout.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061346Z" creationid="Leo" creationdate="20210711T061346Z">
@@ -4475,6 +4483,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070944Z" creationid="Leo" creationdate="20210701T070944Z">
         <seg>Teclas de atalho (hotkeys) — atalhos com mouse, joystique e teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hotkeys are also blocked, so for instance, a non-elevated program cannot spy on input intended for an elevated program.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184438Z" creationid="Setur" creationdate="20210719T184438Z">
+        <seg>Hotkeys também são bloqueadas, então por exemplo, um programa não elevado não pode espionar a entrada feitas para um programa elevado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8636,6 +8652,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070853Z" creationid="Leo" creationdate="20210702T070853Z">
         <seg>Tipicamente executa a mesma função de Browser_Forward.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UAC may also prevent &lt;a0&gt;SendPlay&lt;/a0&gt; and &lt;a1&gt;BlockInput&lt;/a1&gt; from working.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184508Z" creationid="Setur" creationdate="20210719T184508Z">
+        <seg>O UAC também impede o funcionamento dos comandos &lt;a0&gt;SendPlay&lt;/a0&gt; e &lt;a1&gt;BlockInput&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

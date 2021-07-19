@@ -2278,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;7-zip Error:&lt;/s0&gt; Use 7-zip or a compatible program to extract the setup files from the installer EXE, then run setup.exe or Installer.ahk (drag and drop Installer.ahk onto AutoHotkeyU32.exe).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T181850Z" creationid="Setur" creationdate="20210719T181850Z">
+        <seg>&lt;s0&gt;Erro do 7-zip:&lt;/s0&gt; Use o 7-zip ou um programa compatível para extrair os arquivos de instalação do EXE de instalação, daí execute o arquivo setup.exe ou Installer.ahk (arraste e solte o Installer.ahk sobre o AutoHotkeyU32.exe).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;b1&gt;MyVar&lt;/b1&gt;&lt;/s0&gt; := SubStr("I'm scripting, awesome!", 16)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201537Z" creationid="Leo" creationdate="20210625T201537Z">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3958,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Frequently Asked Questions (FAQ) | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T172213Z" creationid="Setur" creationdate="20210719T172213Z">
+        <seg>Perguntas Frequentes (FAQ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Frequently asked questions</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070600Z" creationid="Leo" creationdate="20210701T070545Z">
@@ -7547,6 +7555,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T162139Z" creationid="Leo" creationdate="20210701T162139Z">
         <seg>Esta página lista todos os botões de mouse, teclas do teclado e botões do joystick, todos os quais podem ser usados para hotkeys e comandos e funções específicos de tais teclas/botões.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page lists questions and answers about language syntax, general troubleshooting, common tasks, hotkeys, hotstrings and remapping.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T172410Z" creationid="Setur" creationdate="20210719T172410Z">
+        <seg>Esta página lista perguntas e respostas sobre a sintaxe da linguagem, resolução geral de problemas, tarefas comuns, teclas de atalho (hotkeys), hotstrings e remapeamento de teclas.</seg>
       </tuv>
     </tu>
     <tu>

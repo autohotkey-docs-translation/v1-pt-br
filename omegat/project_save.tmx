@@ -2950,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AutoHotkey's installer comes packaged as a 7-zip self-extracting archive which attempts to extract to the user's Temp directory and execute a compiled script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182005Z" creationid="Setur" creationdate="20210719T182005Z">
+        <seg>O instalador do AutoHotkey vem empacotado em um arquivo 7-zip que se extrai automaticamente e que tenta extrair o conteúdo para o diretório Temp do usuário e executar um script compilado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183715Z" creationid="Leo" creationdate="20210702T183715Z">
@@ -5511,6 +5519,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Manually extracting the files to a different directory may help.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182053Z" creationid="Setur" creationdate="20210719T182053Z">
+        <seg>Extrair manualmente os arquivos para um diretório diferente pode ajudar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Meaning the stuff inside can be left out if you don't need them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214425Z" creationid="Leo" creationdate="20210627T214425Z">
@@ -7183,6 +7199,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sometimes system policies or other factors prevent the files from being extracted or executed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182021Z" creationid="Setur" creationdate="20210719T182021Z">
+        <seg>Algumas vezes as políticas do sistema ou outros fatores impedem arquivos de serem extraídos ou executados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sometimes you want to have the user to choose the value of stuff.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051431Z" creationid="Leo" creationdate="20210626T051431Z">
@@ -8380,6 +8404,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090839Z" creationid="Leo" creationdate="20210703T074453Z">
         <seg>usar o joystick como um mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usually in such cases the message "7-zip Error" is displayed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182041Z" creationid="Setur" creationdate="20210719T182041Z">
+        <seg>Normalmente nestes casos a mensagem "Erro do 7-zip" é exibida.</seg>
       </tuv>
     </tu>
     <tu>

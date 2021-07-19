@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; End this thread so that the one underneath will resume and see the change made by the line above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200722Z" creationid="Setur" creationdate="20210719T200722Z">
+        <seg>; Finalize esse fio de execução de tal forma que o que está debaixo irá retomar e virá a mudança feita pela linha acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; If No, stop the code from going further.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051951Z" creationid="Leo" creationdate="20210626T051951Z">
@@ -1430,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Signal that thread's loop to stop.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200647Z" creationid="Setur" creationdate="20210719T200647Z">
+        <seg>; Sinalize o loop do fio de execução para parar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Some examples showing when to use percents and when not:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052101Z" creationid="Leo" creationdate="20210626T052101Z">
@@ -1490,6 +1506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180936Z" creationid="Leo" creationdate="20210625T180936Z">
         <seg>; É assim que você segura uma tecla e pressiona outra(s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; This means an underlying &lt;a3&gt;thread&lt;/a3&gt; is already running the loop below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200611Z" creationid="Setur" creationdate="20210719T200611Z">
+        <seg>; Isto significa que o &lt;a3&gt;fio de execução&lt;/a3&gt; subjacente já está executando o loop abaixo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,6 +2050,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T231610Z" creationid="Leo" creationdate="20210624T010544Z">
         <seg>&lt;c9&gt;^A&lt;/c9&gt; produz um efeito diferente de &lt;c10&gt;^a&lt;/c10&gt; em alguns programas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;&lt;s1&gt;; Win+Z hotkey (change this hotkey to suit your preferences).&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200520Z" creationid="Setur" creationdate="20210719T200520Z">
+        <seg>&lt;e0&gt;&lt;s1&gt;; Tecla de atalho Win+Z (mude esta hotkey para adequar às suas preferências).&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5823,6 +5855,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>KeepWinZRunning := false</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200622Z" creationid="Setur" creationdate="20210719T200622Z">
+        <seg>ManterWinZRodando := false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>KeyList.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044503Z" creationid="Leo" creationdate="20210629T044503Z">
@@ -6963,6 +7003,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080746Z" creationid="Leo" creationdate="20210703T075746Z">
         <seg>Pressione uma das “teclas misteriosas” em seu teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pressing the same hotkey again will stop it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200426Z" creationid="Setur" creationdate="20210719T200426Z">
+        <seg>Pressionar a mesma hotkey de novo vai pará-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14028,6 +14076,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220659Z" creationid="Leo" creationdate="20210627T220659Z">
         <seg>if (pneu = "murcho")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if KeepWinZRunning</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200540Z" creationid="Setur" creationdate="20210719T200540Z">
+        <seg>if ManterWinZRodando</seg>
       </tuv>
     </tu>
     <tu>

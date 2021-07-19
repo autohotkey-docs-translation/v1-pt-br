@@ -51,6 +51,7 @@ My File  <em>; Only <i>Filename</i> is present (but if "My File" exists as a fol
   <dt>Filter</dt>
   <dd><p>Indicates which types of files are shown by the dialog.</p>
       <p>Example: Documents (*.txt)<br>
+        
         Example: Audio (*.wav; *.mp2; *.mp3)</p>
       <p>If omitted, the filter defaults to All Files (*.*). An option for Text Documents (*.txt) will also be available in the dialog's "files of type" menu.</p>
     <p>Otherwise, the filter uses the indicated string but also provides an option for All Files (*.*) in the dialog's "files of type" drop-down list. To include more than one file extension in the filter, separate them with semicolons as illustrated in the example above.</p></dd>
@@ -83,7 +84,7 @@ Thread, NoTimers, false</pre>
 <p>Also, the operating system offers standard dialog boxes that prompt the user to pick a font, color, or icon. These dialogs can be displayed via <a href="DllCall.htm">DllCall()</a> as demonstrated at <a href="https://github.com/majkinetor/mm-autohotkey/tree/master/Dlg">GitHub</a>.</p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a> Allows the user to select an existing .txt or .doc file.</p>
+<p><a class="ex_number" href="#ExBasic"></a>  Allows the user to select an existing .txt or .doc file.</p>
 <pre>FileSelectFile, SelectedFile, 3, , Open a file, Text Documents (*.txt; *.doc)
 if (SelectedFile = "")
     MsgBox, The user didn't select anything.
@@ -92,12 +93,12 @@ else
 </div>
 
 <div class="ex" id="ExCLSID">
-<p><a class="ex_number" href="#ExCLSID"></a> A <a href="../misc/CLSID-List.htm">CLSID</a> example. Allows the user to select a file in the recycle bin. Note that this example only works on Windows XP/2003 or earlier.</p>
+<p><a class="ex_number" href="#ExCLSID"></a>  A <a href="../misc/CLSID-List.htm">CLSID</a> example. Allows the user to select a file in the recycle bin. Note that this example only works on Windows XP/2003 or earlier.</p>
 <pre>FileSelectFile, OutputVar,, ::{645ff040-5081-101b-9f08-00aa002f954e}  <em>; Recycle Bin.</em></pre>
 </div>
 
 <div class="ex" id="ExMulti">
-<p><a class="ex_number" href="#ExMulti"></a> Allows the user to select multiple existing files.</p>
+<p><a class="ex_number" href="#ExMulti"></a>  Allows the user to select multiple existing files.</p>
 <pre>FileSelectFile, files, M3  <em>; M3 = Multiselect existing files.</em>
 if (files = "")
 {

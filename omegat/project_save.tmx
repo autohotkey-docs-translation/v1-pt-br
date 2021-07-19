@@ -4830,6 +4830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here are some &lt;a0&gt;examples&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204508Z" creationid="Setur" creationdate="20210719T204508Z">
+        <seg>Aqui estão alguns &lt;a0&gt;exemplos&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here are the four most common symbols:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003658Z" creationid="Leo" creationdate="20210624T003658Z">
@@ -5627,6 +5635,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204227Z" creationid="Leo" creationdate="20210701T071553Z">
         <seg>Além do mais, muitas das melhorias do AutoHotkey sobre o conjunto de comandos do AutoIt v2, bem como o Espião de Janela e o velho compilador de scripts, foram adaptados diretamente a partir do código-fonte do AutoIt v3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition, the above action occurs at the time the key is &lt;s0&gt;released.&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204456Z" creationid="Setur" creationdate="20210719T204456Z">
+        <seg>Além disso, a ação acima ocorre no momento em que a tecla é &lt;s0&gt;solta&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8615,6 +8631,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The $ prefix is needed to prevent a warning dialog about an infinite loop (since the hotkey "sends itself").</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204436Z" creationid="Setur" creationdate="20210719T204436Z">
+        <seg>O prefixo $ é necessário para prevenir o aparecimento de um aviso sobre um loop infinito (já que a hotkey "envia ela própria").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The 12 or more function keys at the top of most keyboards.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085138Z" creationid="Leo" creationdate="20210703T085138Z">
@@ -9924,6 +9948,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003518Z" creationid="Leo" creationdate="20210624T003518Z">
         <seg>Use o comando &lt;a0&gt;Send&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;a0&gt;script&lt;/a0&gt; by polyethene (examples are included).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204655Z" creationid="Setur" creationdate="20210719T204655Z">
+        <seg>Use o &lt;a0&gt;script&lt;/a0&gt; feito pelo polyethene (exemplos inclusos).</seg>
       </tuv>
     </tu>
     <tu>

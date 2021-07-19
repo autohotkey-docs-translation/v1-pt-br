@@ -3182,6 +3182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can I use wildcards or regular expressions in Hotstrings?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174718Z" creationid="Setur" creationdate="20210719T174718Z">
+        <seg>Posso usar caracteres curinga ou expressões regulares em Hotstrings?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>CapsLock and IME</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065603Z" creationid="Leo" creationdate="20210702T065603Z">
@@ -3594,6 +3602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211431Z" creationid="Leo" creationdate="20210627T211431Z">
         <seg>Notação de ponto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double quotes (") have special meaning only within &lt;a0&gt;expressions&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174852Z" creationid="Setur" creationdate="20210719T174852Z">
+        <seg>Aspas duplas (") têm significado especial somente quando estão dentro de &lt;a0&gt;expressões&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4383,6 +4399,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How can I use a hotkey that is not in my keyboard layout?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174735Z" creationid="Setur" creationdate="20210719T174735Z">
+        <seg>Como posso usar uma hotkey que não está presente no layout do meu teclado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How can MsgBox's button names be changed?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174045Z" creationid="Setur" creationdate="20210719T174045Z">
@@ -4467,6 +4491,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174340Z" creationid="Setur" creationdate="20210719T174340Z">
         <seg>Como definir as teclas Tab e Espaço como hotkeys?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can the built-in Windows shortcut keys, such as Win+U (Utility Manager) and Win+R (Run), be changed or disabled?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174659Z" creationid="Setur" creationdate="20210719T174659Z">
+        <seg>Como posso alterar ou desabilitar as teclas de atalho nativas do Windows, como a Win+U (Gerenciador de Utilitários) ou Win+R (Executar)?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4563,6 +4595,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081815Z" creationid="Leo" creationdate="20210703T081815Z">
         <seg>Entretanto, os atalhos &lt;k0&gt;Alt&lt;/k0&gt;+&lt;k1&gt;CapsLock&lt;/k1&gt;, &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;CapsLock&lt;/k3&gt; e &lt;k4&gt;Shift&lt;/k4&gt;+&lt;k5&gt;CapsLock&lt;/k5&gt; podem ser desabilitadas com uma solução de contorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, when a script launches a program or document, the operating system usually requires quotes around any command-line parameter that contains spaces, such as in this example:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174942Z" creationid="Setur" creationdate="20210719T174942Z">
+        <seg>Entretanto, quando um script executa um programa ou documento, o sistema operacional geralmente exige aspas em volta de qualquer parâmetros da linha de comando que contenha espaços, como neste exemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4799,6 +4839,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In all other places, they are treated literally as if they were normal characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174906Z" creationid="Setur" creationdate="20210719T174906Z">
+        <seg>Em todos os demais lugares, elas são tratadas literalmente como se fossem caracteres normais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In expression mode, variables do not need percent signs.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204201Z" creationid="Leo" creationdate="20210625T204201Z">
@@ -5015,6 +5063,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is it possible to turn it into a hotkey?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174811Z" creationid="Setur" creationdate="20210719T174811Z">
+        <seg>É possível fazer dela uma hotkey?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can even be used to open URLs such as &lt;a2&gt;https://www.autohotkey.com/&lt;/a2&gt; . If your computer is setup to run the type of program you want to run, it's very simple:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182926Z" creationid="Leo" creationdate="20210625T182926Z">
@@ -5203,6 +5259,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045938Z" creationid="Leo" creationdate="20210629T045938Z">
         <seg>LCtrl::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Syntax</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174816Z" creationid="Setur" creationdate="20210719T174816Z">
+        <seg>Sintaxe da Linguagem</seg>
       </tuv>
     </tu>
     <tu>
@@ -5707,6 +5771,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173616Z" creationid="Setur" creationdate="20210719T173616Z">
         <seg>Meu antivirus está dizendo que o AHK é malware.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>My keypad has a special 000 key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174801Z" creationid="Setur" creationdate="20210719T174801Z">
+        <seg>Meu teclado numérico tem a tecla especial 000.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2838,6 +2838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although it is certainly possible that the file has been infected, most often these alerts are &lt;e0&gt;false positives&lt;/e0&gt;, meaning that the antivirus program is mistaken.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194741Z" creationid="Setur" creationdate="20210719T194741Z">
+        <seg>Apesar de ser certamente possível que o arquivo tenha sido infectado, na maioria dos casos esses alertas são &lt;e0&gt;falsos positivos&lt;/e0&gt;, o que significa que o programa de antivirus está equivocado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although it is present in Windows Vista and later, it is enabled by default on new systems or new installs, and it is more difficult to disable on Windows 8 and later.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184220Z" creationid="Setur" creationdate="20210719T184220Z">
@@ -5031,6 +5039,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If in doubt, you could send the file to the vendor of your antivirus software for confirmation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194825Z" creationid="Setur" creationdate="20210719T194825Z">
+        <seg>Se estiver em dúvida, você pode enviar o arquivo para o fornecedor de seu antivirus para confirmação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If it's not in the chart, it does not need brackets.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180600Z" creationid="Leo" creationdate="20210625T180600Z">
@@ -5539,6 +5555,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174811Z" creationid="Setur" creationdate="20210719T174811Z">
         <seg>É possível fazer dela uma hotkey?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is it really a virus?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194706Z" creationid="Setur" creationdate="20210719T194706Z">
+        <seg>Ele é mesmo um vírus?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6279,6 +6303,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>My antivirus program flagged AutoHotkey or a compiled script as malware.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194658Z" creationid="Setur" creationdate="20210719T194658Z">
+        <seg>Meu programa antivirus acusou o AutoHotkey ou um script compilado de ser malware.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>My keypad has a special 000 key.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174801Z" creationid="Setur" creationdate="20210719T174801Z">
@@ -6627,6 +6659,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070550Z" creationid="Leo" creationdate="20210622T202059Z">
         <seg>Instalado o AutoHotkey, você agora quer que ele faça coisas para você.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One common suggestion is to upload the file to an online service such as &lt;a1&gt;virustotal&lt;/a1&gt; or &lt;a2&gt;Jotti&lt;/a2&gt; and see what other antivirus programs have to say.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194809Z" creationid="Setur" creationdate="20210719T194809Z">
+        <seg>Uma sugestão comum é enviar o arquivo para um serviço online como &lt;a1&gt;virustotal&lt;/a1&gt; ou &lt;a2&gt;Jotti&lt;/a2&gt; e ver o que outros programas antivirus têm a dizer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8647,6 +8687,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This might also help us and other AutoHotkey users, as the vendor may confirm it is a false positive and fix their product to play nice with AutoHotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194942Z" creationid="Setur" creationdate="20210719T194942Z">
+        <seg>Isso também pode ajudar outros usuários do AutoHotkey, já que a empresa do antivirus pode confirmar o arquivo como um falso positivo e consertar o produto deles para conviver de boa com o AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This old car will be dangerous to drive.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220734Z" creationid="Leo" creationdate="20210627T220734Z">
@@ -8860,6 +8908,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212258Z" creationid="Leo" creationdate="20210627T212258Z">
         <seg>Para diretamente adicionar uma chave e um valor, basta definir uma chave que não existe ainda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do this, include the following line near the top of the script:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194633Z" creationid="Setur" creationdate="20210719T194633Z">
+        <seg>Para fazer isso, inclua a linha a seguir perto do topo do script:</seg>
       </tuv>
     </tu>
     <tu>

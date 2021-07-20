@@ -11248,6 +11248,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>["Environment","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210720T065505Z" creationid="Ragnar-F" creationdate="20210720T065450Z">
+        <seg>["Ambiente","",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>["Exception Object","commands/Throw.htm#Exception"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T091127Z" creationid="Leo" creationdate="20210703T223043Z">
@@ -11788,6 +11796,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055153Z" creationid="Leo" creationdate="20210711T055153Z">
         <seg>["Controles de MonthCal (GUI)","commands/GuiControls.htm#MonthCal"],</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>["Mouse and Keyboard","",</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210720T065814Z" creationid="Ragnar-F" creationdate="20210720T065809Z">
+        <seg>["Mouse e Teclado","",</seg>
       </tuv>
     </tu>
     <tu>

@@ -4889,8 +4889,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Hold &lt;k0&gt;Ctrl&lt;/k0&gt; or &lt;k1&gt;Shift&lt;/k1&gt; when the installer starts.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182202Z" creationid="Setur" creationdate="20210719T182202Z">
-        <seg>Segure &lt;k0&gt;Ctrl&lt;/k0&gt;Ctrl ou &lt;k1&gt;Shift&lt;/k1&gt;Shift quando o instalador iniciar.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210720T064519Z" creationid="Setur" creationdate="20210719T182202Z">
+        <seg>Segure &lt;k0&gt;Ctrl&lt;/k0&gt; ou &lt;k1&gt;Shift&lt;/k1&gt; quando o instalador iniciar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5497,8 +5497,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>If you get a UAC prompt, hold &lt;k2&gt;Ctrl&lt;/k2&gt; or &lt;k3&gt;Shift&lt;/k3&gt; as you click Yes/Continue.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182242Z" creationid="Setur" creationdate="20210719T182242Z">
-        <seg>Se aparecer um prompt da UAC, segure &lt;k2&gt;Ctrl&lt;/k2&gt; ou &lt;k3&gt;Shift&lt;/k3&gt;Shift enquanto você clica em Yes/Continue.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210720T064608Z" creationid="Setur" creationdate="20210719T182242Z">
+        <seg>Se aparecer um prompt da UAC, segure &lt;k2&gt;Ctrl&lt;/k2&gt; ou &lt;k3&gt;Shift&lt;/k3&gt; enquanto você clica em Yes/Continue.</seg>
       </tuv>
     </tu>
     <tu>

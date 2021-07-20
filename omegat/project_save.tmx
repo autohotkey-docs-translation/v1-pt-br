@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4608,8 +4608,8 @@
       <tuv lang="en">
         <seg>Frequently Asked Questions (FAQ) | AutoHotkey</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T172213Z" creationid="Setur" creationdate="20210719T172213Z">
-        <seg>Perguntas Frequentes (FAQ)</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210720T055840Z" creationid="Setur" creationdate="20210719T172213Z">
+        <seg>Perguntas Frequentes (FAQ) | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -4985,8 +4985,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Hotstrings.htm</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203806Z" creationid="Leo" creationdate="20210629T044512Z">
-        <seg>Hotstrings.htmHotstrings.htm</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210720T060412Z" creationid="Leo" creationdate="20210629T044512Z">
+        <seg>Hotstrings.htm</seg>
       </tuv>
     </tu>
     <tu>
@@ -7945,8 +7945,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Send, abc</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192115Z" creationid="Leo" creationdate="20210629T045946Z">
-        <seg>Send, abcSend, abc</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210720T060504Z" creationid="Leo" creationdate="20210629T045946Z">
+        <seg>Send, abc</seg>
       </tuv>
     </tu>
     <tu>
@@ -14522,8 +14522,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>else</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201515Z" creationid="Leo" creationdate="20210627T220741Z">
-        <seg>elseelse</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210720T060434Z" creationid="Leo" creationdate="20210627T220741Z">
+        <seg>else</seg>
       </tuv>
     </tu>
     <tu>

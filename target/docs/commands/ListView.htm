@@ -335,19 +335,19 @@ return</pre>
 <h2 id="Examples">Exemplos</h2>
 
 <div class="ex" id="ExAllRows">
-<p><a class="ex_number" href="#ExAllRows"></a>  Selects or de-selects all rows by specifying 0 as the row number.</p>
+<p><a class="ex_number" href="#ExAllRows"></a> Selects or de-selects all rows by specifying 0 as the row number.</p>
 <pre><a href="#LV_Modify">LV_Modify</a>(0, "Select")   <em>; Select all.</em>
 LV_Modify(0, "-Select")  <em>; De-select all.</em>
 LV_Modify(0, "-Check")  <em>; Uncheck all the <a href="#Checked">checkboxes</a>.</em></pre>
 </div>
 
 <div class="ex" id="ExAutoSize">
-<p><a class="ex_number" href="#ExAutoSize"></a>  Auto-sizes all columns to fit their contents.</p>
+<p><a class="ex_number" href="#ExAutoSize"></a> Auto-sizes all columns to fit their contents.</p>
 <pre><a href="#LV_ModifyCol">LV_ModifyCol</a>()  <em>; There are no parameters in this mode.</em></pre>
 </div>
 
 <div class="ex" id="ExAdvanced">
-<p><a class="ex_number" href="#ExAdvanced"></a>  The following is a working script that is more elaborate than the one near the top of this page. It displays the files in a folder chosen by the user, with each file assigned the icon associated with its type. The user can double-click a file, or right-click one or more files to display a context menu.</p>
+<p><a class="ex_number" href="#ExAdvanced"></a> The following is a working script that is more elaborate than the one near the top of this page. It displays the files in a folder chosen by the user, with each file assigned the icon associated with its type. The user can double-click a file, or right-click one or more files to display a context menu.</p>
 <pre><em>; Allow the user to maximize or drag-resize the window:</em>
 Gui +Resize
 
@@ -411,7 +411,7 @@ Loop %Folder%\*.*
         ExtID := FileExt  <em>; Special ID as a placeholder.</em>
         IconNumber := 0  <em>; Flag it as not found so that these types can each have a unique icon.</em>
     }
-    elseelse  <em>; Some other extension/file-type, so calculate its unique ID.</em>
+    else  <em>; Some other extension/file-type, so calculate its unique ID.</em>
     {
         ExtID := 0  <em>; Initialize to handle extensions that are shorter than others.</em>
         Loop 7     <em>; Limit the extension to 7 characters so that it fits in a 64-bit value.</em>
@@ -433,7 +433,7 @@ Loop %Folder%\*.*
         if not DllCall("Shell32\SHGetFileInfo" . (A_IsUnicode ? "W":"A"), "Str", FileName
             , "UInt", 0, "Ptr", &amp;sfi, "UInt", sfi_size, "UInt", 0x101)  <em>; 0x101 is SHGFI_ICON+SHGFI_SMALLICON</em>
             IconNumber := 9999999  <em>; Set it out of bounds to display a blank icon.</em>
-        elseelse <em>; Icon successfully loaded.</em>
+        else <em>; Icon successfully loaded.</em>
         {
             <em>; Extract the hIcon member from the structure:</em>
             hIcon := NumGet(sfi, 0)
@@ -464,7 +464,7 @@ return
 ButtonSwitchView:
 if not IconView
     GuiControl, +Icon, MyListView    <em>; Switch to icon view.</em>
-elseelse
+else
     GuiControl, +Report, MyListView  <em>; Switch back to details view.</em>
 IconView := not IconView             <em>; Invert in preparation for next time.</em>
 return
@@ -498,7 +498,7 @@ LV_GetText(FileName, FocusedRowNumber, 1) <em>; Get the text of the first field.
 LV_GetText(FileDir, FocusedRowNumber, 2)  <em>; Get the text of the second field.</em>
 if InStr(A_ThisMenuItem, "Open")  <em>; User selected "Open" from the context menu.</em>
     Run %FileDir%\%FileName%,, UseErrorLevel
-elseelse  <em>; User selected "Properties" from the context menu.</em>
+else  <em>; User selected "Properties" from the context menu.</em>
     Run Properties "%FileDir%\%FileName%",, UseErrorLevel
 if ErrorLevel
     MsgBox Could not perform requested action on "%FileDir%\%FileName%".

@@ -16,7 +16,7 @@
 ^!n::  <em>; Ctrl+Alt+N</em>
 if WinExist("Untitled - Notepad")
     WinActivate
-elseelse
+else
     Run Notepad
 return</pre>
 <p><strong>Tip:</strong> If your browser supports it, you can download any code block (such as the one above) as a script file by clicking the button which appears in the top-right of the code block when you hover your mouse over it.</p>
@@ -41,7 +41,6 @@ return</pre>
 <p>There are a couple of common ways to create a script file:</p>
 <ul>
   <li>In Notepad (or a <a href="commands/Edit.htm#Editors">text editor</a> of your choice), save a file with the <code>.ahk</code> filename extension. On some systems you may need to enclose the name in quotes to ensure the editor does not add another extension (such as .txt).
-  
   <p class="note">Be sure to save the file as UTF-8 with BOM if it will contain non-ASCII characters. For details, see the <a href="FAQ.htm#nonascii">FAQ</a>.</p></li>
   <li>In Explorer, right-click in empty space in the folder where you want to save the script, then select <strong>New</strong> and <strong>AutoHotkey Script</strong>. You can then type a name for the script (taking care not to erase the <code>.ahk</code> extension if it is visible).</li>
 </ul>
@@ -64,7 +63,7 @@ return</pre>
 
 <h2 id="tray-icon">Tray Icon</h2>
 <p>By default, each script adds its own icon to the taskbar notification area (commonly known as the tray).</p>
-<p>The tray icon usually looks like this (but the color or letter changes when the script is <a href="commands/Pause.htm">paused</a> or <a href="commands/Suspend.htm">suspended</a>):  <img src="static/ahk16.png" alt="H"></p>
+<p>The tray icon usually looks like this (but the color or letter changes when the script is <a href="commands/Pause.htm">paused</a> or <a href="commands/Suspend.htm">suspended</a>): <img src="static/ahk16.png" alt="H"></p>
 <p>Right-click the tray icon to show the tray menu, which has the following options by default:</p>
 <ul>
 <li>Open - Open the script's <a href="#main-window">main window</a>.</li>
@@ -111,7 +110,6 @@ PreventAutoMinimize(wParam, lParam, uMsg, hwnd) {
 
 <h3 id="title">Main Window Title</h3>
 <p>The title of the script's main window is used by the <a href="commands/_SingleInstance.htm">#SingleInstance</a> and <a href="commands/Reload.htm">Reload</a> mechanisms to identify other instances of the same script. <a href="commands/WinSetTitle.htm">Changing the title</a> prevents the script from being identified as such. The default title depends on how the script was loaded:
-
 <table class="info">
   <tr><th>Loaded From</th><th>Title Expression</th><th>Example</th></tr>
   <tr><td>.ahk file</td><td><code>A_ScriptFullPath " - AutoHotkey v" A_AhkVersion</code></td><td>E:\My Script.ahk - AutoHotkey v1.1.33.09</td></tr>

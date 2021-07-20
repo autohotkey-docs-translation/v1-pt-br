@@ -21,7 +21,6 @@
 
   <dt>VarType</dt>
   <dd>The base type of the array (the VARTYPE of each element of the array). The VARTYPE is restricted to a subset of the variant types. Neither the VT_ARRAY nor the VT_BYREF flag can be set. VT_EMPTY and VT_NULL are not valid base types for the array. All other types are legal.
-    
     <p>See <a href="ComObjType.htm">ComObjType</a> for a list of possible values.</p></dd>
 
   <dt>Count<i>N</i></dt>
@@ -43,7 +42,7 @@
 <p>Array wrapper objects may also be returned by COM methods and <a href="ComObjActive.htm">ComObjActive()</a>. Scripts may determine if a value is an array as follows:</p>
 <pre>if ComObjType(<i>obj</i>) &amp; 0x2000
     MsgBox % "Array subtype: " . ComObjType(obj) &amp; 0xfff
-elseelse
+else
     MsgBox Not an array.</pre>
 <p>Arrays with up to 8 dimensions are supported.</p>
 <p><span class="ver">[v1.0.96.00+]:</span> Since SafeArrays are not designed to support multiple references, when one SafeArray is assigned to an element of another SafeArray, a separate copy is created. However, this only occurs if the wrapper object has the F_OWNVALUE flag, which indicates it is responsible for destroying the array. This flag can be removed by using <a href="ComObjFlags.htm">ComObjFlags()</a>.</p>
@@ -54,7 +53,7 @@ elseelse
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a>  Simple usage.</p>
+<p><a class="ex_number" href="#ExBasic"></a> Simple usage.</p>
 <pre id="Ex1">arr := ComObjArray(VT_VARIANT:=12, 3)
 arr[0] := "Auto"
 arr[1] := "Hot"
@@ -66,7 +65,7 @@ MsgBox % t
 </div>
 
 <div class="ex" id="ExMultiDims">
-<p><a class="ex_number" href="#ExMultiDims"></a>  Multiple dimensions.</p>
+<p><a class="ex_number" href="#ExMultiDims"></a> Multiple dimensions.</p>
 <pre id="Ex2">arr := ComObjArray(VT_VARIANT:=12, 3, 4)
 
 <em>; Get the number of dimensions:</em>

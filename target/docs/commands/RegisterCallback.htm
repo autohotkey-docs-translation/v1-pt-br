@@ -77,7 +77,7 @@ DllCall(callback, "float", 10.5, "int64", 42)        <em>; Call TheFunc via call
 TheFunc(params*) {
     if IsObject(params)
         MsgBox % params[1]
-    elseelse
+    else
         MsgBox % <a href="NumGet.htm">NumGet</a>(params+0, "float") ", " NumGet(params+A_PtrSize, "int64")
 }</pre>
 <p>Most callbacks use the <em>stdcall</em> calling convention, which requires a fixed number of parameters. In those cases, <em>ParamCount</em> must be set to the size of the parameter list, where Int64 and Double count as two 32-bit parameters.</p>
@@ -100,7 +100,7 @@ TheFunc(params*) {
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExWinList">
-<p><a class="ex_number" href="#ExWinList"></a>  Displays a summary of all top-level windows.</p>
+<p><a class="ex_number" href="#ExWinList"></a> Displays a summary of all top-level windows.</p>
 <pre><em>; For performance and memory conservation, call RegisterCallback() only once for a given callback:</em>
 if not EnumAddress  <em>; Fast-mode is okay because it will be called only from this thread:</em>
     EnumAddress := RegisterCallback("EnumWindowsProc", "Fast")
@@ -123,7 +123,7 @@ EnumWindowsProc(hwnd, lParam)
 </div>
 
 <div class="ex" id="ExSubclassGUI">
-<p><a class="ex_number" href="#ExSubclassGUI"></a>  Demonstrates how to subclass a GUI window by redirecting its WindowProc to a new WindowProc in the script. In this case, the background color of a text control is changed to a custom color.</p>
+<p><a class="ex_number" href="#ExSubclassGUI"></a> Demonstrates how to subclass a GUI window by redirecting its WindowProc to a new WindowProc in the script. In this case, the background color of a text control is changed to a custom color.</p>
 <pre>TextBackgroundColor := 0xFFBBBB  <em>; A custom color in BGR format.</em>
 TextBackgroundBrush := DllCall("CreateSolidBrush", "UInt", TextBackgroundColor)
 

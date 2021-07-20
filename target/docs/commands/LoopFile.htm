@@ -87,7 +87,6 @@
   </tr>
   <tr id="LoopFileFullPath">
     <td>A_LoopFileFullPath<br>
-    
     A_LoopFilePath</td>
     <td><p>The path and name of the file/folder currently retrieved. If <em>FilePattern</em> contains a relative path rather than an absolute path, the path here will also be relative. In addition, any short (8.3) folder names in <em>FilePattern</em> will still be short (see next item to get the long version).</p>
     <p>A_LoopFilePath is available in <span class="ver">[v1.1.28+]</span> as an alias of A_LoopFileFullPath, which is a misnomer.</p></td>
@@ -163,7 +162,7 @@ Loop, Parse, FileList, `n
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a>  Reports the full path of each text file located in a directory and in its subdirectories.</p>
+<p><a class="ex_number" href="#ExBasic"></a> Reports the full path of each text file located in a directory and in its subdirectories.</p>
 <pre>Loop Files, %A_ProgramFiles%\*.txt, R  <em>; Recurse into subfolders.</em>
 {
     MsgBox, 4, , Filename = %A_LoopFileFullPath%`n`nContinue?
@@ -173,7 +172,7 @@ Loop, Parse, FileList, `n
 </div>
 
 <div class="ex" id="ExSize">
-<p><a class="ex_number" href="#ExSize"></a>  Calculates the size of a folder, including the files in all its subfolders.</p>
+<p><a class="ex_number" href="#ExSize"></a> Calculates the size of a folder, including the files in all its subfolders.</p>
 <pre>SetBatchLines, -1  <em>; Make the operation run at maximum speed.</em>
 FolderSizeKB := 0
 FileSelectFolder, WhichFolder  <em>; Ask the user to pick a folder.</em>
@@ -183,7 +182,7 @@ MsgBox Size of %WhichFolder% is %FolderSizeKB% KB.</pre>
 </div>
 
 <div class="ex" id="ExSortName">
-<p><a class="ex_number" href="#ExSortName"></a>  Retrieves file names sorted by name (see next example to sort by date).</p>
+<p><a class="ex_number" href="#ExSortName"></a> Retrieves file names sorted by name (see next example to sort by date).</p>
 <pre>FileList := ""  <em>; Initialize to be blank.</em>
 Loop, C:\*.*
     FileList .= A_LoopFileName "`n"
@@ -199,7 +198,7 @@ Loop, parse, FileList, `n
 </div>
 
 <div class="ex" id="ExSortDate">
-<p><a class="ex_number" href="#ExSortDate"></a>  Retrieves file names sorted by modification date.</p>
+<p><a class="ex_number" href="#ExSortDate"></a> Retrieves file names sorted by modification date.</p>
 <pre>FileList := ""
 Loop, Files, %A_MyDocuments%\Photos\*.*, FD  <em>; Include Files and Directories</em>
     FileList .= A_LoopFileTimeModified "`t" A_LoopFileName "`n"
@@ -216,7 +215,7 @@ Loop, Parse, FileList, `n
 </div>
 
 <div class="ex" id="ExFileCopy">
-<p><a class="ex_number" href="#ExFileCopy"></a>  Copies only the source files that are newer than their counterparts in the destination.</p>
+<p><a class="ex_number" href="#ExFileCopy"></a> Copies only the source files that are newer than their counterparts in the destination.</p>
 <pre>CopyIfNewer:
 <em>; Caller has set the variables CopySourcePattern and CopyDest for us.</em>
 Loop, Files, %CopySourcePattern%
@@ -224,7 +223,7 @@ Loop, Files, %CopySourcePattern%
     copy_it := false
     if not FileExist(CopyDest "\" A_LoopFileName)  <em>; Always copy if target file doesn't yet exist.</em>
         copy_it := true
-    elseelse
+    else
     {
         FileGetTime, time, %CopyDest%\%A_LoopFileName%
         EnvSub, time, %A_LoopFileTimeModified%, seconds  <em>; Subtract the source file's time from the destination's.</em>
@@ -242,7 +241,7 @@ Return</pre>
 </div>
 
 <div class="ex" id="ExLongPath">
-<p><a class="ex_number" href="#ExLongPath"></a>  Converts filenames passed in via command-line parameters to long names, complete path, and correct uppercase/lowercase characters as stored in the file system.</p>
+<p><a class="ex_number" href="#ExLongPath"></a> Converts filenames passed in via command-line parameters to long names, complete path, and correct uppercase/lowercase characters as stored in the file system.</p>
 <pre>Loop %0%  <em>; For each file dropped onto the script (or passed as a parameter).</em>
 {
     GivenPath := %A_Index%  <em>; Retrieve the next command line parameter.</em>

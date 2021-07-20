@@ -108,11 +108,11 @@
 </table>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a>  Waits a maximum of 1 second until <var>MyWindow</var> exists. If WinWait times out, ErrorLevel is set to 1, otherwise to 0.</p>
+<p><a class="ex_number" href="#ExBasic"></a> Waits a maximum of 1 second until <var>MyWindow</var> exists. If WinWait times out, ErrorLevel is set to 1, otherwise to 0.</p>
 <pre>WinWait, MyWindow,, 1
 if ErrorLevel   <em>; i.e. it's not blank or zero.</em>
     MsgBox, The window does not exist.
-elseelse
+else
     MsgBox, The window exists.</pre>
 </div>
 </body>

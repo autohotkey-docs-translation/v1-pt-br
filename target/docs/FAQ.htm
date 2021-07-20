@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Perguntas Frequentes (FAQ)</title>
+<title>Perguntas Frequentes (FAQ) | AutoHotkey</title>
 <meta name="description" content="Esta página lista perguntas e respostas sobre a sintaxe da linguagem, resolução de problemas em geral, tarefas comuns, teclas de atalho (hotkeys), hotstrings e remapeamento de teclas." />
 <link href="static/theme.css" rel="stylesheet" type="text/css" />
 <script src="static/content.js" type="text/javascript"></script>
@@ -23,7 +23,7 @@
 <ul>
   <li><a href="#install">O que posso fazer quando eu não conseguir instalar o AutoHotkey?</a></li>
   <li><a href="#rightclick">Como eu restauro as opções do menu contexto do clique com o botão direito para os arquivos .ahk?</a></li>
-  <li><a href="#autoexec">Por que algumas linhas do script nunca execeutam?</a></li>
+  <li><a href="#autoexec">Por que algumas linhas do script nunca executam?</a></li>
   <li><a href="#vista">Por que meu script não roda no Windows <em>xxx</em> mesmo que tenha funcionado em uma versão anterior?</a></li>
   <li><a href="#uac">Como eu contorno problemas causados pelo Controle de Conta de Usuário (UAC)?</a></li>
   <li><a href="#DefaultScript">Eu não consigo editar meu script pelo ícone da bandeja porque aquele não inicia devido a um erro. Posso encontrar meu script em algum outro lugar?</a></li>
@@ -114,8 +114,8 @@
 <p>Isso pode ser feito <a href="misc/remove-userchoice.reg" download="remove-userchoice.reg">aplicando-se este patch do registro</a>.</p>
 <p>Também pode ser necessário restaurar os valores padrão do registro, seja reinstalando o AutoHotkey ou executando seu setup (a partir do Menu Iniciar) e selecionando <em>aplicar</em> perto do topo da janela.</p>
 
-<h3 id="autoexec">Por que algumas linhas do script nunca execeutam?</h3>
-<p>Quaisquer linhas que você quiser que sejam executadas imediatamente quando o script inicia devem vir no começo do script, antes da primeira <a href="Hotkeys.htm">hotkey</a>, <a href="Hotstrings.htmHotstrings.htm">hotstring</a> ou <a href="commands/Return.htm">Return</a>. Para detalhes, vide <a href="Scripts.htm#auto">seção de autoexecução</a>.</p>
+<h3 id="autoexec">Por que algumas linhas do script nunca executam?</h3>
+<p>Quaisquer linhas que você quiser que sejam executadas imediatamente quando o script inicia devem vir no começo do script, antes da primeira <a href="Hotkeys.htm">hotkey</a>, <a href="Hotstrings.htm">hotstring</a> ou <a href="commands/Return.htm">Return</a>. Para detalhes, vide <a href="Scripts.htm#auto">seção de autoexecução</a>.</p>
 <p>Do mesmo modo, uma <a href="Hotkeys.htm">hotkey</a> que executa mais que uma linha deve ter sua primeira linha <em>debaixo</em> da hotkey, não na mesma linha. Por exemplo:</p>
 <pre>#space::  <em>; Win+Espaço</em>
 Run Notepad
@@ -171,15 +171,15 @@ return</pre>
 <p>Para ler outros arquivos UTF-8 que não contêm uma BOM, use o comando <code><a href="commands/FileEncoding.htm">FileEncoding</a> UTF-8-RAW</code>, a opção <code>*P65001</code> com o comando <a href="commands/FileRead.htm">FileRead</a>, ou <code>UTF-8-RAW</code> como terceiro parâmetro da função <a href="commands/FileOpen.htm">FileOpen()</a>. O sufixo <code>-RAW</code> pode ser omitido, mas neste caso somente os novos arquivos terão uma marca de ordem de bytes.</p>
 <p>Note que arquivos INÍCIO acessados com os comandos INI padrão não suportam UTF-8; eles devem ser salvos como ANSI ou UTF-16.</p>
 
-<h3 id="games">Por que <a href="Hotstrings.htmHotstrings.htm">Hotstrings</a>, <a href="commands/Send.htm">Send</a> e <a href="commands/Click.htm">Click</a> não têm efeito em alguns jogos?</h3>
+<h3 id="games">Por que <a href="Hotstrings.htm">Hotstrings</a>, <a href="commands/Send.htm">Send</a> e <a href="commands/Click.htm">Click</a> não têm efeito em alguns jogos?</h3>
 <p>Nem todos os jogos permitem que o AHK envie pressionamentos de teclas ou cliques ou receba cores de píxeis.</p>
 <p>Mas há algumas alternativas; tente todas as soluções abaixo. Se todas estas falharem, então pode não ser possível que o AHK funcione com o seu jogo. Às vezes os jogos têm medidas de prevenção de hack ou cheats, como GameGuard e Hackshield. Se tiverem, haverá uma alta probabilidade de o AutoHotkey não funcionar com esse jogo.</p>
 <ul>
   <li>
-  <p>Use SendPlay via comando <a href="commands/Send.htm#SendPlay">SendPlay</a>, <a href="commands/SendMode.htm">SendMode Play</a> e/ou a <a href="Hotstrings.htmHotstrings.htm">opção SP das hotstrings</a>.</p>
+  <p>Use SendPlay via comando <a href="commands/Send.htm#SendPlay">SendPlay</a>, <a href="commands/SendMode.htm">SendMode Play</a> e/ou a <a href="Hotstrings.htm">opção SP das hotstrings</a>.</p>
   <pre>SendPlay, abc</pre>
   <pre>SendMode, Play
-Send, abcSend, abc</pre>
+Send, abc</pre>
   <pre>:SP:flni::falando nisso
 
 <em>; or</em>
@@ -276,7 +276,7 @@ WinActivate
 <a href="commands/StatusBarWait.htm">StatusBarWait</a>, Done, 30
 if ErrorLevel
     MsgBox A espera se esgotou ou a janela foi fechada. 
-elseelse 
+else 
     MsgBox A página terminou de carregar.</pre>
 <h3 id="time">Como comparar ou manipular datas e horários?</h3>
 <p>O comando <a href="commands/EnvAdd.htm">EnvAdd</a> pode adicionar ou subtrair uma quantidade de dias, horas, minutos ou segundos de uma string de tempo que esteja no formato <a href="commands/FileSetTime.htm#YYYYMMDD">YYYYMMDDHH24MISS</a>. O exemplo abaixo subtrai 7 dias do horário especificado: <code>EnvAdd, VarContendoOHorario, -7, days</code>.</p>
@@ -330,7 +330,7 @@ Return</pre>
     if (A_ThisHotkey = A_PriorHotkey &amp;&amp; A_TimeSincePriorHotkey &lt; 200)
         MsgBox pressione duas vezes
 return</pre>
-<h3 id="HotContext">Como posso fazer com que uma <a href="Hotkeys.htm">hotkey</a> ou <a href="Hotstrings.htmHotstrings.htm">hotstring</a> seja exclusiva de certo(s) programa(s)? Em outras palavras, eu quero que determinada tecla funcione normalmente exceto quando uma janela específica está ativa.</h3>
+<h3 id="HotContext">Como posso fazer com que uma <a href="Hotkeys.htm">hotkey</a> ou <a href="Hotstrings.htm">hotstring</a> seja exclusiva de certo(s) programa(s)? Em outras palavras, eu quero que determinada tecla funcione normalmente exceto quando uma janela específica está ativa.</h3>
 <p>O método preferido é <a href="commands/_IfWinActive.htm">#IfWinActive</a>. Por exemplo:</p>
 <pre>#IfWinActive, ahk_class Notepad
 ^a::MsgBox Você pressionou Ctrl+A enquanto o Bloco de Notas estava ativo.

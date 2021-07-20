@@ -30,7 +30,7 @@
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="exwmi">
-<p><a class="ex_number" href="#exwmi"></a>  Press <kbd>Shift</kbd>+<kbd>Esc</kbd> to show the command line which was used to launch the active window's process. Requires XP or later.</p>
+<p><a class="ex_number" href="#exwmi"></a> Press <kbd>Shift</kbd>+<kbd>Esc</kbd> to show the command line which was used to launch the active window's process. Requires XP or later.</p>
 <pre>+Esc::
     WinGet pid, PID, A
     <em>; Get WMI service object.</em>
@@ -42,7 +42,7 @@
     <em>; Get first matching process.</em>
     if queryEnum[proc]
         MsgBox 0, Command line, % proc.CommandLine
-    elseelse
+    else
         MsgBox Process not found!
     <em>; Free all global objects (not necessary when using local vars).</em>
     wmi := queryEnum := proc := ""

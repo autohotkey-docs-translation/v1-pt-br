@@ -215,7 +215,7 @@ return</pre>
 <p>Mas agora você está se perguntando se as hotstrings têm modificadores maneiros iguais aos das hotkeys. Sim, elas têm! Modificadores de hotstrings vão no meio do primeiro par de dois-pontos: Por exemplo:</p>
 <pre>:*:slm::Salve os leões marinhos</pre>
 
-<p class="note">Visite <a href="Hotkeys.htm">Hotkeys</a> e <a href="Hotstrings.htmHotstrings.htm">Hotstrings</a> para modificadores, informações e exemplos adicionais.</p>
+<p class="note">Visite <a href="Hotkeys.htm">Hotkeys</a> e <a href="Hotstrings.htm">Hotstrings</a> para modificadores, informações e exemplos adicionais.</p>
 <h3 id="s22">b. Hotkeys e hotstrings que funcionam em só em uma ou algumas janelas</h3>
 
 <p>Às vezes você pode querer que uma hotkey ou hotstring só funcione (ou fique desabilitada) em uma determinada janela. Para fazer isso, você precisará usar um destes comandos garbosos com um símbolo # na frente deles:</p>
@@ -343,7 +343,7 @@ Send, {b}       <em>; ERRADO</em>
 Send, {c}       <em>; ERRADO</em>
 Send, {a}{b}{c} <em>; ERRADO</em>
 Send, {abc}     <em>; ERRADO</em>
-Send, abcSend, abc       <em>; CERTO</em></pre>
+Send, abc       <em>; CERTO</em></pre>
 
 <p>Para segurar ou soltar uma tecla, envolva o nome da tecla em chaves e aí use as palavras UP ou DOWN. Por exemplo:</p>
 <pre><em>; É assim que você segura uma tecla e pressiona outra(s)
@@ -529,7 +529,7 @@ if (OutputVar = "Leo")
 InputBox, OutputVar2, Pergunta 2, você gosta do AutoHotkey?
 if (OutputVar2 = "sim")
     MsgBox, Obrigado por responder %OutputVar2%`, %OutputVar%! Nós nos tornaremos grandes amigos.
-elseelse
+else
     MsgBox, %OutputVar%`, isso me deixa triste.</pre>
 
 <h3 id="s63">c. Outros exemplos?</h3>
@@ -712,12 +712,12 @@ if (pneu = "murcho")
 MsgBox, Este carro não está seguro para dirigir.
 return
 }
-elseelse
+else
 {
 MsgBox, Tome cuidado! Este carro estará perigoso de dirigir.
 }
 }
-elseelse
+else
 {
 MsgBox, Meu`, que possante brilhoso é esse seu novo carro.
 }</pre>
@@ -731,12 +731,12 @@ MsgBox, Meu`, que possante brilhoso é esse seu novo carro.
         MsgBox, Este carro não está seguro para dirigir.
         return
     }
-    elseelse
+    else
     {
         MsgBox, Tome cuidado! Este carro estará perigoso de dirigir.
     }
 }
-elseelse
+else
 {
     MsgBox, Meu`, que possante brilhoso é esse seu novo carro.
 }</pre>

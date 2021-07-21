@@ -3286,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AutoHotkey supports these number formats:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015726Z" creationid="Leo" creationdate="20210721T015726Z">
+        <seg>O AutoHotkey suporta estes formatos de números:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey supports these types of values:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015130Z" creationid="Leo" creationdate="20210721T015130Z">
@@ -4038,6 +4046,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Decimal floating-point numbers, such as &lt;c0&gt;3.14159&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015857Z" creationid="Leo" creationdate="20210721T015857Z">
+        <seg>Números decimais de ponto flutuante, como &lt;c0&gt;3.14159&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decimal integers, such as &lt;c0&gt;123&lt;/c0&gt;, &lt;c1&gt;00123&lt;/c1&gt; or &lt;c2&gt;-1&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015746Z" creationid="Leo" creationdate="20210721T015746Z">
+        <seg>Inteiros decimais, como &lt;c0&gt;123&lt;/c0&gt;, &lt;c1&gt;00123&lt;/c1&gt; ou &lt;c2&gt;-1&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete (or Del)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180407Z" creationid="Leo" creationdate="20210702T180407Z">
@@ -4502,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more detailed explanation of how strings work, see &lt;a0&gt;String Encoding&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015714Z" creationid="Leo" creationdate="20210721T015714Z">
+        <seg>Para uma explicação mais detalhada de como strings funcionam, veja &lt;a0&gt;Codificação de Strings&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a video instruction, watch &lt;a0&gt;Install and Hello World&lt;/a0&gt; on YouTube.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210032Z" creationid="Leo" creationdate="20210622T202024Z">
@@ -4514,6 +4546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190448Z" creationid="Setur" creationdate="20210719T190448Z">
         <seg>Para scripts complexos, vide &lt;a3&gt;Depuração Interativa&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, see &lt;a0&gt;Legacy Syntax&lt;/a0&gt; and &lt;a1&gt;Strings (in expressions)&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015659Z" creationid="Leo" creationdate="20210721T015659Z">
+        <seg>Para detalhes, veja &lt;a0&gt;Sintaxe Legada&lt;/a0&gt; e &lt;a1&gt;Strings (em expressões)&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5015,6 +5055,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hexadecimal integers, such as &lt;c0&gt;0x7B&lt;/c0&gt;, &lt;c1&gt;0x007B&lt;/c1&gt; or &lt;c2&gt;-0x1&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015806Z" creationid="Leo" creationdate="20210721T015806Z">
+        <seg>Inteiros hexadecimais, como &lt;c0&gt;0x78&lt;/c0&gt;, &lt;c1&gt;0x007B&lt;/c1&gt; ou &lt;c2&gt;-0x1&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hidden</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230631Z" creationid="Leo" creationdate="20210703T230624Z">
@@ -5355,6 +5403,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173225Z" creationid="Setur" creationdate="20210719T173225Z">
         <seg>Como eu contorno problemas causados pelo Controle de Conta de Usuário (UAC)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How literal text should be written within the script depends on the context.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015645Z" creationid="Leo" creationdate="20210721T015645Z">
+        <seg>A forma com que texto literal deve ser escrito dentro do script depende do contexto.</seg>
       </tuv>
     </tu>
     <tu>

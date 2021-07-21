@@ -3438,6 +3438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Built-in Variables</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014850Z" creationid="Leo" creationdate="20210721T014850Z">
+        <seg>Variáveis Nativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But before we get into things, we should talk about some common issues that people have.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003627Z" creationid="Leo" creationdate="20210624T003627Z">
@@ -3798,6 +3806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Control Flow</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014912Z" creationid="Leo" creationdate="20210721T014912Z">
+        <seg>Fluxo de Controle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ControlGetText, OutputVar</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214716Z" creationid="Leo" creationdate="20210627T214716Z">
@@ -3990,6 +4006,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014915Z" creationid="Leo" creationdate="20210721T014915Z">
+        <seg>Detalhes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disable UAC completely.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T185130Z" creationid="Setur" creationdate="20210719T185130Z">
@@ -4146,6 +4170,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075329Z" creationid="Leo" creationdate="20210703T075329Z">
         <seg>Certifique-se que pelo menos um script com o &lt;a0&gt;gancho de teclado&lt;/a0&gt; esteja em execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Environment Variables</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014858Z" creationid="Leo" creationdate="20210721T014853Z">
+        <seg>Variáveis de Ambiente</seg>
       </tuv>
     </tu>
     <tu>
@@ -4574,6 +4606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For more specific details about syntax, see &lt;a0&gt;Scripting Language&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014741Z" creationid="Leo" creationdate="20210721T014741Z">
+        <seg>Para detalhes mais específicos sobre a sintaxe, veja &lt;a0&gt;Linguagem de Confecção de Scripts&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For optimal learning power, it is advised that you read the text and &lt;b0&gt;try&lt;/b0&gt; the code.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210126Z" creationid="Leo" creationdate="20210622T201315Z">
@@ -4682,6 +4722,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043833Z" creationid="Leo" creationdate="20210629T043833Z">
         <seg>Functions.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Functions/Commands</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014909Z" creationid="Leo" creationdate="20210721T014909Z">
+        <seg>Funções/Comandos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6919,6 +6967,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Names</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014925Z" creationid="Leo" creationdate="20210721T014925Z">
+        <seg>Nomes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New scripts should use {0} instead.":true</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T101328Z" creationid="Ragnar-F" creationdate="20210717T101145Z">
@@ -7067,6 +7123,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204006Z" creationid="Setur" creationdate="20210719T204006Z">
         <seg>Numpad0 &amp; Numpad1::MsgBox, Você pressionou Numpad1 enquanto segurava Numpad0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Object Protocol</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014836Z" creationid="Leo" creationdate="20210721T014836Z">
+        <seg>Protocolo dos Objetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -7395,6 +7459,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090437Z" creationid="Leo" creationdate="20210703T073629Z">
         <seg>fornece uma string que consiste em zero ou mais das letras a seguir para indicar as funcionalidades do joystick:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pure Numbers</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014924Z" creationid="Leo" creationdate="20210721T014924Z">
+        <seg>Números Puros</seg>
       </tuv>
     </tu>
     <tu>
@@ -8507,6 +8579,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183729Z" creationid="Leo" creationdate="20210702T183729Z">
         <seg>Parar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>String Encoding</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014920Z" creationid="Leo" creationdate="20210721T014920Z">
+        <seg>Codificação de Strings</seg>
       </tuv>
     </tu>
     <tu>
@@ -9952,6 +10032,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uninitialised Variables</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014845Z" creationid="Leo" creationdate="20210721T014845Z">
+        <seg>Variáveis não inicializadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unlike &lt;k1&gt;Ctrl&lt;/k1&gt;/&lt;k2&gt;Alt&lt;/k2&gt;/&lt;k3&gt;Shift&lt;/k3&gt;, there is no generic/neutral "Win" key because the OS does not support it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182828Z" creationid="Leo" creationdate="20210702T182828Z">
@@ -10140,6 +10228,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045545Z" creationid="Leo" creationdate="20210629T045545Z">
         <seg>Var8 := Var " Text"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variable References vs Values</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015008Z" creationid="Leo" creationdate="20210721T015008Z">
+        <seg>Referências a Variáveis x Valores</seg>
       </tuv>
     </tu>
     <tu>

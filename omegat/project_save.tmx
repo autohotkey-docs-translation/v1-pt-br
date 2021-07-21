@@ -3070,6 +3070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the &lt;a1&gt;SetFormat&lt;/a1&gt; command can be used to change the current format, it is usually better to use the &lt;a2&gt;Format&lt;/a2&gt; function to format a string.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020433Z" creationid="Leo" creationdate="20210721T020433Z">
+        <seg>Apesar de o comando &lt;a1&gt;SetFormat&lt;/a1&gt; poder ser usado para alterar o formato atual, costuma ser melhor usar a função &lt;a2&gt;Format&lt;/a2&gt; para formatar uma string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although the following Joystick control names cannot be used as hotkeys, they can be used with &lt;a0&gt;GetKeyState()&lt;/a0&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T072852Z" creationid="Leo" creationdate="20210703T072852Z">
@@ -4510,6 +4518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Floating-point numbers can also be formatted by using the &lt;a3&gt;Round&lt;/a3&gt; function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020445Z" creationid="Leo" creationdate="20210721T020445Z">
+        <seg>Números de ponto flutuante também podem ser formatados usando-se a função &lt;a3&gt;Round&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For Example:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202101Z" creationid="Setur" creationdate="20210719T202101Z">
@@ -4546,6 +4562,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190448Z" creationid="Setur" creationdate="20210719T190448Z">
         <seg>Para scripts complexos, vide &lt;a3&gt;Depuração Interativa&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details about the range and accuracy of numeric values, see &lt;a0&gt;Pure Numbers&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020505Z" creationid="Leo" creationdate="20210721T020505Z">
+        <seg>Para detalhes sobre o intervalo e a precisão de valores numéricos, veja &lt;a0&gt;Números Puros&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8031,6 +8055,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scientific notation is also recognized, but only if a decimal point is present (e.g. &lt;c2&gt;1.0e4&lt;/c2&gt; and &lt;c3&gt;-2.1E-4&lt;/c3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020243Z" creationid="Leo" creationdate="20210721T020243Z">
+        <seg>Notação científica também é reconhecida, mas somente se uma casa decimal estiver presente (exemplo: &lt;c2&gt;1.0e4&lt;/c2&gt; e &lt;c3&gt;-2.1E-4&lt;/c3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts.htm#continuation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043641Z" creationid="Leo" creationdate="20210629T043641Z">
@@ -9059,6 +9091,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195255Z" creationid="Setur" creationdate="20210719T195255Z">
         <seg>O compilador em si (Ahk2Exe) não é necessário para rodar scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The decimal separator is always a dot, even if the user's regional settings specify a comma.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020314Z" creationid="Leo" creationdate="20210721T020314Z">
+        <seg>O separador de casas decimais é sempre um ponto, mesmo se as configurações regionais do usuário especificarem a vírgula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10724,6 +10764,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T213130Z" creationid="Leo" creationdate="20210626T051028Z">
         <seg>Quando &lt;b0&gt;não&lt;/b0&gt; usar sinais de porcentagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a number is converted to a string, it is formatted according to the current &lt;a0&gt;integer or float format&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020358Z" creationid="Leo" creationdate="20210721T020358Z">
+        <seg>Quando um número é convertido em uma string, ele é formatado de acordo com o &lt;a0&gt;formato de inteiro ou decimal&lt;/a0&gt; atual.</seg>
       </tuv>
     </tu>
     <tu>

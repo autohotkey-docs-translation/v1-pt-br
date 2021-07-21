@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3742,6 +3742,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Concepts and Conventions</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014543Z" creationid="Leo" creationdate="20210721T014543Z">
+        <seg>Conceitos e convenções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Concepts and Conventions | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014452Z" creationid="Leo" creationdate="20210721T014452Z">
+        <seg>Conceitos e convenções | AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consider the following example, which makes Numpad0 into a prefix key:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203954Z" creationid="Setur" creationdate="20210719T203954Z">
@@ -6219,6 +6235,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183854Z" creationid="Leo" creationdate="20210702T183854Z">
         <seg>Abre o player de mídia padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learn details about some general concepts and conventions used by AutoHotkey, with focus on explanation rather than code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014534Z" creationid="Leo" creationdate="20210721T014534Z">
+        <seg>Saiba detalhes sobre conceitos gerais e convenções usadas pelo AutoHotkey, num artigo focado mais na explicação do que no código.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8911,6 +8935,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The reader is not assumed to have any prior knowledge of scripting or programming, but should be prepared to learn new terminology.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014705Z" creationid="Leo" creationdate="20210721T014705Z">
+        <seg>Não se assume que o leitor tenha qualquer conhecimento prévio de confecção de scripts ou programação, mas deve estar preparado para aprender novas terminologias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The right mouse button when used with Send, but the secondary mouse button when used with hotkeys.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070606Z" creationid="Leo" creationdate="20210702T070606Z">
@@ -9251,6 +9283,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003601Z" creationid="Leo" creationdate="20210624T003601Z">
         <seg>Este comando literalmente envia o pressionamento de teclas, para simular a digitação ou o simples pressionamento de quaisquer teclas do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document covers some general concepts and conventions used by AutoHotkey, with focus on explanation rather than code.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014626Z" creationid="Leo" creationdate="20210721T014626Z">
+        <seg>Este documento cobre alguns conceitos gerais e convenções usadas pelo AutoHotkey, num artigo focado mais na explicação do que no código.</seg>
       </tuv>
     </tu>
     <tu>

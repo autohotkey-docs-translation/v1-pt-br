@@ -1902,6 +1902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Numbers&lt;/a0&gt; (integers and floating-point numbers)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015152Z" creationid="Leo" creationdate="20210721T015152Z">
+        <seg>&lt;a0&gt;Números&lt;/a0&gt; (inteiros e números de ponto flutuante)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Objects&lt;/a0&gt; are a way of organizing your data for more efficient usage.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053148Z" creationid="Leo" creationdate="20210626T053148Z">
@@ -1938,6 +1946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183932Z" creationid="Setur" creationdate="20210719T183932Z">
         <seg>&lt;a0&gt;SoundGet&lt;/a0&gt;, &lt;a1&gt;SoundSet&lt;/a1&gt;, &lt;a2&gt;SoundGetWaveVolume&lt;/a2&gt; e &lt;a3&gt;SoundSetWaveVolume&lt;/a3&gt; comportam-se de maneira diferente no Windows Vista e posteriores em relação a versões anteriores do Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Strings&lt;/a0&gt; (text)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015137Z" creationid="Leo" creationdate="20210721T015137Z">
+        <seg>&lt;a0&gt;Strings&lt;/a0&gt; (texto)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2710,6 +2726,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;e0&gt;string&lt;/e0&gt; is simply text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015227Z" creationid="Leo" creationdate="20210721T015227Z">
+        <seg>Uma &lt;e0&gt;string&lt;/e0&gt; é simplesmente texto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;e0&gt;value&lt;/e0&gt; is simply a piece of information within a program.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015033Z" creationid="Leo" creationdate="20210721T015033Z">
+        <seg>Um &lt;e0&gt;valor&lt;/e0&gt; é simplesmente um pedaço de informação dentro de um programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A combination of the three expression assignments above.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204431Z" creationid="Leo" creationdate="20210625T204431Z">
@@ -3246,6 +3278,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AutoHotkey supports these types of values:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015130Z" creationid="Leo" creationdate="20210721T015130Z">
+        <seg>O AutoHotkey suporta estes tipos de valores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey will not automatically recognize a UTF-8 file unless it begins with a byte order mark.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191039Z" creationid="Setur" creationdate="20210719T191039Z">
@@ -3410,6 +3450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214650Z" creationid="Leo" creationdate="20210627T213000Z">
         <seg>Método da substituição por “em branco”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Boolean</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015209Z" creationid="Leo" creationdate="20210721T015209Z">
+        <seg>Valores Booleanos</seg>
       </tuv>
     </tu>
     <tu>
@@ -4134,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each string is actually a sequence or &lt;e1&gt;string&lt;/e1&gt; of characters, but can be treated as a single entity.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015257Z" creationid="Leo" creationdate="20210721T015257Z">
+        <seg>Cada string é na verdade uma sequência ou &lt;e1&gt;cadeia&lt;/e1&gt; de caracteres, mas pode ser tratada como uma entidade única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Easy.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181226Z" creationid="Leo" creationdate="20210625T181226Z">
@@ -4530,6 +4586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184957Z" creationid="Leo" creationdate="20210702T184957Z">
         <seg>Por exemplo, a hotkey a seguir não usa o gancho de teclado, mas como um efeito colateral ela é acionada ao se pressionar &lt;e3&gt;tanto&lt;/e3&gt; &lt;k4&gt;Home&lt;/k4&gt; quanto NumpadHome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the name of a key to send or a program to run, the number of times a hotkey has been pressed, the title of a window to activate, or whatever else has some meaning within the program or script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015121Z" creationid="Leo" creationdate="20210721T015121Z">
+        <seg>Por exemplo, o nome de uma tecla a ser enviada ou um programa a executar, o número de vezes que uma hotkey foi pressionada, o título de uma janela a ser ativada, ou qualquer que seja a coisa que tenha algum significado dentro do programa ou script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7071,6 +7135,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nothing</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015216Z" creationid="Leo" creationdate="20210721T015216Z">
+        <seg>“Nada”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Now, to make Numpad0 send a real Numpad0 keystroke whenever it wasn't used to launch a hotkey such as the above, add the following hotkey:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204353Z" creationid="Setur" creationdate="20210719T204353Z">
@@ -7539,6 +7611,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070043Z" creationid="Leo" creationdate="20210701T070043Z">
         <seg>Redirecionando para &lt;a0&gt;docs/AutoHotkey.htm&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>References to Objects</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015014Z" creationid="Leo" creationdate="20210721T015014Z">
+        <seg>Referências a Objetos</seg>
       </tuv>
     </tu>
     <tu>
@@ -8451,6 +8531,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075914Z" creationid="Leo" creationdate="20210703T075914Z">
         <seg>Algumas teclas não geram eventos e, por isso, não serão visíveis aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some other related concepts:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015204Z" creationid="Leo" creationdate="20210721T015204Z">
+        <seg>Alguns outros conceitos relacionados:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10156,6 +10244,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T211810Z" creationid="Leo" creationdate="20210627T211810Z">
         <seg>Valor := Banana["Cor"]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Values</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015016Z" creationid="Leo" creationdate="20210721T015016Z">
+        <seg>Valores</seg>
       </tuv>
     </tu>
     <tu>

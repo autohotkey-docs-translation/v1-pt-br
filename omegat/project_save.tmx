@@ -2254,6 +2254,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Control flow&lt;/e0&gt; is the order in which individual statements are executed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151955Z" creationid="Setur" creationdate="20210722T151955Z">
+        <seg>&lt;e0&gt;Fluxo de controle&lt;/e0&gt; é a ordem na qual instruções individuais são executadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Methods&lt;/e0&gt; are functions which operate on a particular &lt;a1&gt;object&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151722Z" creationid="Setur" creationdate="20210722T151722Z">
+        <seg>&lt;e0&gt;Métodos&lt;/e0&gt; são funções que operam em um &lt;a1&gt;objeto&lt;/a1&gt; em particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e10&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052703Z" creationid="Leo" creationdate="20210626T052703Z">
@@ -5054,6 +5070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For details, see &lt;a4&gt;Object Protocol&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151927Z" creationid="Setur" creationdate="20210722T151927Z">
+        <seg>Para detalhes, vide &lt;a4&gt;Protocolo dos Objetos&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, 2joy1 is the second joystick's first button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074142Z" creationid="Leo" creationdate="20210703T074142Z">
@@ -5394,6 +5418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201635Z" creationid="Leo" creationdate="20210622T201635Z">
         <seg>Para este guia, vamos usar o instalador, já que é a forma mais fácil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this reason, the target object (which may be a variable or sub-expression) is specified to left of the method name instead of inside the parameter list.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151912Z" creationid="Setur" creationdate="20210722T151912Z">
+        <seg>Por essa razão, o objeto alvo (que pod ser uma variável ou sub-expressão) é especificado à esquerda do nome do método em vez de dentro da lista de parâmetros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8027,6 +8059,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182518Z" creationid="Setur" creationdate="20210719T182518Z">
         <seg>Normalmente se o AutoHotkey está instalado, clicar com o botão direito num script do AutoHotkey (arquivo .ahk) deve apresentar as opções a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Normally statements are executed sequentially from top to bottom, but a control flow statement can override this, such as by specifying that statements should be executed repeatedly, or only if a certain condition is met.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152145Z" creationid="Setur" creationdate="20210722T152145Z">
+        <seg>Normalmente as instruções são executadas sequencialmente de cima para baixo, mas uma instrução de controle de fluxo pode ignorar essa ordem (tomar precedência), tal como quando se especifica que as instruções devem ser executadas repetidamente, ou somente se determinada condição for atingida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12204,6 +12244,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T213215Z" creationid="Leo" creationdate="20210622T213132Z">
         <seg>Já o texto que substituirá sua abreviatura digitada deve vir à &lt;b0&gt;direita&lt;/b0&gt; do segundo par de dois-pontos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While there can only be one function named &lt;c2&gt;Send&lt;/c2&gt; (for example), there can be as many methods named &lt;c3&gt;Send&lt;/c3&gt; as there are objects, as each object (or class of objects) can respond in a different way.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151844Z" creationid="Setur" creationdate="20210722T151844Z">
+        <seg>Embora só possa existir uma função denominada &lt;c2&gt;Send&lt;/c2&gt; (por exemplo), pode haver tantos métodos denominados &lt;c3&gt;Send&lt;/c3&gt; quanto for o número de objetos, já que cada objeto (ou classe de objetos) pode responder de uma maneira diferente.</seg>
       </tuv>
     </tu>
     <tu>

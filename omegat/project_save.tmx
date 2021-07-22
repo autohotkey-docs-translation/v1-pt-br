@@ -2950,6 +2950,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A variable can be thought of as a container or storage location for a value, so you'll often find the documentation refers to a variable's value as &lt;e0&gt;the contents of the variable&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135935Z" creationid="Setur" creationdate="20210722T135935Z">
+        <seg>Uma variável pode ser entendida como um contêiner ou local de armazenamento para um valor, então você muitas vezes vai ver que a documentação se refere ao valor da variável como &lt;e0&gt;o conteúdo da variável&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A variable has three main aspects:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135351Z" creationid="Setur" creationdate="20210722T135351Z">
@@ -4798,6 +4806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a variable &lt;c1&gt;x := 42&lt;/c1&gt;, we can also say that the variable x has the number 42 as its value, or that the value of x is 42.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135958Z" creationid="Setur" creationdate="20210722T135958Z">
+        <seg>Para uma variável &lt;c1&gt;x := 42&lt;/c1&gt;, nós também podemos dizer que a variável x tem o número 42 como seu valor, ou que o valor de x é 42.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For a video instruction, watch &lt;a0&gt;Install and Hello World&lt;/a0&gt; on YouTube.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210032Z" creationid="Leo" creationdate="20210622T202024Z">
@@ -5018,6 +5034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131004Z" creationid="Setur" creationdate="20210722T131004Z">
         <seg>Por exemplo, alguém pode melhorar ou modificar uma seção de código sem precisar saber os detalhes de outra seção, e sem ter que realizar as modificações necessárias a tais seções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, we might say "&lt;c0&gt;myArray&lt;/c0&gt; is an array", but what we really mean is that myArray is a variable containing a reference to an array.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T140123Z" creationid="Setur" creationdate="20210722T140123Z">
+        <seg>Exemplificativamente, nós poderíamos dizer “&lt;c0&gt;meuVetor&lt;/c0&gt; é um vetor”, mas o que realmente queremos dizer é que meuVetor é uma variável contendo uma referência a um vetor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6611,6 +6635,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211920Z" creationid="Leo" creationdate="20210622T211920Z">
         <seg>É a tecla ou combinação de teclas que a pessoa diante do teclado pressiona para desencadear (executar) algumas ações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is important to note that a variable and its value are not the same thing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T140009Z" creationid="Setur" creationdate="20210722T140009Z">
+        <seg>É importante notar que a variável e seu valor não são a mesma coisa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11196,6 +11228,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203620Z" creationid="Leo" creationdate="20210625T203620Z">
         <seg>Vamos cobrir os mais comuns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We're taking a shortcut by using the name of the variable to refer to its value, but "myArray" is really just the name of the variable; the array object doesn't know that it has a name, and could be referred to by many different variables (and therefore many names).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T140226Z" creationid="Setur" creationdate="20210722T140226Z">
+        <seg>O que estamos fazendo é tomar um atalho ao usar o nome da variável para se referir ao seu valor, mas “meuVetor” é na verdade apenas o nome da variável; o objeto vetor não sabe que ele tem um nome, e poderia ser referenciado por várias variáveis diferentes (portanto, vários diferentes nomes).</seg>
       </tuv>
     </tu>
     <tu>

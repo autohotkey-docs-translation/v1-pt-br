@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Objects are always considered true.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124546Z" creationid="Setur" creationdate="20210722T124546Z">
+        <seg>(Objetos sempre são considerados verdadeiros.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045957Z" creationid="Leo" creationdate="20210629T045957Z">
@@ -9399,6 +9407,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The words &lt;c0&gt;true&lt;/c0&gt; and &lt;c1&gt;false&lt;/c1&gt; are &lt;a2&gt;built-in variables&lt;/a2&gt; containing 1 and 0.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124604Z" creationid="Setur" creationdate="20210722T124604Z">
+        <seg>As palavras &lt;c0&gt;true&lt;/c0&gt; e &lt;c1&gt;false&lt;/c1&gt; são &lt;a2&gt;variáveis nativas&lt;/a2&gt; contendo 1 e 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then try running it again.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215602Z" creationid="Leo" creationdate="20210627T215303Z">
@@ -9563,6 +9579,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202711Z" creationid="Leo" creationdate="20210625T202711Z">
         <seg>Eles são mais usados com funções e instruções de fluxo de controle, como &lt;a3&gt;If&lt;/a3&gt; e &lt;a4&gt;Loop&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can be used to make a script more readable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125155Z" creationid="Setur" creationdate="20210722T125155Z">
+        <seg>Elas podem ser usadas para tornar um script mais legível.</seg>
       </tuv>
     </tu>
     <tu>

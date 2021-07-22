@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#1 (if true) → #1.1 → #1.2 → #3; or #1 (if false) → #2 (else) → #2.1 → #3.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153442Z" creationid="Setur" creationdate="20210722T153442Z">
+        <seg>#1 (se verdadeiro) → #1.1 → #1.2 → #3; ou #1 (se falso) → #2 (senão) → #2.1 → #3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#1 is a &lt;e0&gt;conditional statement&lt;/e0&gt;, also known as an &lt;e1&gt;if statement&lt;/e1&gt;; that is, we execute its &lt;e2&gt;body&lt;/e2&gt; (#1.1 - #1.2) only if a condition is met.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153045Z" creationid="Setur" creationdate="20210722T153045Z">
@@ -4558,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending on the condition, control &lt;e5&gt;flows&lt;/e5&gt; one of two ways:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153418Z" creationid="Setur" creationdate="20210722T153418Z">
+        <seg>Dependendo da condição, o controle &lt;e5&gt;flui&lt;/e5&gt; de uma dessas duas maneiras:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Descr</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045917Z" creationid="Leo" creationdate="20210629T045917Z">
@@ -6899,6 +6915,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200418Z" creationid="Setur" creationdate="20210719T200418Z">
         <seg>Em outras palavras, pressionar a hotkey uma vez irá iniciar o Loop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In our written instructions, we used indentation and numbering to group the statements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153539Z" creationid="Setur" creationdate="20210722T153539Z">
+        <seg>Em nossas instruções escritas, nós usamos identação e numeração para agrupar as instruções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9319,6 +9343,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Send Hello`, world!</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153516Z" creationid="Setur" creationdate="20210722T153516Z">
+        <seg>Send Olá`, mundo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Send {KEY down}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194358Z" creationid="Setur" creationdate="20210719T194358Z">
@@ -10419,6 +10451,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183650Z" creationid="Leo" creationdate="20210702T183650Z">
         <seg>A função atribuída a cada uma das teclas listadas abaixo pode ser sobrescrita modificando-se o registro do Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The instructions above can be translated into the code below:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153454Z" creationid="Setur" creationdate="20210722T153454Z">
+        <seg>As instruções acima podem ser traduzidas no código abaixo:</seg>
       </tuv>
     </tu>
     <tu>

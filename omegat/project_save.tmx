@@ -3446,6 +3446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As these conversions can happen very frequently, whenever a variable is converted, the result is &lt;e2&gt;cached&lt;/e2&gt; in the variable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144319Z" creationid="Setur" creationdate="20210722T144319Z">
+        <seg>Já que essas conversões podem ocorrer muito frequentemente, toda vez que uma variável é convertida, o resultado é &lt;e2&gt;armazenado no cache&lt;/e2&gt; da variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Asking for Help</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193404Z" creationid="Leo" creationdate="20210622T193404Z">
@@ -6395,6 +6403,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134122Z" creationid="Setur" creationdate="20210722T134122Z">
         <seg>Com efeito, &lt;e6&gt;arg2&lt;/e6&gt; torna-se o primeiro parâmetros aparente do método.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In effect, a variable can contain both a string and a number simultaneously.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144336Z" creationid="Setur" creationdate="20210722T144336Z">
+        <seg>Como efeito, a variável pode obter tanto uma string quanto um número simultaneamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10287,6 +10303,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This ambiguity causes unexpected behavior in at least two cases:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144426Z" creationid="Setur" creationdate="20210722T144426Z">
+        <seg>Essa ambiguidade causa comportamentos inesperados em pelo menos dois casos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This and the next methods below remove the key &lt;i0&gt;and&lt;/i0&gt; the value.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213357Z" creationid="Leo" creationdate="20210627T213357Z">
@@ -11156,6 +11180,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132305Z" creationid="Setur" creationdate="20210722T132305Z">
         <seg>Normalmente existe pelo menos um parâmetro, e ele é interpretado como o nome de uma propriedade ou método, uma chave ou índice de vetor, dependendo do objeto e como você está usando-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usually this just improves the script's performance with no down-sides, but if a variable contains both a number and a string, is it number, or is it a string?</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144410Z" creationid="Setur" creationdate="20210722T144410Z">
+        <seg>Normalmente isso apenas melhora o desempenho do script sem reveses, mas se uma variável contiver tanto um número quanto uma string, então ela é um número, ou é uma string?</seg>
       </tuv>
     </tu>
     <tu>

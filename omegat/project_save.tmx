@@ -3358,6 +3358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although indentation makes code easier to read, in AutoHotkey it does not affect the grouping of statements.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153741Z" creationid="Setur" creationdate="20210722T153741Z">
+        <seg>Conquanto a identação deixa o código mais fácil de ler, no AutoHotkey ela não afeta o agrupamento de instruções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although it is certainly possible that the file has been infected, most often these alerts are &lt;e0&gt;false positives&lt;/e0&gt;, meaning that the antivirus program is mistaken.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210722T001816Z" creationid="Setur" creationdate="20210719T194741Z">
@@ -5130,6 +5138,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190448Z" creationid="Setur" creationdate="20210719T190448Z">
         <seg>Para scripts complexos, vide &lt;a3&gt;Depuração Interativa&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details about syntax - that is, how to write or recognise control flow statements in AutoHotkey - see &lt;a0&gt;Control Flow&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T154003Z" creationid="Setur" creationdate="20210722T154003Z">
+        <seg>Para detalhes sobre a sintaxe - isto é, como escrever ou reconhecer instruções de fluxo de controle no AutoHotkey - veja &lt;a0&gt;Fluxo de Controle&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7155,6 +7171,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125504Z" creationid="Setur" creationdate="20210722T125504Z">
         <seg>Em vez disso, uma string vazia (uma string com comprimento zero) é o que costuma fazer esse papel no AHK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, statements are grouped by enclosing them in braces, as shown above.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153809Z" creationid="Setur" creationdate="20210722T153809Z">
+        <seg>Em vez de indentação, as instruções são agrupadas envolvendo-se-as em chaves, como mostrado acima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9215,6 +9239,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts work a little differently.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153701Z" creationid="Setur" creationdate="20210722T153701Z">
+        <seg>Scripts funcionam de um jeito um pouco diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts.htm#continuation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043641Z" creationid="Leo" creationdate="20210629T043641Z">
@@ -11067,6 +11099,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145925Z" creationid="Setur" creationdate="20210722T145925Z">
         <seg>Isso é tanto para retrocompatibilidade e também porque o script poderia mudar o valor indiretamente por meio do endereço da variável a qualquer momento, tornando o cache impreciso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is called a &lt;a0&gt;&lt;e1&gt;block&lt;/e1&gt;&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153818Z" creationid="Setur" creationdate="20210722T153818Z">
+        <seg>Isso é chamado de &lt;a0&gt;&lt;e1&gt;bloco&lt;/e1&gt;&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3222,6 +3222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the program automatically initialises all variables (an empty string being the default value), it is good practice for a script to always initialise its variables before use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T140350Z" creationid="Setur" creationdate="20210722T140350Z">
+        <seg>Apesar de o programa automaticamente inicializar todas as variáveis (uma string vazia sendo o valor padrão), é uma boa prática que o script sempre inicialize as variáveis antes do uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ampersand may be used between any two keys or mouse buttons to combine them into a custom hotkey.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215506Z" creationid="Leo" creationdate="20210623T024111Z">
@@ -6663,6 +6671,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is usually necessary for the script to initialise any variable which is expected to hold a number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142333Z" creationid="Setur" creationdate="20210722T142333Z">
+        <seg>Costuma ser necessário que o script inicialize qualquer variável cujo valor que se espera que ela armazene seja um número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It literally &lt;s1&gt;stops&lt;/s1&gt; code from going any further, to the lines below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221607Z" creationid="Leo" creationdate="20210622T210503Z">
@@ -9431,6 +9447,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That way, anyone reading the script can see what variables the script will be using and what starting values they are expected to have.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T140422Z" creationid="Setur" creationdate="20210722T140422Z">
+        <seg>Dessa forma, qualquer pessoa lendo o script pode ver quais variáveis o script usará e quais valores iniciais espera-se que elas tenham.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That's fancy talk for &lt;i0&gt;"do pretty much anything"&lt;/i0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215733Z" creationid="Leo" creationdate="20210622T213336Z">
@@ -10508,6 +10532,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200007Z" creationid="Setur" creationdate="20210719T200007Z">
         <seg>Para &lt;a0&gt;suspender&lt;/a0&gt;, &lt;a1&gt;pausar&lt;/a1&gt; ou &lt;a2&gt;recarregar&lt;/a2&gt; outro script, substitua a linha acima com uma destas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To &lt;e0&gt;initialise&lt;/e0&gt; a variable is to assign it a starting value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T140318Z" creationid="Setur" creationdate="20210722T140318Z">
+        <seg>&lt;e0&gt;Inicializar&lt;/e0&gt; uma variável é atribuir a ela um valor inicial.</seg>
       </tuv>
     </tu>
     <tu>

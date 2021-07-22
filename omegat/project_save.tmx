@@ -4718,6 +4718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each character in the string is represented by a number, called its &lt;e0&gt;ordinal number&lt;/e0&gt;, or &lt;e1&gt;character code&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T154128Z" creationid="Setur" creationdate="20210722T154128Z">
+        <seg>Cada caractere na string é representado por um número, chamado de &lt;e0&gt;número ordinal do caractere&lt;/e0&gt;, ou &lt;e1&gt;código do caractere&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each has their own special features.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060053Z" creationid="Leo" creationdate="20210625T181622Z">
@@ -5394,6 +5402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151414Z" creationid="Setur" creationdate="20210722T151414Z">
         <seg>Por exemplo, a sintaxe para &lt;a0&gt;ControlSend&lt;/a0&gt; é:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the value "Abc" would be represented as follows:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T154138Z" creationid="Setur" creationdate="20210722T154138Z">
+        <seg>Por exemplo, o valor “Abc” seria representado assim:</seg>
       </tuv>
     </tu>
     <tu>

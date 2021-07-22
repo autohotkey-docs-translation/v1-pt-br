@@ -4110,6 +4110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commands do not return a result directly; instead, they store the result in a &lt;a3&gt;variable&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151242Z" creationid="Setur" creationdate="20210722T151242Z">
+        <seg>Comandos não retornam um valor diretamente; em vez disso, eles armazenam o resultado em uma &lt;a3&gt;variável&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commands do not use parentheses around the parameters like functions do.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183952Z" creationid="Leo" creationdate="20210625T183952Z">
@@ -5030,6 +5038,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;a2&gt;StrLen()&lt;/a2&gt; returns the number of characters in a string.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151225Z" creationid="Setur" creationdate="20210722T151225Z">
+        <seg>Por exemplo, &lt;a2&gt;StrLen()&lt;/a2&gt; retorna o número de caracteres em uma string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;a2&gt;WinMove&lt;/a2&gt; moves a window, so its parameters tell it which window to move and where to move it to.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150905Z" creationid="Setur" creationdate="20210722T150905Z">
@@ -5406,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Functions and commands usually expect parameters to be written in a specific order, so the meaning of each parameter value depends on its position in the comma-delimited list of parameters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151335Z" creationid="Setur" creationdate="20210722T151335Z">
+        <seg>Funções e comandos normalmente aguardam que parâmetros sejam escritos em uma ordem específica, então o significado de cada parâmetro depende de sua posição na lista de parâmetros, que é separada por vírgulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Functions can go inside of functions:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191629Z" creationid="Leo" creationdate="20210625T191629Z">
@@ -5418,6 +5442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191543Z" creationid="Leo" creationdate="20210625T191543Z">
         <seg>Funções têm algumas diferenças principais:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Functions may also do this, such as when there is more than one result.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151252Z" creationid="Setur" creationdate="20210722T151252Z">
+        <seg>Funções também podem fazer isso, como quando há mais de um resultado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9587,6 +9619,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015204Z" creationid="Leo" creationdate="20210721T015204Z">
         <seg>Alguns outros conceitos relacionados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some parameters can be omitted, in which case the parameter can be left blank, but the comma following it can only be omitted if all remaining parameters are also omitted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151407Z" creationid="Setur" creationdate="20210722T151407Z">
+        <seg>Alguns parâmetros podem ser omitidos, caso em que o parâmetro deve ser deixado em branco, mas a vírgula seguinte só pode ser omitida se todos os parâmetros que vierem depois também forem omitidos.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3494,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Boolean values are used to represent anything that has exactly two possible states, such as the &lt;e3&gt;truth&lt;/e3&gt; of an expression.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124207Z" creationid="Setur" creationdate="20210722T124207Z">
+        <seg>Valores booleanos são usados para representar qualquer coisa que tenha  exatamente dois estados possíveis, como a &lt;e3&gt;verdade&lt;/e3&gt; de uma expressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brace syntax</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T213922Z" creationid="Leo" creationdate="20210627T064514Z">
@@ -4682,6 +4690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203457Z" creationid="Setur" creationdate="20210719T203457Z">
         <seg>Por exemplo, se você configurar o quarto botão para enviar &lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;F1&lt;/k2&gt;, você pode então indiretamente configurar aquele botão como uma hotkey usando &lt;c3&gt;^F1::&lt;/c3&gt; em um script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the expression &lt;c4&gt;(x &lt;= y)&lt;/c4&gt; is &lt;e5&gt;true&lt;/e5&gt; when x has lesser or equal value to y.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124233Z" creationid="Setur" creationdate="20210722T124233Z">
+        <seg>Por exemplo, a expressão &lt;c4&gt;(x &lt;= y)&lt;/c4&gt; é &lt;e5&gt;verdadeira&lt;/e5&gt; quando x tem valor igual ou menor que y.</seg>
       </tuv>
     </tu>
     <tu>

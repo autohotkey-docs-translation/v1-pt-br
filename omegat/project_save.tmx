@@ -3214,6 +3214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although a variable is typically thought of as holding a single value, and that value having a distinct type (string, number or object), AutoHotkey automatically converts between numbers and strings in cases like &lt;c0&gt;myString + 1&lt;/c0&gt; and &lt;c1&gt;MsgBox %myNumber%&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144225Z" creationid="Setur" creationdate="20210722T144225Z">
+        <seg>Apesar de que tipicamente imagina-se uma variável armazenando um único valor, e também cada variável seja de um tipo distinto (string, número e objeto), o AutoHotkey automaticamente converte entre números e strings em casos como &lt;c0&gt;minhaString + 1&lt;/c0&gt; e &lt;c1&gt;MsgBox %meuNumero%&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although any single character can be used as a key name, its meaning (scan code or virtual keycode) depends on the current keyboard layout.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T083131Z" creationid="Leo" creationdate="20210702T071642Z">
@@ -6027,6 +6035,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182209Z" creationid="Leo" creationdate="20210625T182209Z">
         <seg>Se um jogo tem um sistema de prevenção de cheats e suas hotkeys, hotstrings e comandos Send não funcionam, você está sem sorte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a script lacks the &lt;a0&gt;#NoEnv&lt;/a0&gt; directive, reading an empty variable will instead return the value of the environment variable with that name, if there is one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143833Z" creationid="Setur" creationdate="20210722T143833Z">
+        <seg>Se um script não possui a diretiva &lt;a0&gt;#NoEnv&lt;/a0&gt;, ler uma variável vazia vai, em vez disso, retornar o valor da variável de ambiente com aquele nome, se houver uma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10307,6 +10323,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183044Z" creationid="Setur" creationdate="20210719T183028Z">
         <seg>Para consertar isso, delete esta chave de registro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can cause confusion, so it is recommended that all new scripts use #NoEnv.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143929Z" creationid="Setur" creationdate="20210722T143929Z">
+        <seg>Isso pode causar confusão, então recomenda-se que todos os novos scripts usem #NoEnv.</seg>
       </tuv>
     </tu>
     <tu>

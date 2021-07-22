@@ -2918,6 +2918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number of useful variables are built into the program and can be referenced by any script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142622Z" creationid="Setur" creationdate="20210722T142622Z">
+        <seg>Há várias variáveis úteis que são nativas ao programa e que podem ser referenciadas por qualquer script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A similar technique might work in other browsers:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201412Z" creationid="Setur" creationdate="20210719T201412Z">
@@ -3802,6 +3810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015424Z" creationid="Leo" creationdate="20210721T015424Z">
         <seg>No AutoHotkey, por convenção, o primeiro caractere está na posição 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By convention, most of these variables start with the prefix &lt;c3&gt;A_&lt;/c3&gt;, so it is best to avoid using this prefix for your own variables.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142738Z" creationid="Setur" creationdate="20210722T142738Z">
+        <seg>Por convenção, a maioria dessas variáveis inicia com o prefixo &lt;c3&gt;A_&lt;/c3&gt;, então é melhor evitar usar esse prefixo nas variáveis que você criar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9191,6 +9207,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some variables such as &lt;a0&gt;A_KeyDelay&lt;/a0&gt; and &lt;a1&gt;A_TitleMatchMode&lt;/a1&gt; represent settings that control the script's behavior, and retain separate values for each &lt;a2&gt;thread&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142810Z" creationid="Setur" creationdate="20210722T142810Z">
+        <seg>Algumas variáveis como &lt;a0&gt;A_KeyDelay&lt;/a0&gt; e &lt;a1&gt;A_TitleMatchMode&lt;/a1&gt; representam configurações que controlam o comportamento do script, e retêm valores separados para cada fio de execução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some windows refuse to be automated (e.g. Device Manager ignores Send).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183721Z" creationid="Setur" creationdate="20210719T183721Z">
@@ -10147,6 +10171,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204748Z" creationid="Setur" creationdate="20210719T204748Z">
         <seg>Este &lt;a0&gt;script de exemplo&lt;/a0&gt; transforma a tecla &lt;k1&gt;000&lt;/k1&gt; uma tecla de “igual”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows subroutines launched by new threads (such as for hotkeys, menus, timers and such) to change settings without affecting other threads.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143017Z" creationid="Setur" creationdate="20210722T143017Z">
+        <seg>Isso permite que subrotinas sejam executadas por novos fios de execução (como hotkeys, menus, timers e afins) para alterar configurações sem afetar outros fios de execução.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11700,6 +11732,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210722T002150Z" creationid="Setur" creationdate="20210719T201216Z">
         <seg>Com o Internet Explorer, talvez o método mais confiável seja usar DllCall() e COM como demonstrado em &lt;a0&gt;www.autohotkey.com/forum/topic19256.html&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With the exception of &lt;a0&gt;Clipboard&lt;/a0&gt;, &lt;a1&gt;ErrorLevel&lt;/a1&gt;, and &lt;a2&gt;command line parameters&lt;/a2&gt;, these variables are read-only; that is, their contents cannot be directly altered by the script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142701Z" creationid="Setur" creationdate="20210722T142701Z">
+        <seg>Com a exceção de &lt;a0&gt;Clipboard&lt;/a0&gt;, &lt;a1&gt;ErrorLevel&lt;/a1&gt; e &lt;a2&gt;parâmetros da linha de comando&lt;/a2&gt;, essas variáveis são somente leitura; isto é, seus conteúdos não podem ser diretamente alterados por um script.</seg>
       </tuv>
     </tu>
     <tu>

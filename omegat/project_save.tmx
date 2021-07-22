@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; For explanation, see #NoEnv.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143802Z" creationid="Setur" creationdate="20210722T143802Z">
+        <seg>; Para explicações, veja #NoEnv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; If No, stop the code from going further.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051951Z" creationid="Leo" creationdate="20210626T051951Z">
@@ -2930,6 +2938,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142622Z" creationid="Setur" creationdate="20210722T142622Z">
         <seg>Há várias variáveis úteis que são nativas ao programa e que podem ser referenciadas por qualquer script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A script may create a new environment variable or change the contents of an existing one with &lt;a0&gt;EnvSet&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143527Z" creationid="Setur" creationdate="20210722T143527Z">
+        <seg>Um script pode criar uma variável de ambiente ou alterar o conteúdo de uma com &lt;a0&gt;EnvSet&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5911,6 +5927,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, any programs or scripts which the script launches by calling &lt;a1&gt;Run&lt;/a1&gt; or &lt;a2&gt;RunWait&lt;/a2&gt; usually inherit a copy of the parent script's environment variables.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143702Z" creationid="Setur" creationdate="20210722T143702Z">
+        <seg>Todavia, quaisquer programas ou scripts que o script vier a executar por meio do comando &lt;a1&gt;Run&lt;/a1&gt; ou &lt;a2&gt;RunWait&lt;/a2&gt; normalmente herdam uma cópia das variáveis de ambiente do script pai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, hotkeys with the &lt;c4&gt;#&lt;/c4&gt; modifier can be triggered by either &lt;k5&gt;Win&lt;/k5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085433Z" creationid="Leo" creationdate="20210702T182902Z">
@@ -6707,6 +6731,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213230Z" creationid="Leo" creationdate="20210627T213230Z">
         <seg>É possível saber que a chave ainda existe usando o método &lt;a2&gt;HasKey&lt;/a2&gt;, e ainda assim ela será contada num Loop com &lt;a3&gt;For&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is recommended that all new scripts retrieve environment variables such as Path via &lt;a0&gt;EnvGet&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143746Z" creationid="Setur" creationdate="20210722T143746Z">
+        <seg>Recomenda-sde que todos os novos scripts obtenham as variáveis de ambiente, como Path, via &lt;a0&gt;EnvGet&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9443,6 +9475,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080812Z" creationid="Leo" creationdate="20210703T080812Z">
         <seg>O dito pressionamento pode então ser definido como uma hotkey em um script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such additions and changes are not seen by the rest of the system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143539Z" creationid="Setur" creationdate="20210722T143539Z">
+        <seg>Tais adições e alterações não são vistas pelo resto do sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15636,14 +15676,6 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044904Z" creationid="Leo" creationdate="20210629T044904Z">
         <seg>commands/PixelSearch.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>commands/Run.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143456Z" creationid="Leo" creationdate="20210629T050334Z">
-        <seg>commands/Run.htmcommands/Run.htm</seg>
       </tuv>
     </tu>
     <tu>

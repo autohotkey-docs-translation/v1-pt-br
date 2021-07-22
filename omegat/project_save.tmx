@@ -2550,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Get&lt;/s0&gt; a value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131855Z" creationid="Setur" creationdate="20210722T131855Z">
+        <seg>&lt;s0&gt;Get&lt;/s0&gt; (obter) um valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Joy1 through Joy32&lt;/s0&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185708Z" creationid="Leo" creationdate="20210702T185708Z">
@@ -2666,6 +2674,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074346Z" creationid="Leo" creationdate="20210703T074346Z">
         <seg>&lt;s0&gt;Veja também&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Set&lt;/s0&gt; a value, denoted by &lt;c1&gt;:=&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131927Z" creationid="Setur" creationdate="20210722T131927Z">
+        <seg>&lt;s0&gt;Set&lt;/s0&gt; (definir) um valor, denotado por &lt;c1&gt;:=&lt;/c1&gt;igual ou superior a</seg>
       </tuv>
     </tu>
     <tu>
@@ -7527,6 +7543,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Objects in AutoHotkey support the following basic messages:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131841Z" creationid="Setur" creationdate="20210722T131841Z">
+        <seg>Objetos no AutoHotkey suportam as mensagens básicas a seguir:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Objects work through the principle of &lt;e0&gt;message passing&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131656Z" creationid="Setur" creationdate="20210722T131656Z">
@@ -11444,6 +11468,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180635Z" creationid="Leo" creationdate="20210625T180635Z">
         <seg>Você &lt;b1&gt;não precisa&lt;/b1&gt; envolver letras comuns, números e nem mesmo uns símbolos tais como &lt;c2&gt;.&lt;/c2&gt; (ponto final) em chaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You don't know where an object's code or variables actually reside, so you must pass a message to the object, like "give me &lt;e1&gt;foo&lt;/e1&gt;" or "go do &lt;e2&gt;bar&lt;/e2&gt;", and rely on the object to respond to the message.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131830Z" creationid="Setur" creationdate="20210722T131830Z">
+        <seg>Você não sabe onde um código ou variáveis de um objeto efetivamente ficam, então você deve passar uma mensagem ao objeto, como “dê-me &lt;e1&gt;foo&lt;/e1&gt;” ou “vá fazer &lt;e2&gt;bar&lt;/e2&gt;”, e esperar que o objeto responda a essa mensagem.</seg>
       </tuv>
     </tu>
     <tu>

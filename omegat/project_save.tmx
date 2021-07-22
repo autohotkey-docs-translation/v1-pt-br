@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;list of built-in variables&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143331Z" creationid="Setur" creationdate="20210722T143331Z">
+        <seg>&lt;a0&gt;lista de variáveis nativas&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;variables&lt;/a0&gt;, &lt;a1&gt;functions&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131459Z" creationid="Setur" creationdate="20210722T131459Z">
@@ -4538,6 +4546,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014858Z" creationid="Leo" creationdate="20210721T014853Z">
         <seg>Variáveis de Ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Environment variables are maintained by the operating system.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143338Z" creationid="Setur" creationdate="20210722T143338Z">
+        <seg>Variáveis de ambiente são mantidas pelo sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8287,6 +8303,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Related:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143323Z" creationid="Setur" creationdate="20210722T143323Z">
+        <seg>Assuntos relacionados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remapping keys and buttons</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071041Z" creationid="Leo" creationdate="20210701T071041Z">
@@ -11860,6 +11884,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213109Z" creationid="Leo" creationdate="20210627T213109Z">
         <seg>Você pode fazer isso mudando o valor para &lt;c0&gt;""&lt;/c0&gt;, o que também é conhecido como &lt;i1&gt;string vazia&lt;/i1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can see a list of them at the command prompt by typing SET then pressing Enter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143454Z" creationid="Setur" creationdate="20210722T143454Z">
+        <seg>você pode ver uma lista delas no prompt de comando digitando SET e depois Enter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15610,8 +15642,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>commands/Run.htm</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050334Z" creationid="Leo" creationdate="20210629T050334Z">
-        <seg>commands/Run.htm</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143456Z" creationid="Leo" creationdate="20210629T050334Z">
+        <seg>commands/Run.htmcommands/Run.htm</seg>
       </tuv>
     </tu>
     <tu>

@@ -4142,6 +4142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Common abbreviations include &lt;e4&gt;param&lt;/e4&gt; and &lt;e5&gt;arg&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150932Z" creationid="Setur" creationdate="20210722T150932Z">
+        <seg>Abreviaturas comuns são &lt;e4&gt;param&lt;/e4&gt; e &lt;e5&gt;arg&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Common workarounds are as follows:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184516Z" creationid="Setur" creationdate="20210719T184516Z">
@@ -4582,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each parameter is a &lt;a1&gt;value&lt;/a1&gt;, such as a string or number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150846Z" creationid="Setur" creationdate="20210722T150846Z">
+        <seg>Cada parâmetro é um &lt;a1&gt;valor&lt;/a1&gt;, como uma string ou um número.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each string is actually a sequence or &lt;e1&gt;string&lt;/e1&gt; of characters, but can be treated as a single entity.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015257Z" creationid="Leo" creationdate="20210721T015257Z">
@@ -5014,6 +5030,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;a2&gt;WinMove&lt;/a2&gt; moves a window, so its parameters tell it which window to move and where to move it to.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150905Z" creationid="Setur" creationdate="20210722T150905Z">
+        <seg>Por exemplo, &lt;a2&gt;Winmove&lt;/a2&gt; move uma janela, então seus parâmetros irão dizer qual janela mover e para onde movê-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c0&gt;#Space&lt;/c0&gt; is &lt;k1&gt;Win&lt;/k1&gt;+&lt;k2&gt;Space&lt;/k2&gt; and &lt;c3&gt;^!Tab&lt;/c3&gt; is &lt;k4&gt;Ctrl&lt;/k4&gt;+&lt;k5&gt;Alt&lt;/k5&gt;+&lt;k6&gt;Tab&lt;/k6&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203709Z" creationid="Setur" creationdate="20210719T203709Z">
@@ -5130,6 +5154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203457Z" creationid="Setur" creationdate="20210719T203457Z">
         <seg>Por exemplo, se você configurar o quarto botão para enviar &lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;F1&lt;/k2&gt;, você pode então indiretamente configurar aquele botão como uma hotkey usando &lt;c3&gt;^F1::&lt;/c3&gt; em um script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, one can &lt;e1&gt;pass&lt;/e1&gt; the name of a key to &lt;a2&gt;GetKeyState()&lt;/a2&gt; to determine whether that key is being held down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151034Z" creationid="Setur" creationdate="20210722T151034Z">
+        <seg>Por exemplo, alguém pode &lt;e1&gt;passar&lt;/e1&gt; o nome de uma tecla para &lt;a2&gt;GetKeyState()&lt;/a2&gt; para determinar se aquela tecla está sendo mantida pressionada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,6 +5394,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191427Z" creationid="Leo" creationdate="20210625T191427Z">
         <seg>Funções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Functions &lt;e0&gt;return&lt;/e0&gt; a value, so the result of the function is often called a &lt;e1&gt;return value&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151210Z" creationid="Setur" creationdate="20210722T151210Z">
+        <seg>Funções &lt;e0&gt;retornam&lt;/e0&gt; um valor, então o resultado da função é frequentemente chamado de &lt;e1&gt;valor de retorno&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8287,6 +8327,38 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parameters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150803Z" creationid="Setur" creationdate="20210722T150803Z">
+        <seg>Parâmetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameters are &lt;e0&gt;passed&lt;/e0&gt; to a function or command, meaning that a value is specified for each parameter of the function or command when it is called.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151005Z" creationid="Setur" creationdate="20210722T151005Z">
+        <seg>Parâmetros são &lt;e0&gt;passados&lt;/e0&gt; para uma função ou comando, o que significa que um valor é especificado para cada parâmetro da função ou comando quando ele(a) é chamado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameters can also be called &lt;e3&gt;arguments&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150917Z" creationid="Setur" creationdate="20210722T150917Z">
+        <seg>Parâmetros também podem ser chamados de &lt;e3&gt;argumentos&lt;/e3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pass parameters</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150938Z" creationid="Setur" creationdate="20210722T150938Z">
+        <seg>Passagem de parâmetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>People usually use 3 or 4 spaces or 1 tab per "level".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221239Z" creationid="Leo" creationdate="20210627T220601Z">
@@ -8611,6 +8683,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180148Z" creationid="Leo" creationdate="20210702T180148Z">
         <seg>Return</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Return a value</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151038Z" creationid="Setur" creationdate="20210722T151038Z">
+        <seg>Retornar um valor</seg>
       </tuv>
     </tu>
     <tu>
@@ -11404,6 +11484,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090839Z" creationid="Leo" creationdate="20210703T074453Z">
         <seg>usar o joystick como um mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usually a command or function accepts &lt;e0&gt;parameters&lt;/e0&gt; which tell it how to operate or what to operate on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150835Z" creationid="Setur" creationdate="20210722T150835Z">
+        <seg>Geralmente um comando ou função aceita &lt;e0&gt;parâmetros&lt;/e0&gt; que podem dizer ao comando ou função como operar ou em que operar.</seg>
       </tuv>
     </tu>
     <tu>

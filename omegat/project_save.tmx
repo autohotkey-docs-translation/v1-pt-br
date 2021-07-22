@@ -1958,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;SetFormat&lt;/a0&gt;'s slow mode forces the assignment of a pure number to immediately convert that number to a string.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145526Z" creationid="Setur" creationdate="20210722T145526Z">
+        <seg>O modo lento do &lt;a0&gt;SetFormat&lt;/a0&gt; força a atribuição de um número puro para imediatamente converter aquele número em uma string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;SoundGet&lt;/a0&gt;, &lt;a1&gt;SoundSet&lt;/a1&gt;, &lt;a2&gt;SoundGetWaveVolume&lt;/a2&gt; and &lt;a3&gt;SoundSetWaveVolume&lt;/a3&gt; behave differently on Vista and later than on earlier versions of Windows.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183932Z" creationid="Setur" creationdate="20210719T183932Z">
@@ -5138,6 +5146,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T140123Z" creationid="Setur" creationdate="20210722T140123Z">
         <seg>Exemplificativamente, nós poderíamos dizer “&lt;c0&gt;meuVetor&lt;/c0&gt; é um vetor”, mas o que realmente queremos dizer é que meuVetor é uma variável contendo uma referência a um vetor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For integers, the number is also stored, so this doesn't have adverse effects other than to performance.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145544Z" creationid="Setur" creationdate="20210722T145544Z">
+        <seg>Para inteiros, o número também é armazenado, então isso não tem efeitos adversos para além da performance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9163,6 +9179,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203750Z" creationid="Leo" creationdate="20210625T203750Z">
         <seg>Simplesmente digite seu texto e pronto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since numbers are more memory-efficient, if a variable has both, the number is used (except for floating-point values used as keys).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145452Z" creationid="Setur" creationdate="20210722T145452Z">
+        <seg>Dado que números são mais eficientes no consumo de memória, se uma variável possui ambos, o número é usado (exceto valores de ponto flutuante usados como chaves).</seg>
       </tuv>
     </tu>
     <tu>

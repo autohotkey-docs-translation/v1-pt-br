@@ -2918,6 +2918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;e0&gt;statement&lt;/e0&gt; is simply the smallest standalone element of the language that expresses some action to be carried out.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152225Z" creationid="Setur" creationdate="20210722T152225Z">
+        <seg>Uma &lt;e0&gt;instrução&lt;/e0&gt; é simplesmente o menor e-mail da linguagem que expressa uma ação a ser executada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A &lt;e0&gt;string&lt;/e0&gt; is simply text.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015227Z" creationid="Leo" creationdate="20210721T015227Z">
@@ -6199,6 +6207,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, directives, labels (including hotkeys and hotstrings), and declarations without assignments are not statements; they are processed when the program first starts up, before the script &lt;e1&gt;executes&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152340Z" creationid="Setur" creationdate="20210722T152340Z">
+        <seg>Porém, diretivas, rótulos (incluindo hotkeys e hotstrings) e declarações sem atribuições de valor não são instruções; eles são processados assim que o programa inicia, antes de o script &lt;e1&gt;executar&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, hotkeys with the &lt;c4&gt;#&lt;/c4&gt; modifier can be triggered by either &lt;k5&gt;Win&lt;/k5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085433Z" creationid="Leo" creationdate="20210702T182902Z">
@@ -6619,6 +6635,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015551Z" creationid="Leo" creationdate="20210721T015551Z">
         <seg>Na versão 1 do AutoHotkey, comparações são feitas numericamente se ambos os valores são numeros mesmo que ambos sejam strings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In AutoHotkey, statements include commands, assignments, function calls and other expressions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152238Z" creationid="Setur" creationdate="20210722T152238Z">
+        <seg>No AutoHotkey, instruções incluem comandos, atribuições de valor, chamadas de funções e outras expressões.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9867,6 +9891,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151536Z" creationid="Setur" creationdate="20210722T151536Z">
         <seg>A presença de colchetes nos parâmetros significa que se tratam de parâmetros opcionais (os colchetes em si não devem aparecer no código).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statement</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152148Z" creationid="Setur" creationdate="20210722T152148Z">
+        <seg>Instrução</seg>
       </tuv>
     </tu>
     <tu>

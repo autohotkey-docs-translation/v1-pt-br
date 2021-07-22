@@ -4470,6 +4470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even a variable which is only assigned a value once can be useful.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134930Z" creationid="Setur" creationdate="20210722T134930Z">
+        <seg>Mesmo uma variável à qual somente uma vez é atribuído um valor pode ser útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Everywhere in &lt;a0&gt;expressions&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T175239Z" creationid="Setur" creationdate="20210719T175239Z">
@@ -4834,6 +4842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T130831Z" creationid="Setur" creationdate="20210722T130831Z">
         <seg>Por exemplo, um objeto &lt;e2&gt;ContaBancaria&lt;/e2&gt; pode ter propriedades como o número da conta, o saldo atual e o titular da conta, e métodos para sacar ou depositar um valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a hotkey could use a variable &lt;c0&gt;press_count&lt;/c0&gt; to count the number of times it is pressed, and send a different key whenever &lt;c1&gt;press_count&lt;/c1&gt; is a multiple of 3 (every third press).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134849Z" creationid="Setur" creationdate="20210722T134849Z">
+        <seg>Por exemplo, uma hotkey pode usar uma variável &lt;c0&gt;contagem_pressionamentos&lt;/c0&gt; para contar o número de vezes que ela foi pressionada, e enviar o pressionamento de uma tecla diferente toda vez que &lt;c1&gt;contagem_pressionamentos&lt;/c1&gt; for um múltiplo de 3 (a cada três pressionamentos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11308,6 +11324,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210452Z" creationid="Leo" creationdate="20210623T195908Z">
         <seg>Sejam uma ou 3253.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Which value that is could change repeatedly during the time your script is running.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134720Z" creationid="Setur" creationdate="20210722T134720Z">
+        <seg>Já qual valor é esse é algo que pode mudar repetidamente durante o tempo em que seu script estiver rodando.</seg>
       </tuv>
     </tu>
     <tu>

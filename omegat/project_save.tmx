@@ -2222,6 +2222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Calling&lt;/e0&gt; a function or command causes the program to invoke, execute or evaluate it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150515Z" creationid="Setur" creationdate="20210722T150442Z">
+        <seg>&lt;e0&gt;Chamar&lt;/e0&gt; uma função ou comando faz com que o programa invoque, execute ou calcule-o(a).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e10&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052703Z" creationid="Leo" creationdate="20210626T052703Z">
@@ -3726,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Below are several such words/phrases which are used frequently in relation to functions and commands:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150422Z" creationid="Setur" creationdate="20210722T150422Z">
+        <seg>Abaixo há várias palavras/expressões que são usadas frequentemente em relação a funções e comandos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blanking the value out</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214650Z" creationid="Leo" creationdate="20210627T213000Z">
@@ -3910,6 +3926,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call a function or command</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150446Z" creationid="Setur" creationdate="20210722T150434Z">
+        <seg>Chamar uma função ou comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Callouts","misc/RegExCallout.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061346Z" creationid="Leo" creationdate="20210711T061346Z">
@@ -4066,6 +4090,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220527Z" creationid="Leo" creationdate="20210625T185230Z">
         <seg>Comandos também se diferenciam das funções na medida em que aqueles usam a “sintaxe legada”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands and functions can have many different purposes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150228Z" creationid="Setur" creationdate="20210722T150228Z">
+        <seg>Comandos e funções podem ter propósitos diferentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8127,6 +8159,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of AutoHotkey's strengths is the ease with which scripts can automate other programs and perform many other common tasks by simply calling a few functions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150331Z" creationid="Setur" creationdate="20210722T150331Z">
+        <seg>Uma das vantagens do AutoHotkey é a facilidade com que os scripts podem automatizar outros programas e realizar várias outras tarefas comuns simplesmente chamando algumas funções.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One of the most common issues with AutoHotkey involving variables is when to use the percent signs (&lt;b0&gt;%&lt;/b0&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070755Z" creationid="Leo" creationdate="20210626T050743Z">
@@ -8879,6 +8919,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;a0&gt;command and function list&lt;/a0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150339Z" creationid="Setur" creationdate="20210722T150339Z">
+        <seg>Veja a &lt;a0&gt;lista de comandos e funções&lt;/a0&gt; para exemplos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the menu item "View-&gt;&lt;a0&gt;Key history&lt;/a0&gt;"</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091010Z" creationid="Leo" creationdate="20210703T075809Z">
@@ -9403,6 +9451,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053851Z" creationid="Leo" creationdate="20210626T053851Z">
         <seg>Alguns exemplos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some functions might do no more than perform a simple calculation, while others have immediately visible effects, such as moving a window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150251Z" creationid="Setur" creationdate="20210722T150251Z">
+        <seg>Algumas funções fazem não mais que realizar um simples cálculo, enquanto outras têm efeitos imediatamente visíveis, como mover uma janela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10852,6 +10908,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215408Z" creationid="Leo" creationdate="20210627T214319Z">
         <seg>Ao longo desta documentação, você verá estes dois símbolos (&lt;c0&gt;[&lt;/c0&gt; e &lt;c1&gt;]&lt;/c1&gt;) em volta do código no espaço amarelo da sintaxe no topo da maioria das páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Throughout this documentation, some common words are used in ways that might not be obvious to someone without prior experience.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150406Z" creationid="Setur" creationdate="20210722T150406Z">
+        <seg>Ao longo desta documentação, algumas palavras comuns são usadas de maneiras que podem não ser óbvias para alguém sem experiência prévia.</seg>
       </tuv>
     </tu>
     <tu>

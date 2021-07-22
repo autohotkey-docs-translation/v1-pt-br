@@ -4718,6 +4718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, a &lt;e2&gt;BankAccount&lt;/e2&gt; object might have properties such as the account number, current balance and the owner of the account, and methods to withdraw or deposit an amount.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T130831Z" creationid="Setur" creationdate="20210722T130831Z">
+        <seg>Por exemplo, um objeto &lt;e2&gt;ContaBancaria&lt;/e2&gt; pode ter propriedades como o número da conta, o saldo atual e o titular da conta, e métodos para sacar ou depositar um valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, an object could contain an &lt;e0&gt;array&lt;/e0&gt; or sequence of items, or a set of related values, such as the X and Y coordinates of a position on the screen.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125741Z" creationid="Setur" creationdate="20210722T125741Z">
@@ -4802,6 +4810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183805Z" creationid="Setur" creationdate="20210719T183805Z">
         <seg>Por exemplo, se você adquiriu um novo computador, ele pode ter drivers diferentes ou outros programas instalados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, one can improve or modify one section of code without having to know the details of other sections, and without having to make corresponding changes to those sections.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131004Z" creationid="Setur" creationdate="20210722T131004Z">
+        <seg>Por exemplo, alguém pode melhorar ou modificar uma seção de código sem precisar saber os detalhes de outra seção, e sem ter que realizar as modificações necessárias a tais seções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6819,6 +6835,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065842Z" creationid="Leo" creationdate="20210702T065404Z">
         <seg>Teclas Modificadoras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modular code is usually easier to test, understand and maintain.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T130921Z" creationid="Setur" creationdate="20210722T130921Z">
+        <seg>Código modular é geralmente mais fácil de testar, entender e manter.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9371,6 +9395,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213436Z" creationid="Leo" creationdate="20210627T213436Z">
         <seg>O valor anterior de &lt;c1&gt;MeuObjeto[QualquerChave]&lt;/c1&gt; será armazenado em &lt;i2&gt;ValorDeletado&lt;/i2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The proper use of objects (and in particular, &lt;a0&gt;classes&lt;/a0&gt;) can result in code which is &lt;e1&gt;modular&lt;/e1&gt; and &lt;e2&gt;reusable&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T130904Z" creationid="Setur" creationdate="20210722T130904Z">
+        <seg>O uso correto de objetos (e, em particircular, &lt;a0&gt;classes&lt;/a0&gt;) pode resultar em código &lt;e1&gt;modular&lt;/e1&gt; e &lt;e2&gt;reutilizável&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

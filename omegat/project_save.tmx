@@ -4886,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;a0&gt;Clipboard&lt;/a0&gt; retrieves the current contents of the clipboard as text, and &lt;a1&gt;A_TimeSinceThisHotkey&lt;/a1&gt; calculates the number of milliseconds that have elapsed since the hotkey was pressed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143246Z" creationid="Setur" creationdate="20210722T143246Z">
+        <seg>Por exemplo, &lt;a0&gt;Clipboard&lt;/a0&gt; obtém o valor do conteúdo atual ad área de transferência como texto, e &lt;a1&gt;A_TimeSinceThisHotkey&lt;/a1&gt; calcula o número de milissegundos que se passaram desde que a hotkey foi pressionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c0&gt;#Space&lt;/c0&gt; is &lt;k1&gt;Win&lt;/k1&gt;+&lt;k2&gt;Space&lt;/k2&gt; and &lt;c3&gt;^!Tab&lt;/c3&gt; is &lt;k4&gt;Ctrl&lt;/k4&gt;+&lt;k5&gt;Alt&lt;/k5&gt;+&lt;k6&gt;Tab&lt;/k6&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203709Z" creationid="Setur" creationdate="20210719T203709Z">
@@ -9203,6 +9211,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190527Z" creationid="Setur" creationdate="20210719T190527Z">
         <seg>Alguns programas precisam ser iniciados em seus próprios diretórios (quando em dúvida, costuma ser melhor fazê-lo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some special variables are not updated periodically, but rather their value is retrieved or calculated whenever the script references the variable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143143Z" creationid="Setur" creationdate="20210722T143143Z">
+        <seg>Algumas variáveis especiais não são atualizadas periodicamente; em vez disso, seus valores são obtidos ou calculados toda vez que o script referência essa variável.</seg>
       </tuv>
     </tu>
     <tu>

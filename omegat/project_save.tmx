@@ -3118,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although &lt;e0&gt;name&lt;/e0&gt; or &lt;e1&gt;arg1&lt;/e1&gt; is considered to be the first parameter, remember that these are just &lt;e2&gt;messages&lt;/e2&gt;, and the object is free to handle them in any way.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T133040Z" creationid="Setur" creationdate="20210722T133040Z">
+        <seg>Apesar de &lt;e0&gt;namoe&lt;/e0&gt; ou &lt;e1&gt;arg1&lt;/e1&gt; serem considerados como o primeiro parâmetro, lembre-se que esses são somente &lt;e2&gt;mensagens&lt;/e2&gt;, e o objeto está livre para manipulá-los de qualquer maneira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although AutoHotkey supports Unicode text, it is optimized for backward-compatibility, which means defaulting to the ANSI encoding rather than the more internationally recommended UTF-8.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190847Z" creationid="Setur" creationdate="20210719T190847Z">
@@ -6087,6 +6095,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In a method call such as those shown above, usually the object uses &lt;e3&gt;name&lt;/e3&gt; or &lt;e4&gt;arg1&lt;/e4&gt; to identify which method should be called, and then only &lt;e5&gt;arg2&lt;/e5&gt; and beyond are passed to the method.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T133115Z" creationid="Setur" creationdate="20210722T133115Z">
+        <seg>Numa chamada de método como as mostradas acima, normalmente o objeto usa &lt;e3&gt;name&lt;/e3&gt; ou &lt;e4&gt;arg1&lt;/e4&gt; para identificar qual método deve ser chamado, e então &lt;e5&gt;arg2&lt;/e5&gt;e seguintes são passados ao método.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition, &lt;c3&gt;LControl &amp; RAlt::&lt;/c3&gt; would make AltGr itself into a hotkey.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183628Z" creationid="Leo" creationdate="20210702T183628Z">
@@ -6115,6 +6131,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174906Z" creationid="Setur" creationdate="20210719T174906Z">
         <seg>Em todos os demais lugares, elas são tratadas literalmente como se fossem caracteres normais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In effect, &lt;e6&gt;arg2&lt;/e6&gt; becomes the method's first apparent parameter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134122Z" creationid="Setur" creationdate="20210722T134122Z">
+        <seg>Com efeito, &lt;e6&gt;arg2&lt;/e6&gt; torna-se o primeiro parâmetros aparente do método.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10035,6 +10059,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203742Z" creationid="Leo" creationdate="20210625T203742Z">
         <seg>Esta é a forma mais simples para uma variável: a atribuição legada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is true for every type of object, so it is always possible to compute the name of a property or method at runtime, rather than hard-coding it into the script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132927Z" creationid="Setur" creationdate="20210722T132927Z">
+        <seg>Isso é verdade para todo tipo de objeto, então é sempre possível computar o nome de uma propriedade ou método em tempo de execução, em vez de codificá-lo no script.</seg>
       </tuv>
     </tu>
     <tu>

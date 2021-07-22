@@ -2102,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c1&gt;myObj.name&lt;/c1&gt; is equivalent to &lt;c2&gt;myObj["name"]&lt;/c2&gt;, while &lt;c3&gt;myObj.123&lt;/c3&gt; is equivalent to &lt;c4&gt;myObj[123]&lt;/c4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132830Z" creationid="Setur" creationdate="20210722T132830Z">
+        <seg>&lt;c1&gt;meuObjeto.name&lt;/c1&gt; é equivalente a &lt;c2&gt;meuObjeto["name"]&lt;/c2&gt;, enquanto &lt;c3&gt;meuObjeto.123&lt;/c3&gt; é equivalente a &lt;c4&gt;meuObjeto[123]&lt;/c4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c1&gt;{Enter}&lt;/c1&gt; and &lt;c2&gt;{Space}&lt;/c2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175213Z" creationid="Leo" creationdate="20210625T175213Z">
@@ -4650,6 +4658,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020445Z" creationid="Leo" creationdate="20210721T020445Z">
         <seg>Números de ponto flutuante também podem ser formatados usando-se a função &lt;a3&gt;Round&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For &lt;s0&gt;Call&lt;/s0&gt;, &lt;c1&gt;.Name&lt;/c1&gt; and &lt;c2&gt;[Parameter]&lt;/c2&gt; can be used interchangeably, and must always be followed by &lt;c3&gt;(Parameters)&lt;/c3&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132719Z" creationid="Setur" creationdate="20210722T132719Z">
+        <seg>Para &lt;s0&gt;Call&lt;/s0&gt;, &lt;c1&gt;.Name&lt;/c1&gt;e &lt;c2&gt;[Parâmetro]&lt;/c2&gt; podem ser usados indistintamente, e devem sempre ser seguidos de &lt;c3&gt;(Parâmetros)&lt;/c3&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For &lt;s0&gt;Get&lt;/s0&gt; and &lt;s1&gt;Set&lt;/s1&gt;, &lt;c2&gt;.Name&lt;/c2&gt; and &lt;c3&gt;[Parameters]&lt;/c3&gt; can be used interchangeably, or in combination:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132624Z" creationid="Setur" creationdate="20210722T132624Z">
+        <seg>Para &lt;s0&gt;Get&lt;/s0&gt; e &lt;s1&gt;Set&lt;/s1&gt;, &lt;c2&gt;.Name&lt;/c2&gt; e &lt;c3&gt;[Parâmetros]&lt;/c3&gt; podem ser usados indistintamente, ou em conjunto:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7467,6 +7491,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015216Z" creationid="Leo" creationdate="20210721T015216Z">
         <seg>“Nada”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notice that if &lt;c0&gt;name&lt;/c0&gt; is present, it becomes the first parameter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132752Z" creationid="Setur" creationdate="20210722T132752Z">
+        <seg>Note que se &lt;c0&gt;name&lt;/c0&gt; estiver presente, ele se torna o primeiro parâmetro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15460,6 +15492,46 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045919Z" creationid="Leo" creationdate="20210629T045919Z">
         <seg>misc/WinTitle.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>myObj.name</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132640Z" creationid="Setur" creationdate="20210722T132640Z">
+        <seg>meuObjeto.name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>myObj.name(arg2, ..., argN)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132730Z" creationid="Setur" creationdate="20210722T132730Z">
+        <seg>meuObjeto.name(arg2, ..., argN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>myObj.name[arg2, ..., argN]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132647Z" creationid="Setur" creationdate="20210722T132647Z">
+        <seg>meuObjeto.name[arg2, ..., argN]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>myObj[arg1, arg2, ..., argN]</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132634Z" creationid="Setur" creationdate="20210722T132634Z">
+        <seg>meuObjestabeleço[arg1, arg2, ..., argN]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>myObj[arg1](arg2, ..., argN)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132738Z" creationid="Setur" creationdate="20210722T132738Z">
+        <seg>meuObjeto[arg1](arg2, ..., argN)</seg>
       </tuv>
     </tu>
     <tu>

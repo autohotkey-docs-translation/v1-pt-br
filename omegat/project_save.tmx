@@ -2110,6 +2110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c2&gt;.Name&lt;/c2&gt;, &lt;c3&gt;[Parameters]&lt;/c3&gt; and &lt;c4&gt;(Parameters)&lt;/c4&gt;, where &lt;e5&gt;Name&lt;/e5&gt; is a literal &lt;a6&gt;name or identifier&lt;/a6&gt;, and &lt;e7&gt;Parameters&lt;/e7&gt; is a list of parameters (as sub-expressions), which can be empty/blank (&lt;c8&gt;[]&lt;/c8&gt; or &lt;c9&gt;()&lt;/c9&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132524Z" creationid="Setur" creationdate="20210722T132524Z">
+        <seg>&lt;c2&gt;.Name&lt;/c2&gt;, &lt;c3&gt;[Parâmetros]&lt;/c3&gt; e &lt;c4&gt;(Parâmetros)&lt;/c4&gt;, onde &lt;e5&gt;Name&lt;/e5&gt; é um &lt;a6&gt;nome ou identificador&lt;/a6&gt; literal, e &lt;e7&gt;Parâmetros&lt;/e7&gt; é uma lista de parâmetros (na forma de sub-expressões), a qual pode ser vazia/em branco (&lt;c8&gt;[]&lt;/c8&gt; ou &lt;c9&gt;()&lt;/c9&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c2&gt;EnvAdd, VarContainingTimestamp, -7, days&lt;/c2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201654Z" creationid="Setur" creationdate="20210719T201654Z">
@@ -9463,6 +9471,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The parameters of a message are specified using three different patterns:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132319Z" creationid="Setur" creationdate="20210722T132319Z">
+        <seg>Os parâmetros de uma mensagem são especificados usando-se três diferentes padrões:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The point-of-view (hat) control.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090422Z" creationid="Leo" creationdate="20210703T073435Z">
@@ -10660,6 +10676,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182041Z" creationid="Setur" creationdate="20210719T182041Z">
         <seg>Normalmente nestes casos a mensagem "Erro do 7-zip" é exibida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usually there is at least one parameter, and it is interpreted as the name of a property or method, a key or an array index, depending on the object and how you're using it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132305Z" creationid="Setur" creationdate="20210722T132305Z">
+        <seg>Normalmente existe pelo menos um parâmetro, e ele é interpretado como o nome de uma propriedade ou método, uma chave ou índice de vetor, dependendo do objeto e como você está usando-o.</seg>
       </tuv>
     </tu>
     <tu>

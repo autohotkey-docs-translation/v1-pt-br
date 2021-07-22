@@ -5110,6 +5110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For floats, the number is not stored, since SetFormat affects the precision of the value, possibly even truncating all decimal places.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145613Z" creationid="Setur" creationdate="20210722T145613Z">
+        <seg>Para pontos flutuantes, o número não é armazenado, já que o comando SetFormat afeta a precisão do valor, possivelmente truncando todas as casas decimais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For further assistance, post on the forums.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182439Z" creationid="Setur" creationdate="20210719T182439Z">
@@ -6475,6 +6483,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174551Z" creationid="Setur" creationdate="20210719T174551Z">
         <seg>Em outras palavras, eu quero que determinada tecla funcione normalmente exceto quando uma janela específica está ativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, SetFormat's slow mode prevents pure floats from being stored in variables.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145639Z" creationid="Setur" creationdate="20210722T145639Z">
+        <seg>Em outras palavras, o modo lento do SetFormat impede que pontos flutuantes puros sejam armazenados em variáveis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9595,6 +9611,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192525Z" creationid="Leo" creationdate="20210622T192525Z">
         <seg>Sumário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Taking the address of a variable effectively converts the variable's value to a string, disabling caching until the variable's address changes (this happens when its capacity changes).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145850Z" creationid="Setur" creationdate="20210722T145850Z">
+        <seg>Tomar o endereço de uma variável efetivamente converte o valor da variável em uma string, desabilitando o cache até que o endereço da variável mude (isso acontece quando sua capacidade muda).</seg>
       </tuv>
     </tu>
     <tu>

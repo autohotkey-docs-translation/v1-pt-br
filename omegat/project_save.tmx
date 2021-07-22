@@ -3056,8 +3056,8 @@
       <tuv lang="en">
         <seg>Although it is certainly possible that the file has been infected, most often these alerts are &lt;e0&gt;false positives&lt;/e0&gt;, meaning that the antivirus program is mistaken.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194741Z" creationid="Setur" creationdate="20210719T194741Z">
-        <seg>Apesar de ser certamente possível que o arquivo tenha sido infectado, na maioria dos casos esses alertas são &lt;e0&gt;falsos positivos&lt;/e0&gt;, o que significa que o programa de antivirus está equivocado.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210722T001816Z" creationid="Setur" creationdate="20210719T194741Z">
+        <seg>Apesar de ser certamente possível que o arquivo tenha sido infectado, na maioria dos casos esses alertas são &lt;e0&gt;falsos positivos&lt;/e0&gt;, o que significa que o programa de antivírus está equivocado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5633,8 +5633,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>If in doubt, you could send the file to the vendor of your antivirus software for confirmation.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194825Z" creationid="Setur" creationdate="20210719T194825Z">
-        <seg>Se estiver em dúvida, você pode enviar o arquivo para o fornecedor de seu antivirus para confirmação.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210722T001841Z" creationid="Setur" creationdate="20210719T194825Z">
+        <seg>Se estiver em dúvida, você pode enviar o arquivo para o fornecedor de seu antivírus para confirmação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7017,8 +7017,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>My antivirus program flagged AutoHotkey or a compiled script as malware.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194658Z" creationid="Setur" creationdate="20210719T194658Z">
-        <seg>Meu programa antivirus acusou o AutoHotkey ou um script compilado de ser malware.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210722T001803Z" creationid="Setur" creationdate="20210719T194658Z">
+        <seg>Meu programa antivírus acusou o AutoHotkey ou um script compilado de ser malware.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7441,8 +7441,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>One common suggestion is to upload the file to an online service such as &lt;a1&gt;virustotal&lt;/a1&gt; or &lt;a2&gt;Jotti&lt;/a2&gt; and see what other antivirus programs have to say.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194809Z" creationid="Setur" creationdate="20210719T194809Z">
-        <seg>Uma sugestão comum é enviar o arquivo para um serviço online como &lt;a1&gt;virustotal&lt;/a1&gt; ou &lt;a2&gt;Jotti&lt;/a2&gt; e ver o que outros programas antivirus têm a dizer.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210722T001834Z" creationid="Setur" creationdate="20210719T194809Z">
+        <seg>Uma sugestão comum é enviar o arquivo para um serviço online como &lt;a1&gt;virustotal&lt;/a1&gt; ou &lt;a2&gt;Jotti&lt;/a2&gt; e ver o que outros programas antivírus têm a dizer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9761,8 +9761,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This might also help us and other AutoHotkey users, as the vendor may confirm it is a false positive and fix their product to play nice with AutoHotkey.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194942Z" creationid="Setur" creationdate="20210719T194942Z">
-        <seg>Isso também pode ajudar outros usuários do AutoHotkey, já que a empresa do antivirus pode confirmar o arquivo como um falso positivo e consertar o produto deles para conviver de boa com o AutoHotkey.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210722T001853Z" creationid="Setur" creationdate="20210719T194942Z">
+        <seg>Isso também pode ajudar outros usuários do AutoHotkey, já que a empresa do antivírus pode confirmar o arquivo como um falso positivo e consertar o produto deles para conviver de boa com o AutoHotkey.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2934,6 +2934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A variable has three main aspects:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135351Z" creationid="Setur" creationdate="20210722T135351Z">
+        <seg>Uma variável tem três aspectos principais:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A window should have popped up, probably Notepad.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202452Z" creationid="Leo" creationdate="20210622T202452Z">
@@ -3806,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Certain restrictions apply to variable names - see &lt;a0&gt;Names&lt;/a0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135430Z" creationid="Setur" creationdate="20210722T135430Z">
+        <seg>Algumas restrições se aplicam a nomes - vide &lt;a0&gt;Nomes&lt;/a0&gt; para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose what you like or learn to indent how you think it's easiest to read.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221211Z" creationid="Leo" creationdate="20210627T221211Z">
@@ -4394,6 +4410,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015257Z" creationid="Leo" creationdate="20210721T015257Z">
         <seg>Cada string é na verdade uma sequência ou &lt;e1&gt;cadeia&lt;/e1&gt; de caracteres, mas pode ser tratada como uma entidade única.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each variable is &lt;e0&gt;not&lt;/e0&gt; permanently restricted to a single &lt;a1&gt;data type&lt;/a1&gt;, but can instead hold a value of any type:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135306Z" creationid="Setur" creationdate="20210722T135306Z">
+        <seg>Cada variável &lt;e0&gt;não é&lt;/e0&gt; permanentemente restrita a um &lt;a1&gt;tipo de dados&lt;/a1&gt;, mas pode ter um valor de qualquer tipo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each variable starts off empty/blank; in other words, each newly created variable contains an empty string until it is assigned some other value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135344Z" creationid="Setur" creationdate="20210722T135344Z">
+        <seg>Cada variável começa vazia/em branco; em outras palavras, cada variável nova contém uma string vazia até que a ela seja atribuído um outro valor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6291,6 +6323,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183945Z" creationid="Setur" creationdate="20210719T183945Z">
         <seg>Em particular, números de dispositivos são diferentes e alguns componentes podem não estar disponíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In short, it is safest to stick to names consisting of ASCII letters (which are case insensitive), digits and underscore, and to avoid using names that start with a digit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135600Z" creationid="Setur" creationdate="20210722T135600Z">
+        <seg>Em resumo, é melhor manter nomes que consistam somente em letras ASCII (as quais não diferenciam maiúsculas e minúsculas), algarismos e _, e evitar usar nomes que comecem com um algarismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9719,10 +9759,34 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The variable itself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135405Z" creationid="Setur" creationdate="20210722T135405Z">
+        <seg>A variável em si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The variable names are known as "Keys", and the contents of the variables are "Values".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220709Z" creationid="Leo" creationdate="20210626T053549Z">
         <seg>Os nomes das variáveis são chamados “Chaves” (Keys), e o conteúdo das variáveis, “Valores” (values).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The variable's &lt;e0&gt;name&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135357Z" creationid="Setur" creationdate="20210722T135357Z">
+        <seg>Seu &lt;e0&gt;nome&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The variable's &lt;e0&gt;value&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135411Z" creationid="Setur" creationdate="20210722T135411Z">
+        <seg>O &lt;e0&gt;valor&lt;/e0&gt; da variável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15708,6 +15772,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045907Z" creationid="Leo" creationdate="20210629T045907Z">
         <seg>static/theme.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>string, number or object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135312Z" creationid="Setur" creationdate="20210722T135312Z">
+        <seg>string, número ou objeto.</seg>
       </tuv>
     </tu>
     <tu>

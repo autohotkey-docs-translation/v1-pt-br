@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;variables&lt;/a0&gt;, &lt;a1&gt;functions&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131459Z" creationid="Setur" creationdate="20210722T131459Z">
+        <seg>&lt;a0&gt;variáveis&lt;/a0&gt;, &lt;a1&gt;funções&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a1&gt;IfMsgBox&lt;/a1&gt;, No</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045537Z" creationid="Leo" creationdate="20210629T045537Z">
@@ -5615,6 +5623,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, &lt;c9&gt;myObj := Object()&lt;/c9&gt; only affects the variable &lt;e10&gt;myObj&lt;/e10&gt;, not the variable &lt;e11&gt;yourObj&lt;/e11&gt;, which still refers to the original object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131417Z" creationid="Setur" creationdate="20210722T131417Z">
+        <seg>Contudo, &lt;c9&gt;meuObjeto := Object()&lt;/c9&gt; só afetará a variável &lt;e10&gt;meuObjeto&lt;/e10&gt;, não a variável &lt;e11&gt;seuObjeto&lt;/e11&gt;, a qual ainda se refere ao objeto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, a quoted string (or the result of concatenating with a quoted string) is never considered numeric when used directly in an expression.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015626Z" creationid="Leo" creationdate="20210721T015626Z">
@@ -7507,6 +7523,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125820Z" creationid="Setur" creationdate="20210722T125820Z">
         <seg>Objetos podem ser usados para montar estruturas complexas combinando-se-os com outros objetos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Objects work through the principle of &lt;e0&gt;message passing&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131656Z" creationid="Setur" creationdate="20210722T131656Z">
+        <seg>Objetos funcionam de acordo com o princípio da &lt;e0&gt;troca de mensagens&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10043,6 +10067,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213734Z" creationid="Leo" creationdate="20210627T213734Z">
         <seg>Este remove a maior chave inteira e retorna seu valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section builds on these concepts which are covered in later sections:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131451Z" creationid="Setur" creationdate="20210722T131451Z">
+        <seg>Esta seção se baseia nos conceitos seguintes, que são cobertos em seções posteriores:</seg>
       </tuv>
     </tu>
     <tu>

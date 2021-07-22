@@ -3870,6 +3870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>COM objects.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144430Z" creationid="Setur" creationdate="20210722T144430Z">
+        <seg>Objetos COM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Callouts","misc/RegExCallout.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061346Z" creationid="Leo" creationdate="20210711T061346Z">
@@ -6063,6 +6071,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a variable has both, the number is used.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144643Z" creationid="Setur" creationdate="20210722T144643Z">
+        <seg>Se uma variável possui ambos, o número é usado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a variable is not visible within a given scope, the same name can refer to a different variable.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135653Z" creationid="Setur" creationdate="20210722T135653Z">
@@ -6427,6 +6443,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195353Z" creationid="Setur" creationdate="20210719T195353Z">
         <seg>De fato, se o arquivo for deletado imediatamente depois do uso, ele não costuma ser gravado no disco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to pass parameters to a COM object, the program must convert the variable's content to either a number &lt;e0&gt;or&lt;/e0&gt; a string.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144503Z" creationid="Setur" creationdate="20210722T144503Z">
+        <seg>Para passar parâmetros para um objeto COM, o programa deve converter o conteúdo da variável para ou uma número &lt;e0&gt;ou&lt;/e0&gt; uma string.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7927,6 +7951,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Objects don't have the capability to store both a number and a string as a key or value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145231Z" creationid="Setur" creationdate="20210722T145231Z">
+        <seg>Objetos não têm a capacidade de armazenar um número e uma string ao mesmo tempo como uma chave ou valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Objects in AutoHotkey support the following basic messages:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131841Z" creationid="Setur" creationdate="20210722T131841Z">
@@ -9259,6 +9291,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070357Z" creationid="Leo" creationdate="20210701T070357Z">
         <seg>Licença do Software:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some COM objects throw an exception if the wrong type of value is passed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144635Z" creationid="Setur" creationdate="20210722T144635Z">
+        <seg>Alguns objetos COM lançam uma exceção se o tipo errado de valor for passado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11180,6 +11220,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132305Z" creationid="Setur" creationdate="20210722T132305Z">
         <seg>Normalmente existe pelo menos um parâmetro, e ele é interpretado como o nome de uma propriedade ou método, uma chave ou índice de vetor, dependendo do objeto e como você está usando-o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usually this gets the right result, but sometimes it doesn't.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144654Z" creationid="Setur" creationdate="20210722T144654Z">
+        <seg>Normalmente isso leva ao resultado correto, mas nem sempre.</seg>
       </tuv>
     </tu>
     <tu>

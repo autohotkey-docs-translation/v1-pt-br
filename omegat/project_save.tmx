@@ -3302,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AutoHotkey does not have a value which uniquely represents &lt;e0&gt;nothing&lt;/e0&gt;, &lt;e1&gt;null&lt;/e1&gt;, &lt;e2&gt;nil&lt;/e2&gt; or &lt;e3&gt;undefined&lt;/e3&gt;, as seen in other languages.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125351Z" creationid="Setur" creationdate="20210722T125351Z">
+        <seg>O AutoHotkey não possui um valor próprio para representar &lt;e0&gt;nothing&lt;/e0&gt;, &lt;e1&gt;null&lt;/e1&gt;, &lt;e2&gt;nil&lt;/e2&gt; ou &lt;e3&gt;undefined&lt;/e3&gt;, como visto em outras linguagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey has the ability to have &lt;i0&gt;as many&lt;/i0&gt; hotkeys and hotstrings in one file as you want.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070715Z" creationid="Leo" creationdate="20210623T195854Z">
@@ -6235,6 +6243,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215439Z" creationid="Leo" creationdate="20210627T215237Z">
         <seg>Em vez de pedir ajuda para cada pequena coisa, às vezes gastar um tempo sozinho (pode chegar a horas ou dias) e tentar fazer algo funcionar vai ajudá-lo a aprender mais rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, an empty string (a string of zero length) often has this meaning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125504Z" creationid="Setur" creationdate="20210722T125504Z">
+        <seg>Em vez disso, uma string vazia (uma string com comprimento zero) é o que costuma fazer esse papel no AHK.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2734,6 +2734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;e0&gt;boolean&lt;/e0&gt; value can be either &lt;e1&gt;true&lt;/e1&gt; or &lt;e2&gt;false&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124133Z" creationid="Setur" creationdate="20210722T124133Z">
+        <seg>Um valor &lt;e0&gt;booleano&lt;/e0&gt; pode ou ser &lt;e1&gt;verdadeiro&lt;/e1&gt; ou &lt;e2&gt;falso&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A &lt;e0&gt;string&lt;/e0&gt; is simply text.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015227Z" creationid="Leo" creationdate="20210721T015227Z">

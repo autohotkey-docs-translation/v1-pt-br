@@ -3136,8 +3136,8 @@
       <tuv lang="en">
         <seg>A variable name has &lt;s0&gt;&lt;e1&gt;scope&lt;/e1&gt;&lt;/s0&gt;, which defines where in the code that name can be used to refer to that particular variable; in other words, where the variable is &lt;e2&gt;visible&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135637Z" creationid="Setur" creationdate="20210722T135637Z">
-        <seg>Uma variável tem um &lt;s0&gt;escopo&lt;e1&gt;, o qual define onde no código aquele nome pode ser usado para se referir àquela variável em particular; em outras palavras, onde a variável está &lt;/e1&gt;visível&lt;/s0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T172250Z" creationid="Setur" creationdate="20210722T135637Z">
+        <seg>Uma variável tem um &lt;s0&gt;&lt;e1&gt;escopo&lt;/e1&gt;&lt;/s0&gt;, o qual define onde no código aquele nome pode ser usado para se referir àquela variável em particular; em outras palavras, onde a variável está &lt;e2&gt;visível&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -4886,6 +4886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;c0&gt;x := x + 1&lt;/c0&gt; will not work if x has never been assigned a value, since the &lt;e1&gt;empty string&lt;/e1&gt; is considered to be non-numeric.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142422Z" creationid="Setur" creationdate="20210722T142422Z">
+        <seg>Por exemplo, &lt;c0&gt;x := x + 1&lt;/c0&gt; não irá funcionar se à variável x nunca tiver sido atribuído um valor antes, já que a &lt;e1&gt;string vazia&lt;/e1&gt; é considerada não numérica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c1&gt;Send, +abC&lt;/c1&gt; would send the text "AbC", and &lt;c2&gt;Send, !+a&lt;/c2&gt; would press &lt;k3&gt;Alt&lt;/k3&gt;+&lt;k4&gt;Shift&lt;/k4&gt;+&lt;k5&gt;A&lt;/k5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220317Z" creationid="Leo" creationdate="20210624T010045Z">
@@ -8535,6 +8543,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Script authors can use the &lt;a0&gt;#Warn&lt;/a0&gt; directive to help find instances where a variable is used without having been initialised by the script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142555Z" creationid="Setur" creationdate="20210722T142555Z">
+        <seg>Autores de scripts podem usar a diretiva &lt;a0&gt;Warn&lt;/a0&gt; para ajudar a encontrar instâncias em que uma variável é usada sem ter sido inicializada pelo script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts.htm#continuation</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043641Z" creationid="Leo" creationdate="20210629T043641Z">
@@ -9807,6 +9823,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script should have assigned a starting value, such as &lt;c2&gt;x := 0&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142445Z" creationid="Setur" creationdate="20210722T142445Z">
+        <seg>O script deveria ter atribuído um valor inicial, como &lt;c2&gt;x := 0&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script will always exit, even if &lt;e1&gt;MyVar&lt;/e1&gt; &lt;b2&gt;is not&lt;/b2&gt; 5:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T235010Z" creationid="Leo" creationdate="20210625T203113Z">
@@ -10011,6 +10035,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202502Z" creationid="Setur" creationdate="20210719T202502Z">
         <seg>Existem vários jeitos de fazer com que um script (ou qualquer programa) inicie automaticamente toda vez que você iniciar seu PC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are some cases where empty values &lt;e3&gt;are&lt;/e3&gt; assumed to be 0, but it is best not to rely on this.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142524Z" creationid="Setur" creationdate="20210722T142524Z">
+        <seg>Há alguns casos em que valores vazios &lt;e3&gt;são&lt;/e3&gt; considerados iguais a 0, mas é melhor não pressupor isso.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2774,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A change such as &lt;c6&gt;myObj.ans := 42&lt;/c6&gt; would be reflected by both &lt;c7&gt;myObj.ans&lt;/c7&gt; and &lt;c8&gt;yourObj.ans&lt;/c8&gt;, since they both refer to the same object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131343Z" creationid="Setur" creationdate="20210722T131343Z">
+        <seg>Uma alteração como &lt;c6&gt;meuObjeto.resposta := 42&lt;/c6&gt; seria refletida tanto em &lt;c7&gt;meuObjeto.resposta&lt;/c7&gt; e &lt;c8&gt;seuObjeto.resposta&lt;/c8&gt;, uma vez que ambos se referem ao mesmo objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A combination of the three expression assignments above.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204431Z" creationid="Leo" creationdate="20210625T204431Z">
@@ -3994,6 +4002,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192333Z" creationid="Setur" creationdate="20210719T192333Z">
         <seg>ControlSend,, abc, titulo_do_jogo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copying that variable, as in &lt;c4&gt;yourObj := myObj&lt;/c4&gt;, creates a new reference to the &lt;e5&gt;same&lt;/e5&gt; object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131232Z" creationid="Setur" creationdate="20210722T131232Z">
+        <seg>Copiar aquela variável, como em &lt;c4&gt;seuObjeto := meuObjeto&lt;/c4&gt;, cria uma nova referência ao &lt;e5&gt;mesmo&lt;/e5&gt; objeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7975,6 +7991,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reusable code saves time, by avoiding the need to write and test code for the same or similar tasks over and over.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131059Z" creationid="Setur" creationdate="20210722T131059Z">
+        <seg>Código reusável poupa tempo, dispensando a necessidade de escrever e testar código para a mesma tarefa ou tarefas similares a cada vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right &lt;k0&gt;Alt&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183414Z" creationid="Leo" creationdate="20210702T183414Z">
@@ -9401,8 +9425,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The proper use of objects (and in particular, &lt;a0&gt;classes&lt;/a0&gt;) can result in code which is &lt;e1&gt;modular&lt;/e1&gt; and &lt;e2&gt;reusable&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T130904Z" creationid="Setur" creationdate="20210722T130904Z">
-        <seg>O uso correto de objetos (e, em particircular, &lt;a0&gt;classes&lt;/a0&gt;) pode resultar em código &lt;e1&gt;modular&lt;/e1&gt; e &lt;e2&gt;reutilizável&lt;/e2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131115Z" creationid="Setur" creationdate="20210722T130904Z">
+        <seg>O uso correto de objetos (e, em particircular, &lt;a0&gt;classes&lt;/a0&gt;) pode resultar em código &lt;e1&gt;modular&lt;/e1&gt; e &lt;e2&gt;reusável&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11044,6 +11068,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T212846Z" creationid="Leo" creationdate="20210626T050940Z">
         <seg> (respectivamente “variável de saída” e “variável de entrada”. Quando você está usando comandos (veja acima), exceto quando o parâmetro é &lt;e0&gt;OutputVar&lt;/e0&gt; ou &lt;e1&gt;InputVar&lt;/e1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you assign an object to a &lt;a0&gt;variable&lt;/a0&gt;, as in &lt;c1&gt;myObj := {}&lt;/c1&gt;, what you store is not the object itself, but a &lt;a2&gt;&lt;e3&gt;reference&lt;/e3&gt;&lt;/a2&gt; to the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131247Z" creationid="Setur" creationdate="20210722T131158Z">
+        <seg>Quando você atribui um objeto a uma &lt;a0&gt;variável&lt;/a0&gt;, como no exemplo &lt;c1&gt;meuObjeto := {}&lt;/c1&gt;, o que você armazena não é o objeto em si, mas uma &lt;a2&gt;&lt;e3&gt;referência&lt;/e3&gt;&lt;/a2&gt; a ele.</seg>
       </tuv>
     </tu>
     <tu>

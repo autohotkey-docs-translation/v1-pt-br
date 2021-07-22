@@ -1246,6 +1246,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Correct. Control is omitted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151657Z" creationid="Setur" creationdate="20210722T151657Z">
+        <seg>; Correto. O controle foi omitido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Correct. Control is specified.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151623Z" creationid="Setur" creationdate="20210722T151623Z">
+        <seg>; Correto. O controle foi especificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Disable Alt+key shortcuts for the IME.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T082411Z" creationid="Leo" creationdate="20210703T082411Z">
@@ -1282,6 +1298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180950Z" creationid="Leo" creationdate="20210625T180950Z">
         <seg>; Se um método não funciona em seu programa, tente o outro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Incorrect: Parameters are mismatched.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151641Z" creationid="Setur" creationdate="20210722T151641Z">
+        <seg>; Incorreto: os parâmetros não combinam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2296,8 +2320,8 @@
       <tuv lang="en">
         <seg>&lt;e2&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051923Z" creationid="Leo" creationdate="20210626T051923Z">
-        <seg>&lt;e2&gt;</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151646Z" creationid="Leo" creationdate="20210626T051923Z">
+        <seg>&lt;e2&gt;&lt;e2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2618,6 +2642,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214753Z" creationid="Leo" creationdate="20210627T214657Z">
         <seg>&lt;s0&gt;ControlGetText&lt;/s0&gt;, VarDeSaida &lt;s1&gt;, Control, TituloJanela, TextoJanela, TituloExcluido, TextoExcluido&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;ControlSend&lt;/s0&gt; &lt;s1&gt;, Control, Keys, WinTitle, WinText, ExcludeTitle, ExcludeText&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151450Z" creationid="Setur" creationdate="20210722T151450Z">
+        <seg>&lt;s0&gt;ControlSend&lt;/s0&gt; &lt;s1&gt;, Controle, Teclas, TitulodaJanela, TextoDaJanela, ExcluirTitulo, ExcluirTexto&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5214,6 +5246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the syntax for &lt;a0&gt;ControlSend&lt;/a0&gt; is:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151414Z" creationid="Setur" creationdate="20210722T151414Z">
+        <seg>Por exemplo, a sintaxe para &lt;a0&gt;ControlSend&lt;/a0&gt; é:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202343Z" creationid="Leo" creationdate="20210622T202343Z">
@@ -6099,6 +6139,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131417Z" creationid="Setur" creationdate="20210722T131417Z">
         <seg>Contudo, &lt;c9&gt;meuObjeto := Object()&lt;/c9&gt; só afetará a variável &lt;e10&gt;meuObjeto&lt;/e10&gt;, não a variável &lt;e11&gt;seuObjeto&lt;/e11&gt;, a qual ainda se refere ao objeto original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, ControlSend isn't useful unless &lt;e0&gt;Keys&lt;/e0&gt; are specified, and usually one must also specify the target window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151606Z" creationid="Setur" creationdate="20210722T151606Z">
+        <seg>No entanto, ControlSend não tem utilidade a não ser que &lt;e0&gt;Teclas&lt;/e0&gt; sejam especificadas, e geralmente também é necessário especificar a janela alvo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7459,6 +7507,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211455Z" creationid="Leo" creationdate="20210622T211455Z">
         <seg>Método 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Methods</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151704Z" creationid="Setur" creationdate="20210722T151704Z">
+        <seg>Métodos</seg>
       </tuv>
     </tu>
     <tu>
@@ -9763,6 +9819,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230411Z" creationid="Leo" creationdate="20210703T230411Z">
         <seg>Escolha as configurações com as quais esta ajuda deve iniciar por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Square brackets signify that the enclosed parameters are optional (the brackets themselves should not appear in the actual code).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151536Z" creationid="Setur" creationdate="20210722T151536Z">
+        <seg>A presença de colchetes nos parâmetros significa que se tratam de parâmetros opcionais (os colchetes em si não devem aparecer no código).</seg>
       </tuv>
     </tu>
     <tu>

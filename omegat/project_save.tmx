@@ -1998,10 +1998,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Variable Capacity and Memory&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150031Z" creationid="Setur" creationdate="20210722T150031Z">
+        <seg>&lt;a0&gt;Capacidade de uma Variável e Memória Usada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Variables&lt;/a0&gt; are like little post-it notes that hold some information.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203458Z" creationid="Leo" creationdate="20210625T203458Z">
         <seg>&lt;a0&gt;Variáveis&lt;/a0&gt; são como pequenas notas escritas em post-its que contêm informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Variables&lt;/a0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145945Z" creationid="Setur" creationdate="20210722T145945Z">
+        <seg>&lt;a0&gt;Variáveis&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2834,6 +2850,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124133Z" creationid="Setur" creationdate="20210722T124133Z">
         <seg>Um valor &lt;e0&gt;booleano&lt;/e0&gt; pode ou ser &lt;e1&gt;verdadeiro&lt;/e1&gt; ou &lt;e2&gt;falso&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;e0&gt;function&lt;/e0&gt; or &lt;e1&gt;command&lt;/e1&gt; is the basic means by which a script &lt;e2&gt;does something&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150109Z" creationid="Setur" creationdate="20210722T150109Z">
+        <seg>Uma &lt;e0&gt;função&lt;/e0&gt; ou &lt;e1&gt;comando&lt;/e1&gt; é o meio primordial pelo qual um script &lt;e2&gt;faz algo&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5999,6 +6023,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the long history of AutoHotkey v1 and an emphasis on backward-compatibility have resulted in a divide between &lt;e0&gt;commands&lt;/e0&gt;, which require legacy syntax, and &lt;e1&gt;functions&lt;/e1&gt;, which require expression syntax.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150217Z" creationid="Setur" creationdate="20210722T150217Z">
+        <seg>Entretanto, a longa história do AutoHotkey v1 e a ênfase em retrocompatibilidade têm resultado em uma divisão entre &lt;e0&gt;comandos&lt;/e0&gt;, os quais requerem sintaxe legada, e &lt;e1&gt;funções&lt;/e1&gt;, que requerem a sintaxe de expressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, when a script launches a program or document, the operating system usually requires quotes around any command-line parameter that contains spaces, such as in this example:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210722T002030Z" creationid="Setur" creationdate="20210719T174942Z">
@@ -6451,6 +6483,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144336Z" creationid="Setur" creationdate="20210722T144336Z">
         <seg>Como efeito, a variável pode obter tanto uma string quanto um número simultaneamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In essence, functions and commands are the same thing, so the concepts explained here apply to both.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150126Z" creationid="Setur" creationdate="20210722T150126Z">
+        <seg>Essencialmente, funções e comandos são a mesma coisa, então os conceitos aqui se aplicam a ambos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8427,6 +8467,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071234Z" creationid="Leo" creationdate="20210702T071234Z">
         <seg>Independentemente do mouse em particular, &lt;a1&gt;Send&lt;/a1&gt; e &lt;a2&gt;Click&lt;/a2&gt; podem ser usados para rolar horizontalmente em programas que suportam rolagem horizontal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Related</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145934Z" creationid="Setur" creationdate="20210722T145934Z">
+        <seg>Tópicos relacionados</seg>
       </tuv>
     </tu>
     <tu>
@@ -10499,6 +10547,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081303Z" creationid="Leo" creationdate="20210703T081303Z">
         <seg>Isso porque sua chance de sucesso é baixa e este método pode causar efeitos colaterais indesejados que são difíceis de serem desfeitos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is both for backward-compatibility and because the script could change the value indirectly via its address at any time, making the cache inaccurate.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145925Z" creationid="Setur" creationdate="20210722T145925Z">
+        <seg>Isso é tanto para retrocompatibilidade e também porque o script poderia mudar o valor indiretamente por meio do endereço da variável a qualquer momento, tornando o cache impreciso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15720,6 +15776,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>basic usage and examples.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150013Z" creationid="Setur" creationdate="20210722T150013Z">
+        <seg>Noções básicas de uso e exemplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>c.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215133Z" creationid="Leo" creationdate="20210627T215133Z">
@@ -15868,6 +15932,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064215Z" creationid="Ragnar-F" creationdate="20210701T064215Z">
         <seg>deprecateData = {</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>details about limitations.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150041Z" creationid="Setur" creationdate="20210722T150041Z">
+        <seg>Detalhes sobre limitações.</seg>
       </tuv>
     </tu>
     <tu>

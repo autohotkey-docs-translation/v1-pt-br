@@ -3240,8 +3240,8 @@
       <tuv lang="en">
         <seg>As the default AutoHotkey installation does not include a compressor, compiled scripts are not compressed by default.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195043Z" creationid="Setur" creationdate="20210719T195043Z">
-        <seg>Já que que a instalação padrão do AutoHotkey não inclui um compressor, scripts compilados não são comprimidos por padrão.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210722T002105Z" creationid="Setur" creationdate="20210719T195043Z">
+        <seg>Já que a instalação padrão do AutoHotkey não inclui um compressor, scripts compilados não são comprimidos por padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5529,8 +5529,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>However, when a script launches a program or document, the operating system usually requires quotes around any command-line parameter that contains spaces, such as in this example:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174942Z" creationid="Setur" creationdate="20210719T174942Z">
-        <seg>Entretanto, quando um script executa um programa ou documento, o sistema operacional geralmente exige aspas em volta de qualquer parâmetros da linha de comando que contenha espaços, como neste exemplo:</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210722T002030Z" creationid="Setur" creationdate="20210719T174942Z">
+        <seg>Entretanto, quando um script executa um programa ou documento, o sistema operacional geralmente exige aspas em volta de quaisquer parâmetros da linha de comando que contenha espaços, como neste exemplo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11050,8 +11050,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>With Internet Explorer, perhaps the most reliable method is to use DllCall() and COM as demonstrated at &lt;a0&gt;www.autohotkey.com/forum/topic19256.html&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201216Z" creationid="Setur" creationdate="20210719T201216Z">
-        <seg>Com o Internet Explorer, talvez o método mais confiável é usar DllCall() e COM como demonstrado em &lt;a0&gt;www.autohotkey.com/forum/topic19256.html&lt;/a0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210722T002150Z" creationid="Setur" creationdate="20210719T201216Z">
+        <seg>Com o Internet Explorer, talvez o método mais confiável seja usar DllCall() e COM como demonstrado em &lt;a0&gt;www.autohotkey.com/forum/topic19256.html&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

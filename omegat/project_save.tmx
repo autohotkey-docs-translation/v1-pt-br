@@ -4174,6 +4174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Currently there is also a "hybrid" syntax allowed with &lt;s0&gt;Set&lt;/s0&gt;, but it is best not to use it:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134255Z" creationid="Setur" creationdate="20210722T134255Z">
+        <seg>Também existe uma sintaxe “híbrida” permitida para a instrução &lt;s0&gt;Set&lt;/s0&gt;, mas é melhor não usá-la:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cursor Control Keys</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065827Z" creationid="Leo" creationdate="20210701T162315Z">
@@ -5114,6 +5122,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173000Z" creationid="Setur" creationdate="20210719T173000Z">
         <seg>Resolução de Problemas em Geral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Generally, &lt;s0&gt;Set&lt;/s0&gt; has the same meaning as an assignment, so it uses the same operator:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134142Z" creationid="Setur" creationdate="20210722T134142Z">
+        <seg>Geralmente, &lt;s0&gt;Set&lt;/s0&gt; tem o mesmo significado de uma atribuição de valor, então usa o mesmo operador:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9187,6 +9203,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192525Z" creationid="Leo" creationdate="20210622T192525Z">
         <seg>Sumário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Technically, &lt;c0&gt;value&lt;/c0&gt; is passed as the last the parameter of the &lt;e1&gt;Set&lt;/e1&gt; message; however, this detail is almost never relevant to script authors.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134338Z" creationid="Setur" creationdate="20210722T134338Z">
+        <seg>Tecnicamente, o &lt;c0&gt;valor&lt;/c0&gt; é passado como último parâmetro da mensagem &lt;e1&gt;Set&lt;/e1&gt;, entretanto, esse detalhe quase nunca é relevante para autores de scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15536,10 +15560,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>myObj.name := value</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134203Z" creationid="Setur" creationdate="20210722T134203Z">
+        <seg>meuObjeto.name := valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>myObj.name(arg2, ..., argN)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132730Z" creationid="Setur" creationdate="20210722T132730Z">
         <seg>meuObjeto.name(arg2, ..., argN)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>myObj.name(arg2, ..., argN) := value</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134303Z" creationid="Setur" creationdate="20210722T134303Z">
+        <seg>meuObjeto.name(arg2, ..., argN) := valor</seg>
       </tuv>
     </tu>
     <tu>
@@ -15552,10 +15592,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>myObj.name[arg2, ..., argN] := value</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134212Z" creationid="Setur" creationdate="20210722T134212Z">
+        <seg>meuObjeto.name[arg2, ..., argN] := valor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>myObj[arg1, arg2, ..., argN]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132634Z" creationid="Setur" creationdate="20210722T132634Z">
         <seg>meuObjestabeleço[arg1, arg2, ..., argN]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>myObj[arg1, arg2, ..., argN] := value</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134152Z" creationid="Setur" creationdate="20210722T134152Z">
+        <seg>meuObjeto[arg1, arg2, ..., argN] := valor</seg>
       </tuv>
     </tu>
     <tu>

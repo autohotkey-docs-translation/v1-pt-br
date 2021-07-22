@@ -5134,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the &lt;a0&gt;Send&lt;/a0&gt; command &lt;e1&gt;sends&lt;/e1&gt; keystrokes, but may return before the keystrokes reach their destination and cause their intended effect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150759Z" creationid="Setur" creationdate="20210722T150759Z">
+        <seg>Por exemplo, o comando &lt;a0&gt;Send&lt;/a0&gt; &lt;e1&gt;envia&lt;/e1&gt; pressionamentos de teclas, mas podem retornar antes que as teclas pressionadas cheguem ao seu destino e gerem seu efeito pretendido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the expression &lt;c4&gt;(x &lt;= y)&lt;/c4&gt; is &lt;e5&gt;true&lt;/e5&gt; when x has lesser or equal value to y.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124233Z" creationid="Setur" creationdate="20210722T124233Z">
@@ -6047,6 +6055,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, sometimes a function or command completes before its effects can be seen by the user.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150631Z" creationid="Setur" creationdate="20210722T150631Z">
+        <seg>Contudo, algumas vezes a função ou comando completa antes que seus efeitos possam ser vistos pelo usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the &lt;k0&gt;Alt&lt;/k0&gt;+&lt;k1&gt;CapsLock&lt;/k1&gt;, &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;CapsLock&lt;/k3&gt; and &lt;k4&gt;Shift&lt;/k4&gt;+&lt;k5&gt;CapsLock&lt;/k5&gt; shortcuts can be disabled with a workaround.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081815Z" creationid="Leo" creationdate="20210703T081815Z">
@@ -6571,6 +6587,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191121Z" creationid="Setur" creationdate="20210719T191121Z">
         <seg>Em outras palavras, os arquivos UTF-8 que não contêm uma BOM são interpretados erroneamente, causando a decodificação incorreta dos caracteres que não sejam ASCII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, a &lt;e1&gt;function call&lt;/e1&gt; temporarily transfers control from the script to the function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150529Z" creationid="Setur" creationdate="20210722T150529Z">
+        <seg>Em outras palavras, uma &lt;e1&gt;chamada de função&lt;/e1&gt; transfere temporariamente o controle do script para a função.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, any code following the function call does not execute until after the function completes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150613Z" creationid="Setur" creationdate="20210722T150613Z">
+        <seg>Ou seja, qualquer código que vier depois da chamada de função não executará até que a função complete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11828,6 +11860,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T172940Z" creationid="Setur" creationdate="20210719T172940Z">
         <seg>Quando os sinais de porcentagem e vírgulas devem ser escapados?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the function has completed its purpose, it &lt;e2&gt;returns&lt;/e2&gt; control to the script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150547Z" creationid="Setur" creationdate="20210722T150547Z">
+        <seg>Quando a função completar seu propósito, ela &lt;e2&gt;retorna&lt;/e2&gt; o controle ao script.</seg>
       </tuv>
     </tu>
     <tu>

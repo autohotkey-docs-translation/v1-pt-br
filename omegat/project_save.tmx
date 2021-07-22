@@ -2030,6 +2030,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a3&gt;Global variables&lt;/a3&gt; are visible in the "global scope" (that is, outside of functions), but must usually be &lt;a4&gt;declared&lt;/a4&gt; to make them visible inside a function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135745Z" creationid="Setur" creationdate="20210722T135745Z">
+        <seg>&lt;a3&gt;Variáveis globais&lt;/a3&gt; são visíveis no “escopo global” (isto é, fora de funções), mas devem normalmente ser &lt;a4&gt;declaradas&lt;/a4&gt; para ficarem visíveis dentro de uma função.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a5&gt;Local variables&lt;/a5&gt; are visible only inside the function which created them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135847Z" creationid="Setur" creationdate="20210722T135847Z">
+        <seg>&lt;a5&gt;Variáveis locais&lt;/a5&gt;são visíveis somente dentro da função que as criou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;&lt;s1&gt;Var&lt;/s1&gt; = 123abc&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050356Z" creationid="Leo" creationdate="20210629T050356Z">
@@ -2942,6 +2958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A variable name has &lt;s0&gt;&lt;e1&gt;scope&lt;/e1&gt;&lt;/s0&gt;, which defines where in the code that name can be used to refer to that particular variable; in other words, where the variable is &lt;e2&gt;visible&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135637Z" creationid="Setur" creationdate="20210722T135637Z">
+        <seg>Uma variável tem um &lt;s0&gt;escopo&lt;e1&gt;, o qual define onde no código aquele nome pode ser usado para se referir àquela variável em particular; em outras palavras, onde a variável está &lt;/e1&gt;visível&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A window should have popped up, probably Notepad.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T202452Z" creationid="Leo" creationdate="20210622T202452Z">
@@ -3626,6 +3650,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124207Z" creationid="Setur" creationdate="20210722T124207Z">
         <seg>Valores booleanos são usados para representar qualquer coisa que tenha  exatamente dois estados possíveis, como a &lt;e3&gt;verdade&lt;/e3&gt; de uma expressão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Both variables might exist at the same time, but only one is visible to each part of the script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135713Z" creationid="Setur" creationdate="20210722T135713Z">
+        <seg>Ambas as variáveis podem existir ao mesmo tempo, mas somente uma estará visível a cada parte do script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5899,6 +5931,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194616Z" creationid="Setur" creationdate="20210719T194616Z">
         <seg>Se as &lt;a0&gt;Hotkeys&lt;/a0&gt;, &lt;a1&gt;Clicks&lt;/a1&gt; ou &lt;a2&gt;Sends&lt;/a2&gt; de um script estão visivelmente mais lentos que o normal enquanto a CPU está sob forte carga, aumentar a prioridade do processo do script pode ajudar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a variable is not visible within a given scope, the same name can refer to a different variable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135653Z" creationid="Setur" creationdate="20210722T135653Z">
+        <seg>Se uma variável não está visível dentro de determinado escopo, o mesmo nome pode ser referir a uma outra variável.</seg>
       </tuv>
     </tu>
     <tu>

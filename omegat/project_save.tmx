@@ -5558,6 +5558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For performance, AutoHotkey sometimes also stores the length, such as when a string is stored in a variable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T154541Z" creationid="Setur" creationdate="20210722T154541Z">
+        <seg>Com vistas no desempenho, o AutoHotkey às vezes armazena o comprimento, como na ocasião em que uma string é armazenada numa variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For possible solutions, see further below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080057Z" creationid="Leo" creationdate="20210703T080057Z">

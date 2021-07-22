@@ -2710,6 +2710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Encoding:&lt;/s0&gt; The &lt;e1&gt;encoding&lt;/e1&gt; of a string defines how symbols are mapped to ordinal numbers, and ordinal numbers to bytes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T154224Z" creationid="Setur" creationdate="20210722T154224Z">
+        <seg>&lt;s0&gt;Codificação:&lt;/s0&gt; a &lt;e1&gt;codificação&lt;/e1&gt; de uma string define como os símbolos são mapeados para números ordinais, e números ordinais para bytes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Get&lt;/s0&gt; a value.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131855Z" creationid="Setur" creationdate="20210722T131855Z">
@@ -2794,6 +2802,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063134Z" creationid="Leo" creationdate="20210702T071238Z">
         <seg>&lt;s0&gt;Observação&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Null-termination:&lt;/s0&gt; Each string is terminated with a "null character", or in other words, a character with binary value zero marks the end of the string.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T154423Z" creationid="Setur" creationdate="20210722T154423Z">
+        <seg>&lt;s0&gt;Terminação nula:&lt;/s0&gt; cada string é finalizada com um “caractere nulo”, ou, em outras palavras, um caractere com valor binário zero marca o fim da string.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5186,6 +5202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151927Z" creationid="Setur" creationdate="20210722T151927Z">
         <seg>Para detalhes, vide &lt;a4&gt;Protocolo dos Objetos&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, 'A' always has the character code 65.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T154323Z" creationid="Setur" creationdate="20210722T154323Z">
+        <seg>Por exemplo, “A” sempre terá o código de caractere 65.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10535,6 +10559,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The length of the string does not need to be stored as it can be inferred by the position of the null-terminator.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T154448Z" creationid="Setur" creationdate="20210722T154448Z">
+        <seg>O comprimento de uma string não precisa ser armazenado uma vez que ele pode ser inferido pela posição do caractere finalizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The most common way assigning the value of a function to a variable is like so:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201501Z" creationid="Leo" creationdate="20210625T201501Z">
@@ -10819,6 +10851,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125648Z" creationid="Setur" creationdate="20210722T125648Z">
         <seg>Há normalmente duas maneiras de visualizar objetos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are many different encodings, but as all of those supported by AutoHotkey include ASCII as a subset, character codes 0 to 127 always have the same meaning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T154309Z" creationid="Setur" creationdate="20210722T154309Z">
+        <seg>Há várias diferentes codificações, mas todas as que são suportadas pelo AutoHotkey incluem a ASCII como um subconjunto; caracteres de códigos 0 a 127 sempre têm o mesmo significado.</seg>
       </tuv>
     </tu>
     <tu>

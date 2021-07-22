@@ -3142,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An object can represent a &lt;e0&gt;thing&lt;/e0&gt;, a &lt;e1&gt;service&lt;/e1&gt;, or something else, and can provide ways for the script to interact with this thing or service.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T130742Z" creationid="Setur" creationdate="20210722T130742Z">
+        <seg>Um objeto pode representar uma &lt;e0&gt;coisa&lt;/e0&gt;, um &lt;e1&gt;serviço&lt;/e1&gt;, ou alguma outra coisa, e pode proporcionar maneiras de o script interagir com essa coisa ou serviço.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An object contains a group of values, allowing the group itself to be treated as one value.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125708Z" creationid="Setur" creationdate="20210722T125708Z">

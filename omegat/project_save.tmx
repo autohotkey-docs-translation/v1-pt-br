@@ -2518,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Call&lt;/s0&gt; a method, denoted by &lt;c1&gt;()&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131939Z" creationid="Setur" creationdate="20210722T131939Z">
+        <seg>&lt;s0&gt;Call&lt;/s0&gt; (chamar) um método, denotado por &lt;c1&gt;()&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Caution:&lt;/s0&gt; This table &lt;b1&gt;does not&lt;/b1&gt; apply to &lt;a2&gt;hotkeys&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063435Z" creationid="Leo" creationdate="20210625T175242Z">
@@ -4330,6 +4338,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T060053Z" creationid="Leo" creationdate="20210625T181622Z">
         <seg>Cada uma delas tem suas características especiais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each message can optionally have one or more &lt;a0&gt;parameters&lt;/a0&gt; (and, for &lt;s1&gt;Set&lt;/s1&gt;, the value).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132228Z" creationid="Setur" creationdate="20210722T132228Z">
+        <seg>Cada mensagem pode opcionalmente possuir um ou mais &lt;a0&gt;parâmetros&lt;/a0&gt;, (e, para o caso de &lt;s1&gt;Set&lt;/s1&gt;, o valor).</seg>
       </tuv>
     </tu>
     <tu>

@@ -3806,6 +3806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Body</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152537Z" creationid="Setur" creationdate="20210722T152537Z">
+        <seg>Corpo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Boolean</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015209Z" creationid="Leo" creationdate="20210721T015209Z">
@@ -4034,6 +4042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065603Z" creationid="Leo" creationdate="20210702T065603Z">
         <seg>CapsLock e Editores de Método de Entrada (IME)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Carry out, perform, evaluate, put into effect, etc. &lt;e0&gt;Execute&lt;/e0&gt; basically has the same meaning as in non-programming speak.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152534Z" creationid="Setur" creationdate="20210722T152534Z">
+        <seg>Fazer, executar, exercer, calcular, avaliar, pôr em efeito, etc. &lt;e0&gt;Executar&lt;/e0&gt; tem basicamente o mesmo significado que tem fora do jargão da programação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4802,6 +4818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192943Z" creationid="Leo" creationdate="20210622T192943Z">
         <seg>Exemplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Execute</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152345Z" creationid="Setur" creationdate="20210722T152345Z">
+        <seg>Executar</seg>
       </tuv>
     </tu>
     <tu>
@@ -10163,6 +10187,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191700Z" creationid="Setur" creationdate="20210719T191700Z">
         <seg>O sufixo &lt;c6&gt;-RAW&lt;/c6&gt; pode ser omitido, mas neste caso somente os novos arquivos terão uma marca de ordem de bytes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;e0&gt;body&lt;/e0&gt; of a control flow statement is the statement or group of statements to which it applies.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152710Z" creationid="Setur" creationdate="20210722T152710Z">
+        <seg>O &lt;e0&gt;corpo&lt;/e0&gt; de uma instrução de fluxo de controle é a instrução ou grupo de instruções às quais aquele se aplica.</seg>
       </tuv>
     </tu>
     <tu>

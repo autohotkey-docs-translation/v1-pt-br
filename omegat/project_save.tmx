@@ -534,6 +534,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#1 is a &lt;e0&gt;conditional statement&lt;/e0&gt;, also known as an &lt;e1&gt;if statement&lt;/e1&gt;; that is, we execute its &lt;e2&gt;body&lt;/e2&gt; (#1.1 - #1.2) only if a condition is met.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153045Z" creationid="Setur" creationdate="20210722T153045Z">
+        <seg>#1 é uma &lt;e0&gt;instrução condicional&lt;/e0&gt;, também conhecida como uma &lt;e1&gt;instrução com if&lt;/e1&gt;; isto é, nós executamos seu &lt;e2&gt;corpo&lt;/e2&gt; (#1.1 - #1.2) somente se uma condição específica é atingida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>#2 is an &lt;e3&gt;else statement&lt;/e3&gt;; we execute its body (#2.1) only if the condition of a previous &lt;e4&gt;if statement&lt;/e4&gt; (#1) is not met.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153253Z" creationid="Setur" creationdate="20210722T153253Z">
+        <seg>#2 é uma &lt;e3&gt;instrução com else&lt;/e3&gt;; nós executamos seu corpo (#2.1) somente se a condição de uma &lt;e4&gt;instrução com if&lt;/e4&gt; anterior não tiver sido atingida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#IfWinActive</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044514Z" creationid="Leo" creationdate="20210629T044514Z">
@@ -3138,6 +3154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071243Z" creationid="Leo" creationdate="20210701T071243Z">
         <seg>Agradecimentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Activate Notepad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152935Z" creationid="Setur" creationdate="20210722T152935Z">
+        <seg>Ative a janela do Bloco de Notas</seg>
       </tuv>
     </tu>
     <tu>
@@ -8551,6 +8575,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Otherwise:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152927Z" creationid="Setur" creationdate="20210722T152927Z">
+        <seg>Do contrário:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Output := SubStr("I'm scripting, awesome!", 16)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202239Z" creationid="Leo" creationdate="20210625T202239Z">
@@ -9747,6 +9779,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182345Z" creationid="Leo" creationdate="20210625T182345Z">
         <seg>Então tente &lt;b1&gt;TODOS&lt;/b1&gt; os métodos a seguir antes de desistir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So we either open Notepad or activate Notepad depending on whether it is already running.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152953Z" creationid="Setur" creationdate="20210722T152953Z">
+        <seg>Então ou abrimos o Bloco de Notas ou ativamos sua janela dependendo de ele já estar ou não em execução.</seg>
       </tuv>
     </tu>
     <tu>

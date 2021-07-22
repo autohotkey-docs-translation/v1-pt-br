@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A boolean value could also represent &lt;e6&gt;yes&lt;/e6&gt; or &lt;e7&gt;no&lt;/e7&gt;, &lt;e8&gt;on&lt;/e8&gt; or &lt;e9&gt;off&lt;/e9&gt;, &lt;e10&gt;down&lt;/e10&gt; or &lt;e11&gt;up&lt;/e11&gt; (such as for &lt;a12&gt;GetKeyState&lt;/a12&gt;) and so on.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124436Z" creationid="Setur" creationdate="20210722T124436Z">
+        <seg>Um valor booleano também pode representar &lt;e6&gt;sim&lt;/e6&gt; ou &lt;e7&gt;não&lt;/e7&gt;, &lt;e8&gt;ligado&lt;/e8&gt; ou &lt;e9&gt;desligado&lt;/e9&gt;, &lt;e10&gt;pressionada&lt;/e10&gt; ou &lt;e11&gt;solta&lt;/e11&gt; (nas situações em que o estado de uma tecla é verificado, tal como ocorre quando se usa o comando &lt;a12&gt;GetKeyState&lt;/a12&gt;, entre outros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A combination of the three expression assignments above.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204431Z" creationid="Leo" creationdate="20210625T204431Z">
@@ -3274,6 +3282,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063240Z" creationid="Leo" creationdate="20210622T192516Z">
         <seg>Tutorial para iniciantes, &lt;s0&gt;por tidbit&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoHotkey does not have a specific boolean type, so it uses the integer value &lt;c0&gt;0&lt;/c0&gt; to represent false and &lt;c1&gt;1&lt;/c1&gt; to represent true.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124504Z" creationid="Setur" creationdate="20210722T124504Z">
+        <seg>O AutoHotkey não tem um tipo específico de valor booleano, então ele usa o valor inteiro &lt;c0&gt;0&lt;/c0&gt; para representar falso e &lt;c1&gt;1&lt;/c1&gt; para representar verdadeiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10796,6 +10812,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020358Z" creationid="Leo" creationdate="20210721T020358Z">
         <seg>Quando um número é convertido em uma string, ele é formatado de acordo com o &lt;a0&gt;formato de inteiro ou decimal&lt;/a0&gt; atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a value is required to be either true or false, a blank or zero value is considered false and all other values are considered true.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124535Z" creationid="Setur" creationdate="20210722T124535Z">
+        <seg>Quando se exige que um valor seja verdadeiro ou falso, um valor em branco ou igual a zero é considerado falso e todos os demais valores são considerados verdadeiros.</seg>
       </tuv>
     </tu>
     <tu>

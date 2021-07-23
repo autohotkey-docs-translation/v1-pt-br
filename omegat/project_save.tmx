@@ -5174,6 +5174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit This Script - See &lt;a0&gt;Edit&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211657Z" creationid="Setur" creationdate="20210723T211657Z">
+        <seg>Edit This Script - Veja &lt;a0&gt;Edit&lt;/a0&gt; (editar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit a Script</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205536Z" creationid="Setur" creationdate="20210723T205536Z">
@@ -6290,6 +6298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065428Z" creationid="Leo" creationdate="20210702T065428Z">
         <seg>Controles Remotos de Mão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help - Open the AutoHotkey offline help file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211615Z" creationid="Setur" creationdate="20210723T211615Z">
+        <seg>Help - Abre o arquivo de ajuda offline do AutoHotkey.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9223,6 +9239,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open - Open the script's &lt;a0&gt;main window&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211604Z" creationid="Setur" creationdate="20210723T211604Z">
+        <seg>Open - Abre a &lt;a0&gt;janela principal&lt;/a0&gt; do script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152751Z" creationid="Setur" creationdate="20210722T152751Z">
@@ -9643,6 +9667,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143323Z" creationid="Setur" creationdate="20210722T143323Z">
         <seg>Assuntos relacionados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload This Script - See &lt;a0&gt;Reload&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211641Z" creationid="Setur" creationdate="20210723T211641Z">
+        <seg>Reload This Script - Veja &lt;a0&gt;Reload&lt;/a0&gt; (recarregar).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10955,6 +10987,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T001743Z" creationid="Leo" creationdate="20210723T001743Z">
         <seg>Tais strings podem ser criadas com &lt;a1&gt;VarSetCapacity()&lt;/a1&gt; e &lt;a2&gt;NumPut()&lt;/a2&gt; ou &lt;a3&gt;DllCall()&lt;/a3&gt;, mas podem gerar efeitos inconsistentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Suspend Hotkeys - &lt;a0&gt;Suspend&lt;/a0&gt; or unsuspend hotkeys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211728Z" creationid="Setur" creationdate="20210723T211728Z">
+        <seg>Suspend Hotkeys - &lt;a0&gt;Suspend&lt;/a0&gt;e ou reabilita as hotkeys.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13612,6 +13652,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T224039Z" creationid="Leo" creationdate="20210629T045916Z">
         <seg>WinWaitActive, Sem título - Bloco de Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Window Spy - Displays various information about a window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211623Z" creationid="Setur" creationdate="20210723T211623Z">
+        <seg>Window Spy - Exibe várias informações sobre uma janela.</seg>
       </tuv>
     </tu>
     <tu>

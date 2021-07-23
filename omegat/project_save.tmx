@@ -13522,8 +13522,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>You release a reference by simply using an assignment to replace it with any other value.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011815Z" creationid="Leo" creationdate="20210723T011815Z">
-        <seg>Você libera uma referência ao simplesmente usar uma atribuição para substitui-la por qualquer outro valor.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T201259Z" creationid="Leo" creationdate="20210723T011815Z">
+        <seg>Você libera uma referência ao simplesmente usar uma atribuição para substituí-la por qualquer outro valor.</seg>
       </tuv>
     </tu>
     <tu>

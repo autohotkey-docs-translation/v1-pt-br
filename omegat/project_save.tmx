@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s1&gt;ByRef&lt;/s1&gt; parameters allow you to pass a variable &lt;e2&gt;by reference&lt;/e2&gt;, or in other words, to make one parameter of the function an &lt;e3&gt;alias&lt;/e3&gt; for your variable, allowing the function to assign a new value to your variable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011358Z" creationid="Leo" creationdate="20210723T011358Z">
+        <seg>Parâmetros &lt;s1&gt;ByRef&lt;/s1&gt; permitem que você passe uma variável &lt;e2&gt;por referência&lt;/e2&gt;, ou, em outras palavras, tornar um parâmetro da função um &lt;e3&gt;codinome&lt;/e3&gt; para sua variável, permitindo que a função atribua um novo valor para sua variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;Z&lt;/s1&gt; (has Z axis), &lt;s2&gt;R&lt;/s2&gt; (has R axis), &lt;s3&gt;U&lt;/s3&gt; (has U axis), &lt;s4&gt;V&lt;/s4&gt; (has V axis), &lt;s5&gt;P&lt;/s5&gt; (has POV control), &lt;s6&gt;D&lt;/s6&gt; (the POV control has a limited number of discrete/distinct settings), &lt;s7&gt;C&lt;/s7&gt; (the POV control is continuous/fine).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090630Z" creationid="Leo" creationdate="20210703T074019Z">
@@ -3978,6 +3986,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221818Z" creationid="Leo" creationdate="20210627T221818Z">
         <seg>Seja educado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Because a variable only ever contains a &lt;e0&gt;reference&lt;/e0&gt; to an object and not the object itself, when you pass such a variable to a non-ByRef parameter, what the function receives is a reference to the same object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011454Z" creationid="Leo" creationdate="20210723T011454Z">
+        <seg>Como uma variável somente contém, a qualquer momento, uma &lt;e0&gt;referência&lt;/e0&gt; para um objeto e não o objeto em si, quando você passar uma variável dessa para um parâmetro que não seja ByRef, o que a função recebe é uma referência ao mesmo objeto.</seg>
       </tuv>
     </tu>
     <tu>

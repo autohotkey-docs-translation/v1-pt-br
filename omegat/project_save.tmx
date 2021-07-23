@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Prevent owned window from minimizing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213301Z" creationid="Setur" creationdate="20210723T213301Z">
+        <seg>; Impede a minimização de uma janela criada pelo script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Prevents the status bar from showing a mouse-hover link instead of "Done".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201445Z" creationid="Setur" creationdate="20210719T201445Z">
@@ -2210,6 +2218,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045537Z" creationid="Leo" creationdate="20210629T045537Z">
         <seg>&lt;a1&gt;IfMsgBox&lt;/a1&gt;, No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a2&gt;Changing the title&lt;/a2&gt; prevents the script from being identified as such.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213351Z" creationid="Setur" creationdate="20210723T213351Z">
+        <seg>&lt;a2&gt;Alterar o título&lt;/a2&gt; impede que o script seja identificado como tal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3806,6 +3822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any other resource</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213507Z" creationid="Setur" creationdate="20210723T213507Z">
+        <seg>Qualquer outra fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text needs to be in quotes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204124Z" creationid="Leo" creationdate="20210625T204124Z">
@@ -5146,6 +5170,30 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070546Z" creationid="Leo" creationdate="20210622T201732Z">
         <seg>Durante a instalação do AutoHotkey, você será perguntado se quer usar a codificação UNICODE ou ANSI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E:\My AutoHotkey.exe - *BUILTIN-TOOL.AHK</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213544Z" creationid="Setur" creationdate="20210723T213544Z">
+        <seg>E:\Meu AutoHotkey.exe - *FERRAMENTA-NATIVA.AHK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E:\My Script.ahk - AutoHotkey v1.1.33.09</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213433Z" creationid="Setur" creationdate="20210723T213433Z">
+        <seg>E:\Meu Script.ahk - AutoHotkey v1.1.33.09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E:\My Script.exe</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213451Z" creationid="Setur" creationdate="20210723T213451Z">
+        <seg>E:\Meu Script.exe</seg>
       </tuv>
     </tu>
     <tu>
@@ -8375,6 +8423,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loaded From</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213416Z" creationid="Setur" creationdate="20210723T213416Z">
+        <seg>Carregado a partir de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Look for &lt;b0&gt;AutoHotkey.chm&lt;/b0&gt; or a file that says AutoHotkey and has a yellow question mark on it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070702Z" creationid="Leo" creationdate="20210622T211749Z">
@@ -8403,6 +8459,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205550Z" creationid="Setur" creationdate="20210723T205550Z">
         <seg>Janela principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Main resource (compiled script)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213443Z" creationid="Setur" creationdate="20210723T213443Z">
+        <seg>Recurso principal (script compilado)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11375,6 +11439,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default title depends on how the script was loaded:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213401Z" creationid="Setur" creationdate="20210723T213401Z">
+        <seg>O título padrão depende de como o script foi carregado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The difference between the two examples is that the hotkey will be triggered when you press &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;J&lt;/k1&gt; while the hotstring will convert your typed "ftw" into "Free the whales".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215651Z" creationid="Leo" creationdate="20210622T212421Z">
@@ -11691,6 +11763,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210330Z" creationid="Leo" creationdate="20210622T210330Z">
         <seg>Terceira linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The title of the script's main window is used by the &lt;a0&gt;#SingleInstance&lt;/a0&gt; and &lt;a1&gt;Reload&lt;/a1&gt; mechanisms to identify other instances of the same script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213334Z" creationid="Setur" creationdate="20210723T213334Z">
+        <seg>O  título da janela principal do script é usado pelos mecanismos &lt;a0&gt;#SingleInstance&lt;/a0&gt; e &lt;a1&gt;Reload&lt;/a1&gt; para identificar outras instâncias do mesmo script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12508,6 +12588,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201144Z" creationid="Leo" creationdate="20210622T201144Z">
         <seg>Ao longo deste tutorial você verá muito texto e muito código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Title Expression</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213421Z" creationid="Setur" creationdate="20210723T213421Z">
+        <seg>Expressão do Título</seg>
       </tuv>
     </tu>
     <tu>

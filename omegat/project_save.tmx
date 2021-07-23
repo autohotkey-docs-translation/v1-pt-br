@@ -10631,6 +10631,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The native encoding depends on the version of AutoHotkey:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T002004Z" creationid="Leo" creationdate="20210723T002004Z">
+        <seg>A codificação nativa depende da versão do AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The number of axes supported by the joystick.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090432Z" creationid="Leo" creationdate="20210703T073548Z">
@@ -10755,6 +10763,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221005Z" creationid="Leo" creationdate="20210627T213036Z">
         <seg>O jeito mais simples de remover um valor é simplesmente substitui-lo por “nada”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The smallest element in a UTF-16 string is two bytes (16 bits).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T002043Z" creationid="Leo" creationdate="20210723T002043Z">
+        <seg>O menor elemento em uma string em UTF-16 possui dois bytes (16 bits).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11868,6 +11884,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184508Z" creationid="Setur" creationdate="20210719T184508Z">
         <seg>O UAC também impede o funcionamento dos comandos &lt;a0&gt;SendPlay&lt;/a0&gt; e &lt;a1&gt;BlockInput&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode characters in the range 0 to 65535 (U+FFFF) are represented by a single 16-bit code unit of the same value, while characters in the range 65536 (U+10000) to 1114111 (U+10FFFF) are represented by a &lt;e0&gt;surrogate pair&lt;/e0&gt;; that is, exactly two 16-bit code units between 0xD800 and 0xDFFF.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T002437Z" creationid="Leo" creationdate="20210723T002437Z">
+        <seg>Caracteres Unicode no intervalo 0 a 65535 (U+FFFF) são representados por uma única unidade de código 16 bits do mesmo valor, enquanto os caracteres no intervalo 65536 (U+10000) a 1114111 (U+10FFFF) são representados por um &lt;e0&gt;par substituto&lt;/e0&gt;; isto é, exatamente duas unidades de código 16-bits entre 0xD800 e 0xDFFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode versions of AutoHotkey use UTF-16.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T002017Z" creationid="Leo" creationdate="20210723T002017Z">
+        <seg>As versões Unicodes do AutoHotkey usam UTF-16.</seg>
       </tuv>
     </tu>
     <tu>

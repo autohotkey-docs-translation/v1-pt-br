@@ -2784,8 +2784,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;ControlSend&lt;/s0&gt; &lt;s1&gt;, Control, Keys, WinTitle, WinText, ExcludeTitle, ExcludeText&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151450Z" creationid="Setur" creationdate="20210722T151450Z">
-        <seg>&lt;s0&gt;ControlSend&lt;/s0&gt; &lt;s1&gt;, Controle, Teclas, TitulodaJanela, TextoDaJanela, ExcluirTitulo, ExcluirTexto&lt;/s1&gt;</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132823Z" creationid="Setur" creationdate="20210722T151450Z">
+        <seg>&lt;s0&gt;ControlSend&lt;/s0&gt; &lt;s1&gt;, Controle, Teclas, TituloDaJanela, TextoDaJanela, ExcluirTitulo, ExcluirTexto&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5504,8 +5504,8 @@
       <tuv lang="en">
         <seg>For example, &lt;a2&gt;WinMove&lt;/a2&gt; moves a window, so its parameters tell it which window to move and where to move it to.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150905Z" creationid="Setur" creationdate="20210722T150905Z">
-        <seg>Por exemplo, &lt;a2&gt;Winmove&lt;/a2&gt; move uma janela, então seus parâmetros irão dizer qual janela mover e para onde movê-la.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132734Z" creationid="Setur" creationdate="20210722T150905Z">
+        <seg>Por exemplo, &lt;a2&gt;WinMove&lt;/a2&gt; move uma janela, então seus parâmetros irão dizer qual janela mover e para onde movê-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7689,8 +7689,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>It is recommended that all new scripts retrieve environment variables such as Path via &lt;a0&gt;EnvGet&lt;/a0&gt;:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143746Z" creationid="Setur" creationdate="20210722T143746Z">
-        <seg>Recomenda-sde que todos os novos scripts obtenham as variáveis de ambiente, como Path, via &lt;a0&gt;EnvGet&lt;/a0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132713Z" creationid="Setur" creationdate="20210722T143746Z">
+        <seg>Recomenda-se que todos os novos scripts obtenham as variáveis de ambiente, como Path, via &lt;a0&gt;EnvGet&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10433,8 +10433,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Some special variables are not updated periodically, but rather their value is retrieved or calculated whenever the script references the variable.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143143Z" creationid="Setur" creationdate="20210722T143143Z">
-        <seg>Algumas variáveis especiais não são atualizadas periodicamente; em vez disso, seus valores são obtidos ou calculados toda vez que o script referência essa variável.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132640Z" creationid="Setur" creationdate="20210722T143143Z">
+        <seg>Há também algumas variáveis especiais que não são atualizadas periodicamente; em vez disso, seus valores são obtidos ou calculados toda vez que o script referência essa variável.</seg>
       </tuv>
     </tu>
     <tu>

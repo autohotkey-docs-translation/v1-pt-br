@@ -1918,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileAppend&lt;/a1&gt;, &lt;a2&gt;FileOpen()&lt;/a2&gt; and the &lt;a3&gt;File object&lt;/a3&gt; provide ways of reading and writing text in files with a specific encoding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003716Z" creationid="Leo" creationdate="20210723T003716Z">
+        <seg>Os comandos &lt;a0&gt;FileRead&lt;/a0&gt;, &lt;a1&gt;FileAppend&lt;/a1&gt;, a função &lt;a2&gt;FileOpen()&lt;/a2&gt; e o &lt;a3&gt;Objeto arquivo&lt;/a3&gt; fornecem meios de ler e escrever texto com uma codificação específica em arquivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;GNU General Public License&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063043Z" creationid="Leo" creationdate="20210701T070506Z">
@@ -6463,6 +6471,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, these are usually only useful in combination with data structures and the &lt;a2&gt;DllCall&lt;/a2&gt; function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003815Z" creationid="Leo" creationdate="20210723T003815Z">
+        <seg>Entretanto, essas funções só são úteis em combinação com estruturas de dados e com a função &lt;a2&gt;DllCall&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, when a script launches a program or document, the operating system usually requires quotes around any command-line parameter that contains spaces, such as in this example:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210722T002030Z" creationid="Setur" creationdate="20210719T174942Z">
@@ -10595,6 +10611,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183650Z" creationid="Leo" creationdate="20210702T183650Z">
         <seg>A função atribuída a cada uma das teclas listadas abaixo pode ser sobrescrita modificando-se o registro do Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The functions &lt;a0&gt;StrGet&lt;/a0&gt; and &lt;a1&gt;StrPut&lt;/a1&gt; can be used to convert strings between the native encoding and some other specified encoding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003743Z" creationid="Leo" creationdate="20210723T003743Z">
+        <seg>As funções &lt;a0&gt;StrGet&lt;/a0&gt; e &lt;a1&gt;StrPut&lt;/a1&gt; podem ser usadas para converter strings entre a codificação nativae  oalguma outra codificação especificada.</seg>
       </tuv>
     </tu>
     <tu>

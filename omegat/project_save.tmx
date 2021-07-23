@@ -2326,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;CursorPosition&lt;/e0&gt;, &lt;e1&gt;Total_Items&lt;/e1&gt;, and &lt;e2&gt;entry_is_valid&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010021Z" creationid="Leo" creationdate="20210723T010021Z">
+        <seg>&lt;e0&gt;PosicaoCursor&lt;/e0&gt;, &lt;e1&gt;Total_itens&lt;/e1&gt; e &lt;e2&gt;entrada_eh_valida&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Methods&lt;/e0&gt; are functions which operate on a particular &lt;a1&gt;object&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151722Z" creationid="Setur" creationdate="20210722T151722Z">
@@ -3458,6 +3466,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190847Z" creationid="Setur" creationdate="20210719T190847Z">
         <seg>Apesar de o AutoHotkey suportar texto Unicode, ele é otimizado para retrocompatibilidade, o que significa usar a codificação ANSI em vez da internacionalmente recomendada UTF-8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although a &lt;a0&gt;variable&lt;/a0&gt; name may consist entirely of digits, this is generally used only for &lt;a1&gt;incoming command line parameters&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010150Z" creationid="Leo" creationdate="20210723T010150Z">
+        <seg>Embora uma &lt;a0&gt;variável&lt;/a0&gt; possa consistir totalmente de algarismos, fazer isso geralmente só é usado para &lt;a1&gt;parâmetros de entrada da linha de comando&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7511,6 +7527,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is best to avoid starting a name with a digit, as such names are confusing and will be considered invalid in AutoHotkey v2.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010259Z" creationid="Leo" creationdate="20210723T010259Z">
+        <seg>É melhor evitar iniciar um nome de variável com um algarismo, já que esses nomes levam a confusões e serão considerados inválidos no AutoHotkey v2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is important to note that a variable and its value are not the same thing.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T140009Z" creationid="Setur" creationdate="20210722T140009Z">
@@ -10471,6 +10495,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such numeric names cannot be used in expressions because they would be seen as numbers rather than variables.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010209Z" creationid="Leo" creationdate="20210723T010209Z">
+        <seg>Esses nomes numéricos não podem ser usados em expressões porque eles seriam vistos como números e não como variáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such strings can be created with &lt;a1&gt;VarSetCapacity()&lt;/a1&gt; and &lt;a2&gt;NumPut()&lt;/a2&gt; or &lt;a3&gt;DllCall()&lt;/a3&gt;, but may produce inconsistent results.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T001743Z" creationid="Leo" creationdate="20210723T001743Z">
@@ -11715,6 +11747,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215724Z" creationid="Leo" creationdate="20210627T215724Z">
         <seg>Esse negócio de indentação é muito importante!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This style allows people familiar with other computer languages to understand your scripts more easily.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010102Z" creationid="Leo" creationdate="20210723T010102Z">
+        <seg>Esse estilo permite que pessoas familiarizadas com outras linguagens entendam seus scripts mais facilmente.</seg>
       </tuv>
     </tu>
     <tu>

@@ -5520,8 +5520,8 @@
       <tuv lang="en">
         <seg>For example, &lt;c0&gt;42&lt;/c0&gt; and &lt;c1&gt;42.0&lt;/c1&gt; are usually interchangeable, but not always.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020215Z" creationid="Leo" creationdate="20210721T020215Z">
-        <seg>Por exemplo, &lt;c0&gt;42&lt;/c0&gt; e &lt;c1&gt;42.0&lt;/c1&gt; são geralmente equivalentes, mas não sempre.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T185841Z" creationid="Leo" creationdate="20210721T020215Z">
+        <seg>Por exemplo, &lt;c0&gt;42&lt;/c0&gt; e &lt;c1&gt;42.0&lt;/c1&gt; são geralmente equivalentes, mas nem sempre.</seg>
       </tuv>
     </tu>
     <tu>

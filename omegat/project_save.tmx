@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; Due to reliance on null-termination, AutoHotkey v1 does not generally support strings with embedded null characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T001651Z" creationid="Leo" creationdate="20210723T001651Z">
+        <seg>&lt;s0&gt;Observação:&lt;/s0&gt; devido à dependência na terminação no caractere nulo, o AutoHotkey v1 em geral não suporta strings com caracteres nulos incorporados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; If you press the following button, ActiveX is used to create a config file named 'chm_config.js' in the same directory as the CHM file, with the following content:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233244Z" creationid="Leo" creationdate="20210703T230740Z">

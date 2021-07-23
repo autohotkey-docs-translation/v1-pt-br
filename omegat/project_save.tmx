@@ -1566,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Show "over-full" precision</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005342Z" creationid="Leo" creationdate="20210723T005342Z">
+        <seg>; Mostrar precisão "além do máximo"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Signal that thread's loop to stop.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200647Z" creationid="Setur" creationdate="20210719T200647Z">
@@ -2386,14 +2394,6 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202043Z" creationid="Leo" creationdate="20210625T202043Z">
         <seg>&lt;e1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;e2&gt;</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151646Z" creationid="Leo" creationdate="20210626T051923Z">
-        <seg>&lt;e2&gt;&lt;e2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3590,6 +3590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Another strategy is to always convert to string (thereby applying rounding) before comparison.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005519Z" creationid="Leo" creationdate="20210723T005519Z">
+        <seg>Outra estratégia é sempre converter para string (logo, aplicando o arredondamento) antes da comparação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any advice?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174330Z" creationid="Setur" creationdate="20210719T174330Z">
@@ -3778,6 +3786,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015130Z" creationid="Leo" creationdate="20210721T015130Z">
         <seg>O AutoHotkey suporta estes tipos de valores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoHotkey uses the same set of rules for naming various things, including variables, functions, &lt;a0&gt;window groups&lt;/a0&gt;, &lt;a1&gt;GUIs&lt;/a1&gt;, classes and methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005628Z" creationid="Leo" creationdate="20210723T005628Z">
+        <seg>AutoHotkey usa o mesmo conjunto de regras para denomear várias coisas, inclusive variáveis, funções, &lt;a0&gt;grupos de janelas&lt;/a0&gt;, &lt;a1&gt;GUIs&lt;/a1&gt;, classes e métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8759,6 +8775,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One strategy for dealing with this is to avoid direct comparison, instead comparing the difference.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005446Z" creationid="Leo" creationdate="20210723T005446Z">
+        <seg>Uma estratégia para lidar com isso é evitar a comparação direta, e fazer a comparação da diferença no lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152751Z" creationid="Setur" creationdate="20210722T152751Z">
@@ -11083,6 +11107,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125648Z" creationid="Setur" creationdate="20210722T125648Z">
         <seg>Há normalmente duas maneiras de visualizar objetos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are generally two ways to do this while specifying the precision, and both are shown below:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005546Z" creationid="Leo" creationdate="20210723T005546Z">
+        <seg>Há geralmente dois modos de fazer isso enquanto se especifica a precisão, e ambos são mostrados abaixo:</seg>
       </tuv>
     </tu>
     <tu>

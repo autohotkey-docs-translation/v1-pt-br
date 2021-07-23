@@ -7209,8 +7209,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>In effect, &lt;e6&gt;arg2&lt;/e6&gt; becomes the method's first apparent parameter.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134122Z" creationid="Setur" creationdate="20210722T134122Z">
-        <seg>Com efeito, &lt;e6&gt;arg2&lt;/e6&gt; torna-se o primeiro parâmetros aparente do método.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T173135Z" creationid="Setur" creationdate="20210722T134122Z">
+        <seg>Com efeito, &lt;e6&gt;arg2&lt;/e6&gt; torna-se o primeiro parâmetro aparente do método.</seg>
       </tuv>
     </tu>
     <tu>

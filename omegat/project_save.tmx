@@ -3128,8 +3128,8 @@
       <tuv lang="en">
         <seg>A boolean value could also represent &lt;e6&gt;yes&lt;/e6&gt; or &lt;e7&gt;no&lt;/e7&gt;, &lt;e8&gt;on&lt;/e8&gt; or &lt;e9&gt;off&lt;/e9&gt;, &lt;e10&gt;down&lt;/e10&gt; or &lt;e11&gt;up&lt;/e11&gt; (such as for &lt;a12&gt;GetKeyState&lt;/a12&gt;) and so on.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124436Z" creationid="Setur" creationdate="20210722T124436Z">
-        <seg>Um valor booleano também pode representar &lt;e6&gt;sim&lt;/e6&gt; ou &lt;e7&gt;não&lt;/e7&gt;, &lt;e8&gt;ligado&lt;/e8&gt; ou &lt;e9&gt;desligado&lt;/e9&gt;, &lt;e10&gt;pressionada&lt;/e10&gt; ou &lt;e11&gt;solta&lt;/e11&gt; (nas situações em que o estado de uma tecla é verificado, tal como ocorre quando se usa o comando &lt;a12&gt;GetKeyState&lt;/a12&gt;, entre outros.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T134321Z" creationid="Setur" creationdate="20210722T124436Z">
+        <seg>Um valor booleano também pode representar &lt;e6&gt;sim&lt;/e6&gt; ou &lt;e7&gt;não&lt;/e7&gt;, &lt;e8&gt;ligado&lt;/e8&gt; ou &lt;e9&gt;desligado&lt;/e9&gt;, &lt;e10&gt;pressionada&lt;/e10&gt; ou &lt;e11&gt;solta&lt;/e11&gt; (nas situações em que o estado de uma tecla é verificado, tal como ocorre quando se usa o comando &lt;a12&gt;GetKeyState&lt;/a12&gt;), entre outros.</seg>
       </tuv>
     </tu>
     <tu>

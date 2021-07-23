@@ -9281,8 +9281,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Property names in classes have the same rules and restrictions as variable names, except that the three characters listed above (# @ $) are not allowed.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010431Z" creationid="Leo" creationdate="20210723T010431Z">
-        <seg>Nos de propriedades em classes têm as mesmas regras e restrições dos nomes de variáveis, exceto que os três caracteres listados acima (# @ $) não são permitidos.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T201008Z" creationid="Leo" creationdate="20210723T010431Z">
+        <seg>Nomes de propriedades em classes têm as mesmas regras e restrições dos nomes de variáveis, exceto que os três caracteres listados acima (# @ $) não são permitidos.</seg>
       </tuv>
     </tu>
     <tu>

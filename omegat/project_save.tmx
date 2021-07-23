@@ -6463,6 +6463,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hotkeys and their methods - See &lt;a0&gt;ListHotkeys&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212141Z" creationid="Setur" creationdate="20210723T212141Z">
+        <seg>Hotkeys e seus métodos - Veja &lt;a0&gt;ListHotkeys&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hotkeys are also blocked, so for instance, a non-elevated program cannot spy on input intended for an elevated program.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184438Z" creationid="Setur" creationdate="20210719T184438Z">
@@ -8071,6 +8079,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key history and script info - See &lt;a0&gt;KeyHistory&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212201Z" creationid="Setur" creationdate="20210723T212201Z">
+        <seg>Histórico de teclas e informações do script - Veja &lt;a0&gt;KeyHistory&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>KeyList.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044503Z" creationid="Leo" creationdate="20210629T044503Z">
@@ -8275,6 +8291,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181546Z" creationid="Leo" creationdate="20210625T181546Z">
         <seg>Linha 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines most recently executed - See &lt;a0&gt;ListLines&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212111Z" creationid="Setur" creationdate="20210723T212111Z">
+        <seg>Linhas executadas mais recentemente - Veja &lt;a0&gt;ListLines&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13116,6 +13140,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070841Z" creationid="Leo" creationdate="20210701T070841Z">
         <seg>Variáveis e expressões</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variables and their contents - See &lt;a0&gt;ListVars&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212122Z" creationid="Setur" creationdate="20210723T212122Z">
+        <seg>Variáveis e seus conteúdos - Veja &lt;a0&gt;ListVars&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

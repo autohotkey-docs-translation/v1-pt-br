@@ -4526,6 +4526,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Closing this window with &lt;a0&gt;WinClose&lt;/a0&gt; (even from another script) causes the script to exit, but most other methods just hide the window and leave the script running.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212708Z" creationid="Setur" creationdate="20210723T212708Z">
+        <seg>Fechar esta janela com &lt;a0&gt;WinClose&lt;/a0&gt; (mesmo a partir de outro script) causa que o script seja finalizado, mas a maioria dos outros métodos apenas ocultam a janela e deixam o script rodando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Code blocks</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193042Z" creationid="Leo" creationdate="20210622T193042Z">
@@ -8447,6 +8455,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minimizing the main window causes it to automatically be hidden.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212724Z" creationid="Setur" creationdate="20210723T212724Z">
+        <seg>Minimizar a janela principal faz com que ela seja automaticamente oculta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Miscellaneous topics</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070813Z" creationid="Leo" creationdate="20210701T070813Z">
@@ -12135,6 +12151,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is done to prevent any owned windows (such as GUI windows or certain dialog windows) from automatically being minimized, but also has the effect of hiding the main window's taskbar button.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212905Z" creationid="Setur" creationdate="20210723T212905Z">
+        <seg>Isso é feito para prevenir que quaisquer janelas criadas pelo script (como janelas de GUI ou certas janelas de diálogo) sejam automaticamente minimizadas, mas também tem o efeito de ocultar o botão da janela principal da barra de tarefas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is equivalent to the brace syntax, but wrapped in a function.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065126Z" creationid="Leo" creationdate="20210627T065126Z">
@@ -12580,6 +12604,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T232339Z" creationid="Leo" creationdate="20210625T180912Z">
         <seg>Para segurar ou soltar uma tecla, envolva o nome da tecla em chaves e aí use as palavras UP ou DOWN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To instead allow the main window to be minimized normally, override the default handling with &lt;a0&gt;OnMessage&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213015Z" creationid="Setur" creationdate="20210723T213015Z">
+        <seg>Para, em vez disso, fazer com que a janela seja minimizada normalmente, use &lt;a0&gt;OnMessage&lt;/a0&gt; para sobrescrever a forma padrão de manipulação de janelas.</seg>
       </tuv>
     </tu>
     <tu>

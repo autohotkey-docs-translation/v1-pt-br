@@ -878,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(For further explanation of surrogate pairs and methods of encoding or decoding them, search the Internet.)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T002517Z" creationid="Leo" creationdate="20210723T002517Z">
+        <seg>(Para explicações mais detalhadas dos pares substitutos e seus métodos de codificação e decodificação, pesquise na Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(For the full list of symbols, see the &lt;a0&gt;Hotkey&lt;/a0&gt; page)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T224915Z" creationid="Leo" creationdate="20210623T024621Z">
@@ -3186,6 +3194,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T094151Z" creationid="Ragnar-F" creationdate="20210717T094113Z">
         <seg>ALT+S":"Tecla de atalho: ALT+U",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ANSI versions of AutoHotkey use the system default ANSI code page, which depends on the system locale or "language for non-Unicode programs" system setting.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003204Z" creationid="Leo" creationdate="20210723T003204Z">
+        <seg>Versões ANSI do AutoHotkey usam a página de código padrão ANSI, que depende da região do sistema ou a configuração “idioma para programas não Unicode” do sistema.</seg>
       </tuv>
     </tu>
     <tu>

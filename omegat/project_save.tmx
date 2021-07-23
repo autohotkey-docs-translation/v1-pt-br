@@ -2686,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Allowed characters:&lt;/s0&gt; Letters, numbers, non-ASCII characters, and the following symbols:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005901Z" creationid="Leo" creationdate="20210723T005901Z">
+        <seg>&lt;s0&gt;Caracteres permitidos:&lt;/s0&gt; letras, números, caracteres não ASCII e os símbolos seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Alternate solutions&lt;/s0&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080501Z" creationid="Leo" creationdate="20210703T080501Z">
@@ -2698,6 +2706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131939Z" creationid="Setur" creationdate="20210722T131939Z">
         <seg>&lt;s0&gt;Call&lt;/s0&gt; (chamar) um método, denotado por &lt;c1&gt;()&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Case sensitivity:&lt;/s0&gt; None for ASCII characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005657Z" creationid="Leo" creationdate="20210723T005657Z">
+        <seg>&lt;s0&gt;Diferenciação entre maiúsculas e minúsculas:&lt;/s0&gt; nenhuma para caracteres ASCII.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2794,6 +2810,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185324Z" creationid="Leo" creationdate="20210702T185324Z">
         <seg>&lt;s0&gt;Limitação conhecida&lt;/s0&gt;: hotkeys de chave virtual que são forçadas a usar o &lt;a1&gt;gancho de teclado&lt;/a1&gt;, como &lt;c2&gt;*VK24&lt;/c2&gt; ou &lt;c3&gt;~VK24&lt;/c3&gt;, serão acionadas somente por uma das teclas, não ambas (por exemplo, NumpadHome mas não &lt;k4&gt;Home&lt;/k4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Maximum length:&lt;/s0&gt; 253 characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005843Z" creationid="Leo" creationdate="20210723T005843Z">
+        <seg>&lt;s0&gt;Comprimento máximo:&lt;/s0&gt; 253 caracteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4830,6 +4854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Due to style conventions, it is generally better to name your variables using only letters, numbers, and the underscore character (for example:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005934Z" creationid="Leo" creationdate="20210723T005934Z">
+        <seg>Devido a convenções de estilo, é geralmente melhor nomear suas variáveis usando somente letras, números e o caractere _ (por exemplo:)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Due to system behavior, the following keys separated by a slash are identified differently depending on whether &lt;k0&gt;NumLock&lt;/k0&gt; is ON or OFF.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180704Z" creationid="Leo" creationdate="20210702T180641Z">
@@ -5386,6 +5418,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142422Z" creationid="Setur" creationdate="20210722T142422Z">
         <seg>Por exemplo, &lt;c0&gt;x := x + 1&lt;/c0&gt; não irá funcionar se à variável x nunca tiver sido atribuído um valor antes, já que a &lt;e1&gt;string vazia&lt;/e1&gt; é considerada não numérica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c1&gt;CurrentDate&lt;/c1&gt; is the same as &lt;c2&gt;currentdate&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005708Z" creationid="Leo" creationdate="20210723T005708Z">
+        <seg>Por exemplo, &lt;c1&gt;CurrentDate&lt;/c1&gt; é o mesmo que &lt;c2&gt;currentdate&lt;/c2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6555,6 +6595,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003815Z" creationid="Leo" creationdate="20210723T003815Z">
         <seg>Entretanto, essas funções só são úteis em combinação com estruturas de dados e com a função &lt;a2&gt;DllCall&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, uppercase non-ASCII characters such as 'Ä' are &lt;e3&gt;not&lt;/e3&gt; considered equal to their lowercase counterparts, regardless of the current user's locale.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005813Z" creationid="Leo" creationdate="20210723T005813Z">
+        <seg>Todavia, caracteres não ASCII maiúsculos, como “Ä”, &lt;e3&gt;não são&lt;/e3&gt; consideradas iguais aos seus correspondentes minúsculos, independentemente da configuração de região do usuário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11379,6 +11427,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213137Z" creationid="Leo" creationdate="20210627T213137Z">
         <seg>Isso não remove a chave, mas fará o valor se parecer idêntico a um valor que ainda não foi definido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This helps the script to behave consistently across multiple locales.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005834Z" creationid="Leo" creationdate="20210723T005834Z">
+        <seg>Isso ajuda o script a se comportar de maneira consistente entre múltiplas configurações regionais.</seg>
       </tuv>
     </tu>
     <tu>

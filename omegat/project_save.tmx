@@ -3246,6 +3246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A directory other than the default may be specified via the /D parameter (in the absence of /S, this changes the default directory displayed by the installer).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T220329Z" creationid="Setur" creationdate="20210723T220329Z">
+        <seg>Um diretório que não seja o padrão pode ser especificado pelo parâmetro /D (na ausência de /S, essa opção muda o diretório padrão exibido pelo instalador).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A function usually return a value differently than a command does.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201343Z" creationid="Leo" creationdate="20210625T191657Z">
@@ -6050,6 +6058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180126Z" creationid="Setur" creationdate="20210719T180126Z">
         <seg>Para explicações mais detalhadas de como usar os sinais de porcentagem, veja &lt;a0&gt;Sintaxe Legada&lt;/a0&gt; e &lt;a1&gt;Variáveis Dinâmicas&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, &lt;i2&gt;MyScript&lt;/i2&gt;.exe automatically runs &lt;i3&gt;MyScript&lt;/i3&gt;.ahk if a filename is not supplied, but is also capable of running other scripts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T220018Z" creationid="Setur" creationdate="20210723T220018Z">
+        <seg>Por exemplo, &lt;i2&gt;MeuScript&lt;/i2&gt;.exe automaticamente executa &lt;i3&gt;MeuScript&lt;/i3&gt;.ahk se um nome de arquivo não for fornecido, mas também é capaz de rodar outros scripts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12956,6 +12972,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190437Z" creationid="Setur" creationdate="20210719T190437Z">
         <seg>Para exibir o conteúdo de uma variável, use &lt;a1&gt;MsgBox&lt;/a1&gt; ou &lt;a2&gt;ToolTip&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To silently install AutoHotkey into the default directory (which is the same directory displayed by non-silent mode), pass the parameter /S to the installer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T220114Z" creationid="Setur" creationdate="20210723T220114Z">
+        <seg>Para instalar silenciosamente o AutoHotkey no diretório padrão (o qual é o mesmo diretório exibido pelo modo não silencioso), passe o parâmetro /S ao instalador.</seg>
       </tuv>
     </tu>
     <tu>

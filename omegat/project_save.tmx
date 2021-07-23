@@ -13402,8 +13402,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>You can get more keys and use them to access the same unit, but when you're finished with the unit, you must hand all keys back to the rental agent.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T012133Z" creationid="Leo" creationdate="20210723T012133Z">
-        <seg>Você pode obter mais chaves e usá-las para acessar a mesma casa, mas quando você tiver terminado seu período locatício, você deve devolver todas as chaves ao responsável pela locação.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T035626Z" creationid="Leo" creationdate="20210723T012133Z">
+        <seg>Você pode obter mais chaves e usá-las para acessar a mesma casa, mas quando você tiver terminado seu período locatício, você deverá devolver todas as chaves ao responsável pela locação.</seg>
       </tuv>
     </tu>
     <tu>

@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; For the correct result, this must be evaluated by the resource being executed,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213656Z" creationid="Setur" creationdate="20210723T213656Z">
+        <seg>; Para o resultado correto, este precisa ser determinado pelo recurso que estiver em execução,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; If No, stop the code from going further.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051951Z" creationid="Leo" creationdate="20210626T051951Z">
@@ -1834,6 +1842,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080409Z" creationid="Leo" creationdate="20210703T080409Z">
         <seg>; chave virtual da tecla, que pode ser descoberta na primeira coluna da tecla do Histórico de Teclas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; not an #include (unless the #include was merged into the script by Ahk2Exe):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213724Z" creationid="Setur" creationdate="20210723T213724Z">
+        <seg>; não um #include (a não ser que o #include tenha sido mesclado ao script pelo Ahk2Exe):</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,6 +5306,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205558Z" creationid="Setur" creationdate="20210723T205558Z">
         <seg>Scripts incorporados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embedded Scripts &lt;s0&gt;[v1.1.34+]&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213751Z" creationid="Setur" creationdate="20210723T213751Z">
+        <seg>Scripts Incorporados &lt;s0&gt;[v1.1.34+]&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10191,6 +10215,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scripts may be embedded into a standard AutoHotkey .exe file by adding them as Win32 (RCDATA) resources.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214023Z" creationid="Setur" creationdate="20210723T214023Z">
+        <seg>Scripts podem ser incorporados a um executável padrão do AutoHotkey (.exe) adicionando-se-os como recursos Win32 (RCDATA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripts work a little differently.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153701Z" creationid="Setur" creationdate="20210722T153701Z">
@@ -11475,6 +11507,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T203226Z" creationid="Leo" creationdate="20210622T203226Z">
         <seg>Primeira linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following code illustrates how the default title could be determined by the script itself (but the actual title can be retrieved with &lt;a0&gt;WinGetTitle&lt;/a0&gt;):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213621Z" creationid="Setur" creationdate="20210723T213621Z">
+        <seg>O código a seguir ilustra como o título principal pod ser determinado pelo próprio script (mas o título verdadeiro pode ser obtido com o comando &lt;a0&gt;WinGetTitle&lt;/a0&gt;:</seg>
       </tuv>
     </tu>
     <tu>

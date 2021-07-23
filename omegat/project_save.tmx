@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;e0&gt;pure&lt;/e0&gt; or &lt;e1&gt;binary&lt;/e1&gt; number is one which is stored in memory in a format that the computer's CPU can directly work with, such as to perform math.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T004047Z" creationid="Leo" creationdate="20210723T004047Z">
+        <seg>Um número &lt;e0&gt;puro&lt;/e0&gt; ou &lt;e1&gt;binário&lt;/e1&gt; é aquele que é armazenado na método em um formato com que o processador do computador pode trabalhar diretamente, como para realizar operações matemáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A &lt;e0&gt;statement&lt;/e0&gt; is simply the smallest standalone element of the language that expresses some action to be carried out.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152225Z" creationid="Setur" creationdate="20210722T152225Z">
@@ -6975,6 +6983,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In most cases, AutoHotkey automatically converts between numeric strings and pure numbers as needed, and rarely differentiates between the two types.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T004128Z" creationid="Leo" creationdate="20210723T004128Z">
+        <seg>Na maioria dos casos, AutoHotkey converte automaticamente entre strings numéricas e números puros conforme necessário, e raramente diferencia entre os dois tipos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to pass parameters to a COM object, the program must convert the variable's content to either a number &lt;e0&gt;or&lt;/e0&gt; a string.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144503Z" creationid="Setur" creationdate="20210722T144503Z">
@@ -10239,6 +10255,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Strings which are passed directly to or from &lt;a3&gt;DllCall()&lt;/a3&gt; can be converted to ANSI or UTF-16 by using the &lt;c4&gt;AStr&lt;/c4&gt; or &lt;c5&gt;WStr&lt;/c5&gt; parameter types.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003920Z" creationid="Leo" creationdate="20210723T003920Z">
+        <seg>Strings que são passadas diretamente de ou para &lt;a3&gt;DllCall()&lt;/a3&gt; podem ser convertidas para ANSI ou UTF-16 usando-se os tipos de parâmetros &lt;c4&gt;AStr&lt;/c4&gt; ou &lt;c5&gt;WStr&lt;/c5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SubStr("I'm scripting, awesome!", 16)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202202Z" creationid="Leo" creationdate="20210625T202202Z">
@@ -10331,6 +10355,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134338Z" creationid="Setur" creationdate="20210722T134338Z">
         <seg>Tecnicamente, o &lt;c0&gt;valor&lt;/c0&gt; é passado como último parâmetro da mensagem &lt;e1&gt;Set&lt;/e1&gt;, entretanto, esse detalhe quase nunca é relevante para autores de scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Techniques for dealing with the differences between ANSI and Unicode versions of AutoHotkey can be found under &lt;a0&gt;Unicode vs ANSI&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003957Z" creationid="Leo" creationdate="20210723T003957Z">
+        <seg>Técnicas para lidar com as diferenças entre as versões ANSI e Unicode do AutoHotkey podem ser encontradas na página &lt;a0&gt;Unicode x ANSI&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

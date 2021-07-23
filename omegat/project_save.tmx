@@ -2686,6 +2686,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Character:&lt;/s0&gt; Generally, other parts of this documentation use the term "character" to mean a string's smallest unit; bytes for ANSI strings and 16-bit code units for Unicode (UTF-16) strings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003449Z" creationid="Leo" creationdate="20210723T003449Z">
+        <seg>&lt;s0&gt;Caractere:&lt;/s0&gt; geralmente, outras partes desta documentação usam o termo “caractere” para se referir à menor unidade de uma string; usa-se aqui também “bytes” para strings ANSI e “unidades de código 16 bits” para strings Unicode (UTF-16).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;ControlGetText&lt;/s0&gt;, OutputVar &lt;s1&gt;, Control, WinTitle, WinText, ExcludeTitle, ExcludeText&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214753Z" creationid="Leo" creationdate="20210627T214657Z">
@@ -5606,6 +5614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For practical reasons, the length of a string and positions within a string are measured by counting these fixed-size units, even though they may not be complete Unicode characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003541Z" creationid="Leo" creationdate="20210723T003541Z">
+        <seg>Por razões de praticidade, o comprimento de uma string e posições no interior de uma string são medidas contando-se essas unidades de tamanho fixo, mesmo que elas possam não ser caracteres Unicode completos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For simple scripts, see &lt;a0&gt;Debugging a Script&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190419Z" creationid="Setur" creationdate="20210719T190419Z">
@@ -6411,6 +6427,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085433Z" creationid="Leo" creationdate="20210702T182902Z">
         <seg>No entanto, as hotkeys com o modificador &lt;c4&gt;#&lt;/c4&gt; podem ser desencadeadas por quaisquer das teclas &lt;k5&gt;Win&lt;/k5&gt;, esquerda ou direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, some code pages contain characters which are represented by sequences of multiple bytes (these are always non-ASCII characters).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003252Z" creationid="Leo" creationdate="20210723T003252Z">
+        <seg>Entretanto, algumas páginas de código contêm caracteres que são representados por sequencias de múltiplos bytes (estas são sempre caracteres não ASCII).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10787,6 +10811,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T002043Z" creationid="Leo" creationdate="20210723T002043Z">
         <seg>O menor elemento em uma string em UTF-16 possui dois bytes (16 bits).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The smallest element of an ANSI string is one byte.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003219Z" creationid="Leo" creationdate="20210723T003219Z">
+        <seg>O menor elemento de uma string ANSI é um byte.</seg>
       </tuv>
     </tu>
     <tu>

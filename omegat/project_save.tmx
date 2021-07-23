@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>64-bit signed integers (&lt;e0&gt;int64&lt;/e0&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T004427Z" creationid="Leo" creationdate="20210723T004427Z">
+        <seg>Inteiros 64 bits (signed, &lt;e0&gt;int64&lt;/e0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>7 - Objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053118Z" creationid="Leo" creationdate="20210626T053118Z">
@@ -3722,6 +3730,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215039Z" creationid="Leo" creationdate="20210622T202111Z">
         <seg>O AHK não é mágica; nós todos queríamos que fosse, mas não é.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoHotkey primarily uses two data types for pure numbers:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T004140Z" creationid="Leo" creationdate="20210723T004140Z">
+        <seg>O AutoHotkey primariamente usa dois tipos de dados para números puros:</seg>
       </tuv>
     </tu>
     <tu>

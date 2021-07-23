@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>64-bit binary floating-point numbers (the &lt;e0&gt;double&lt;/e0&gt; or &lt;e1&gt;binary64&lt;/e1&gt; format of the IEEE 754 international standard).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T004712Z" creationid="Leo" creationdate="20210723T004712Z">
+        <seg>Números de ponto flutuante 64 bits binários (o formato &lt;e0&gt;double&lt;/e0&gt; ou &lt;e1&gt;binary64&lt;/e1&gt; do padrão internacional 754 do IEEE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>64-bit signed integers (&lt;e0&gt;int64&lt;/e0&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T004427Z" creationid="Leo" creationdate="20210723T004427Z">
@@ -7083,6 +7091,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200418Z" creationid="Setur" creationdate="20210719T200418Z">
         <seg>Em outras palavras, pressionar a hotkey uma vez irá iniciar o Loop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, scripts are affected by the following limitations:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T004725Z" creationid="Leo" creationdate="20210723T004725Z">
+        <seg>Em outras palavras, scripts são afetados pelas limitações seguintes:</seg>
       </tuv>
     </tu>
     <tu>

@@ -4062,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be sure to save the file as UTF-8 with BOM if it will contain non-ASCII characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205841Z" creationid="Setur" creationdate="20210723T205841Z">
+        <seg>Certifique-se de salvar o arquivo como UTF-8 com BOM se ele conterá caracteres que não sejam ASCII.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Because a variable only ever contains a &lt;e0&gt;reference&lt;/e0&gt; to an object and not the object itself, when you pass such a variable to a non-ByRef parameter, what the function receives is a reference to the same object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011454Z" creationid="Leo" creationdate="20210723T011454Z">
@@ -4474,6 +4482,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T233300Z" creationid="Leo" creationdate="20210625T182636Z">
         <seg>As cores podem virar preto (0x000000) independentemente da cor que você estiver tentando obter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Command Line Usage</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205605Z" creationid="Setur" creationdate="20210723T205605Z">
+        <seg>Uso da Linha de Comando</seg>
       </tuv>
     </tu>
     <tu>
@@ -5110,6 +5126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Embedded Scripts</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205558Z" creationid="Setur" creationdate="20210723T205558Z">
+        <seg>Scripts incorporados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable the &lt;e0&gt;&lt;a1&gt;Add 'Run with UI Access' to context menus&lt;/a1&gt;&lt;/e0&gt; option in AutoHotkey Setup.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184550Z" creationid="Setur" creationdate="20210719T184550Z">
@@ -5514,6 +5538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151927Z" creationid="Setur" creationdate="20210722T151927Z">
         <seg>Para detalhes, vide &lt;a4&gt;Protocolo dos Objetos&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, see the &lt;a0&gt;FAQ&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205852Z" creationid="Setur" creationdate="20210723T205852Z">
+        <seg>Para detalhes, veja o &lt;a0&gt;FAQ&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7215,6 +7247,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In Notepad (or a &lt;a0&gt;text editor&lt;/a0&gt; of your choice), save a file with the &lt;c1&gt;.ahk&lt;/c1&gt; filename extension.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205743Z" creationid="Setur" creationdate="20210723T205743Z">
+        <seg>No Bloco de Notas (ou um &lt;a0&gt;editor de texto&lt;/a0&gt; de sua escolha), salve um arquivo com a extensão &lt;c1&gt;.ahk&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a method call such as those shown above, usually the object uses &lt;e3&gt;name&lt;/e3&gt; or &lt;e4&gt;arg1&lt;/e4&gt; to identify which method should be called, and then only &lt;e5&gt;arg2&lt;/e5&gt; and beyond are passed to the method.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T185459Z" creationid="Setur" creationdate="20210722T133115Z">
@@ -7627,6 +7667,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182322Z" creationid="Setur" creationdate="20210719T182322Z">
         <seg>Instalar usando as &lt;a0&gt;opções da linha de comando&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installer Options</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205618Z" creationid="Setur" creationdate="20210723T205618Z">
+        <seg>Opções do instalador</seg>
       </tuv>
     </tu>
     <tu>
@@ -8983,6 +9031,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On some systems you may need to enclose the name in quotes to ensure the editor does not add another extension (such as .txt).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205812Z" creationid="Setur" creationdate="20210723T205812Z">
+        <seg>Em alguns sistemas você pode precisar envolver o nome em aspas para garantir que o editor não adicione outra extensão (como .txt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the &lt;a0&gt;ControlGetText&lt;/a0&gt; page you will see this:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214534Z" creationid="Leo" creationdate="20210627T214534Z">
@@ -9259,6 +9315,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213708Z" creationid="Leo" creationdate="20210627T213708Z">
         <seg>Método Pop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Portability of AutoHotkey.exe</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205613Z" creationid="Setur" creationdate="20210723T205613Z">
+        <seg>Portabilidade do AutoHotkey.exe</seg>
       </tuv>
     </tu>
     <tu>
@@ -9651,6 +9715,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070801Z" creationid="Leo" creationdate="20210627T215100Z">
         <seg>Execute este código para ver a versão de seu AutoHotkey:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run with UI Access</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205629Z" creationid="Setur" creationdate="20210723T205629Z">
+        <seg>Executar com acesso de IU</seg>
       </tuv>
     </tu>
     <tu>
@@ -11387,6 +11459,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T201324Z" creationid="Leo" creationdate="20210622T201324Z">
         <seg>Em seguida, estude o código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are a couple of common ways to create a script file:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205703Z" creationid="Setur" creationdate="20210723T205703Z">
+        <seg>Há alguns jeitos comuns de se criar um arquivo de script:</seg>
       </tuv>
     </tu>
     <tu>

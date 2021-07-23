@@ -12512,6 +12512,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usually a unit wouldn't be &lt;e0&gt;deleted&lt;/e0&gt;, but maybe the agent will have any junk you left behind removed; just as any values you stored in an object are freed when the object is deleted.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T012255Z" creationid="Leo" creationdate="20210723T012255Z">
+        <seg>Geralmente uma unidade residencial não seria &lt;e0&gt;deletada&lt;/e0&gt;, mas talvez o representante da imobiliária providenciará que toda tralha que você tiver deixado para trás seja removida; da mesma forma que quaisquer valores armazenados num objeto são liberados quando o objeto é excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usually in such cases the message "7-zip Error" is displayed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182041Z" creationid="Setur" creationdate="20210719T182041Z">
@@ -13388,6 +13396,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213109Z" creationid="Leo" creationdate="20210627T213109Z">
         <seg>Você pode fazer isso mudando o valor para &lt;c0&gt;""&lt;/c0&gt;, o que também é conhecido como &lt;i1&gt;string vazia&lt;/i1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can get more keys and use them to access the same unit, but when you're finished with the unit, you must hand all keys back to the rental agent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T012133Z" creationid="Leo" creationdate="20210723T012133Z">
+        <seg>Você pode obter mais chaves e usá-las para acessar a mesma casa, mas quando você tiver terminado seu período locatício, você deve devolver todas as chaves ao responsável pela locação.</seg>
       </tuv>
     </tu>
     <tu>

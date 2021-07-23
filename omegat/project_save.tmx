@@ -1310,6 +1310,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Create a new reference to the same object</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011923Z" creationid="Leo" creationdate="20210723T011923Z">
+        <seg>; Criar uma nova referência para o mesmo objeto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Create an object and store first reference</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011907Z" creationid="Leo" creationdate="20210723T011907Z">
+        <seg>; Criar um objeto e armazenar sua primeira referência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Disable Alt+key shortcuts for the IME.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T082411Z" creationid="Leo" creationdate="20210703T082411Z">
@@ -1426,6 +1442,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201445Z" creationid="Setur" creationdate="20210719T201445Z">
         <seg>; Impede que a barra de status exiba um link de sobreposição de cursor em vez de "Concluído".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Release the first reference</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011936Z" creationid="Leo" creationdate="20210723T011936Z">
+        <seg>; Libera a primeira referência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Release the second reference; object is deleted</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011952Z" creationid="Leo" creationdate="20210723T011952Z">
+        <seg>; Libera a segunda referência; o objeto é excluído</seg>
       </tuv>
     </tu>
     <tu>
@@ -3626,6 +3658,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053432Z" creationid="Leo" creationdate="20210626T053432Z">
         <seg>Um objeto é basicamente uma coleção de variáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An object is deleted only after all references have been released; you cannot delete an object explicitly, and should not try.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011853Z" creationid="Leo" creationdate="20210723T011853Z">
+        <seg>Um objeto só é excluído depois que todas as referências a ele são liberadas; você não pode excluir um objeto explicitamente, e não deve tentar fazê-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6883,6 +6923,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190211Z" creationid="Setur" creationdate="20210719T190211Z">
         <seg>Se isso não funcionar, você pode abrir o arquivo no Bloco de Notas ou outro editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If that's difficult to understand, try thinking of an object as a rental unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T012039Z" creationid="Leo" creationdate="20210723T012039Z">
+        <seg>Se está difícil entender, tente pensar nos objetos como uma casa que você aluga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13048,6 +13096,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you rent a unit, you're given a key which you can use to access the unit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T012054Z" creationid="Leo" creationdate="20210723T012054Z">
+        <seg>Quando você aluga uma unidade residencial, você recebe uma chave que você pode usar para acessá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where can I find the official build, or older releases?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173650Z" creationid="Setur" creationdate="20210719T173650Z">
@@ -13436,6 +13492,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210702T204302Z" creationid="Leo" creationdate="20210701T065240Z">
         <seg>Porque você executou o AutoHotkey sem &lt;a0&gt;dizer-lhe&lt;/a0&gt; qual arquivo de script ele deve executar, e ele também não pôde encontrar um script em nenhum dos &lt;a1&gt;locais comuns&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You release a reference by simply using an assignment to replace it with any other value.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011815Z" creationid="Leo" creationdate="20210723T011815Z">
+        <seg>Você libera uma referência ao simplesmente usar uma atribuição para substitui-la por qualquer outro valor.</seg>
       </tuv>
     </tu>
     <tu>

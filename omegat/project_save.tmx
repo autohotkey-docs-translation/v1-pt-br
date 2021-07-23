@@ -13418,8 +13418,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>You can see a list of them at the command prompt by typing SET then pressing Enter.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143454Z" creationid="Setur" creationdate="20210722T143454Z">
-        <seg>você pode ver uma lista delas no prompt de comando digitando SET e depois Enter.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T194119Z" creationid="Setur" creationdate="20210722T143454Z">
+        <seg>Você pode ver uma lista delas no prompt de comando digitando SET e depois Enter.</seg>
       </tuv>
     </tu>
     <tu>

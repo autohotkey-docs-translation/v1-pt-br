@@ -3558,6 +3558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although we may say the variable &lt;c0&gt;myArray&lt;/c0&gt; &lt;e1&gt;contains&lt;/e1&gt; an array (which is a type of object), what the variable contains isn't the array itself but rather a &lt;e2&gt;reference or pointer&lt;/e2&gt; to the array.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010908Z" creationid="Leo" creationdate="20210723T010908Z">
+        <seg>Não obstante possamos dizer que a variável &lt;c0&gt;meuVetor&lt;/c0&gt; &lt;e1&gt;contém&lt;/e1&gt; um vetor (o que é um tipo de objeto), o que a variável contém não é o vetor em si mas uma &lt;e2&gt;referência ou apontador&lt;/e2&gt; para o vetor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ampersand may be used between any two keys or mouse buttons to combine them into a custom hotkey.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215506Z" creationid="Leo" creationdate="20210623T024111Z">
@@ -7267,6 +7275,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T175101Z" creationid="Setur" creationdate="20210719T175101Z">
         <seg>Em parâmetros que sejam variáveis de entrada ou de saída:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In particular, consider &lt;a0&gt;objects&lt;/a0&gt; and ByRef parameters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010741Z" creationid="Leo" creationdate="20210723T010741Z">
+        <seg>Em particular, considere &lt;a0&gt;objetos&lt;/a0&gt;e parâmetros ByRef.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12540,6 +12556,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191617Z" creationid="Leo" creationdate="20210625T191617Z">
         <seg>Variáveis não precisam estar envoltas em sinais de porcentagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variables have certain attributes that blur the line between a variable and its value, but it is important to make the distinction.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010724Z" creationid="Leo" creationdate="20210723T010724Z">
+        <seg>Variáveis têm certos atributos que turvam a linha que diferencia uma variável de seu valor, mas é importante fazer a distinção.</seg>
       </tuv>
     </tu>
     <tu>

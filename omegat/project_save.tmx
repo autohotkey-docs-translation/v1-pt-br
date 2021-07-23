@@ -6927,6 +6927,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If AutoHotkey is pinned to the taskbar or Start menu on Windows 7 or later, recent or pinned scripts can be launched via the program's Jump List.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210620Z" creationid="Setur" creationdate="20210723T210620Z">
+        <seg>Se o AutoHotkey estiver fixo na barra de tarefas ou no Menu Iniciar do Windows 7 e posteriores, scripts recentes ou fixados podem ser executados pela ***lista suspensa*** do programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If Notepad is not running:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152920Z" creationid="Setur" creationdate="20210722T152920Z">

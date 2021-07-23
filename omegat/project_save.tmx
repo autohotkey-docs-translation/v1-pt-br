@@ -1512,8 +1512,8 @@
       <tuv lang="en">
         <seg>; Replaces "btw" with "by the way" without needing an ending character.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220236Z" creationid="Leo" creationdate="20210623T201535Z">
-        <seg>; Substitui “btw” por “by the way” sem que você precise pressionar um caracter de terminação, ou seja, tão logo você pressione a última tecla da abreviatura (w).</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T131808Z" creationid="Leo" creationdate="20210623T201535Z">
+        <seg>; Substitui “btw” por “by the way” sem que você precise pressionar um caractere de terminação, ou seja, tão logo você pressione a última tecla da abreviatura (w).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7145,8 +7145,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>In AutoHotkey v1, comparisons are performed numerically if both values are numeric even if both values are strings.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015551Z" creationid="Leo" creationdate="20210721T015551Z">
-        <seg>Na versão 1 do AutoHotkey, comparações são feitas numericamente se ambos os valores são numeros mesmo que ambos sejam strings.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T131827Z" creationid="Leo" creationdate="20210721T015551Z">
+        <seg>Na versão 1 do AutoHotkey, comparações são feitas numericamente se ambos os valores são números mesmo que ambos sejam strings.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10881,8 +10881,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The &lt;e2&gt;length&lt;/e2&gt; of a string is the number of characters in the sequence, while the &lt;e3&gt;position&lt;/e3&gt; of a character in the string is merely that character's sequential number.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015324Z" creationid="Leo" creationdate="20210721T015324Z">
-        <seg>O &lt;e2&gt;comprimento&lt;/e2&gt; de uma string é o número de caracteres na sequência, enquanto a &lt;e3&gt;posição&lt;/e3&gt; de um caracter na string é meramente o número sequencial daquele caracter.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T131619Z" creationid="Leo" creationdate="20210721T015324Z">
+        <seg>O &lt;e2&gt;comprimento&lt;/e2&gt; de uma string é o número de caracteres na sequência, enquanto a &lt;e3&gt;posição&lt;/e3&gt; de um caractere na string é meramente o número sequencial daquele caractere.</seg>
       </tuv>
     </tu>
     <tu>

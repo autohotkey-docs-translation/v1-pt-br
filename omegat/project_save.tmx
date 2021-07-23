@@ -2200,8 +2200,8 @@
       <tuv lang="en">
         <seg>&lt;a5&gt;Local variables&lt;/a5&gt; are visible only inside the function which created them.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135847Z" creationid="Setur" creationdate="20210722T135847Z">
-        <seg>&lt;a5&gt;Variáveis locais&lt;/a5&gt;são visíveis somente dentro da função que as criou.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132325Z" creationid="Setur" creationdate="20210722T135847Z">
+        <seg>&lt;a5&gt;Variáveis locais&lt;/a5&gt; são visíveis somente dentro da função que as criou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3496,8 +3496,8 @@
       <tuv lang="en">
         <seg>Although &lt;e0&gt;name&lt;/e0&gt; or &lt;e1&gt;arg1&lt;/e1&gt; is considered to be the first parameter, remember that these are just &lt;e2&gt;messages&lt;/e2&gt;, and the object is free to handle them in any way.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T133040Z" creationid="Setur" creationdate="20210722T133040Z">
-        <seg>Apesar de &lt;e0&gt;namoe&lt;/e0&gt; ou &lt;e1&gt;arg1&lt;/e1&gt; serem considerados como o primeiro parâmetro, lembre-se que esses são somente &lt;e2&gt;mensagens&lt;/e2&gt;, e o objeto está livre para manipulá-los de qualquer maneira.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132223Z" creationid="Setur" creationdate="20210722T133040Z">
+        <seg>Apesar de &lt;e0&gt;name&lt;/e0&gt; ou &lt;e1&gt;arg1&lt;/e1&gt; serem considerados como o primeiro parâmetro, lembre-se que esses são somente &lt;e2&gt;mensagens&lt;/e2&gt;, e o objeto está livre para manipulá-los de qualquer maneira.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,8 +4784,8 @@
       <tuv lang="en">
         <seg>Currently there is also a "hybrid" syntax allowed with &lt;s0&gt;Set&lt;/s0&gt;, but it is best not to use it:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134255Z" creationid="Setur" creationdate="20210722T134255Z">
-        <seg>Também existe uma sintaxe “híbrida” permitida para a instrução &lt;s0&gt;Set&lt;/s0&gt;, mas é melhor não usá-la:</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132253Z" creationid="Setur" creationdate="20210722T134255Z">
+        <seg>Também existe uma sintaxe “híbrida” permitida para a instrução &lt;s0&gt;Set&lt;/s0&gt;, mas é melhor não a usar:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9713,8 +9713,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Script authors can use the &lt;a0&gt;#Warn&lt;/a0&gt; directive to help find instances where a variable is used without having been initialised by the script.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142555Z" creationid="Setur" creationdate="20210722T142555Z">
-        <seg>Autores de scripts podem usar a diretiva &lt;a0&gt;Warn&lt;/a0&gt; para ajudar a encontrar instâncias em que uma variável é usada sem ter sido inicializada pelo script.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132404Z" creationid="Setur" creationdate="20210722T142555Z">
+        <seg>Autores de scripts podem usar a diretiva &lt;a0&gt;#Warn&lt;/a0&gt; para ajudar a encontrar instâncias em que uma variável é usada sem ter sido inicializada pelo script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11545,8 +11545,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This allows subroutines launched by new threads (such as for hotkeys, menus, timers and such) to change settings without affecting other threads.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143017Z" creationid="Setur" creationdate="20210722T143017Z">
-        <seg>Isso permite que subrotinas sejam executadas por novos fios de execução (como hotkeys, menus, timers e afins) para alterar configurações sem afetar outros fios de execução.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132536Z" creationid="Setur" creationdate="20210722T143017Z">
+        <seg>Isso permite que sub-rotinas sejam executadas por novos fios de execução (como hotkeys, menus, timers e afins) para alterar configurações sem afetar outros fios de execução.</seg>
       </tuv>
     </tu>
     <tu>

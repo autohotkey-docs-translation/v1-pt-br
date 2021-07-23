@@ -3560,8 +3560,8 @@
       <tuv lang="en">
         <seg>Although we may say the variable &lt;c0&gt;myArray&lt;/c0&gt; &lt;e1&gt;contains&lt;/e1&gt; an array (which is a type of object), what the variable contains isn't the array itself but rather a &lt;e2&gt;reference or pointer&lt;/e2&gt; to the array.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010908Z" creationid="Leo" creationdate="20210723T010908Z">
-        <seg>Não obstante possamos dizer que a variável &lt;c0&gt;meuVetor&lt;/c0&gt; &lt;e1&gt;contém&lt;/e1&gt; um vetor (o que é um tipo de objeto), o que a variável contém não é o vetor em si mas uma &lt;e2&gt;referência ou apontador&lt;/e2&gt; para o vetor.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010916Z" creationid="Leo" creationdate="20210723T010908Z">
+        <seg>Não obstante possamos dizer que a variável &lt;c0&gt;meuVetor&lt;/c0&gt; &lt;e1&gt;contém&lt;/e1&gt; um vetor (o que é um tipo de objeto), o que a variável contém não é o vetor em si mas uma &lt;e2&gt;referência ou ponteiro&lt;/e2&gt; para o vetor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,6 +3666,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183241Z" creationid="Setur" creationdate="20210719T183241Z">
         <seg>Quaisquer linhas que você quiser que sejam executadas imediatamente quando o script inicia devem vir no começo do script, antes da primeira &lt;a0&gt;hotkey&lt;/a0&gt;, &lt;a1&gt;hotstring&lt;/a1&gt; ou &lt;a2&gt;Return&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any number of variables can contain a reference to the same object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010924Z" creationid="Leo" creationdate="20210723T010924Z">
+        <seg>Qualquer número de variáveis pode conter uma referência para o mesmo objeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4218,6 +4226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184329Z" creationid="Setur" creationdate="20210719T184329Z">
         <seg>Por padrão, o UAC protege programas “elevados” (isto é, programas que estão sendo executados como administrador) de serem automatizados por programas não elevados, já que isso permitiria contornar restrições de segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, variables are passed to user-defined functions &lt;e0&gt;by value&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011035Z" creationid="Leo" creationdate="20210723T011035Z">
+        <seg>Por padrão, variáveis são passadas para funções definidas pelo usuário &lt;e0&gt;por valor&lt;/e0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5674,6 +5690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180126Z" creationid="Setur" creationdate="20210719T180126Z">
         <seg>Para explicações mais detalhadas de como usar os sinais de porcentagem, veja &lt;a0&gt;Sintaxe Legada&lt;/a0&gt; e &lt;a1&gt;Variáveis Dinâmicas&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, giving a person a nickname doesn't cause a clone of that person to come into existence.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011016Z" creationid="Leo" creationdate="20210723T011016Z">
+        <seg>Exemplificativamente, dar a uma pessoa um apelido não faz com que surja um clone daquela pessoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7255,6 +7279,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other words, the value contained by the variable is copied into the variable which corresponds to the function's parameter.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011248Z" creationid="Leo" creationdate="20210723T011248Z">
+        <seg>Ou seja, o valor contido na variável é copiado para a variável que corresponde ao parâmetro da função.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In our written instructions, we used indentation and numbering to group the statements.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153539Z" creationid="Setur" creationdate="20210722T153539Z">
@@ -7627,6 +7659,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183152Z" creationid="Setur" creationdate="20210719T183152Z">
         <seg>Também pode ser necessário restaurar os valores padrão do registro, seja reinstalando o AutoHotkey ou executando seu setup (a partir do Menu Iniciar) e selecionando &lt;e0&gt;aplicar&lt;/e0&gt; perto do topo da janela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It may be helpful to think of a variable as just a name in that case.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010946Z" creationid="Leo" creationdate="20210723T010946Z">
+        <seg>Pode ser útil pensar numa variável como simplesmente um nome, nesse caso.</seg>
       </tuv>
     </tu>
     <tu>

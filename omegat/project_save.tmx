@@ -2120,8 +2120,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;Variable Capacity and Memory&lt;/a0&gt;:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150031Z" creationid="Setur" creationdate="20210722T150031Z">
-        <seg>&lt;a0&gt;Capacidade de uma Variável e Memória Usada</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T194147Z" creationid="Setur" creationdate="20210722T150031Z">
+        <seg>&lt;a0&gt;Capacidade de uma Variável e Memória Usada&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2952,8 +2952,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Older, less reliable method:&lt;/s0&gt; The technique in the following example will work with MS Internet Explorer for most pages.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201400Z" creationid="Setur" creationdate="20210719T201400Z">
-        <seg>Um método mais antigo e menos confiável: a técnica no exemplo a seguir funcionará com o Internet Explorer na maioria das páginas.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T194233Z" creationid="Setur" creationdate="20210719T201400Z">
+        <seg>&lt;s0&gt;Um método mais antigo e menos confiável:&lt;/s0&gt; a técnica no exemplo a seguir funcionará com o Internet Explorer na maioria das páginas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6665,8 +6665,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>However, converting a floating-point number to a string causes the number to be rounded according to the current &lt;a0&gt;float format&lt;/a0&gt;, which defaults to 6 decimal places.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005140Z" creationid="Leo" creationdate="20210723T005140Z">
-        <seg>Porém, converter um número de ponto flutuante em uma string faz com que o número seja arredondado de acordo com o formato de ponto flutuante&lt;a0&gt; atual, que, por padrão, tem 6 casas decimais.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T194219Z" creationid="Leo" creationdate="20210723T005140Z">
+        <seg>Porém, converter um número de ponto flutuante em uma string faz com que o número seja arredondado de acordo com o &lt;a0&gt;formato de ponto flutuante&lt;/a0&gt; atual, que, por padrão, tem 6 casas decimais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10441,8 +10441,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Some variables such as &lt;a0&gt;A_KeyDelay&lt;/a0&gt; and &lt;a1&gt;A_TitleMatchMode&lt;/a1&gt; represent settings that control the script's behavior, and retain separate values for each &lt;a2&gt;thread&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142810Z" creationid="Setur" creationdate="20210722T142810Z">
-        <seg>Algumas variáveis como &lt;a0&gt;A_KeyDelay&lt;/a0&gt; e &lt;a1&gt;A_TitleMatchMode&lt;/a1&gt; representam configurações que controlam o comportamento do script, e retêm valores separados para cada fio de execução.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T194135Z" creationid="Setur" creationdate="20210722T142810Z">
+        <seg>Algumas variáveis como &lt;a0&gt;A_KeyDelay&lt;/a0&gt; e &lt;a1&gt;A_TitleMatchMode&lt;/a1&gt; representam configurações que controlam o comportamento do script, e retêm valores separados para cada &lt;a2&gt;fio de execução&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -4358,6 +4358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, each script adds its own icon to the taskbar notification area (commonly known as the tray).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211303Z" creationid="Setur" creationdate="20210723T211303Z">
+        <seg>Por padrão, cada script adiciona seu próprio ícone à área de notificação da barra de tarefas (comumente chamada de “bandeja”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, variables are passed to user-defined functions &lt;e0&gt;by value&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011035Z" creationid="Leo" creationdate="20210723T011035Z">
@@ -9759,6 +9767,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click the tray icon to show the tray menu, which has the following options by default:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211544Z" creationid="Setur" creationdate="20210723T211544Z">
+        <seg>Clique com o botão direito no ícone da bandeja para exibir o menu, que tem as opções seguintes por padrão:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run Script</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182529Z" creationid="Setur" creationdate="20210719T182529Z">
@@ -11499,6 +11515,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210330Z" creationid="Leo" creationdate="20210622T210330Z">
         <seg>Terceira linha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tray icon usually looks like this (but the color or letter changes when the script is &lt;a0&gt;paused&lt;/a0&gt; or &lt;a1&gt;suspended&lt;/a1&gt;):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211351Z" creationid="Setur" creationdate="20210723T211351Z">
+        <seg>O ícone da bandeja normalmente é este (mas a cor e as letras mudam conforme o script é &lt;a0&gt;pausado&lt;/a0&gt; ou &lt;a1&gt;suspenso&lt;/a1&gt;):</seg>
       </tuv>
     </tu>
     <tu>

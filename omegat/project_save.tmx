@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Known issue:&lt;/s0&gt; Keyboard shortcuts for menu items do not work while the script is displaying a &lt;a1&gt;message box&lt;/a1&gt; or other dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212601Z" creationid="Setur" creationdate="20210723T212601Z">
+        <seg>&lt;s0&gt;Problema conhecido:&lt;/s0&gt; atalhos de teclado para itens de menu não funcionam enquanto o script estiver exibindo uma &lt;a1&gt;caixa de mensagem&lt;/a1&gt; ou outro diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Known limitation:&lt;/s0&gt; VK hotkeys that are forced to use the &lt;a1&gt;keyboard hook&lt;/a1&gt;, such as &lt;c2&gt;*VK24&lt;/c2&gt; or &lt;c3&gt;~VK24&lt;/c3&gt;, will fire for only one of the keys, not both (e.g. NumpadHome but not &lt;k4&gt;Home&lt;/k4&gt;).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185324Z" creationid="Leo" creationdate="20210702T185324Z">
@@ -11291,6 +11299,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T201240Z" creationid="Leo" creationdate="20210623T201240Z">
         <seg>O código acima é perfeitamente aceitável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The built-in variable &lt;a0&gt;A_ScriptHwnd&lt;/a0&gt; contains the unique ID (HWND) of the script's main window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212634Z" creationid="Setur" creationdate="20210723T212634Z">
+        <seg>A variável nativa &lt;a0&gt;A_ScriptHwnd&lt;/a0&gt; contém o ID único (HWND) da janela principal do script.</seg>
       </tuv>
     </tu>
     <tu>

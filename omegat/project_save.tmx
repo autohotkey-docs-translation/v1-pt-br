@@ -2766,6 +2766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Native encoding:&lt;/s0&gt; Although AutoHotkey provides ways to work with text in various encodings, the built-in commands and functions--and to some degree the language itself--all assume string values to be in one particular encoding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T001938Z" creationid="Leo" creationdate="20210723T001938Z">
+        <seg>&lt;s0&gt;Codificação nativa:&lt;/s0&gt; apesar de o AutoHotkey proporcionar meios de trabalhar com texto em várias codificações, os comandos e funções nativos — e até certo ponto a linguagem em si — assumem, todos eles, que os valores de strings estão em uma codificação em particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; Due to reliance on null-termination, AutoHotkey v1 does not generally support strings with embedded null characters.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T001651Z" creationid="Leo" creationdate="20210723T001651Z">
@@ -10231,6 +10239,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such strings can be created with &lt;a1&gt;VarSetCapacity()&lt;/a1&gt; and &lt;a2&gt;NumPut()&lt;/a2&gt; or &lt;a3&gt;DllCall()&lt;/a3&gt;, but may produce inconsistent results.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T001743Z" creationid="Leo" creationdate="20210723T001743Z">
+        <seg>Tais strings podem ser criadas com &lt;a1&gt;VarSetCapacity()&lt;/a1&gt; e &lt;a2&gt;NumPut()&lt;/a2&gt; ou &lt;a3&gt;DllCall()&lt;/a3&gt;, mas podem gerar efeitos inconsistentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Symbol</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T023835Z" creationid="Leo" creationdate="20210623T023835Z">
@@ -11227,6 +11243,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T235148Z" creationid="Leo" creationdate="20210625T203229Z">
         <seg>Essa forma sem chaves funcionou perfeitamente pois a instrução com if só tinha uma linha de código associada a ela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is referred to as the &lt;e1&gt;native&lt;/e1&gt; encoding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T001958Z" creationid="Leo" creationdate="20210723T001958Z">
+        <seg>Isso é chamado aqui de codificação &lt;e1&gt;nativa&lt;/e1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

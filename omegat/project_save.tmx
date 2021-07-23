@@ -3230,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A running script can usually be reloaded via its &lt;a1&gt;tray menu&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210344Z" creationid="Setur" creationdate="20210723T210344Z">
+        <seg>Um script em execução normalmente pode ser recarregado por meio do &lt;a1&gt;menu da bandeja&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A script can do as little as performing a single action and then exiting, but most scripts define a number of &lt;a1&gt;hotkeys&lt;/a1&gt;, with each hotkey followed by one or more actions to take when the hotkey is pressed.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205357Z" creationid="Setur" creationdate="20210723T205357Z">
@@ -3406,10 +3414,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After creating &lt;a0&gt;the default script&lt;/a0&gt;, launch AutoHotkey via the shortcut in the Start menu to run it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210521Z" creationid="Setur" creationdate="20210723T210521Z">
+        <seg>Depois de criar &lt;a0&gt;o script padrão&lt;/a0&gt;, execute o AutoHotkey por meio do atalho no Menu Iniciar para abri-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After downloading it, you may possibly need to install it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T214034Z" creationid="Leo" creationdate="20210622T201608Z">
         <seg>Depois de fazer o download, você provavelmente terá que instalá-lo em seguida,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After editing a script, you must run or &lt;a0&gt;reload&lt;/a0&gt; the script for the changes to take effect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210323Z" creationid="Setur" creationdate="20210723T210323Z">
+        <seg>Depois de editar um script, você deve carregar ou &lt;a0&gt;recarregar&lt;/a0&gt; o script para que as mudanças tenham efeito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4350,6 +4374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call AutoHotkey.exe on the command line and pass the script's filename as a &lt;a0&gt;command-line parameter&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210452Z" creationid="Setur" creationdate="20210723T210452Z">
+        <seg>Execute AutoHotkey.exe na linha de comando e passe o nome do arquivo do script como um &lt;a0&gt;parâmetro da linha de comando&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Call a function or command</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150446Z" creationid="Setur" creationdate="20210722T150434Z">
@@ -5002,6 +5034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174852Z" creationid="Setur" creationdate="20210719T174852Z">
         <seg>Aspas duplas (") têm significado especial somente quando estão dentro de &lt;a0&gt;expressões&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click a script file (or shortcut to a script file) in Explorer.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210422Z" creationid="Setur" creationdate="20210723T210422Z">
+        <seg>Dê um clique duplo num arquivo de script (ou atalho para um arquivo de script) no Explorador de Arquivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9043,6 +9083,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053120Z" creationid="Leo" creationdate="20210626T053120Z">
         <seg>Objects.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Of course, you can always open your text editor first and then open the script as you would any other text file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210307Z" creationid="Setur" creationdate="20210723T210307Z">
+        <seg>Evidentemente, você sempre pode abrir seu editor de texto primeiro e aí abrir o script como você faria com qualquer outro arquivo de texto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13500,6 +13548,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192908Z" creationid="Leo" creationdate="20210622T192908Z">
         <seg>Hotkeys e hotstrings que funcionam em só em uma ou algumas janelas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With AutoHotkey installed, there are several ways to run a script:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210357Z" creationid="Setur" creationdate="20210723T210357Z">
+        <seg>Com o AutoHotkey instalado, há várias formas de executar um script:</seg>
       </tuv>
     </tu>
     <tu>

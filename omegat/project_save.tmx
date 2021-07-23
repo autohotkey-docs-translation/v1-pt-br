@@ -3222,6 +3222,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A script can do as little as performing a single action and then exiting, but most scripts define a number of &lt;a1&gt;hotkeys&lt;/a1&gt;, with each hotkey followed by one or more actions to take when the hotkey is pressed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205357Z" creationid="Setur" creationdate="20210723T205357Z">
+        <seg>Um script pode fazer algo pequeno como executar uma ação simples e depois finalizar, mas a maioria dos scripts define um certo número de &lt;a1&gt;teclas de atalho&lt;/a1&gt; (hotkeys, daqui para frente), com cada uma delas seguida de uma ou mais ações para executar quando a hotkey é pressionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A script is simply a plain text file with the &lt;c0&gt;.ahk&lt;/c0&gt; filename extension containing instructions for the program, like a configuration file, but much more powerful.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205226Z" creationid="Setur" creationdate="20210723T205226Z">
+        <seg>Um script é simplesmente um arquivo de texto plano, com a extensão &lt;c0&gt;.ahk&lt;/c0&gt; no nome do arquivo, contendo instruções para o programa, como um arquivo de configuração, mas muito mais poderoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A script may create a new environment variable or change the contents of an existing one with &lt;a0&gt;EnvSet&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143527Z" creationid="Setur" creationdate="20210722T143527Z">
@@ -3858,6 +3874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125351Z" creationid="Setur" creationdate="20210722T125351Z">
         <seg>O AutoHotkey não possui um valor próprio para representar &lt;e0&gt;nothing&lt;/e0&gt;, &lt;e1&gt;null&lt;/e1&gt;, &lt;e2&gt;nil&lt;/e2&gt; ou &lt;e3&gt;undefined&lt;/e3&gt;, como visto em outras linguagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoHotkey doesn't do anything on its own; it needs a script to tell it what to do.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205145Z" creationid="Setur" creationdate="20210723T205145Z">
+        <seg>o AutoHotkey não faz nada por si só; ele precisa de um script para dizer-lhe o que fazer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7947,6 +7971,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183854Z" creationid="Leo" creationdate="20210702T183854Z">
         <seg>Abre o player de mídia padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Learn details about creating, editing and running a script, the tray icon, the main window, command line usage, portability and installer options.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205110Z" creationid="Setur" creationdate="20210723T205110Z">
+        <seg>Aprenda detalhes sobre criação, edição e execução de um script, o ícone da bandeja, a janela principal, uso da linha de comando, portabilidade e opções do instalador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12508,6 +12540,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090839Z" creationid="Leo" creationdate="20210703T074453Z">
         <seg>usar o joystick como um mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the Program</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205116Z" creationid="Setur" creationdate="20210723T205116Z">
+        <seg>Usando o Programa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the Program | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205038Z" creationid="Setur" creationdate="20210723T205038Z">
+        <seg>Usando o Programa | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>

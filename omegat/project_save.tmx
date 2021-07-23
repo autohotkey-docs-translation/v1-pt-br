@@ -12410,8 +12410,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Uninitialised Variables</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014845Z" creationid="Leo" creationdate="20210721T014845Z">
-        <seg>Variáveis não inicializadas</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T133908Z" creationid="Leo" creationdate="20210721T014845Z">
+        <seg>Variáveis Não Inicializadas</seg>
       </tuv>
     </tu>
     <tu>

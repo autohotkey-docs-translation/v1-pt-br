@@ -3536,8 +3536,8 @@
       <tuv lang="en">
         <seg>Although indentation makes code easier to read, in AutoHotkey it does not affect the grouping of statements.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153741Z" creationid="Setur" creationdate="20210722T153741Z">
-        <seg>Conquanto a identação deixa o código mais fácil de ler, no AutoHotkey ela não afeta o agrupamento de instruções.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132935Z" creationid="Setur" creationdate="20210722T153741Z">
+        <seg>Conquanto a indentação deixa o código mais fácil de ler, no AutoHotkey ela não afeta o agrupamento de instruções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3912,8 +3912,8 @@
       <tuv lang="en">
         <seg>AutoHotkey uses the same set of rules for naming various things, including variables, functions, &lt;a0&gt;window groups&lt;/a0&gt;, &lt;a1&gt;GUIs&lt;/a1&gt;, classes and methods:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005628Z" creationid="Leo" creationdate="20210723T005628Z">
-        <seg>AutoHotkey usa o mesmo conjunto de regras para denomear várias coisas, inclusive variáveis, funções, &lt;a0&gt;grupos de janelas&lt;/a0&gt;, &lt;a1&gt;GUIs&lt;/a1&gt;, classes e métodos:</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T133114Z" creationid="Leo" creationdate="20210723T005628Z">
+        <seg>AutoHotkey usa o mesmo conjunto de regras para denominar várias coisas, inclusive variáveis, funções, &lt;a0&gt;grupos de janelas&lt;/a0&gt;, &lt;a1&gt;GUIs&lt;/a1&gt;, classes e métodos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5888,8 +5888,8 @@
       <tuv lang="en">
         <seg>For this reason, the target object (which may be a variable or sub-expression) is specified to left of the method name instead of inside the parameter list.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151912Z" creationid="Setur" creationdate="20210722T151912Z">
-        <seg>Por essa razão, o objeto alvo (que pod ser uma variável ou sub-expressão) é especificado à esquerda do nome do método em vez de dentro da lista de parâmetros.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132934Z" creationid="Setur" creationdate="20210722T151912Z">
+        <seg>Por essa razão, o objeto alvo (que pode ser uma variável ou sub-expressão) é especificado à esquerda do nome do método em vez de dentro da lista de parâmetros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7353,8 +7353,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>In our written instructions, we used indentation and numbering to group the statements.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153539Z" creationid="Setur" creationdate="20210722T153539Z">
-        <seg>Em nossas instruções escritas, nós usamos identação e numeração para agrupar as instruções.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132935Z" creationid="Setur" creationdate="20210722T153539Z">
+        <seg>Em nossas instruções escritas, nós usamos indentação e numeração para agrupar as instruções.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10561,8 +10561,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Square brackets signify that the enclosed parameters are optional (the brackets themselves should not appear in the actual code).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151536Z" creationid="Setur" creationdate="20210722T151536Z">
-        <seg>A presença de colchetes nos parâmetros significa que se tratam de parâmetros opcionais (os colchetes em si não devem aparecer no código).</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132902Z" creationid="Setur" creationdate="20210722T151536Z">
+        <seg>A presença de colchetes nos parâmetros significa que eles são parâmetros opcionais (os colchetes em si não devem aparecer no código).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11009,8 +11009,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The functions &lt;a0&gt;StrGet&lt;/a0&gt; and &lt;a1&gt;StrPut&lt;/a1&gt; can be used to convert strings between the native encoding and some other specified encoding.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003743Z" creationid="Leo" creationdate="20210723T003743Z">
-        <seg>As funções &lt;a0&gt;StrGet&lt;/a0&gt; e &lt;a1&gt;StrPut&lt;/a1&gt; podem ser usadas para converter strings entre a codificação nativae  oalguma outra codificação especificada.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T133054Z" creationid="Leo" creationdate="20210723T003743Z">
+        <seg>As funções &lt;a0&gt;StrGet&lt;/a0&gt; e &lt;a1&gt;StrPut&lt;/a1&gt; podem ser usadas para converter strings entre a codificação nativa e alguma outra codificação especificada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12402,8 +12402,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Unicode versions of AutoHotkey use UTF-16.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T002017Z" creationid="Leo" creationdate="20210723T002017Z">
-        <seg>As versões Unicodes do AutoHotkey usam UTF-16.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T133023Z" creationid="Leo" creationdate="20210723T002017Z">
+        <seg>As versões Unicode do AutoHotkey usam UTF-16.</seg>
       </tuv>
     </tu>
     <tu>

@@ -4318,6 +4318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default this will open Notepad, but that can be changed by writing to the registry as shown &lt;a4&gt;here&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210236Z" creationid="Setur" creationdate="20210723T210236Z">
+        <seg>Por padrão isso abrirá o Bloco de Notas, mas você pode mudar o editor de texto inserindo mudanças no registro como mostrado &lt;a4&gt;aqui&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, UAC protects "elevated" programs (that is, programs which are running as admin) from being automated by non-elevated programs, since that would allow them to bypass security restrictions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184329Z" creationid="Setur" creationdate="20210719T184329Z">
@@ -7039,6 +7047,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the script is already running, you can use the &lt;a1&gt;Edit&lt;/a1&gt; command or right-click the script's &lt;a2&gt;tray icon&lt;/a2&gt; and select &lt;s3&gt;Edit This Script&lt;/s3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210106Z" creationid="Setur" creationdate="20210723T210106Z">
+        <seg>Se o script já estiver em execução, você pode usar o comando &lt;a1&gt;Edit&lt;/a1&gt; ou clique com o botão direito em seu &lt;a2&gt;ícone da bandeja&lt;/a2&gt; e selecionar &lt;s3&gt;Edit This Script&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they cannot be seen -- or if your mouse has more than five buttons that you want to use -- you can try configuring the software that came with the mouse (sometimes accessible in the Control Panel or Start Menu) to send a keystroke whenever you press one of these buttons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203408Z" creationid="Setur" creationdate="20210719T203408Z">
@@ -7243,6 +7259,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135232Z" creationid="Setur" creationdate="20210722T135232Z">
         <seg>No AutoHotkey, as variáveis são criadas no momento em que são simplesmente usadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Explorer, right-click in empty space in the folder where you want to save the script, then select &lt;s0&gt;New&lt;/s0&gt; and &lt;s1&gt;AutoHotkey Script&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205927Z" creationid="Setur" creationdate="20210723T205927Z">
+        <seg>No Explorador de Arquivos, clique com o botão direito num espaço vazio da pasta onde você quer salvar o script, selecione &lt;s0&gt;Novo&lt;/s0&gt; e &lt;s1&gt;AutoHotkey Script&lt;/s1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9935,6 +9959,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;a0&gt;Scripting Language&lt;/a0&gt; for details about how to write a script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210009Z" creationid="Setur" creationdate="20210723T210009Z">
+        <seg>Veja &lt;a0&gt;Linguagem de Confecção de Scripts&lt;/a0&gt; para detalhes de como escrever um script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;a0&gt;Special Keys&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204708Z" creationid="Setur" creationdate="20210719T204708Z">
@@ -12320,6 +12352,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To open a script for editing, right-click on the script file and select &lt;s0&gt;Edit Script&lt;/s0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210032Z" creationid="Setur" creationdate="20210723T210032Z">
+        <seg>Para abrir um script para edição, clique com o botão direito no arquivo e selecione &lt;s0&gt;Edit Script&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To pause or resume the entire script at the press of a key, assign a hotkey to the &lt;a0&gt;Pause&lt;/a0&gt; command as in this example:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200302Z" creationid="Setur" creationdate="20210719T200302Z">
@@ -13612,6 +13652,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183941Z" creationid="Leo" creationdate="20210625T183941Z">
         <seg>Você pode identificar o que é um comando ao olhar para sua sintaxe, ou seja, sua forma, seu visual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then type a name for the script (taking care not to erase the &lt;c2&gt;.ahk&lt;/c2&gt; extension if it is visible).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205955Z" creationid="Setur" creationdate="20210723T205955Z">
+        <seg>Você pode então digitar um nome para o script (cuidando para não apagar a extensão &lt;c2&gt;.ahk&lt;/c2&gt; se ela estiver visível).</seg>
       </tuv>
     </tu>
     <tu>

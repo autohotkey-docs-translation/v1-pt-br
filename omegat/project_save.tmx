@@ -5368,8 +5368,8 @@
       <tuv lang="en">
         <seg>For &lt;s0&gt;Call&lt;/s0&gt;, &lt;c1&gt;.Name&lt;/c1&gt; and &lt;c2&gt;[Parameter]&lt;/c2&gt; can be used interchangeably, and must always be followed by &lt;c3&gt;(Parameters)&lt;/c3&gt;:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132719Z" creationid="Setur" creationdate="20210722T132719Z">
-        <seg>Para &lt;s0&gt;Call&lt;/s0&gt;, &lt;c1&gt;.Name&lt;/c1&gt;e &lt;c2&gt;[Parâmetro]&lt;/c2&gt; podem ser usados indistintamente, e devem sempre ser seguidos de &lt;c3&gt;(Parâmetros)&lt;/c3&gt;:</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132203Z" creationid="Setur" creationdate="20210722T132719Z">
+        <seg>Para &lt;s0&gt;Call&lt;/s0&gt;, &lt;c1&gt;.Name&lt;/c1&gt; e &lt;c2&gt;[Parâmetro]&lt;/c2&gt; podem ser usados indistintamente, e devem sempre ser seguidos de &lt;c3&gt;(Parâmetros)&lt;/c3&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11145,8 +11145,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The proper use of objects (and in particular, &lt;a0&gt;classes&lt;/a0&gt;) can result in code which is &lt;e1&gt;modular&lt;/e1&gt; and &lt;e2&gt;reusable&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131115Z" creationid="Setur" creationdate="20210722T130904Z">
-        <seg>O uso correto de objetos (e, em particircular, &lt;a0&gt;classes&lt;/a0&gt;) pode resultar em código &lt;e1&gt;modular&lt;/e1&gt; e &lt;e2&gt;reusável&lt;/e2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132109Z" creationid="Setur" creationdate="20210722T130904Z">
+        <seg>O uso correto de objetos (e, em particular, &lt;a0&gt;classes&lt;/a0&gt;) pode resultar em código &lt;e1&gt;modular&lt;/e1&gt; e &lt;e2&gt;reusável&lt;/e2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17498,8 +17498,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>myObj[arg1, arg2, ..., argN]</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132634Z" creationid="Setur" creationdate="20210722T132634Z">
-        <seg>meuObjestabeleço[arg1, arg2, ..., argN]</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132130Z" creationid="Setur" creationdate="20210722T132634Z">
+        <seg>meuObjeto[arg1, arg2, ..., argN]</seg>
       </tuv>
     </tu>
     <tu>

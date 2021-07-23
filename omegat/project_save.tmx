@@ -6166,6 +6166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For resources other than *#1, the resource specifier is included in &lt;a2&gt;the main window's title&lt;/a2&gt; to support &lt;a3&gt;#SingleInstance&lt;/a3&gt; and &lt;a4&gt;Reload&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214805Z" creationid="Setur" creationdate="20210723T214805Z">
+        <seg>Para recursos além de *#1, o especificador do recurso é incluído no &lt;a2&gt;título da janela principal&lt;/a2&gt; para suportar &lt;a3&gt;#SingleInstance&lt;/a3&gt; e &lt;a4&gt;Reload&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For simple scripts, see &lt;a0&gt;Debugging a Script&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190419Z" creationid="Setur" creationdate="20210719T190419Z">
@@ -13732,6 +13740,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150547Z" creationid="Setur" creationdate="20210722T150547Z">
         <seg>Quando a função completar seu propósito, ela &lt;e2&gt;retorna&lt;/e2&gt; o controle ao script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the source of the main script is an embedded resource, the program acts in "compiled script" mode, with the exception that &lt;a0&gt;A_AhkPath&lt;/a0&gt; always contains the path of the current executable file (the same as &lt;a1&gt;A_ScriptFullPath&lt;/a1&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214717Z" creationid="Setur" creationdate="20210723T214717Z">
+        <seg>Quando a fonte do script principal é um recurso incorporado, o programa age em “modo de script compilado”, com a exceção de que &lt;a0&gt;A_AhkPath&lt;/a0&gt; sempre contém o caminho do arquivo executável atual (o mesmo que &lt;a1&gt;A_ScriptFullPath&lt;/a1&gt;).</seg>
       </tuv>
     </tu>
     <tu>

@@ -3086,6 +3086,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;[AHK_L 51+]:&lt;/s0&gt; Renaming AutoHotkey.exe also changes which script it runs &lt;a1&gt;by default&lt;/a1&gt;, which can be an alternative to compiling a script for use on a computer without AutoHotkey installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T215956Z" creationid="Setur" creationdate="20210723T215956Z">
+        <seg>&lt;s0&gt;[AHK_L 51+]: renomear AutoHotkey também faz mudar qual script o executável roda &lt;/s0&gt;por padrão&lt;a1&gt;, o que pode ser uma alternativa à compilação do script para usar num computador sem o AutoHotkey instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;[v1.0.48+]:&lt;/s0&gt; Scroll to the left or right.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070954Z" creationid="Leo" creationdate="20210702T070954Z">
@@ -11547,6 +11555,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202522Z" creationid="Setur" creationdate="20210719T202522Z">
         <seg>O mais fácil é colocar um atalho para o script na pasta Inicializar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The file AutoHotkey.exe is all that is needed to launch any .ahk script.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T215902Z" creationid="Setur" creationdate="20210723T215902Z">
+        <seg>O arquivo AutoHotkey.exe é tudo que precisa para executar qualquer script .ahk.</seg>
       </tuv>
     </tu>
     <tu>

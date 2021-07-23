@@ -5486,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External scripts and alternative embedded scripts can be executed by using the &lt;a1&gt;/script&lt;/a1&gt; switch.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214420Z" creationid="Setur" creationdate="20210723T214420Z">
+        <seg>Scripts externos e scripts alternativos incorporados podem ser executados usando-se o interruptor &lt;a1&gt;/script&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>FAQ.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T222025Z" creationid="Leo" creationdate="20210627T222025Z">
@@ -7211,6 +7219,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181638Z" creationid="Leo" creationdate="20210625T181638Z">
         <seg>Se uma das formas do comando Send não funcionar para suas necessidades, tente outro tipo de Send.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If present, this script is automatically "included" before any script that the program loads, and before any file specified with &lt;a0&gt;/include&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214618Z" creationid="Setur" creationdate="20210723T214618Z">
+        <seg>Se presente, esse script é automaticamente “incluído” antes de qualquer script que o programa carrega, e antes de qualquer arquivo especificado com &lt;a0&gt;/include&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12391,6 +12407,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the means by which a &lt;a0&gt;compiled script&lt;/a0&gt; is created from an .exe file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214235Z" creationid="Setur" creationdate="20210723T214235Z">
+        <seg>Esse é o modo pelo qual um &lt;a0&gt;script compilado&lt;/a0&gt; é criado a partir de um arquivo .exe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the simplest form for a variable, a legacy assignment.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203742Z" creationid="Leo" creationdate="20210625T203742Z">
@@ -12531,6 +12555,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213734Z" creationid="Leo" creationdate="20210627T213734Z">
         <seg>Este remove a maior chave inteira e retorna seu valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This script is executed automatically and most command line switches are passed to the script instead of being interpreted by the program.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214258Z" creationid="Setur" creationdate="20210723T214258Z">
+        <seg>Esse script é executado automaticamente e a maioria das opções da linha de comando são passadas ao script em vez de serem interpretadas pelo programa.</seg>
       </tuv>
     </tu>
     <tu>

@@ -9079,6 +9079,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Passing this reference to a function or storing it in a variable or another object creates a new reference to the &lt;e1&gt;same&lt;/e1&gt; object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011746Z" creationid="Leo" creationdate="20210723T011746Z">
+        <seg>Passar essa referência a uma função ou armazená-la numa variável ou outro objeto cria uma nova referência ao &lt;e1&gt;mesmo&lt;/e1&gt; objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>People usually use 3 or 4 spaces or 1 tab per "level".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T221239Z" creationid="Leo" creationdate="20210627T220601Z">
@@ -9651,6 +9659,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142555Z" creationid="Setur" creationdate="20210722T142555Z">
         <seg>Autores de scripts podem usar a diretiva &lt;a0&gt;Warn&lt;/a0&gt; para ajudar a encontrar instâncias em que uma variável é usada sem ter sido inicializada pelo script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts interact with an object only indirectly, through a &lt;e0&gt;reference&lt;/e0&gt; to the object.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011633Z" creationid="Leo" creationdate="20210723T011633Z">
+        <seg>Scripts interagem com um objeto só indiretamente, através de uma &lt;e0&gt;referência&lt;/e0&gt; ao objeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11479,6 +11495,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This allows the function to modify the object, but it does not allow the function to modify the &lt;e1&gt;variable&lt;/e1&gt; which the function's caller used, because the function only has a reference to the object, not the variable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011542Z" creationid="Leo" creationdate="20210723T011542Z">
+        <seg>Isso permite que a função modifique o objeto, mas não permite que a função modifique a &lt;e1&gt;variável&lt;/e1&gt; que o chamador da função empregou, pois a função apenas tem uma referência ao objeto, não à variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This allows you to use an expression as the key to get the value from your object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T214113Z" creationid="Leo" creationdate="20210627T211831Z">
@@ -12996,6 +13020,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131247Z" creationid="Setur" creationdate="20210722T131158Z">
         <seg>Quando você atribui um objeto a uma &lt;a0&gt;variável&lt;/a0&gt;, como no exemplo &lt;c1&gt;meuObjeto := {}&lt;/c1&gt;, o que você armazena não é o objeto em si, mas uma &lt;a2&gt;&lt;e3&gt;referência&lt;/e3&gt;&lt;/a2&gt; a ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you create an object, the object is created at some location you don't control, and you're given a reference.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011652Z" creationid="Leo" creationdate="20210723T011652Z">
+        <seg>Quando você cria um objeto, o objeto é criado em certo local que você não controla, e a você é dada uma referência.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3470,6 +3470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although larger values can be contained within a string, any attempt to convert the string to a number (such as by using it in a math operation) might yield inconsistent results.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T004946Z" creationid="Leo" creationdate="20210723T004946Z">
+        <seg>Apesar de valores maiores poderem ser contidos numa string, qualquer tentativa de converter a string em um número (como pelo uso da string numa operação matemática) pode gerar resultados inconsistentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although the &lt;a1&gt;SetFormat&lt;/a1&gt; command can be used to change the current format, it is usually better to use the &lt;a2&gt;Format&lt;/a2&gt; function to format a string.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020433Z" creationid="Leo" creationdate="20210721T020433Z">
@@ -5182,6 +5190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Floating-point numbers generally support 15 digits of precision.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005011Z" creationid="Leo" creationdate="20210723T005011Z">
+        <seg>Números de ponto flutuante geralmente suportam 15 dígitos de precisão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For &lt;s0&gt;Call&lt;/s0&gt;, &lt;c1&gt;.Name&lt;/c1&gt; and &lt;c2&gt;[Parameter]&lt;/c2&gt; can be used interchangeably, and must always be followed by &lt;c3&gt;(Parameters)&lt;/c3&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132719Z" creationid="Setur" creationdate="20210722T132719Z">
@@ -6455,6 +6471,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, converting a floating-point number to a string causes the number to be rounded according to the current &lt;a0&gt;float format&lt;/a0&gt;, which defaults to 6 decimal places.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005140Z" creationid="Leo" creationdate="20210723T005140Z">
+        <seg>Porém, converter um número de ponto flutuante em uma string faz com que o número seja arredondado de acordo com o formato de ponto flutuante&lt;a0&gt; atual, que, por padrão, tem 6 casas decimais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, directives, labels (including hotkeys and hotstrings), and declarations without assignments are not statements; they are processed when the program first starts up, before the script &lt;e1&gt;executes&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152340Z" creationid="Setur" creationdate="20210722T152340Z">
@@ -7347,6 +7371,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153809Z" creationid="Setur" creationdate="20210722T153809Z">
         <seg>Em vez de indentação, as instruções são agrupadas envolvendo-se-as em chaves, como mostrado acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integers must be within the range -9223372036854775808 (-0x8000000000000000, or -2&lt;s0&gt;63&lt;/s0&gt;) to 9223372036854775807 (0x7FFFFFFFFFFFFFFF, or 2&lt;s1&gt;63&lt;/s1&gt;-1).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T004855Z" creationid="Leo" creationdate="20210723T004855Z">
+        <seg>Inteiros devem estar no intervalo 9223372036854775808 (-0x8000000000000000, ou -2&lt;s0&gt;63&lt;/s0&gt;) a 9223372036854775807 (0x7FFFFFFFFFFFFFFF, ou 2&lt;s1&gt;63&lt;/s1&gt;-1).</seg>
       </tuv>
     </tu>
     <tu>

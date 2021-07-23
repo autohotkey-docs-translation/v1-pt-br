@@ -2120,8 +2120,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;Variable Capacity and Memory&lt;/a0&gt;:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T194147Z" creationid="Setur" creationdate="20210722T150031Z">
-        <seg>&lt;a0&gt;Capacidade de uma Variável e Memória Usada&lt;/a0&gt;</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T194808Z" creationid="Setur" creationdate="20210722T150031Z">
+        <seg>&lt;a0&gt;Capacidade de uma Variável e Memória Usada&lt;/a0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2136,8 +2136,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;Variables&lt;/a0&gt;:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145945Z" creationid="Setur" creationdate="20210722T145945Z">
-        <seg>&lt;a0&gt;Variáveis&lt;/a0&gt;</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T194732Z" creationid="Setur" creationdate="20210722T145945Z">
+        <seg>&lt;a0&gt;Variáveis&lt;/a0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17066,8 +17066,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>basic usage and examples.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150013Z" creationid="Setur" creationdate="20210722T150013Z">
-        <seg>Noções básicas de uso e exemplos</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T194745Z" creationid="Setur" creationdate="20210722T150013Z">
+        <seg>noções básicas de uso e exemplos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17226,8 +17226,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>details about limitations.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150041Z" creationid="Setur" creationdate="20210722T150041Z">
-        <seg>Detalhes sobre limitações.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T194818Z" creationid="Setur" creationdate="20210722T150041Z">
+        <seg>detalhes sobre limitações.</seg>
       </tuv>
     </tu>
     <tu>

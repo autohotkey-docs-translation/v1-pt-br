@@ -7393,8 +7393,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>In short, it is safest to stick to names consisting of ASCII letters (which are case insensitive), digits and underscore, and to avoid using names that start with a digit.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135600Z" creationid="Setur" creationdate="20210722T135600Z">
-        <seg>Em resumo, é melhor manter nomes que consistam somente em letras ASCII (as quais não diferenciam maiúsculas e minúsculas), algarismos e _, e evitar usar nomes que comecem com um algarismo.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T190707Z" creationid="Setur" creationdate="20210722T135600Z">
+        <seg>Em resumo, é melhor manter nomes que consistam somente em letras ASCII (as quais não diferenciam maiúsculas e minúsculas), algarismos e underscores, e evitar usar nomes que comecem com um algarismo.</seg>
       </tuv>
     </tu>
     <tu>

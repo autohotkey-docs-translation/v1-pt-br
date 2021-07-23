@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; There are some decimal fractions which the binary floating-point format cannot precisely represent, so a number is rounded to the closest representable number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005307Z" creationid="Leo" creationdate="20210723T005307Z">
+        <seg>&lt;s0&gt;Observação:&lt;/s0&gt; há algumas frações decimais cujo formato de ponto flutuante não pode representar precisamente, então um número é arredondado para o número representável mais próximo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; Windows IME may interfere with the detection and functionality of CapsLock; see &lt;a1&gt;CapsLock and IME&lt;/a1&gt; for details.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180123Z" creationid="Leo" creationdate="20210702T180123Z">
@@ -6723,6 +6731,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190211Z" creationid="Setur" creationdate="20210719T190211Z">
         <seg>Se isso não funcionar, você pode abrir o arquivo no Bloco de Notas ou outro editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the "slow" mode of &lt;a1&gt;SetFormat&lt;/a1&gt; is present anywhere in the script, numbers are &lt;e2&gt;always&lt;/e2&gt; converted to strings when assigned to a &lt;a3&gt;variable&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005215Z" creationid="Leo" creationdate="20210723T005215Z">
+        <seg>Se o modo “lento” do comando &lt;a1&gt;SetFormat&lt;/a1&gt; está presente em qualquer lugar do script, números são &lt;e2&gt;sempre&lt;/e2&gt; convertidos em strings quando atribuídos a uma &lt;a3&gt;variável&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11475,6 +11491,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201553Z" creationid="Leo" creationdate="20210625T201553Z">
         <seg>Essa não é a única forma, mas a mais comum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This may lead to unexpected results.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005314Z" creationid="Leo" creationdate="20210723T005314Z">
+        <seg>Isso pode levar a resultados inesperados.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3734,6 +3734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An embedded script can be specified on the command line or with &lt;a0&gt;#Include&lt;/a0&gt; by writing an asterisk (*) followed by the resource name.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214053Z" creationid="Setur" creationdate="20210723T214053Z">
+        <seg>Um script incorporado pode ser especificado na linha de comando ou com &lt;a0&gt;#Include&lt;/a0&gt; inserindo-se um asterisco (*) seguido do nome do recurso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An example showing what shouldn't be done to a hotkey:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175413Z" creationid="Leo" creationdate="20210625T175413Z">
@@ -5682,6 +5690,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210032Z" creationid="Leo" creationdate="20210622T202024Z">
         <seg>Para instruções em vídeo, assista &lt;a0&gt;Instalar e Hello World&lt;/a0&gt; no YouTube (em inglês).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For an integer ID, the resource name must be a hash sign (#) followed by a decimal number.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214121Z" creationid="Setur" creationdate="20210723T214121Z">
+        <seg>Para o ID de um número inteiro, o nome do recurso deve ser uma cerquilha (#) seguida de um número decimal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11691,6 +11707,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213436Z" creationid="Leo" creationdate="20210627T213436Z">
         <seg>O valor anterior de &lt;c1&gt;MeuObjeto[QualquerChave]&lt;/c1&gt; será armazenado em &lt;i2&gt;ValorDeletado&lt;/i2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The program may automatically load script code from the following resources, if present in the file:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214141Z" creationid="Setur" creationdate="20210723T214141Z">
+        <seg>O problema pode automaticamente carregar o código do script a partir dos recursos abaixo, se estiverem presentes no arquivo:</seg>
       </tuv>
     </tu>
     <tu>

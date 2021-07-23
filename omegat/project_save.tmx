@@ -3550,6 +3550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although they can be used in a method definition, calling such a method requires using square brackets.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010504Z" creationid="Leo" creationdate="20210723T010504Z">
+        <seg>Apesar de poderem ser usados na definição de um método, chamar um método desse exigirá o uso de colchetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ampersand may be used between any two keys or mouse buttons to combine them into a custom hotkey.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215506Z" creationid="Leo" creationdate="20210623T024111Z">
@@ -3730,6 +3738,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210722T002105Z" creationid="Setur" creationdate="20210719T195043Z">
         <seg>Já que a instalação padrão do AutoHotkey não inclui um compressor, scripts compilados não são comprimidos por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the following characters may be reserved for other purposes in AutoHotkey v2, it is recommended to avoid using them:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010331Z" creationid="Leo" creationdate="20210723T010331Z">
+        <seg>E, dado que os caracteres a seguir poderão estar reservados para outros fins na versão 2 do AutoHotkey, recomenda-se evitá-los:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5426,6 +5442,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020215Z" creationid="Leo" creationdate="20210721T020215Z">
         <seg>Por exemplo, &lt;c0&gt;42&lt;/c0&gt; e &lt;c1&gt;42.0&lt;/c1&gt; são geralmente equivalentes, mas não sempre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c0&gt;myObject.@home()&lt;/c0&gt; is not valid, but &lt;c1&gt;myObject["@home"]()&lt;/c1&gt; is acceptable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010542Z" creationid="Leo" creationdate="20210723T010542Z">
+        <seg>Por exemplo, &lt;c0&gt;meuObjeto.@home()&lt;/c0&gt; não é válido, mas &lt;c1&gt;meuObjeto["@home"]()&lt;/c1&gt; é aceitável.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9115,6 +9139,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211600Z" creationid="Leo" creationdate="20210622T211600Z">
         <seg>Provavelmente o drive &lt;b1&gt;C:\&lt;/b1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Property names in classes have the same rules and restrictions as variable names, except that the three characters listed above (# @ $) are not allowed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010431Z" creationid="Leo" creationdate="20210723T010431Z">
+        <seg>Nos de propriedades em classes têm as mesmas regras e restrições dos nomes de variáveis, exceto que os três caracteres listados acima (# @ $) não são permitidos.</seg>
       </tuv>
     </tu>
     <tu>

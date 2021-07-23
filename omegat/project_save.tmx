@@ -12522,8 +12522,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Usually a unit wouldn't be &lt;e0&gt;deleted&lt;/e0&gt;, but maybe the agent will have any junk you left behind removed; just as any values you stored in an object are freed when the object is deleted.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210723T012255Z" creationid="Leo" creationdate="20210723T012255Z">
-        <seg>Geralmente uma unidade residencial não seria &lt;e0&gt;deletada&lt;/e0&gt;, mas talvez o representante da imobiliária providenciará que toda tralha que você tiver deixado para trás seja removida; da mesma forma que quaisquer valores armazenados num objeto são liberados quando o objeto é excluído.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T201317Z" creationid="Leo" creationdate="20210723T012255Z">
+        <seg>Geralmente uma unidade residencial não seria &lt;e0&gt;deletada&lt;/e0&gt;, mas talvez o representante da imobiliária providenciará a remoção de toda tralha que você tiver deixado para trás; da mesma forma que quaisquer valores armazenados num objeto são liberados quando o objeto é excluído.</seg>
       </tuv>
     </tu>
     <tu>

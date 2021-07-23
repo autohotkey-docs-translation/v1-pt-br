@@ -1438,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Prevent main window from hiding.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213212Z" creationid="Setur" creationdate="20210723T213149Z">
+        <seg>; Impede a janela principal de ser ocultada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Prevents the status bar from showing a mouse-hover link instead of "Done".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201445Z" creationid="Setur" creationdate="20210719T201445Z">
@@ -1690,6 +1698,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200611Z" creationid="Setur" creationdate="20210719T200611Z">
         <seg>; Isto significa que o &lt;a3&gt;fio de execução&lt;/a3&gt; subjacente já está executando o loop abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; This prevents owned GUI windows (but not dialogs) from automatically minimizing:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213123Z" creationid="Setur" creationdate="20210723T213123Z">
+        <seg>; Isto impede janelas de GUIs (mas não janelas de diálogo) de automaticamente minimizarem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; This prevents the main window from hiding on minimize:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213027Z" creationid="Setur" creationdate="20210723T213027Z">
+        <seg>; Isto impede a janela principal de ser oculta ou minimizar:</seg>
       </tuv>
     </tu>
     <tu>

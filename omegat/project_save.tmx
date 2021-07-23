@@ -3104,8 +3104,8 @@
       <tuv lang="en">
         <seg>A &lt;e0&gt;statement&lt;/e0&gt; is simply the smallest standalone element of the language that expresses some action to be carried out.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152225Z" creationid="Setur" creationdate="20210722T152225Z">
-        <seg>Uma &lt;e0&gt;instrução&lt;/e0&gt; é simplesmente o menor e-mail da linguagem que expressa uma ação a ser executada.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T200054Z" creationid="Setur" creationdate="20210722T152225Z">
+        <seg>Uma &lt;e0&gt;instrução&lt;/e0&gt; é simplesmente o menor elemento da linguagem que expressa uma ação a ser executada.</seg>
       </tuv>
     </tu>
     <tu>

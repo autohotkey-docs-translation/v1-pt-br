@@ -5488,8 +5488,8 @@
       <tuv lang="en">
         <seg>External scripts and alternative embedded scripts can be executed by using the &lt;a1&gt;/script&lt;/a1&gt; switch.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214420Z" creationid="Setur" creationdate="20210723T214420Z">
-        <seg>Scripts externos e scripts alternativos incorporados podem ser executados usando-se o interruptor &lt;a1&gt;/script&lt;/a1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T215610Z" creationid="Setur" creationdate="20210723T214420Z">
+        <seg>Scripts externos e scripts alternativos incorporados podem ser executados usando-se o switch &lt;a1&gt;/script&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10315,6 +10315,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202258Z" creationid="Setur" creationdate="20210719T202258Z">
         <seg>Vide &lt;a0&gt;biblioteca padrão GDI+&lt;/a0&gt;, por tic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;a0&gt;Passing Command Line Parameters to a Script&lt;/a0&gt; for command line usage, including a list of command line switches which affect the program's behavior.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T215602Z" creationid="Setur" creationdate="20210723T215602Z">
+        <seg>Veja &lt;a0&gt;Passando Parâmetros da Linha de Comando para um Script&lt;/a0&gt; para referência sobre o uso da linha de comando, inclusive uma lista de switches que afetam o comportamento do programa.</seg>
       </tuv>
     </tu>
     <tu>

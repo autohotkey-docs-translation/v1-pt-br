@@ -10439,6 +10439,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running a non-UIA script which uses a mouse hook (even as simple as &lt;c0&gt;#InstallMouseHook&lt;/c0&gt;) may prevent all mouse hotkeys from working when the mouse is pointing at a window owned by a UIA script, even hotkeys implemented by the UIA script itself.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T040328Z" creationid="Leo" creationdate="20210724T040328Z">
+        <seg>Executar um script sem UIA que usa um gancho de mouse (mesmo se for tão simples quanto &lt;c0&gt;#InstallMouseHook&lt;/c0&gt;) pode impedir o funcionamento de todas as hotkeys de mouse quando o mouse estiver apontando para uma janela pertencente a um script com UIA, mesmo hotkeys implementadas pelo próprio script UIA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Same as above, but you are assigning a value of a variable to another variable.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203902Z" creationid="Leo" creationdate="20210625T203902Z">

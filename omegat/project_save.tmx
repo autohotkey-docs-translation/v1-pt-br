@@ -3128,8 +3128,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Tip:&lt;/s0&gt; If your browser supports it, you can download any code block (such as the one above) as a script file by clicking the button which appears in the top-right of the code block when you hover your mouse over it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205521Z" creationid="Setur" creationdate="20210723T205521Z">
-        <seg>&lt;s0&gt;Dica:&lt;/s0&gt; se seu navegador suporta, você pode fazer o download de qualquer bloco de código (como o acima) como um arquivo de script clicando-se no botão que aparece no canto superior direito do bloco de código quando você passa o cursor do mouse sobre.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T045446Z" creationid="Setur" creationdate="20210723T205521Z">
+        <seg>&lt;s0&gt;Dica:&lt;/s0&gt; se seu navegador suporta, você pode fazer o download de qualquer bloco de código (como o acima) como um arquivo de script clicando-se no botão que aparece no canto superior direito do  retângulo quando você passa o cursor do mouse sobre.</seg>
       </tuv>
     </tu>
     <tu>

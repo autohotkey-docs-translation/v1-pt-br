@@ -2886,6 +2886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Extract&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033651Z" creationid="Leo" creationdate="20210724T033651Z">
+        <seg>&lt;s0&gt;Extrair&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Get&lt;/s0&gt; a value.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131855Z" creationid="Setur" creationdate="20210722T131855Z">
@@ -2974,6 +2982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; Installer.ahk must be run as admin to work correctly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033646Z" creationid="Leo" creationdate="20210724T033646Z">
+        <seg>&lt;s0&gt;Observação:&lt;/s0&gt;o script Installer.ahk deve ser executado como administrador para funcionar corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Note:&lt;/s0&gt; There are exceptions, but those tend to cause confusion a lot of the time.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T212757Z" creationid="Leo" creationdate="20210622T212757Z">
@@ -3042,6 +3058,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182430Z" creationid="Setur" creationdate="20210719T182430Z">
         <seg>&lt;s0&gt;Outros problemas:&lt;/s0&gt; As sugestões acima cobrem a maior parte dos problemas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Restart scripts&lt;/s0&gt; &lt;s1&gt;[v1.1.19.02+]&lt;/s1&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033804Z" creationid="Leo" creationdate="20210724T033804Z">
+        <seg>&lt;s0&gt;Reiniciar scripts&lt;/s0&gt; &lt;s1&gt;[v1.1.19.02+]&lt;/s1&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5718,6 +5742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For AutoHotkey versions older than 1.1.08.00, use &lt;c0&gt;uninst.exe /S&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033555Z" creationid="Leo" creationdate="20210724T033555Z">
+        <seg>Para versos do AutoHotkey anteriores à 1.1.08.00, use &lt;c0&gt;uninst.exe /S&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For Example:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202101Z" creationid="Setur" creationdate="20210719T202101Z">
@@ -7399,6 +7431,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this function is present, the &lt;c1&gt;/E&lt;/c1&gt; switch can be used to invoke it from the command line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033742Z" creationid="Leo" creationdate="20210724T033742Z">
+        <seg>Se essa função estiver presente, o switch &lt;c1&gt;/E&lt;/c1&gt; pode ser usado para invocá-la a partir da linha de comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If this is the case, you cannot directly make that particular key a hotkey because your keyboard driver or hardware handles it at a level too low for AutoHotkey to access.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080043Z" creationid="Leo" creationdate="20210703T080043Z">
@@ -7851,6 +7891,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201919Z" creationid="Leo" creationdate="20210625T201919Z">
         <seg>Em resumo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In silent install/uninstall mode, running scripts are closed automatically, where necessary.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033856Z" creationid="Leo" creationdate="20210724T033856Z">
+        <seg>No modo de instalação/desinstalação silenciosa, os scripts que estiverem em execução são fechados automaticamente, quando necessário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8379,6 +8427,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230540Z" creationid="Leo" creationdate="20210703T230540Z">
         <seg>Grande</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Later versions of the installer include a link in the bottom-right corner to extract setup files without installing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033723Z" creationid="Leo" creationdate="20210724T033723Z">
+        <seg>Versões posteriores do instalador incluem um link no canto inferior direito para extrair os arquivos de instalação sem instalar.</seg>
       </tuv>
     </tu>
     <tu>

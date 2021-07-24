@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Taskbar buttons&lt;/s0&gt; &lt;s1&gt;[v1.1.08+]&lt;/s1&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034110Z" creationid="Leo" creationdate="20210724T034110Z">
+        <seg>&lt;s0&gt;Botões da barra de tarefas&lt;/s0&gt; &lt;s1&gt;[v1.1.08+]&lt;/s1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;This is important:&lt;/s0&gt; A lot of games, especially modern ones, have cheat prevention software.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181830Z" creationid="Leo" creationdate="20210625T181830Z">
@@ -9495,6 +9503,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows 7 and later, taskbar buttons for multiple scripts are automatically grouped together or combined into one button by default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034137Z" creationid="Leo" creationdate="20210724T034137Z">
+        <seg>No Windows 7 e posteriores, os botões da barra de tarefas para múltiplos scripts são automaticamente agrupados ou combinados em um único botão, por padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On a related note, the contents of the address bar and status bar can be retrieved as demonstrated at &lt;a1&gt;www.autohotkey.com/forum/topic19255.html&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T201330Z" creationid="Setur" creationdate="20210719T201330Z">
@@ -9739,6 +9755,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150938Z" creationid="Setur" creationdate="20210722T150938Z">
         <seg>Passagem de parâmetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pass the &lt;c2&gt;/R&lt;/c2&gt; switch to automatically reload these scripts using whichever EXE they were running on, &lt;s3&gt;without&lt;/s3&gt; command line args.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033928Z" creationid="Leo" creationdate="20210724T033928Z">
+        <seg>Passe o switch &lt;c2&gt;/R&lt;/c2&gt; para automaticamente recarregar esses scripts usando qualquer que seja o EXE que os estava executando.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10843,6 +10867,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T065506Z" creationid="Leo" creationdate="20210627T065506Z">
         <seg>Definir valores em um objeto é tão simples quanto definir o valor de uma variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setup will attempt to launch the scripts via Explorer, so they do not run as administrator if UAC is enabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034044Z" creationid="Leo" creationdate="20210724T034044Z">
+        <seg>A instalação vai tentar executar os scripts via Explorer, então eles não serão executados como administrador se o UAC estiver ativo.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2262,6 +2262,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;/A32&lt;/c0&gt; or &lt;c1&gt;/ANSI&lt;/c1&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033223Z" creationid="Leo" creationdate="20210724T033223Z">
+        <seg>&lt;c0&gt;/A32&lt;/c0&gt; ou &lt;c1&gt;/ANSI&lt;/c1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;/U64&lt;/c0&gt; or &lt;c1&gt;/x64&lt;/c1&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033233Z" creationid="Leo" creationdate="20210724T033233Z">
+        <seg>&lt;c0&gt;/U64&lt;/c0&gt; ou &lt;c1&gt;/x64&lt;/c1&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;&lt;s1&gt;Var&lt;/s1&gt; = 123abc&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050356Z" creationid="Leo" creationdate="20210629T050356Z">
@@ -3078,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Uninstall&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033341Z" creationid="Leo" creationdate="20210724T033341Z">
+        <seg>&lt;s0&gt;Desinstalação&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Version&lt;/s0&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033034Z" creationid="Leo" creationdate="20210724T033034Z">
@@ -3434,6 +3458,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T094151Z" creationid="Ragnar-F" creationdate="20210717T094113Z">
         <seg>ALT+S":"Tecla de atalho: ALT+U",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ANSI 32-bit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033228Z" creationid="Leo" creationdate="20210724T033228Z">
+        <seg>ANSI 32 bits</seg>
       </tuv>
     </tu>
     <tu>
@@ -6010,6 +6042,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184957Z" creationid="Leo" creationdate="20210702T184957Z">
         <seg>Por exemplo, a hotkey a seguir não usa o gancho de teclado, mas como um efeito colateral ela é acionada ao se pressionar &lt;e3&gt;tanto&lt;/e3&gt; &lt;k4&gt;Home&lt;/k4&gt; quanto NumpadHome:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the following installs silently and sets ANSI 32-bit as the default:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033332Z" creationid="Leo" creationdate="20210724T033332Z">
+        <seg>POR EXEMPLO, o comando a seguir instala silenciosamente e define a versão ANSI 32 bits como a padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13016,6 +13056,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To silently uninstall AutoHotkey, pass the &lt;c1&gt;/Uninstall&lt;/c1&gt; parameter to Installer.ahk.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033528Z" creationid="Leo" creationdate="20210724T033528Z">
+        <seg>Para desintalar silenciosamente o AutoHotkey, passe o parâmetro &lt;c1&gt;/Uninstall&lt;/c1&gt; ao Installer.ahk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To stop an action that is repeating inside a &lt;a0&gt;Loop&lt;/a0&gt;, consider the following working example, which is a hotkey that both starts and stops its own repeating action.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T200406Z" creationid="Setur" creationdate="20210719T200406Z">
@@ -13164,6 +13212,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184508Z" creationid="Setur" creationdate="20210719T184508Z">
         <seg>O UAC também impede o funcionamento dos comandos &lt;a0&gt;SendPlay&lt;/a0&gt; e &lt;a1&gt;BlockInput&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode 32-bit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033253Z" creationid="Leo" creationdate="20210724T033253Z">
+        <seg>Unicode 32 bits.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode 64-bit (only valid on 64-bit systems).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033247Z" creationid="Leo" creationdate="20210724T033247Z">
+        <seg>Unicode 64 bits (só válida em sistemas de 64 bits).</seg>
       </tuv>
     </tu>
     <tu>

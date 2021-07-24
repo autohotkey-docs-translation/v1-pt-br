@@ -2102,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Run&lt;/a0&gt; tries both.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035659Z" creationid="Leo" creationdate="20210724T035659Z">
+        <seg>&lt;a0&gt;Run&lt;/a0&gt; tenta executar ambos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;RunWait&lt;/a0&gt; %ComSpec% /c dir &gt; C:\My Temp File.txt</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195409Z" creationid="Setur" creationdate="20210719T195409Z">
@@ -4278,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Because UIA programs run at a different "integrity level" than other programs, they can only access objects registered by other UIA programs.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035843Z" creationid="Leo" creationdate="20210724T035843Z">
+        <seg>Tendo em vista que programas UIA executam em um “nível de integridade” diferente de outros programas, eles só podem acessar objetos registrados por outros programas UIA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Because a variable only ever contains a &lt;e0&gt;reference&lt;/e0&gt; to an object and not the object itself, when you pass such a variable to a non-ByRef parameter, what the function receives is a reference to the same object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011454Z" creationid="Leo" creationdate="20210723T011454Z">
@@ -5962,6 +5978,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T185841Z" creationid="Leo" creationdate="20210721T020215Z">
         <seg>Por exemplo, &lt;c0&gt;42&lt;/c0&gt; e &lt;c1&gt;42.0&lt;/c1&gt; são geralmente equivalentes, mas nem sempre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c0&gt;&lt;a1&gt;ComObjActive&lt;/a1&gt;("Word.Application")&lt;/c0&gt; will fail because Word is not marked for UI Access.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035926Z" creationid="Leo" creationdate="20210724T035926Z">
+        <seg>Por exemplo, &lt;c0&gt;&lt;a1&gt;ComObjActive&lt;/a1&gt;("Word.Application")&lt;/c0&gt; vai falhar porque o Microsoft Word não está marcado para acesso com IU.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10967,6 +10991,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ShellExecute can be used instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035652Z" creationid="Leo" creationdate="20210724T035652Z">
+        <seg>ShellExecute pode ser usado no lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044435Z" creationid="Leo" creationdate="20210629T044435Z">
@@ -12099,6 +12131,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211940Z" creationid="Setur" creationdate="20210723T211940Z">
         <seg>A janela principal do script é normalmente oculta, mas pode ser exibida por meio do &lt;a0&gt;ícone da bandeja&lt;/a0&gt; ou um dos comandos listados abaixo para obter-se acesso a informações úteis para depurar o script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script's own windows can't be automated by non-UIA programs/scripts for security reasons.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T040031Z" creationid="Leo" creationdate="20210724T040031Z">
+        <seg>As janelas do próprio script não podem ser automatizadas por programas/scripts que não sejam UIA por motivos de segurança.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13428,6 +13468,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035532Z" creationid="Leo" creationdate="20210724T035532Z">
         <seg>UIA só é eficaz se o arquivo estiver num local confiável; isto é, um subdiretório de “Arquivos de Programas”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UIA.exe files cannot be modified, as it would invalidate the file's digital signature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035805Z" creationid="Leo" creationdate="20210724T035805Z">
+        <seg>Arquivos UIA não podem ser modificados, uma vez que isso invalidaria a assinatura digital do arquivo.</seg>
       </tuv>
     </tu>
     <tu>

@@ -3166,6 +3166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;[v1.1.24.02+]:&lt;/s0&gt; For command-line installations, specify &lt;c1&gt;/IsHostApp&lt;/c1&gt; or &lt;c2&gt;/IsHostApp=1&lt;/c2&gt; to enable the option and &lt;c3&gt;/IsHostApp=0&lt;/c3&gt; to disable it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034325Z" creationid="Leo" creationdate="20210724T034325Z">
+        <seg>&lt;s0&gt;[v1.1.24.02+]:&lt;/s0&gt; para instalações via linha de comando, especifique as opções &lt;c1&gt;/IsHostApp&lt;/c1&gt; ou &lt;c2&gt;/IsHostApp=1&lt;/c2&gt; para habilitar a opção e &lt;c3&gt;/IsHostApp=0&lt;/c3&gt; para desabilitá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; The letters a-z or A-Z can be used to refer to the corresponding virtual keycodes (usually vk41-vk5A) even if they are not included in the current keyboard layout.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T175929Z" creationid="Leo" creationdate="20210702T072119Z">
@@ -10271,6 +10279,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run with UI Access &lt;s0&gt;[v1.1.24.02+]&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034332Z" creationid="Leo" creationdate="20210724T034332Z">
+        <seg>Executar com acesso de IU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run, %A_MyDocuments%</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050339Z" creationid="Leo" creationdate="20210629T050339Z">
@@ -11631,6 +11647,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e2&gt;Separate taskbar buttons&lt;/e2&gt; option disables this by registering each AutoHotkey executable as a &lt;a3&gt;host app (IsHostApp)&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034229Z" creationid="Leo" creationdate="20210724T034229Z">
+        <seg>A opção &lt;e2&gt;Botões separados na barra de tarefas&lt;/e2&gt; desabilita isso registrando cada executável do AutoHotkey como um &lt;a3&gt;aplicativo hospedeiro (IsHostApp)&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e2&gt;length&lt;/e2&gt; of a string is the number of characters in the sequence, while the &lt;e3&gt;position&lt;/e3&gt; of a character in the string is merely that character's sequential number.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T131619Z" creationid="Leo" creationdate="20210721T015324Z">
@@ -11795,6 +11819,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T133054Z" creationid="Leo" creationdate="20210723T003743Z">
         <seg>As funções &lt;a0&gt;StrGet&lt;/a0&gt; e &lt;a1&gt;StrPut&lt;/a1&gt; podem ser usadas para converter strings entre a codificação nativa e alguma outra codificação especificada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The installer GUI has an option "Add 'Run with UI Access' to context menus".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034416Z" creationid="Leo" creationdate="20210724T034416Z">
+        <seg>A interface gráfica (GUI) do instalador tem a opção “Add 'Run with UI Access' to context menus”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12451,6 +12483,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003601Z" creationid="Leo" creationdate="20210624T003601Z">
         <seg>Este comando literalmente envia o pressionamento de teclas, para simular a digitação ou o simples pressionamento de quaisquer teclas do teclado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This context menu option provides a workaround for common &lt;a0&gt;UAC-related issues&lt;/a0&gt; by allowing the script to automate administrative programs - without the script running as admin.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034623Z" creationid="Leo" creationdate="20210724T034623Z">
+        <seg>Essa opção de menu contextual provê um contorno para &lt;a0&gt;problemas comuns relacionados ao UAC&lt;/a0&gt; ao permitir que o script automatize programas administrativos - sem que o script esteja executando como administrador.</seg>
       </tuv>
     </tu>
     <tu>

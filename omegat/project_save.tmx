@@ -4958,6 +4958,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copies AutoHotkeyA32.exe, AutoHotkeyU32.exe and (if present) AutoHotkeyU64.exe to AutoHotkey*_UIA.exe.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034748Z" creationid="Leo" creationdate="20210724T034748Z">
+        <seg>Copia os executáveis AutoHotkeyA32.exe, AutoHotkeyU32.exe e (se presente) AutoHotkeyU64.exe para AutoHotkey*_UIA.exe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copying that variable, as in &lt;c4&gt;yourObj := myObj&lt;/c4&gt;, creates a new reference to the &lt;e5&gt;same&lt;/e5&gt; object.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131232Z" creationid="Setur" creationdate="20210722T131232Z">
@@ -12948,6 +12956,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T140318Z" creationid="Setur" creationdate="20210722T140318Z">
         <seg>&lt;e0&gt;Inicializar&lt;/e0&gt; uma variável é atribuir a ela um valor inicial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To achieve this, the installer does the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034706Z" creationid="Leo" creationdate="20210724T034706Z">
+        <seg>Para conseguir isso, o instalador faz o seguinte:</seg>
       </tuv>
     </tu>
     <tu>

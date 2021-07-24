@@ -3494,6 +3494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A workaround is to ensure UIA scripts are loaded last.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T040416Z" creationid="Leo" creationdate="20210724T040416Z">
+        <seg>Uma solução de contorno é certificar-se que scripts UIA sejam carregados por último.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ALT+C":true,</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T091914Z" creationid="Ragnar-F" creationdate="20210717T091850Z">
@@ -6266,6 +6274,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145544Z" creationid="Setur" creationdate="20210722T145544Z">
         <seg>Para inteiros, o número também é armazenado, então isso não tem efeitos adversos para além da performance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more details, see &lt;a0&gt;Enable interaction with administrative programs&lt;/a0&gt; on the archive forum.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T040448Z" creationid="Leo" creationdate="20210724T040448Z">
+        <seg>Para mais detalhes, veja &lt;a0&gt;Habilitar interação com programas administrativos&lt;/a0&gt; no fórum arquivado.</seg>
       </tuv>
     </tu>
     <tu>

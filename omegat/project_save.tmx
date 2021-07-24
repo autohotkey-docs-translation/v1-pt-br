@@ -3078,6 +3078,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Version&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033034Z" creationid="Leo" creationdate="20210724T033034Z">
+        <seg>&lt;s0&gt;Versão&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Warning:&lt;/s0&gt; Only &lt;a1&gt;Send&lt;/a1&gt;, &lt;a2&gt;GetKeyName()&lt;/a2&gt;, &lt;a3&gt;GetKeyVK()&lt;/a3&gt;, &lt;a4&gt;GetKeySC()&lt;/a4&gt; and &lt;a5&gt;#MenuMaskKey&lt;/a5&gt; support combining VKnn and SCnnn.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090203Z" creationid="Leo" creationdate="20210702T185515Z">
@@ -7151,6 +7159,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If AutoHotkey was previously installed, the installer automatically detects which version of AutoHotkey.exe to set as the default.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033114Z" creationid="Leo" creationdate="20210724T033114Z">
+        <seg>Se o AutoHotkey foi previamente instalado, o instalador automaticamente detecta que versão do AutoHotkey.exe deverá ser definida como a padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If Notepad is not running:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152920Z" creationid="Setur" creationdate="20210722T152920Z">
@@ -9571,6 +9587,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T071134Z" creationid="Leo" creationdate="20210701T071134Z">
         <seg>Outros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Otherwise, the default is Unicode 32-bit or Unicode 64-bit depending on whether the OS is 64-bit.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033146Z" creationid="Leo" creationdate="20210724T033146Z">
+        <seg>Do contrário, a versão padrão é a Unicode 32 bits ou Unicode 64 bits, dependendo de o sistema operacional ser ou não 64 bits.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12892,6 +12916,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210032Z" creationid="Setur" creationdate="20210723T210032Z">
         <seg>Para abrir um script para edição, clique com o botão direito no arquivo e selecione &lt;s0&gt;Edit Script&lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To override which version of AutoHotkey.exe is set as the default, pass one of the following switches:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033214Z" creationid="Leo" creationdate="20210724T033214Z">
+        <seg>Para ignorar qual versão do executável AutoHotkey.exe é definida como a padrão, passe um dos switches a seguir:</seg>
       </tuv>
     </tu>
     <tu>

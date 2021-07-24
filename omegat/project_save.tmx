@@ -1862,14 +1862,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>&lt;/e0&gt;</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T205402Z" creationid="Leo" creationdate="20210625T202008Z">
-        <seg>&lt;/e0&gt;&lt;/e0&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&lt;/e10&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052716Z" creationid="Leo" creationdate="20210626T052716Z">
@@ -3168,8 +3160,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;[AHK_L 51+]:&lt;/s0&gt; Renaming AutoHotkey.exe also changes which script it runs &lt;a1&gt;by default&lt;/a1&gt;, which can be an alternative to compiling a script for use on a computer without AutoHotkey installed.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210723T215956Z" creationid="Setur" creationdate="20210723T215956Z">
-        <seg>&lt;s0&gt;[AHK_L 51+]: renomear AutoHotkey também faz mudar qual script o executável roda &lt;/s0&gt;por padrão&lt;a1&gt;, o que pode ser uma alternativa à compilação do script para usar num computador sem o AutoHotkey instalado.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T044342Z" creationid="Setur" creationdate="20210723T215956Z">
+        <seg>&lt;s0&gt;[AHK_L 51+]:&lt;/s0&gt; renomear AutoHotkey também faz mudar qual script o executável roda &lt;a1&gt;por padrão&lt;/a1&gt;, o que pode ser uma alternativa à compilação do script para usar num computador sem o AutoHotkey instalado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9857,8 +9849,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Pass the &lt;c2&gt;/R&lt;/c2&gt; switch to automatically reload these scripts using whichever EXE they were running on, &lt;s3&gt;without&lt;/s3&gt; command line args.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033928Z" creationid="Leo" creationdate="20210724T033928Z">
-        <seg>Passe o switch &lt;c2&gt;/R&lt;/c2&gt; para automaticamente recarregar esses scripts usando qualquer que seja o EXE que os estava executando.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T044416Z" creationid="Leo" creationdate="20210724T033928Z">
+        <seg>Passe o switch &lt;c2&gt;/R&lt;/c2&gt; para automaticamente recarregar esses scripts usando qualquer que seja o EXE que os estava executando, &lt;s3&gt;sem&lt;/s3&gt; argumentos da linha de comando.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2942,6 +2942,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Known limitations&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035502Z" creationid="Leo" creationdate="20210724T035502Z">
+        <seg>&lt;s0&gt;Limitações conhecidas&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Maximum length:&lt;/s0&gt; 253 characters.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005843Z" creationid="Leo" creationdate="20210723T005843Z">
@@ -13412,6 +13420,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184508Z" creationid="Setur" creationdate="20210719T184508Z">
         <seg>O UAC também impede o funcionamento dos comandos &lt;a0&gt;SendPlay&lt;/a0&gt; e &lt;a1&gt;BlockInput&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UIA is only effective if the file is in a trusted location; i.e. a Program Files sub-directory.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035532Z" creationid="Leo" creationdate="20210724T035532Z">
+        <seg>UIA só é eficaz se o arquivo estiver num local confiável; isto é, um subdiretório de “Arquivos de Programas”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UIA.exe files cannot be started via CreateProcess due to security restrictions.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035643Z" creationid="Leo" creationdate="20210724T035643Z">
+        <seg>Arquivos UIA.exe não podem ser iniciados via CreateProcess devido a restrições de segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UIA.exe files created on one computer cannot run on other computers without first installing the digital certificate which was used to sign them.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035624Z" creationid="Leo" creationdate="20210724T035624Z">
+        <seg>Arquivos UIA.exe criados em um computador não podem executar em outros computadores sem antes instalar o certificado digital que foi usado para assiná-los.</seg>
       </tuv>
     </tu>
     <tu>

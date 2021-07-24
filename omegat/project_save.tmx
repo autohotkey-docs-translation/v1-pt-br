@@ -5070,6 +5070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates a self-signed digital certificate named "AutoHotkey" and signs each UIA file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034915Z" creationid="Leo" creationdate="20210724T034915Z">
+        <seg>Cria um certificado digital autoassinado nomeado “AutoHotkey” e assina cada arquivo UIA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating Objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193149Z" creationid="Leo" creationdate="20210622T193149Z">
@@ -5818,6 +5826,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214121Z" creationid="Setur" creationdate="20210723T214121Z">
         <seg>Para o ID de um número inteiro, o nome do recurso deve ser uma cerquilha (#) seguida de um número decimal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For command-line installations, specify &lt;c0&gt;/uiAccess&lt;/c0&gt; or &lt;c1&gt;/uiAccess=1&lt;/c1&gt; to enable the option and &lt;c2&gt;/uiAccess=0&lt;/c2&gt; to disable it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035225Z" creationid="Leo" creationdate="20210724T035225Z">
+        <seg>Para instalações na linha de comando, especifique &lt;c0&gt;/uiAccess&lt;/c0&gt; ou &lt;c1&gt;/uiAccess=1&lt;/c1&gt; para habilitar a opção e &lt;c2&gt;/uiAccess=0&lt;/c2&gt; para desabilitá-la.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7323,6 +7339,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191911Z" creationid="Setur" creationdate="20210719T191911Z">
         <seg>Se todas estas falharem, então pode não ser possível que o AHK funcione com o seu jogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If any these UIA files are present before installation, the installer will automatically update them even if the UI Access option is not enabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035020Z" creationid="Leo" creationdate="20210724T035020Z">
+        <seg>Se quaisquer desses arquivos UIA estiverem presentes antes da instalação, o instalador irá automaticamente atualizá-los mesmo se a opção UI Access não estiver marcada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10071,6 +10095,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Registers the context menu option to run the appropriate exe file.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034933Z" creationid="Leo" creationdate="20210724T034933Z">
+        <seg>Registra a opção do menu contexto para executar o executável apropriado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Related</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145934Z" creationid="Setur" creationdate="20210722T145934Z">
@@ -10883,6 +10915,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063354Z" creationid="Leo" creationdate="20210624T045329Z">
         <seg>Envia &lt;k0&gt;Win&lt;/k0&gt; (a tecla do logo do Windows), portanto &lt;c1&gt;Send #e&lt;/c1&gt;&lt;k2&gt;&lt;/k2&gt; faz segurar a tecla Win e então pressionar E&lt;k3&gt;&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sets the &lt;a0&gt;uiAccess attribute&lt;/a0&gt; in each UIA file's embedded manifest.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034849Z" creationid="Leo" creationdate="20210724T034849Z">
+        <seg>Define o &lt;a0&gt;atributo uiAccess&lt;/a0&gt; no manifesto embutido em cada arquivo UIA.</seg>
       </tuv>
     </tu>
     <tu>

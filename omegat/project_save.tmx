@@ -3126,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Send:&lt;/s0&gt; By default, Send is synonymous with SendEvent; but it can be made a synonym for SendInput or SendPlay via &lt;a1&gt;SendMode&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143307Z" creationid="Setur" creationdate="20210726T143307Z">
+        <seg>&lt;s0&gt;Send:&lt;/s0&gt; por padrão, Send é sinônimo de SendEvent; mas também pode se tornar um sinônimo de SendInput ou SendPlay por meio do comando &lt;a1&gt;SendMode&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Send&lt;/s0&gt; Keys</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142310Z" creationid="Setur" creationdate="20210726T142310Z">
@@ -3218,6 +3226,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034325Z" creationid="Leo" creationdate="20210724T034325Z">
         <seg>&lt;s0&gt;[v1.1.24.02+]:&lt;/s0&gt; para instalações via linha de comando, especifique as opções &lt;c1&gt;/IsHostApp&lt;/c1&gt; ou &lt;c2&gt;/IsHostApp=1&lt;/c2&gt; para habilitar a opção e &lt;c3&gt;/IsHostApp=0&lt;/c3&gt; para desabilitá-la.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; Enclosing a plain ASCII letter (a-z or A-Z) in braces forces it to be sent as the corresponding virtual keycode, even if the character does not exist on the current keyboard layout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143101Z" creationid="Setur" creationdate="20210726T143101Z">
+        <seg>&lt;s0&gt;[v.1.1.27+]:&lt;/s0&gt; envolver uma letra puramente ASCII (a-z ou A-Z) em chaves força-a a ser enviada com o código de tecla virtual, mesmo se o caractere não existir no layout do teclado em uso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6022,6 +6038,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For details, see the &lt;a3&gt;remarks below&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143143Z" creationid="Setur" creationdate="20210726T143143Z">
+        <seg>Para detalhes, veja as &lt;a3&gt;observações abaixo&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, 'A' always has the character code 65.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T154323Z" creationid="Setur" creationdate="20210722T154323Z">
@@ -6130,6 +6154,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T010229Z" creationid="Leo" creationdate="20210624T010229Z">
         <seg>Por exemplo, &lt;c1&gt;Send, ^!a&lt;/c1&gt; faz pressionar &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;Alt&lt;/k3&gt;+&lt;k4&gt;A&lt;/k4&gt;, enquanto &lt;c5&gt;Send, ^{Home}&lt;/c5&gt; faz pressionar &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;Home&lt;/k7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c2&gt;{Tab}&lt;/c2&gt; is &lt;k3&gt;Tab&lt;/k3&gt; and &lt;c4&gt;{!}&lt;/c4&gt; is a literal exclamation mark.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142957Z" creationid="Setur" creationdate="20210726T142957Z">
+        <seg>Por exemplo, &lt;c2&gt;{Tab&lt;/c2&gt; é &lt;k3&gt;Tab&lt;/k3&gt; e &lt;c4&gt;{!}&lt;/c4&gt; é um ponto de exclamação literal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7939,6 +7971,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T144503Z" creationid="Setur" creationdate="20210722T144503Z">
         <seg>Para passar parâmetros para um objeto COM, o programa deve converter o conteúdo da variável para ou uma número &lt;e0&gt;ou&lt;/e0&gt; uma string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, &lt;c1&gt;Send a&lt;/c1&gt; produces the letter "a" while &lt;c2&gt;Send {a}&lt;/c2&gt; may or may not produce "a", depending on the keyboard layout.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143132Z" creationid="Setur" creationdate="20210726T143132Z">
+        <seg>Em outras palavras &lt;c1&gt;Send a&lt;/c1&gt; produz a letra “a” enquanto &lt;c2&gt;Send {a}&lt;/c2&gt; pode ou não produzir “a”, dependendo do layout do teclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10855,6 +10895,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Send variants</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143148Z" creationid="Setur" creationdate="20210726T143148Z">
+        <seg>Variantes do comando Send</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Send {KEY down}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T194358Z" creationid="Setur" creationdate="20210719T194358Z">
@@ -11979,6 +12027,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185715Z" creationid="Leo" creationdate="20210702T185715Z">
         <seg>Os botões do joystick.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The characters &lt;c0&gt;{}&lt;/c0&gt; are used to enclose &lt;a1&gt;key names and other options&lt;/a1&gt;, and to send special characters literally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142933Z" creationid="Setur" creationdate="20210726T142933Z">
+        <seg>Os caracteres &lt;c0&gt;{}&lt;/c0&gt; são usados para envolver &lt;a1&gt;nomes de teclas e outras opções&lt;/a1&gt;, bem como para enviar caracteres especiais literalmente.</seg>
       </tuv>
     </tu>
     <tu>

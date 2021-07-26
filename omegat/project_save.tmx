@@ -2406,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c1&gt;{Blind}&lt;/c1&gt; must be the first item in the string to enable the Blind mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174643Z" creationid="Setur" creationdate="20210726T174643Z">
+        <seg>&lt;c1&gt;{Blind}&lt;/c1&gt; deve ser o primeiro item na string para habilitar o modo Cego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c1&gt;{Enter}&lt;/c1&gt; and &lt;c2&gt;{Space}&lt;/c2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T175213Z" creationid="Leo" creationdate="20210625T175213Z">
@@ -6406,6 +6414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the hotkey &lt;c0&gt;+s::Send {Blind}abc&lt;/c0&gt; would send ABC rather than abc because the user is holding down &lt;k1&gt;Shift&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174750Z" creationid="Setur" creationdate="20210726T174750Z">
+        <seg>Por exemplo, a hotkey &lt;c0&gt;+s::Send {Blind}abc&lt;/c0&gt; enviaria ABC em vez de abc porque o usuário está mantendo &lt;k1&gt;Shift&lt;/k1&gt; pressionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the name of a key to send or a program to run, the number of times a hotkey has been pressed, the title of a window to activate, or whatever else has some meaning within the program or script.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015121Z" creationid="Leo" creationdate="20210721T015121Z">
@@ -8527,6 +8543,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It has the following effects:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174650Z" creationid="Setur" creationdate="20210726T174650Z">
+        <seg>Ele tem os seguintes efeitos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is a key or key combination that the person at the keyboard presses to trigger some actions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211920Z" creationid="Leo" creationdate="20210622T211920Z">
@@ -9155,6 +9179,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065842Z" creationid="Leo" creationdate="20210702T065404Z">
         <seg>Teclas Modificadoras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifier keys are restored differently to allow a Send to turn off a hotkey's modifiers even if the user is still physically holding them down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174836Z" creationid="Setur" creationdate="20210726T174836Z">
+        <seg>Teclas modificadoras são restauradas de maneira diferente para permitir que o comando Send desabilite os modificadores de uma hotkey mesmo se o usuário ainda está fisicamente mantendo as teclas pressionadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12155,6 +12187,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192537Z" creationid="Leo" creationdate="20210622T192537Z">
         <seg>Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Blind mode avoids releasing the modifier keys (Alt, Ctrl, Shift, and Win) if they started out in the down position.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174720Z" creationid="Setur" creationdate="20210726T174720Z">
+        <seg>O modo Cego evita a soltura das teclas modificadoras (Alt, Ctrl, Shift e Win) se elas começaram na posição “pressionada” (down).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Blind mode can be enabled with &lt;c0&gt;{Blind}&lt;/c0&gt;, which gives the script more control by disabling a number of things that are normally done automatically to make things work as expected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174623Z" creationid="Setur" creationdate="20210726T174623Z">
+        <seg>O modo cego pode ser habilitado com &lt;c0&gt;{Blind}&lt;/c0&gt;, o que dá ao script mais controle ao desabilitar várias coisas que normalmente acontecem automaticamente, de forma a fazer com que o script funcione da maneira esperada.</seg>
       </tuv>
     </tu>
     <tu>

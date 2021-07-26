@@ -2246,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a3&gt;SendMode&lt;/a3&gt; can be used to make Send synonymous with SendInput or SendPlay.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144037Z" creationid="Setur" creationdate="20210726T144037Z">
+        <seg>&lt;a3&gt;SendMode&lt;/a3&gt; pode ser usado para fazer com que Send torne-se sinônimo de SendInput ou SendPlay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a5&gt;Local variables&lt;/a5&gt; are visible only inside the function which created them.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132325Z" creationid="Setur" creationdate="20210722T135847Z">

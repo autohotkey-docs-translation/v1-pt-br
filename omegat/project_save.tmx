@@ -6214,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;c4&gt;{Raw}&lt;/c4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144356Z" creationid="Setur" creationdate="20210726T144356Z">
+        <seg>Por exemplo, &lt;c4&gt;{Raw}&lt;/c4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c7&gt;vk1Bsc001::&lt;/c7&gt; raises an error in v1.1.27+, but &lt;c8&gt;sc001&lt;/c8&gt; was ignored (had no effect) in previous versions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185655Z" creationid="Leo" creationdate="20210702T185629Z">
@@ -10303,6 +10311,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Raw mode</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144402Z" creationid="Setur" creationdate="20210726T144402Z">
+        <seg>Modo bruto (Raw)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Recognizes unusual keys not mentioned above.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184519Z" creationid="Leo" creationdate="20210702T184519Z">
@@ -11647,6 +11663,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Special modes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144221Z" creationid="Setur" creationdate="20210726T144221Z">
+        <seg>Modos especiais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specifically, send a key-up to modify the state of the IME, but prevent any other effects by signalling the keyboard hook to suppress the event.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081930Z" creationid="Leo" creationdate="20210703T081930Z">
@@ -12199,6 +12223,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following modes affect the interpretation of the characters in &lt;e0&gt;Keys&lt;/e0&gt; or the behavior of key-sending commands such as Send, SendInput, SendPlay, SendEvent and &lt;a1&gt;ControlSend&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144307Z" creationid="Setur" creationdate="20210726T144307Z">
+        <seg>Os modos a seguir afetam a interpretação dos caracteres nas &lt;e0&gt;Teclas&lt;/e0&gt; ou o comportamento de comandos que enviam pressionamentos de tecla como Send, SendInput, SendPlay, SendEvent e &lt;a1&gt;ControlSend&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The fourth button (XButton1) and the fifth button (XButton2) might be assignable if your mouse driver allows their clicks to be &lt;a0&gt;seen&lt;/a0&gt; by the system.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203212Z" creationid="Setur" creationdate="20210719T203212Z">
@@ -12371,6 +12403,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132109Z" creationid="Setur" creationdate="20210722T130904Z">
         <seg>O uso correto de objetos (e, em particular, &lt;a0&gt;classes&lt;/a0&gt;) pode resultar em código &lt;e1&gt;modular&lt;/e1&gt; e &lt;e2&gt;reusável&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rate at which keystrokes are sent is determined by &lt;a3&gt;SetKeyDelay&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144217Z" creationid="Setur" creationdate="20210726T144217Z">
+        <seg>A frequência com que as teclas são enviadas é determinada pelo comando &lt;a3&gt;SetKeyDelay&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12731,6 +12771,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T084759Z" creationid="Leo" creationdate="20210702T071106Z">
         <seg>Estes botões podem ser &lt;a0&gt;usados como hotkeys&lt;/a0&gt; com alguns (mas não todos) mouses que tenham uma segunda roda ou tenham suporte à inclinação da roda para qualquer dos lados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These modes must be specified as &lt;c2&gt;{x}&lt;/c2&gt; in &lt;e3&gt;Keys&lt;/e3&gt;, where x is either Raw, Text, or Blind.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144348Z" creationid="Setur" creationdate="20210726T144348Z">
+        <seg>Esses modos são especificados commo &lt;c2&gt;{x}&lt;/c2&gt; em “&lt;e3&gt;Teclas&lt;/e3&gt;”, onde x é Raw, Text ou Blind.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2350,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;`n&lt;/c0&gt;, &lt;c1&gt;`r&lt;/c1&gt; and &lt;c2&gt;`r`n&lt;/c2&gt; are all translated to a single &lt;k3&gt;Enter&lt;/k3&gt;, unlike the default behavior and Raw mode, which translate &lt;c4&gt;`r`n&lt;/c4&gt; to two &lt;k5&gt;Enter&lt;/k5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174146Z" creationid="Setur" creationdate="20210726T174146Z">
+        <seg>&lt;c0&gt;`n&lt;/c0&gt;, &lt;c1&gt;`r&lt;/c1&gt; e &lt;c2&gt;`r`n&lt;/c2&gt; são todas traduzidas para um único &lt;k3&gt;Enter&lt;/k3&gt;, ao contrário do comportamento padrão e do modo Bruto, que traduzem &lt;c4&gt;`r`n&lt;/c4&gt; para dois &lt;k5&gt;Enter&lt;/k5&gt;s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;if &lt;s1&gt;Var1&lt;/s1&gt; &lt; %Var2%&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051240Z" creationid="Leo" creationdate="20210626T051240Z">
@@ -2434,6 +2442,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004654Z" creationid="Leo" creationdate="20210624T004654Z">
         <seg>&lt;c5&gt;!A&lt;/c5&gt; produz um efeito diferente de &lt;c6&gt;!a&lt;/c6&gt; em alguns programas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c6&gt;`t&lt;/c6&gt; is translated to &lt;k7&gt;Tab&lt;/k7&gt; and &lt;c8&gt;`b&lt;/c8&gt; to &lt;k9&gt;Backspace&lt;/k9&gt;, but all other characters are sent without translation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174243Z" creationid="Setur" creationdate="20210726T174243Z">
+        <seg>&lt;c6&gt;`t&lt;/c6&gt; é traduzido para &lt;k7&gt;Tab&lt;/k7&gt; e &lt;c8&gt;`b&lt;/c8&gt; para &lt;k9&gt;Backspace&lt;/k9&gt;, mas todos os demais caracteres são enviados sem tradução.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c7&gt;Send {Blind}{Text}your text&lt;/c7&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174033Z" creationid="Setur" creationdate="20210726T174033Z">
+        <seg>&lt;c7&gt;Send {Blind}{Text}seu texto&lt;/c7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7407,6 +7431,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, some applications require that the modifier keys be released.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174102Z" creationid="Setur" creationdate="20210726T174102Z">
+        <seg>Contudo, alguns aplicativos requerem que as teclas modificadoras sejam soltas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, some code pages contain characters which are represented by sequences of multiple bytes (these are always non-ASCII characters).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T200745Z" creationid="Leo" creationdate="20210723T003252Z">
@@ -12129,8 +12161,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The Text mode can be enabled with &lt;c0&gt;{Text}&lt;/c0&gt;, which is similar to the Raw mode, except that no attempt is made to translate characters (other than &lt;c1&gt;`r&lt;/c1&gt;, &lt;c2&gt;`n&lt;/c2&gt;, &lt;c3&gt;`t&lt;/c3&gt; and &lt;c4&gt;`b&lt;/c4&gt;) to keycodes; instead, the &lt;a5&gt;fallback method&lt;/a5&gt; is used for all of the remaining characters.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T173732Z" creationid="Setur" creationdate="20210726T173732Z">
-        <seg>O modo Texto pode ser habilitado com &lt;c0&gt;{Texto}&lt;/c0&gt;, o que é similar ao modo Bruto, exceto que não se tenta traduzir os caracteres (&lt;c1&gt;com exceção de &lt;/c1&gt;`r&lt;c2&gt;, &lt;/c2&gt;`n&lt;c3&gt;, &lt;/c3&gt;`t&lt;c4&gt; e &lt;/c4&gt;`b&lt;a5&gt;) para os respectivos códigos de teclas; em vez disso, o &lt;/a5&gt;método de salvaguarda é usado para todos os demais caracteres.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174021Z" creationid="Setur" creationdate="20210726T173732Z">
+        <seg>O modo Texto pode ser habilitado com &lt;c0&gt;{Text}&lt;/c0&gt;, o que é similar ao modo Bruto, exceto que não se tenta traduzir os caracteres (&lt;c1&gt;com exceção de &lt;/c1&gt;`r&lt;c2&gt;, &lt;/c2&gt;`n&lt;c3&gt;, &lt;/c3&gt;`t&lt;c4&gt; e &lt;/c4&gt;`b&lt;a5&gt;) para os respectivos códigos de teclas; em vez disso, o &lt;/a5&gt;método de salvaguarda é usado para todos os demais caracteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13227,6 +13259,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210722T001853Z" creationid="Setur" creationdate="20210719T194942Z">
         <seg>Isso também pode ajudar outros usuários do AutoHotkey, já que a empresa do antivírus pode confirmar o arquivo como um falso positivo e consertar o produto deles para conviver de boa com o AutoHotkey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This mode can be combined with the Blind mode to avoid releasing any modifier keys:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174005Z" creationid="Setur" creationdate="20210726T174005Z">
+        <seg>Esse modo pode ser combinado com o modo Cego para evitar a soltura de quaisquer teclas modificadoras:</seg>
       </tuv>
     </tu>
     <tu>

@@ -6198,6 +6198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;c0&gt;^space::Send {Ctrl up}&lt;/c0&gt; automatically pushes &lt;k1&gt;Ctrl&lt;/k1&gt; back down if the user is still physically holding &lt;k2&gt;Ctrl&lt;/k2&gt;, whereas &lt;c3&gt;^space::Send {Blind}{Ctrl up}&lt;/c3&gt; allows &lt;k4&gt;Ctrl&lt;/k4&gt; to be logically up even though it is physically down.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174944Z" creationid="Setur" creationdate="20210726T174944Z">
+        <seg>Por exemplo, &lt;c0&gt;^space::Send {Ctrl up}&lt;/c0&gt; automaticamente pressiona &lt;k1&gt;Ctrl&lt;/k1&gt; de novo se o usuário ainda estiver fisicamente segurando &lt;k2&gt;Ctrl&lt;/k2&gt;, ao passo que &lt;c3&gt;^space::Send {Blind}{Ctrl up}&lt;/c3&gt; permite que &lt;k4&gt;Ctrl&lt;/k4&gt; esteja logicamente solta apesar de estar fisicamente pressionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c0&gt;myObject.@home()&lt;/c0&gt; is not valid, but &lt;c1&gt;myObject["@home"]()&lt;/c1&gt; is acceptable.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010542Z" creationid="Leo" creationdate="20210723T010542Z">

@@ -6198,6 +6198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;c3&gt;SendRaw ``100`%&lt;/c3&gt; sends the string &lt;c4&gt;`100%&lt;/c4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T173439Z" creationid="Setur" creationdate="20210726T173439Z">
+        <seg>Por exemplo, &lt;c3&gt;SendRaw ``100%&lt;/c3&gt; envia a string &lt;c4&gt;`100%&lt;/c4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c4&gt;!A&lt;/c4&gt; presses &lt;k5&gt;Alt&lt;/k5&gt;+&lt;k6&gt;Shift&lt;/k6&gt;+&lt;k7&gt;A&lt;/k7&gt; and &lt;c8&gt;!a&lt;/c8&gt; presses &lt;k9&gt;Alt&lt;/k9&gt;+&lt;k10&gt;A&lt;/k10&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142903Z" creationid="Setur" creationdate="20210726T142903Z">
@@ -11911,6 +11919,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text mode &lt;s0&gt;[v1.1.27+]&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T173521Z" creationid="Setur" creationdate="20210726T173521Z">
+        <seg>Modo texto &lt;s0&gt;[v1.1.27+]&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text needs to be wrapped in quotes:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T191648Z" creationid="Leo" creationdate="20210625T191648Z">
@@ -12087,10 +12103,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Raw mode does not affect the interpretation of &lt;a0&gt;escape sequences&lt;/a0&gt;, &lt;a1&gt;variable references&lt;/a1&gt; and &lt;a2&gt;expressions&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T173356Z" creationid="Setur" creationdate="20210726T173356Z">
+        <seg>O modo Bruto não afeta a interpretação de &lt;a0&gt;sequencias de escape&lt;/a0&gt;, &lt;a1&gt;referências a variáveis&lt;/a1&gt; e &lt;a2&gt;expressões&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Send, SendRaw, SendInput, SendPlay and SendEvent commands send simulated keystrokes and mouse clicks to the active window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T140655Z" creationid="Setur" creationdate="20210726T140655Z">
         <seg>Os comandos Send, sendraw, SendInput, SendPlay e SendEvent enviam pressionamentos de tecla simulados e cliques do mouse para a janela ativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Text mode can be enabled with &lt;c0&gt;{Text}&lt;/c0&gt;, which is similar to the Raw mode, except that no attempt is made to translate characters (other than &lt;c1&gt;`r&lt;/c1&gt;, &lt;c2&gt;`n&lt;/c2&gt;, &lt;c3&gt;`t&lt;/c3&gt; and &lt;c4&gt;`b&lt;/c4&gt;) to keycodes; instead, the &lt;a5&gt;fallback method&lt;/a5&gt; is used for all of the remaining characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T173732Z" creationid="Setur" creationdate="20210726T173732Z">
+        <seg>O modo Texto pode ser habilitado com &lt;c0&gt;{Texto}&lt;/c0&gt;, o que é similar ao modo Bruto, exceto que não se tenta traduzir os caracteres (&lt;c1&gt;com exceção de &lt;/c1&gt;`r&lt;c2&gt;, &lt;/c2&gt;`n&lt;c3&gt;, &lt;/c3&gt;`t&lt;c4&gt; e &lt;/c4&gt;`b&lt;a5&gt;) para os respectivos códigos de teclas; em vez disso, o &lt;/a5&gt;método de salvaguarda é usado para todos os demais caracteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14596,6 +14628,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193106Z" creationid="Leo" creationdate="20210622T193106Z">
         <seg>Quando usar o símbolo de porcentagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using &lt;a5&gt;ControlSend&lt;/a5&gt;, it is also necessary to escape literal commas (&lt;c6&gt;`,&lt;/c6&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T173503Z" creationid="Setur" creationdate="20210726T173503Z">
+        <seg>Quando usar &lt;a5&gt;ControlSend&lt;/a5&gt; também é necessário escapar vírgulas literais (&lt;c6&gt;`,&lt;/c6&gt;).</seg>
       </tuv>
     </tu>
     <tu>

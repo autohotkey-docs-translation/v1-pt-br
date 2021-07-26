@@ -3150,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;SendEvent&lt;/s0&gt; &lt;s1&gt;[v1.0.43+]:&lt;/s1&gt; SendEvent sends keystrokes using the same method as the pre-1.0.43 &lt;e2&gt;Send&lt;/e2&gt; command.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144151Z" creationid="Setur" creationdate="20210726T144151Z">
+        <seg>&lt;s0&gt;SendEvent&lt;/s0&gt; &lt;s1&gt;[v1.0.43+]:&lt;/s1&gt; SendEvent envia pressionamentos de tecla usando o mesmo método do comando Send tal como este funcionava nas versões anteriores à 1.0.43.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;SendInput&lt;/s0&gt; and &lt;s1&gt;SendPlay&lt;/s1&gt; &lt;s2&gt;[v1.0.43+]:&lt;/s2&gt; SendInput and SendPlay use the same syntax as Send but are generally faster and more reliable.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143434Z" creationid="Setur" creationdate="20210726T143434Z">
@@ -6426,6 +6434,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145544Z" creationid="Setur" creationdate="20210722T145544Z">
         <seg>Para inteiros, o número também é armazenado, então isso não tem efeitos adversos para além da performance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more details about each mode, see &lt;a4&gt;SendInput&lt;/a4&gt; and &lt;a5&gt;SendPlay&lt;/a5&gt; below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144058Z" creationid="Setur" creationdate="20210726T144058Z">
+        <seg>Para mais detalhes de cada modo, veja &lt;a4&gt;SendInput&lt;/a4&gt; e &lt;a5&gt;SendPlay&lt;/a5&gt; abaixo.</seg>
       </tuv>
     </tu>
     <tu>

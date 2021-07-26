@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4880,16 +4880,16 @@
       <tuv lang="en">
         <seg>Concepts and Conventions</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014543Z" creationid="Leo" creationdate="20210721T014543Z">
-        <seg>Conceitos e convenções</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210726T134524Z" creationid="Leo" creationdate="20210721T014543Z">
+        <seg>Conceitos e Convenções</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Concepts and Conventions | AutoHotkey</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014452Z" creationid="Leo" creationdate="20210721T014452Z">
-        <seg>Conceitos e convenções | AutoHotkey</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210726T134516Z" creationid="Leo" creationdate="20210721T014452Z">
+        <seg>Conceitos e Convenções | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>

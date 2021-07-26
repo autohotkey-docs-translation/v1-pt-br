@@ -3206,10 +3206,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s1&gt;SendRaw&lt;/s1&gt; Keys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142314Z" creationid="Setur" creationdate="20210726T142314Z">
+        <seg>&lt;s1&gt;SendRaw&lt;/s1&gt; Teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;Z&lt;/s1&gt; (has Z axis), &lt;s2&gt;R&lt;/s2&gt; (has R axis), &lt;s3&gt;U&lt;/s3&gt; (has U axis), &lt;s4&gt;V&lt;/s4&gt; (has V axis), &lt;s5&gt;P&lt;/s5&gt; (has POV control), &lt;s6&gt;D&lt;/s6&gt; (the POV control has a limited number of discrete/distinct settings), &lt;s7&gt;C&lt;/s7&gt; (the POV control is continuous/fine).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090630Z" creationid="Leo" creationdate="20210703T074019Z">
         <seg>&lt;s1&gt;Z&lt;/s1&gt; (possui um eixo Z), &lt;s2&gt;R&lt;/s2&gt; (possui um eixo R), &lt;s3&gt;U&lt;/s3&gt; (possui um eixo U), &lt;s4&gt;V&lt;/s4&gt; (possui um eixo V), &lt;s5&gt;P&lt;/s5&gt; (possui controle de ponto de visão), &lt;s6&gt;D&lt;/s6&gt; (o controle de ponto de visão possui um número limitado de configurações discretas/distintas), &lt;s7&gt;C&lt;/s7&gt; (o controle de ponto de visão é contínuo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s2&gt;SendInput&lt;/s2&gt; Keys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142324Z" creationid="Setur" creationdate="20210726T142324Z">
+        <seg>&lt;s2&gt;SendInput&lt;/s2&gt; Teclas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,10 +3238,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s3&gt;SendPlay&lt;/s3&gt; Keys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142326Z" creationid="Setur" creationdate="20210726T142326Z">
+        <seg>&lt;s3&gt;SendPlay&lt;/s3&gt; Teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s4&gt;Note&lt;/s4&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063210Z" creationid="Leo" creationdate="20210624T004621Z">
         <seg>&lt;s4&gt;Observação&lt;/s4&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s4&gt;SendEvent&lt;/s4&gt; Keys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142330Z" creationid="Setur" creationdate="20210726T142330Z">
+        <seg>&lt;s4&gt;SendEvent&lt;/s4&gt; Teclas</seg>
       </tuv>
     </tu>
     <tu>
@@ -4070,6 +4102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As with other commands, the comma in front of the first parameter is optional.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142357Z" creationid="Setur" creationdate="20210726T142357Z">
+        <seg>Tal como em outros comandos, a vírgula na frente do primeiro parâmetro é opcional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Asking for Help</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193404Z" creationid="Leo" creationdate="20210622T193404Z">
@@ -4546,6 +4586,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T142738Z" creationid="Setur" creationdate="20210722T142738Z">
         <seg>Por convenção, a maioria dessas variáveis inicia com o prefixo &lt;c3&gt;A_&lt;/c3&gt;, então é melhor evitar usar esse prefixo nas variáveis que você criar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default (that is, if neither SendRaw nor the &lt;a0&gt;Raw mode&lt;/a0&gt; or &lt;a1&gt;Text mode&lt;/a1&gt; is used), the characters &lt;c2&gt;^+!#{}&lt;/c2&gt; have a special meaning.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142446Z" creationid="Setur" creationdate="20210726T142446Z">
+        <seg>Por padrão (isto é, se nem o comando SendRaw nem o &lt;a0&gt;modo Bruto&lt;/a0&gt; ou &lt;a1&gt;modo textual&lt;/a1&gt; são usados), os caracteres &lt;c2&gt;^+!#{}&lt;/c2&gt; têm um significado especial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8495,6 +8543,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keys</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142337Z" creationid="Setur" creationdate="20210726T142332Z">
+        <seg>Teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keys and their mysterious symbols</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192815Z" creationid="Leo" creationdate="20210622T192815Z">
@@ -11855,6 +11911,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The characters &lt;c3&gt;^+!#&lt;/c3&gt; represent the modifier keys &lt;k4&gt;Ctrl&lt;/k4&gt;, &lt;k5&gt;Shift&lt;/k5&gt;, &lt;k6&gt;Alt&lt;/k6&gt; and &lt;k7&gt;Win&lt;/k7&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142516Z" creationid="Setur" creationdate="20210726T142516Z">
+        <seg>Os caracteres &lt;c3&gt;^+!#&lt;/c3&gt; representam as teclas modificadoras &lt;k4&gt;Ctrl&lt;/k4&gt;, &lt;k5&gt;Shift&lt;/k5&gt;, &lt;k6&gt;Alt&lt;/k6&gt; e &lt;k7&gt;Win&lt;/k7&gt;Win, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The compiler itself (Ahk2Exe) is not needed to run scripts.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195255Z" creationid="Setur" creationdate="20210719T195255Z">
@@ -12199,6 +12263,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sequence of keys to send.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142343Z" creationid="Setur" creationdate="20210726T142343Z">
+        <seg>A sequência de teclas a enviar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The shortcut to the script should now be in the Startup folder.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202958Z" creationid="Setur" creationdate="20210719T202958Z">
@@ -12491,6 +12563,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215950Z" creationid="Leo" creationdate="20210623T030015Z">
         <seg>Esses comandos especiais (tecnicamente chamados de “diretivas”) criam hotkeys e hotstrings sensíveis ao contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They affect only the very next key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142528Z" creationid="Setur" creationdate="20210726T142528Z">
+        <seg>Isso afeta somente a tecla que vier logo depois.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13240,6 +13320,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To just press (hold down) or release the key, follow the key name with the word "down" or "up" as shown below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142628Z" creationid="Setur" creationdate="20210726T142628Z">
+        <seg>Apenas pressione (segure) ou solte a tecla, e escreva a palavra “down” ou “up” após o nome da tecla (pressionar e soltar, respectivamente), como mostrado abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To learn how, read &lt;a0&gt;the tutorial&lt;/a0&gt; or &lt;a1&gt;dive straight in&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T065729Z" creationid="Leo" creationdate="20210701T064926Z">
@@ -13324,6 +13412,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191424Z" creationid="Setur" creationdate="20210719T191424Z">
         <seg>Para salvar como UTF-8 com BOM no Bloco de Notas, selecione &lt;e0&gt;UTF-8&lt;/e0&gt; no menu suspenso &lt;e1&gt;Codificação&lt;/e1&gt; dentro da janela Salvar como.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To send the corresponding modifier key on its own, enclose the key name in braces.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142550Z" creationid="Setur" creationdate="20210726T142550Z">
+        <seg>Para enviar a tecla modificadora correspondente em si, envolva o nome da tecla em chaves.</seg>
       </tuv>
     </tu>
     <tu>

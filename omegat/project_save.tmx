@@ -12071,6 +12071,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Raw mode can be either enabled with &lt;c0&gt;{Raw}&lt;/c0&gt;, SendRaw or &lt;a1&gt;ControlSendRaw&lt;/a1&gt;, which causes all subsequent characters, including the special characters &lt;c2&gt;^+!#{}&lt;/c2&gt;, to be interpreted literally rather than translating &lt;c3&gt;{Enter}&lt;/c3&gt; to &lt;k4&gt;Enter&lt;/k4&gt;, &lt;c5&gt;^c&lt;/c5&gt; to &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;C&lt;/k7&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T145527Z" creationid="Setur" creationdate="20210726T145527Z">
+        <seg>O modo Bruto pode ser habilitado com &lt;c0&gt;{Raw}&lt;/c0&gt;, SendRaw ou &lt;a1&gt;ControlSendRaw&lt;/a1&gt;, que faz com que todos os caracteres subsequentes, incluindo os caracteres especiais &lt;c2&gt;^+!#{}&lt;/c2&gt;, sejam interpretados literalmente em vez de traduzir &lt;c3&gt;{Enter}&lt;/c3&gt; para &lt;k4&gt;Enter&lt;/k4&gt;, &lt;c5&gt;^c&lt;/c5&gt; para &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;C&lt;/k7&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Send, SendRaw, SendInput, SendPlay and SendEvent commands send simulated keystrokes and mouse clicks to the active window.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T140655Z" creationid="Setur" creationdate="20210726T140655Z">

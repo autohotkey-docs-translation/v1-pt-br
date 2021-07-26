@@ -14,6 +14,7 @@ translateData = {
   "Declarations":"Declarações",
   "Operators":"Operadores",
   "Commands":"Comandos",
+  "Ahk2Exe Compiler":true,
   "S̲earch":"Pesqu̲isar",
   "Search tab":"Guia de Pesquisar",
   "Shortcut: ALT+S":"Tecla de atalho: ALT+U",

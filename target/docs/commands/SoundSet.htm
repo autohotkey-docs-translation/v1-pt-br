@@ -16,7 +16,7 @@
 <p>Changes various settings of a sound device (master mute, master volume, etc.)</p>
 
 <pre class="Syntax"><span class="func">SoundSet</span>, NewSetting <span class="optional">, ComponentType, ControlType, DeviceNumber</span></pre>
-<h2 id="Parameters">Parameters</h2>
+<h2 id="Parameters">Parâmetros</h2>
 <dl>
 
   <dt>NewSetting</dt>
@@ -59,7 +59,7 @@ Send {Volume_Mute}  <em>; Mute/unmute the master volume.</em></pre>
 <p>Windows 2000/XP/2003: When SoundSet changes the volume of a component, all of that component's channels (e.g. left and right) are set to the same level. In other words, any off-center "balance" that may have been set previously is lost. This can be avoided for the WAVE component by using <a href="SoundSetWaveVolume.htm">SoundSetWaveVolume</a> instead, which attempts to preserve the existing balance when changing the volume level.</p>
 <p><span class="ver">[v1.1.10+]</span>: On Windows Vista and later, SoundSet attempts to preserve the existing balance when changing the volume level.</p>
 <p>Use <a href="SoundGet.htm">SoundGet</a> to retrieve the current value of a setting.</p>
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="SoundGet.htm">SoundGet</a>, <a href="SoundGetWaveVolume.htm">SoundGetWaveVolume</a>, <a href="SoundSetWaveVolume.htm">SoundSetWaveVolume</a>, <a href="SoundPlay.htm">SoundPlay</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">

@@ -32,7 +32,7 @@
   <li><a href="#nonascii">Por que caracteres do meu script que não sejam ASCII estão sendo exibidos ou enviados incorretamente?</a></li>
   <li><a href="#games">Por que as Hotstrings, o comando Send e o comando MouseClick não funcionam em alguns jogos?</a></li>
   <li><a href="#perf">Como posso melhorar o desempenho do meu script durante a execução de jogos ou quando o processador estiver sob forte demanda?</a></li>
-  <li><a href="#Virus">Meu antivirus está dizendo que o AHK é malware. Ele contém mesmo um vírus?</a></li>
+  <li><a href="#Virus">Meu antivírus está dizendo que o AHK é malware. Ele contém mesmo um vírus?</a></li>
 </ul>
 <p><strong><a href="#common-tasks">Tarefas comuns</a></strong></p>
 <ul>
@@ -70,7 +70,7 @@
 
 <h2 id="language-syntax">Sintaxe da Linguagem</h2>
 <h3 id="quotes">Quando são usadas aspas com os comandos e seus parâmetros?</h3>
-<p>Aspas duplas (") têm significado especial somente quando estão dentro de <a href="Variables.htm#Expressions">expressões</a>. Em todos os demais lugares, elas são tratadas literalmente como se fossem caracteres normais. Entretanto, quando um script executa um programa ou documento, o sistema operacional geralmente exige aspas em volta de qualquer parâmetros da linha de comando que contenha espaços, como neste exemplo: <code>Run, Notepad.exe "C:\Meus Documentos\Lista de Endereços.txt"</code>.</p>
+<p>Aspas duplas (") têm significado especial somente quando estão dentro de <a href="Variables.htm#Expressions">expressões</a>. Em todos os demais lugares, elas são tratadas literalmente como se fossem caracteres normais. Entretanto, quando um script executa um programa ou documento, o sistema operacional geralmente exige aspas em volta de quaisquer parâmetros da linha de comando que contenha espaços, como neste exemplo: <code>Run, Notepad.exe "C:\Meus Documentos\Lista de Endereços.txt"</code>.</p>
 <h3 id="percent">Quando exatamente os nomes de variáveis devem ser envolvidos por sinais de porcentagem?</h3>
 <p>Nomes de variáveis são sempre envoltos em sinais de porcentagem exceto nos casos ilustrados em <strong>negrito</strong> abaixo:</p>
 <ul>
@@ -95,7 +95,7 @@
 <p id="install-7z"><strong>Erro do 7-zip:</strong> Use o 7-zip ou um programa compatível para extrair os arquivos de instalação do EXE de instalação, daí execute o arquivo setup.exe ou Installer.ahk (arraste e solte o Installer.ahk sobre o AutoHotkeyU32.exe).</p>
 <p>O instalador do AutoHotkey vem empacotado em um arquivo 7-zip que se extrai automaticamente e que tenta extrair o conteúdo para o diretório Temp do usuário e executar um script compilado. Algumas vezes as políticas do sistema ou outros fatores impedem arquivos de serem extraídos ou executados. Normalmente nestes casos a mensagem "Erro do 7-zip" é exibida. Extrair manualmente os arquivos para um diretório diferente pode ajudar.</p>
 <p id="install-hang"><strong>Travamentos na instalação:</strong> Se a janela de instalação aparece em branco ou nem aparece, tente uma ou ambas as soluções a seguir:</p>
-<ul><li>Segure <kbd>Ctrl</kbd>Ctrl ou <kbd>Shift</kbd>Shift quando o instalador iniciar. Se aparecer um prompt da UAC, segure <kbd>Ctrl</kbd> ou <kbd>Shift</kbd>Shift enquanto você clica em Yes/Continue. Você deverá ver uma mensagem perguntando se você quer instalar com as opções padrão.</li>
+<ul><li>Segure <kbd>Ctrl</kbd> ou <kbd>Shift</kbd> quando o instalador iniciar. Se aparecer um prompt da UAC, segure <kbd>Ctrl</kbd> ou <kbd>Shift</kbd> enquanto você clica em Yes/Continue. Você deverá ver uma mensagem perguntando se você quer instalar com as opções padrão.</li>
 <li>Instalar usando as <a href="Program.htm#install">opções da linha de comando</a>. Se você extraiu manualmente os arquivos de instalação do EXE instalador, use ou <code>setup.exe /S</code> ou <code>AutoHotkeyU32.exe Installer.ahk /S</code>.</li>
 </ul>
 <p><strong>Outros problemas:</strong> As sugestões acima cobrem a maior parte dos problemas. Para mais assistência, poste nos fóruns.</p>
@@ -211,9 +211,9 @@ Send {TECLA up}</pre>
 <h3 id="perf">Como posso melhorar o desempenho do meu script durante a execução de jogos ou quando o processador estiver sob forte demanda?</h3>
 <p>Se as <a href="Hotkeys.htm">Hotkeys</a>, <a href="commands/Click.htm">Clicks</a> ou <a href="commands/Send.htm">Sends</a> de um script estão visivelmente mais lentos que o normal enquanto a CPU está sob forte carga, aumentar a prioridade do processo do script pode ajudar. Para fazer isso, inclua a linha a seguir perto do topo do script:</p>
 <pre><a href="commands/Process.htm">Process</a>, Priority, , High</pre>
-<h3 id="Virus">Meu programa antivirus acusou o AutoHotkey ou um script compilado de ser malware. Ele é mesmo um vírus?</h3>
-<p>Apesar de ser certamente possível que o arquivo tenha sido infectado, na maioria dos casos esses alertas são <em>falsos positivos</em>, o que significa que o programa de antivirus está equivocado. Uma sugestão comum é enviar o arquivo para um serviço online como <a href="https://www.virustotal.com/">virustotal</a> ou <a href="https://virusscan.jotti.org/">Jotti</a> e ver o que outros programas antivirus têm a dizer. Se estiver em dúvida, você pode enviar o arquivo para o fornecedor de seu antivirus para confirmação. Isso também pode ajudar outros usuários do AutoHotkey, já que a empresa do antivirus pode confirmar o arquivo como um falso positivo e consertar o produto deles para conviver de boa com o AutoHotkey.</p>
-<p>Falsos positivos podem ser mais comuns para scripts compilados que foram comprimidos, como com UPX (padrão para AutoHotkey 1.0 mas não 1.1) ou MPRESS (opcional para AutoHotkey 1.1). Já que que a instalação padrão do AutoHotkey não inclui um compressor, scripts compilados não são comprimidos por padrão.</p>
+<h3 id="Virus">Meu programa antivírus acusou o AutoHotkey ou um script compilado de ser malware. Ele é mesmo um vírus?</h3>
+<p>Apesar de ser certamente possível que o arquivo tenha sido infectado, na maioria dos casos esses alertas são <em>falsos positivos</em>, o que significa que o programa de antivírus está equivocado. Uma sugestão comum é enviar o arquivo para um serviço online como <a href="https://www.virustotal.com/">virustotal</a> ou <a href="https://virusscan.jotti.org/">Jotti</a> e ver o que outros programas antivírus têm a dizer. Se estiver em dúvida, você pode enviar o arquivo para o fornecedor de seu antivírus para confirmação. Isso também pode ajudar outros usuários do AutoHotkey, já que a empresa do antivírus pode confirmar o arquivo como um falso positivo e consertar o produto deles para conviver de boa com o AutoHotkey.</p>
+<p>Falsos positivos podem ser mais comuns para scripts compilados que foram comprimidos, como com UPX (padrão para AutoHotkey 1.0 mas não 1.1) ou MPRESS (opcional para AutoHotkey 1.1). Já que a instalação padrão do AutoHotkey não inclui um compressor, scripts compilados não são comprimidos por padrão.</p>
 
 <h2 id="common-tasks">Tarefas comuns</h2>
 
@@ -267,8 +267,8 @@ return</pre>
 <h3 id="help">Como usar, em qualquer editor, a ajuda sensível ao contexto dos comandos do AutoHotkey?</h3>
 <p>Rajat criou <a href="scripts/index.htm#ContextSensitiveHelp">este script</a>.</p>
 <h3 id="load">Como detectar que uma página da web terminou de ser carregada?</h3>
-<p>Com o Internet Explorer, talvez o método mais confiável é usar DllCall() e COM como demonstrado em <a href="https://www.autohotkey.com/forum/topic19256.html">www.autohotkey.com/forum/topic19256.html</a>. Observação relacionada: o conteúdo da barra de endereços e da barra de status podem ser obtidos como demonstrado em <a href="https://www.autohotkey.com/forum/topic19255.html">www.autohotkey.com/forum/topic19255.html</a>.</p>
-<p>Um método mais antigo e menos confiável: a técnica no exemplo a seguir funcionará com o Internet Explorer na maioria das páginas. Uma técnica similar talvez funcione em outros navegadores:</p>
+<p>Com o Internet Explorer, talvez o método mais confiável seja usar DllCall() e COM como demonstrado em <a href="https://www.autohotkey.com/forum/topic19256.html">www.autohotkey.com/forum/topic19256.html</a>. Observação relacionada: o conteúdo da barra de endereços e da barra de status podem ser obtidos como demonstrado em <a href="https://www.autohotkey.com/forum/topic19255.html">www.autohotkey.com/forum/topic19255.html</a>.</p>
+<p><strong>Um método mais antigo e menos confiável:</strong> a técnica no exemplo a seguir funcionará com o Internet Explorer na maioria das páginas. Uma técnica similar talvez funcione em outros navegadores:</p>
 <pre>Run, www.yahoo.com
 MouseMove, 0, 0  <em>; Impede que a barra de status exiba um link de sobreposição de cursor em vez de "Concluído".</em>
 WinWait, Yahoo! - 

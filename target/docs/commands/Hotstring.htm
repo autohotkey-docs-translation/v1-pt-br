@@ -21,7 +21,7 @@ OldValue := <span class="func">Hotstring</span>("<a href="#EndChars">EndChars</a
 OldValue := <span class="func">Hotstring</span>("<a href="#MouseReset">MouseReset</a>" <span class="optional">, NewValue</span>)
 <span class="func">Hotstring</span>("Reset")
 </pre>
-<h2 id="Parameters">Parameters</h2>
+<h2 id="Parameters">Parâmetros</h2>
 <dl>
 
   <dt>String</dt>
@@ -102,7 +102,7 @@ MsgBox The previous value was: %prev_chars%</pre>
 <p>To set new default options for subsequently created hotstrings, pass the options to the Hotstring function without any leading or trailing colon. Por exemplo: <code>Hotstring("T")</code>.</p>
 <p>Turning on <a href="../Hotstrings.htm#C">case-sensitivity (C)</a> or <a href="../Hotstrings.htm#Question">word-sensitivity (?)</a> also affects which existing hotstrings will be found by any subsequent calls to the Hotstring function. For example, <code>Hotstring(":T:btw")</code> will find <code>::BTW</code> by default, but not if <code>Hotstring("C")</code> or <code><a href="_Hotstring.htm">#Hotstring</a> C</code> is in effect. This can be undone or overridden by passing a mutually-exclusive option; for example, <code>C0</code> and <code>C1</code> override <code>C</code>.</p>
 
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="../Hotstrings.htm">Hotstrings</a>, <a href="_IfWinActive.htm">#IfWinActive/Exist</a>, <a href="_MaxThreadsPerHotkey.htm">#MaxThreadsPerHotkey</a>, <a href="Suspend.htm">Suspend</a>, <a href="../misc/Threads.htm">Threads</a>, <a href="Thread.htm">Thread</a>, <a href="Critical.htm">Critical</a></p>
 
 <h2 id="Examples">Exemplos</h2>

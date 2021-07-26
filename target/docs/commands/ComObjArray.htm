@@ -16,7 +16,7 @@
 
 <pre class="Syntax">ArrayObj := <span class="func">ComObjArray</span>(VarType, Count1 <span class="optional">, Count2, ... Count8</span>)</pre>
 
-<h2 id="Parameters">Parameters</h2>
+<h2 id="Parameters">Parâmetros</h2>
 <dl>
 
   <dt>VarType</dt>
@@ -31,7 +31,7 @@
 
 </dl>
 
-<h2 id="Methods">Methods</h2>
+<h2 id="Methods">Métodos</h2>
 <p>Array wrapper objects support the following methods:</p>
 <p><code class="Syntax">Array.MaxIndex(n)</code>: Returns the upper bound of the <i>n</i>th dimension. If <i>n</i> is omitted, it defaults to 1.</p>
 <p><code class="Syntax">Array.MinIndex(n)</code>: Returns the lower bound of the <i>n</i>th dimension. If <i>n</i> is omitted, it defaults to 1.</p>
@@ -48,7 +48,7 @@ else
 <p><span class="ver">[v1.0.96.00+]:</span> Since SafeArrays are not designed to support multiple references, when one SafeArray is assigned to an element of another SafeArray, a separate copy is created. However, this only occurs if the wrapper object has the F_OWNVALUE flag, which indicates it is responsible for destroying the array. This flag can be removed by using <a href="ComObjFlags.htm">ComObjFlags()</a>.</p>
 <p><span class="ver">[v1.1.17.00+]:</span> When a function or method called by a COM client returns a SafeArray with the F_OWNVALUE flag, a copy is created and returned instead, as the original SafeArray is automatically destroyed.</p>
 
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="ComObjType.htm">ComObjType()</a>, <a href="ComObjValue.htm">ComObjValue()</a>, <a href="ComObjActive.htm">ComObjActive()</a>, <a href="ComObjFlags.htm">ComObjFlags()</a>, <a href="http://msdn.microsoft.com/en-us/library/ms221145.aspx">Array Manipulation Functions (MSDN)</a></p>
 
 <h2 id="Examples">Exemplos</h2>

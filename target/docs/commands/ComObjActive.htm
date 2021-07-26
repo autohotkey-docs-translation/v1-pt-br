@@ -32,7 +32,7 @@ DispPtr := <span class="func">ComObjUnwrap</span>(ComObject)
 DispPtr := <a href="ComObjValue.htm">ComObjValue</a>(ComObject), ObjAddRef(DispPtr)</pre>
 <hr>
 
-<h2 id="Parameters">Parameters</h2>
+<h2 id="Parameters">Parâmetros</h2>
 <dl>
 
   <dt>CLSID</dt>
@@ -91,7 +91,7 @@ MsgBox % vref[]</pre>
 <p>When this function is used to wrap or retrieve an IDispatch or IUnknown interface pointer, the default behaviour is to increment the COM object's reference count. Therefore, the interface pointer must be <a href="ObjAddRef.htm">manually released</a> when it is no longer needed. When the wrapper object is freed, the reference it contains is automatically released.</p>
 <p><b>Known limitation:</b> Each time a COM object is wrapped, a new wrapper object is created. Comparisons and assignments such as <code>if (obj1 == obj2)</code> and <code>array[obj1] := value</code> treat the two wrapper objects as unique, even though they contain the same COM object.</p>
 
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="ComObjCreate.htm">ComObjCreate()</a>, <a href="ComObjGet.htm">ComObjGet()</a>, <a href="ComObjConnect.htm">ComObjConnect()</a>, <a href="ComObjError.htm">ComObjError()</a>, <a href="ComObjFlags.htm">ComObjFlags()</a>, <a href="ObjAddRef.htm">ObjAddRef() / ObjRelease()</a>, <a href="ComObjQuery.htm">ComObjQuery()</a>, <a href="http://msdn.microsoft.com/en-us/library/ms221467.aspx">GetActiveObject (MSDN)</a></p>
 
 <h2 id="Examples">Exemplos</h2>

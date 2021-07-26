@@ -187,7 +187,7 @@ table.base.__Set(table, x, y, content)     <em>; B</em></pre>
 </ul>
 <p>Multi-dimensional assignments such as <code>table[a, b, c, d] := value</code> are handled as follows:</p>
 <ul>
-  <li>If there is only one key remaining, perform the assignment and return. Otherwise:</li>
+  <li>If there is only one key remaining, perform the assignment and return. Do contrário:</li>
   <li>Search the object for the first key in the list.</li>
   <li>If a non-object is found, fail.</li>
   <li>If an object is not found, create one and store it.</li>
@@ -308,7 +308,7 @@ class NestedClass
 }
 </pre>
 
-<h4 id="Custom_Classes_method">Methods</h4>
+<h4 id="Custom_Classes_method">Métodos</h4>
 <p>Method definitions look identical to function definitions. Each method has a hidden parameter named <code>this</code>, which typically contains a reference to an object derived from the class. However, it could contain a reference to the class itself or a derived class, depending on how the method was called. Methods are stored <a href="#Function_References">by reference</a> in the class object.</p>
 <pre>
 Method()

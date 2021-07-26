@@ -16,7 +16,7 @@
 <p>Enables or disables notification of COM errors.</p>
 
 <pre class="Syntax">Enabled := <span class="func">ComObjError</span>(<span class="optional">Enable</span>)</pre>
-<h2 id="Parameters">Parameters</h2>
+<h2 id="Parameters">Parâmetros</h2>
 <dl>
 
   <dt>Enable</dt>
@@ -39,14 +39,14 @@
   <tr>
     <td>1 (enabled)</td>
     <td>
-      <p>If there is an active <a href="Try.htm">Try</a> block, an exception is thrown. Otherwise:</p>
+      <p>If there is an active <a href="Try.htm">Try</a> block, an exception is thrown. Do contrário:</p>
       <p>An error dialog is shown, giving the user the option to continue the script. If the user chooses "Yes", the function, method or property returns a default value (typically an empty string) and the script continues. Otherwise, the script exits.</p>
     </td>
   </tr>
 </table>
 <p>After accessing a COM object, <a href="../Variables.htm#LastError">A_LastError</a> contains the HRESULT code returned by the COM object's <a href="http://msdn.microsoft.com/en-us/library/ms221479.aspx">IDispatch::Invoke</a> function. The script may consult A_LastError within a <a href="Catch.htm">Catch</a> block or after the method or property returns, provided that <code>ComObjError(false)</code> has been used or the user did not choose to exit the script.</p>
 
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="ComObjCreate.htm">ComObjCreate()</a>, <a href="ComObjGet.htm">ComObjGet()</a>, <a href="ComObjActive.htm">ComObjActive()</a>, <a href="ComObjConnect.htm">ComObjConnect()</a>, <a href="ComObjQuery.htm">ComObjQuery()</a></p>
 
 </body>

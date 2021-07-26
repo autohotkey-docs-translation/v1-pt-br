@@ -1,45 +1,45 @@
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 <head>
-<title>Concepts and Conventions | AutoHotkey</title>
-<meta name="description" content="Learn details about some general concepts and conventions used by AutoHotkey, with focus on explanation rather than code." />
+<title>Conceitos e Convenções | AutoHotkey</title>
+<meta name="description" content="Saiba detalhes sobre conceitos gerais e convenções usadas pelo AutoHotkey, num artigo focado mais na explicação do que no código." />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link href="static/theme.css" rel="stylesheet" type="text/css" />
 <script src="static/content.js" type="text/javascript"></script>
 </head>
 <body>
-<h1>Concepts and Conventions</h1>
-<p>This document covers some general concepts and conventions used by AutoHotkey, with focus on explanation rather than code. The reader is not assumed to have any prior knowledge of scripting or programming, but should be prepared to learn new terminology.</p>
-<p>For more specific details about syntax, see <a href="Language.htm">Scripting Language</a>.</p>
+<h1>Conceitos e Convenções</h1>
+<p>Este documento cobre alguns conceitos gerais e convenções usadas pelo AutoHotkey, num artigo focado mais na explicação do que no código. Não se assume que o leitor tenha qualquer conhecimento prévio de confecção de scripts ou programação, mas deve estar preparado para aprender novas terminologias.</p>
+<p>Para detalhes mais específicos sobre a sintaxe, veja <a href="Language.htm">Linguagem de Confecção de Scripts</a>.</p>
 
 <h2 id="toc">Sumário</h2>
 <ul>
-  <li><a href="#values">Values</a>
+  <li><a href="#values">Valores</a>
   <ul>
     <li><a href="#strings">Strings</a></li>
-    <li><a href="#numbers">Numbers</a></li>
-    <li><a href="#boolean">Boolean</a></li>
-    <li><a href="#nothing">Nothing</a></li>
+    <li><a href="#numbers">Números</a></li>
+    <li><a href="#boolean">Valores Booleanos</a></li>
+    <li><a href="#nothing">“Nada”</a></li>
     <li><a href="#objects">Objetos</a></li>
-    <li><a href="#object-protocol">Object Protocol</a></li>
+    <li><a href="#object-protocol">Protocolo dos Objetos</a></li>
   </ul></li>
   <li><a href="#variables">Variáveis</a>
   <ul>
-    <li><a href="#uninitialised-variables">Uninitialised Variables</a></li>
-    <li><a href="#built-in-variables">Built-in Variables</a></li>
-    <li><a href="#environment-variables">Environment Variables</a></li>
+    <li><a href="#uninitialised-variables">Variáveis Não Inicializadas</a></li>
+    <li><a href="#built-in-variables">Variáveis Nativas</a></li>
+    <li><a href="#environment-variables">Variáveis de Ambiente</a></li>
     <li><a href="#caching">Caching</a></li>
   </ul></li>
-  <li><a href="#functions">Functions/Commands</a></li>
-  <li><a href="#control-flow">Control Flow</a></li>
-  <li><a href="#details">Details</a>
+  <li><a href="#functions">Funções/Comandos</a></li>
+  <li><a href="#control-flow">Fluxo de Controle</a></li>
+  <li><a href="#details">Detalhes</a>
   <ul>
-    <li><a href="#string-encoding">String Encoding</a></li>
-    <li><a href="#pure-numbers">Pure Numbers</a></li>
-    <li><a href="#names">Names</a></li>
-    <li><a href="#variable-references">Variable References vs Values</a></li>
-    <li><a href="#references-to-objects">References to Objects</a></li>
+    <li><a href="#string-encoding">Codificação de Strings</a></li>
+    <li><a href="#pure-numbers">Números Puros</a></li>
+    <li><a href="#names">Nomes</a></li>
+    <li><a href="#variable-references">Referências a Variáveis x Valores</a></li>
+    <li><a href="#references-to-objects">Referências a Objetos</a></li>
   </ul></li>
 </ul>
 <!-- TODO:
@@ -49,195 +49,195 @@ Classes
 Exception handling
 -->
 
-<h2 id="values">Values</h2>
-<p>A <em>value</em> is simply a piece of information within a program. For example, the name of a key to send or a program to run, the number of times a hotkey has been pressed, the title of a window to activate, or whatever else has some meaning within the program or script.</p>
-<p>AutoHotkey supports these types of values:</p>
+<h2 id="values">Valores</h2>
+<p>Um <em>valor</em> é simplesmente um pedaço de informação dentro de um programa. Por exemplo, o nome de uma tecla a ser enviada ou um programa a executar, o número de vezes que uma hotkey foi pressionada, o título de uma janela a ser ativada, ou qualquer que seja a coisa que tenha algum significado dentro do programa ou script.</p>
+<p>O AutoHotkey suporta estes tipos de valores:</p>
 <ul>
-  <li><a href="#strings">Strings</a> (text)</li>
-  <li><a href="#numbers">Numbers</a> (integers and floating-point numbers)</li>
+  <li><a href="#strings">Strings</a> (texto)</li>
+  <li><a href="#numbers">Números</a> (inteiros e números de ponto flutuante)</li>
   <li><a href="#objects">Objetos</a></li>
 </ul>
-<p>Some other related concepts:</p>
+<p>Alguns outros conceitos relacionados:</p>
 <ul>
-  <li><a href="#boolean">Boolean</a></li>
-  <li><a href="#nothing">Nothing</a></li>
+  <li><a href="#boolean">Valores Booleanos</a></li>
+  <li><a href="#nothing">“Nada”</a></li>
 </ul>
 
 <h3 id="strings">Strings</h3>
-<p>A <em>string</em> is simply text. Each string is actually a sequence or <em>string</em> of characters, but can be treated as a single entity. The <em>length</em> of a string is the number of characters in the sequence, while the <em>position</em> of a character in the string is merely that character's sequential number. By convention in AutoHotkey, the first character is at position 1.</p>
-<p id="numeric-strings"><strong>Numeric strings:</strong> A string of digits (or any other supported <a href="#numbers">number format</a>) is automatically interpreted as a number when a math operation or comparison requires it. In AutoHotkey v1, comparisons are performed numerically if both values are numeric even if both values are strings. However, a quoted string (or the result of concatenating with a quoted string) is never considered numeric when used directly in an expression.</p>
-<p>How literal text should be written within the script depends on the context. For details, see <a href="Language.htm#legacy-syntax">Legacy Syntax</a> and <a href="Language.htm#strings">Strings (in expressions)</a>.</p>
-<p>For a more detailed explanation of how strings work, see <a href="#string-encoding">String Encoding</a>.</p>
+<p>Uma <em>string</em> é simplesmente texto. Cada string é na verdade uma sequência ou <em>cadeia</em> de caracteres, mas pode ser tratada como uma entidade única. O <em>comprimento</em> de uma string é o número de caracteres na sequência, enquanto a <em>posição</em> de um caractere na string é meramente o número sequencial daquele caractere. No AutoHotkey, por convenção, o primeiro caractere está na posição 1.</p>
+<p id="numeric-strings"><strong>Strings numéricas</strong>: uma string de dígitos (ou qualquer outro <a href="#numbers">formato de número</a> suportado) é automaticamente interpretado como um número quando uma operação matemática ou comparação o requer. Na versão 1 do AutoHotkey, comparações são feitas numericamente se ambos os valores são números mesmo que ambos sejam strings. Entretanto, uma string entre aspas (ou o resultado de da concatenação com uma string entre aspas) nunca é considerada numérica quando usada diretamente numa expressão.</p>
+<p>A forma com que texto literal deve ser escrito dentro do script depende do contexto. Para detalhes, veja <a href="Language.htm#legacy-syntax">Sintaxe Legada</a> e <a href="Language.htm#strings">Strings (em expressões)</a>.</p>
+<p>Para uma explicação mais detalhada de como strings funcionam, veja <a href="#string-encoding">Codificação de Strings</a>.</p>
 
-<h3 id="numbers">Numbers</h3>
-<p>AutoHotkey supports these number formats:</p>
+<h3 id="numbers">Números</h3>
+<p>O AutoHotkey suporta estes formatos de números:</p>
 <ul>
-  <li>Decimal integers, such as <code>123</code>, <code>00123</code> or <code>-1</code>.</li>
-  <li>Hexadecimal integers, such as <code>0x7B</code>, <code>0x007B</code> or <code>-0x1</code>.</li>
-  <li>Decimal floating-point numbers, such as <code>3.14159</code>.</li>
+  <li>Inteiros decimais, como <code>123</code>, <code>00123</code> ou <code>-1</code>.</li>
+  <li>Inteiros hexadecimais, como <code>0x78</code>, <code>0x007B</code> ou <code>-0x1</code>.</li>
+  <li>Números decimais de ponto flutuante, como <code>3.14159</code>.</li>
 </ul>
-<p>Hexadecimal numbers must use the <code>0x</code> or <code>0X</code> prefix, except where noted in the documentation. This prefix must be written after the <code>+</code> or <code>-</code> sign, if present, and before any leading zeroes. For example, <code>0x001</code> is valid, but <code>000x1</code> is not.</p>
-<p>Numbers written with a decimal point are always considered to be floating-point, even if the fractional part is zero. For example, <code>42</code> and <code>42.0</code> are usually interchangeable, but not always. Scientific notation is also recognized, but only if a decimal point is present (e.g. <code>1.0e4</code> and <code>-2.1E-4</code>).</p>
-<p>The decimal separator is always a dot, even if the user's regional settings specify a comma.</p>
-<p>When a number is converted to a string, it is formatted according to the current <a href="commands/SetFormat.htm#remarks">integer or float format</a>. Although the <a href="commands/SetFormat.htm">SetFormat</a> command can be used to change the current format, it is usually better to use the <a href="commands/Format.htm">Format</a> function to format a string. Floating-point numbers can also be formatted by using the <a href="commands/Math.htm#Round">Round</a> function.</p>
-<p>For details about the range and accuracy of numeric values, see <a href="#pure-numbers">Pure Numbers</a>.</p>
+<p>Números hexadecimais devem usar o prefixo <code>0x</code> ou <code>0X</code>, exceto onde estiver especificado na documentação. Esse prefixo deve ser escrito depois do sinal de <code>+</code> ou <code>-</code>, se presente, e antes de quaisquer zeros à esquerda. Por exemplo, <code>0x001</code> é válido, mas <code>000x1</code> não é.</p>
+<p>Números escritos com uma casa decimal são sempre considerados como ponto flutuante, mesmo quando a parte fracionária é zero. Por exemplo, <code>42</code> e <code>42.0</code> são geralmente equivalentes, mas nem sempre. Notação científica também é reconhecida, mas somente se uma casa decimal estiver presente (exemplo: <code>1.0e4</code> e <code>-2.1E-4</code>).</p>
+<p>O separador de casas decimais é sempre um ponto, mesmo se as configurações regionais do usuário especificarem a vírgula.</p>
+<p>Quando um número é convertido em uma string, ele é formatado de acordo com o <a href="commands/SetFormat.htm#remarks">formato de inteiro ou decimal</a> atual. Apesar de o comando <a href="commands/SetFormat.htm">SetFormat</a> poder ser usado para alterar o formato atual, costuma ser melhor usar a função <a href="commands/Format.htm">Format</a> para formatar uma string. Números de ponto flutuante também podem ser formatados usando-se a função <a href="commands/Math.htm#Round">Round</a>.</p>
+<p>Para detalhes sobre o intervalo e a precisão de valores numéricos, veja <a href="#pure-numbers">Números Puros</a>.</p>
 
-<h3 id="boolean">Boolean</h3>
-<p>A <em>boolean</em> value can be either <em>true</em> or <em>false</em>. Boolean values are used to represent anything that has exactly two possible states, such as the <em>truth</em> of an expression. For example, the expression <code>(x &lt;= y)</code> is <em>true</em> when x has lesser or equal value to y. A boolean value could also represent <em>yes</em> or <em>no</em>, <em>on</em> or <em>off</em>, <em>down</em> or <em>up</em> (such as for <a href="commands/GetKeyState.htm#function">GetKeyState</a>) and so on.</p>
-<p>AutoHotkey does not have a specific boolean type, so it uses the integer value <code>0</code> to represent false and <code>1</code> to represent true. When a value is required to be either true or false, a blank or zero value is considered false and all other values are considered true. (Objects are always considered true.)</p>
-<p>The words <code>true</code> and <code>false</code> are <a href="#built-in-variables">built-in variables</a> containing 1 and 0. They can be used to make a script more readable.</p>
+<h3 id="boolean">Valores Booleanos</h3>
+<p>Um valor <em>booleano</em> pode ou ser <em>verdadeiro</em> ou <em>falso</em>. Valores booleanos são usados para representar qualquer coisa que tenha  exatamente dois estados possíveis, como a <em>verdade</em> de uma expressão. Por exemplo, a expressão <code>(x &lt;= y)</code> é <em>verdadeira</em> quando x tem valor igual ou menor que y. Um valor booleano também pode representar <em>sim</em> ou <em>não</em>, <em>ligado</em> ou <em>desligado</em>, <em>pressionada</em> ou <em>solta</em> (nas situações em que o estado de uma tecla é verificado, tal como ocorre quando se usa o comando <a href="commands/GetKeyState.htm#function">GetKeyState</a>), entre outros.</p>
+<p>O AutoHotkey não tem um tipo específico de valor booleano, então ele usa o valor inteiro <code>0</code> para representar falso e <code>1</code> para representar verdadeiro. Quando se exige que um valor seja verdadeiro ou falso, um valor em branco ou igual a zero é considerado falso e todos os demais valores são considerados verdadeiros. (Objetos sempre são considerados verdadeiros.)</p>
+<p>As palavras <code>true</code> e <code>false</code> são <a href="#built-in-variables">variáveis nativas</a> contendo 1 e 0. Elas podem ser usadas para tornar um script mais legível.</p>
 
-<h3 id="nothing">Nothing</h3>
-<p>AutoHotkey does not have a value which uniquely represents <em>nothing</em>, <em>null</em>, <em>nil</em> or <em>undefined</em>, as seen in other languages. Instead, an empty string (a string of zero length) often has this meaning.</p>
-<p>If a <a href="#variables">variable</a> or parameter is said to be "empty" or "blank", that usually means an empty string (a string of zero length).</p>
+<h3 id="nothing">“Nada”</h3>
+<p>O AutoHotkey não possui um valor próprio para representar <em>nothing</em>, <em>null</em>, <em>nil</em> ou <em>undefined</em>, como visto em outras linguagens. Em vez disso, uma string vazia (uma string com comprimento zero) é o que costuma fazer esse papel no AHK.</p>
+<p>Se uma <a href="#variables">variável</a> ou parâmetro é dito “vazio” ou “em branco”, isso geralmente é o mesmo que uma string vazia (uma string de comprimento zero).</p>
 
 <h3 id="objects">Objetos</h3>
-<p>There are generally two ways of viewing objects:</p>
+<p>Há normalmente duas maneiras de visualizar objetos:</p>
 <ul>
-  <li>An object contains a group of values, allowing the group itself to be treated as one value. For example, an object could contain an <em>array</em> or sequence of items, or a set of related values, such as the X and Y coordinates of a position on the screen. Objects can be used to build complex structures by combining them with other objects.</li>
-  <li>An object can represent a <em>thing</em>, a <em>service</em>, or something else, and can provide ways for the script to interact with this thing or service. For example, a <em>BankAccount</em> object might have properties such as the account number, current balance and the owner of the account, and methods to withdraw or deposit an amount.</li>
+  <li>Um objeto contém um grupo de valores, permitindo que o grupo em si seja tratado como um valor. Por exemplo, um objeto poderia conter um <em>vetor</em> ou sequência de itens, ou um conjunto de valores relacionados, como as coordenadas X e Y de uma posição na tela. Objetos podem ser usados para montar estruturas complexas combinando-se-os com outros objetos.</li>
+  <li>Um objeto pode representar uma <em>coisa</em>, um <em>serviço</em>, ou alguma outra coisa, e pode proporcionar maneiras de o script interagir com essa coisa ou serviço. Por exemplo, um objeto <em>ContaBancaria</em> pode ter propriedades como o número da conta, o saldo atual e o titular da conta, e métodos para sacar ou depositar um valor.</li>
 </ul>
-<p>The proper use of objects (and in particular, <a href="Objects.htm#Custom_Classes">classes</a>) can result in code which is <em>modular</em> and <em>reusable</em>. Modular code is usually easier to test, understand and maintain. For instance, one can improve or modify one section of code without having to know the details of other sections, and without having to make corresponding changes to those sections. Reusable code saves time, by avoiding the need to write and test code for the same or similar tasks over and over.</p>
-<p>When you assign an object to a <a href="#variables">variable</a>, as in <code>myObj := {}</code>, what you store is not the object itself, but a <a href="#references-to-objects"><em>reference</em></a> to the object. Copying that variable, as in <code>yourObj := myObj</code>, creates a new reference to the <em>same</em> object. A change such as <code>myObj.ans := 42</code> would be reflected by both <code>myObj.ans</code> and <code>yourObj.ans</code>, since they both refer to the same object. However, <code>myObj := Object()</code> only affects the variable <em>myObj</em>, not the variable <em>yourObj</em>, which still refers to the original object.</p>
+<p>O uso correto de objetos (e, em particular, <a href="Objects.htm#Custom_Classes">classes</a>) pode resultar em código <em>modular</em> e <em>reusável</em>. Código modular é geralmente mais fácil de testar, entender e manter. Por exemplo, alguém pode melhorar ou modificar uma seção de código sem precisar saber os detalhes de outra seção, e sem ter que realizar as modificações necessárias a tais seções. Código reusável poupa tempo, dispensando a necessidade de escrever e testar código para a mesma tarefa ou tarefas similares a cada vez.</p>
+<p>Quando você atribui um objeto a uma <a href="#variables">variável</a>, como no exemplo <code>meuObjeto := {}</code>, o que você armazena não é o objeto em si, mas uma <a href="#references-to-objects"><em>referência</em></a> a ele. Copiar aquela variável, como em <code>seuObjeto := meuObjeto</code>, cria uma nova referência ao <em>mesmo</em> objeto. Uma alteração como <code>meuObjeto.resposta := 42</code> seria refletida tanto em <code>meuObjeto.resposta</code> e <code>seuObjeto.resposta</code>, uma vez que ambos se referem ao mesmo objeto. Contudo, <code>meuObjeto := Object()</code> só afetará a variável <em>meuObjeto</em>, não a variável <em>seuObjeto</em>, a qual ainda se refere ao objeto original.</p>
 
-<h3 id="object-protocol">Object Protocol</h3>
-<p class="note">This section builds on these concepts which are covered in later sections: <a href="#variables">variables</a>, <a href="#functions">functions</a></p>
-<p>Objects work through the principle of <em>message passing</em>. You don't know where an object's code or variables actually reside, so you must pass a message to the object, like "give me <em>foo</em>" or "go do <em>bar</em>", and rely on the object to respond to the message. Objects in AutoHotkey support the following basic messages:</p>
+<h3 id="object-protocol">Protocolo dos Objetos</h3>
+<p class="note">Esta seção se baseia nos conceitos seguintes, que são cobertos em seções posteriores: <a href="#variables">variáveis</a>, <a href="#functions">funções</a></p>
+<p>Objetos funcionam de acordo com o princípio da <em>troca de mensagens</em>. Você não sabe onde um código ou variáveis de um objeto efetivamente ficam, então você deve passar uma mensagem ao objeto, como “dê-me <em>foo</em>” ou “vá fazer <em>bar</em>”, e esperar que o objeto responda a essa mensagem. Objetos no AutoHotkey suportam as mensagens básicas a seguir:</p>
 <ul>
-  <li><strong>Get</strong> a value.</li>
-  <li><strong>Set</strong> a value, denoted by <code>:=</code>.</li>
-  <li><strong>Call</strong> a method, denoted by <code>()</code>.</li>
+  <li><strong>Get</strong> (obter) um valor.</li>
+  <li><strong>Set</strong> (definir) um valor, denotado por <code>:=</code>.</li>
+  <li><strong>Call</strong> (chamar) um método, denotado por <code>()</code>.</li>
 </ul>
-<p>Each message can optionally have one or more <a href="#parameters">parameters</a> (and, for <strong>Set</strong>, the value). Usually there is at least one parameter, and it is interpreted as the name of a property or method, a key or an array index, depending on the object and how you're using it. The parameters of a message are specified using three different patterns: <code>.Name</code>, <code>[Parameters]</code> and <code>(Parameters)</code>, where <em>Name</em> is a literal <a href="#names">name or identifier</a>, and <em>Parameters</em> is a list of parameters (as sub-expressions), which can be empty/blank (<code>[]</code> or <code>()</code>).</p>
-<p>For <strong>Get</strong> and <strong>Set</strong>, <code>.Name</code> and <code>[Parameters]</code> can be used interchangeably, or in combination:</p>
-<pre>myObj[arg1, arg2, ..., argN]
-myObj.name
-myObj.name[arg2, ..., argN]
+<p>Cada mensagem pode opcionalmente possuir um ou mais <a href="#parameters">parâmetros</a>, (e, para o caso de <strong>Set</strong>, o valor). Normalmente existe pelo menos um parâmetro, e ele é interpretado como o nome de uma propriedade ou método, uma chave ou índice de vetor, dependendo do objeto e como você está usando-o. Os parâmetros de uma mensagem são especificados usando-se três diferentes padrões: <code>.Name</code>, <code>[Parâmetros]</code> e <code>(Parâmetros)</code>, onde <em>Name</em> é um <a href="#names">nome ou identificador</a> literal, e <em>Parâmetros</em> é uma lista de parâmetros (na forma de sub-expressões), a qual pode ser vazia/em branco (<code>[]</code> ou <code>()</code>).</p>
+<p>Para <strong>Get</strong> e <strong>Set</strong>, <code>.Name</code> e <code>[Parâmetros]</code> podem ser usados indistintamente, ou em conjunto:</p>
+<pre>meuObjeto[arg1, arg2, ..., argN]
+meuObjeto.name
+meuObjeto.name[arg2, ..., argN]
 </pre>
-<p>For <strong>Call</strong>, <code>.Name</code> and <code>[Parameter]</code> can be used interchangeably, and must always be followed by <code>(Parameters)</code>:</p>
-<pre>myObj.name(arg2, ..., argN)
-myObj[arg1](arg2, ..., argN)
+<p>Para <strong>Call</strong>, <code>.Name</code> e <code>[Parâmetro]</code> podem ser usados indistintamente, e devem sempre ser seguidos de <code>(Parâmetros)</code>:</p>
+<pre>meuObjeto.name(arg2, ..., argN)
+meuObjeto[arg1](arg2, ..., argN)
 </pre>
-<p>Notice that if <code>name</code> is present, it becomes the first parameter. <code>myObj.name</code> is equivalent to <code>myObj["name"]</code>, while <code>myObj.123</code> is equivalent to <code>myObj[123]</code>. This is true for every type of object, so it is always possible to compute the name of a property or method at runtime, rather than hard-coding it into the script.</p>
-<p>Although <em>name</em> or <em>arg1</em> is considered to be the first parameter, remember that these are just <em>messages</em>, and the object is free to handle them in any way. In a method call such as those shown above, usually the object uses <em>name</em> or <em>arg1</em> to identify which method should be called, and then only <em>arg2</em> and beyond are passed to the method. In effect, <em>arg2</em> becomes the method's first apparent parameter.</p>
-<p>Generally, <strong>Set</strong> has the same meaning as an assignment, so it uses the same operator:</p>
-<pre>myObj[arg1, arg2, ..., argN] := value
-myObj.name := value
-myObj.name[arg2, ..., argN] := value
+<p>Note que se <code>name</code> estiver presente, ele se torna o primeiro parâmetro. <code>meuObjeto.name</code> é equivalente a <code>meuObjeto["name"]</code>, enquanto <code>meuObjeto.123</code> é equivalente a <code>meuObjeto[123]</code>. Isso é verdade para todo tipo de objeto, então é sempre possível computar o nome de uma propriedade ou método em tempo de execução, em vez de codificá-lo no script.</p>
+<p>Apesar de <em>name</em> ou <em>arg1</em> serem considerados como o primeiro parâmetro, lembre-se que esses são somente <em>mensagens</em>, e o objeto está livre para manipulá-los de qualquer maneira. mas não sempNuma chamada de método como as mostradas acima, normalmente o objeto usa <em>name</em> ou <em>arg1</em> para identificar qual método deve ser chamado, e então <em>arg2</em> e seguintes são passados ao método. Com efeito, <em>arg2</em> torna-se o primeiro parâmetro aparente do método.</p>
+<p>Geralmente, <strong>Set</strong> tem o mesmo significado de uma atribuição de valor, então usa o mesmo operador:</p>
+<pre>meuObjeto[arg1, arg2, ..., argN] := valor
+meuObjeto.name := valor
+meuObjeto.name[arg2, ..., argN] := valor
 </pre>
-<p>Currently there is also a "hybrid" syntax allowed with <strong>Set</strong>, but it is best not to use it:</p>
-<pre>myObj.name(arg2, ..., argN) := value
+<p>Também existe uma sintaxe “híbrida” permitida para a instrução <strong>Set</strong>, mas é melhor não a usar:</p>
+<pre>meuObjeto.name(arg2, ..., argN) := valor
 </pre>
-<p>Technically, <code>value</code> is passed as the last the parameter of the <em>Set</em> message; however, this detail is almost never relevant to script authors. Generally one can simply think of it as "the value being assigned".</p>
+<p>Tecnicamente, o <code>valor</code> é passado como último parâmetro da mensagem <em>Set</em>, entretanto, esse detalhe quase nunca é relevante para autores de scripts. Geralmente alguém pode simplesmente pensar nele como “o valor que está sendo atribuído”.</p>
 
 <h2 id="variables">Variáveis</h2>
-<p>A variable allows you to use a name as a placeholder for a value. Which value that is could change repeatedly during the time your script is running. For example, a hotkey could use a variable <code>press_count</code> to count the number of times it is pressed, and send a different key whenever <code>press_count</code> is a multiple of 3 (every third press). Even a variable which is only assigned a value once can be useful. For example, a <code>WebBrowserTitle</code> variable could be used to make your code easier to update when and if you were to change your preferred web browser, or if the <a href="misc/WinTitle.htm">title</a> or <a href="misc/WinTitle.htm#ahk_class">window class</a> changes due to a software update.</p>
-<p>In AutoHotkey, variables are created simply by using them. Each variable is <em>not</em> permanently restricted to a single <a href="#values">data type</a>, but can instead hold a value of any type: string, number or object. Each variable starts off empty/blank; in other words, each newly created variable contains an empty string until it is assigned some other value.</p>
-<p>A variable has three main aspects:</p>
+<p>Uma variável permite que você use um nome como um marcador de posição de um valor. Já qual valor é esse é algo que pode mudar repetidamente durante o tempo em que seu script estiver rodando. Por exemplo, uma hotkey pode usar uma variável <code>contagem_pressionamentos</code> para contar o número de vezes que ela foi pressionada, e enviar o pressionamento de uma tecla diferente toda vez que <code>contagem_pressionamentos</code> for um múltiplo de 3 (a cada três pressionamentos). Mesmo uma variável à qual somente uma vez é atribuído um valor pode ser útil. Por exemplo, uma variável <code>TituloDoNavegadorWeb</code> pode ser usada para fazer seu código mais fácil de atualizar quando você resolver mudar seu browser preferido, ou se o <a href="misc/WinTitle.htm">título</a> ou <a href="misc/WinTitle.htm#ahk_class">classe de janela</a> muda devido a uma atualização de software.</p>
+<p>No AutoHotkey, as variáveis são criadas no momento em que são simplesmente usadas. Cada variável <em>não é</em> permanentemente restrita a um <a href="#values">tipo de dados</a>, mas pode ter um valor de qualquer tipo: string, número ou objeto. Cada variável começa vazia/em branco; em outras palavras, cada variável nova contém uma string vazia até que a ela seja atribuído um outro valor.</p>
+<p>Uma variável tem três aspectos principais:</p>
 <ul>
-  <li>The variable's <em>name</em>.</li>
-  <li>The variable itself.</li>
-  <li>The variable's <em>value</em>.</li>
+  <li>Seu <em>nome</em>.</li>
+  <li>A variável em si.</li>
+  <li>O <em>valor</em> da variável.</li>
 </ul>
-<p>Certain restrictions apply to variable names - see <a href="#names">Names</a> for details. In short, it is safest to stick to names consisting of ASCII letters (which are case insensitive), digits and underscore, and to avoid using names that start with a digit.</p>
-<p>A variable name has <strong><em>scope</em></strong>, which defines where in the code that name can be used to refer to that particular variable; in other words, where the variable is <em>visible</em>. If a variable is not visible within a given scope, the same name can refer to a different variable. Both variables might exist at the same time, but only one is visible to each part of the script. <a href="Functions.htm#Global">Global variables</a> are visible in the "global scope" (that is, outside of functions), but must usually be <a href="Functions.htm#Global">declared</a> to make them visible inside a function. <a href="Functions.htm#Local">Local variables</a> are visible only inside the function which created them.</p>
-<p>A variable can be thought of as a container or storage location for a value, so you'll often find the documentation refers to a variable's value as <em>the contents of the variable</em>. For a variable <code>x := 42</code>, we can also say that the variable x has the number 42 as its value, or that the value of x is 42.</p>
-<p>It is important to note that a variable and its value are not the same thing. For instance, we might say "<code>myArray</code> is an array", but what we really mean is that myArray is a variable containing a reference to an array. We're taking a shortcut by using the name of the variable to refer to its value, but "myArray" is really just the name of the variable; the array object doesn't know that it has a name, and could be referred to by many different variables (and therefore many names).</p>
+<p>Algumas restrições se aplicam a nomes - vide <a href="#names">Nomes</a> para detalhes. Em resumo, é melhor manter nomes que consistam somente em letras ASCII (as quais não diferenciam maiúsculas e minúsculas), algarismos e underscores, e evitar usar nomes que comecem com um algarismo.</p>
+<p>Uma variável tem um <strong><em>escopo</em></strong>, o qual define onde no código aquele nome pode ser usado para se referir àquela variável em particular; em outras palavras, onde a variável está <em>visível</em>. Se uma variável não está visível dentro de determinado escopo, o mesmo nome pode ser referir a uma outra variável. Ambas as variáveis podem existir ao mesmo tempo, mas somente uma estará visível a cada parte do script. <a href="Functions.htm#Global">Variáveis globais</a> são visíveis no “escopo global” (isto é, fora de funções), mas devem normalmente ser <a href="Functions.htm#Global">declaradas</a> para ficarem visíveis dentro de uma função. <a href="Functions.htm#Local">Variáveis locais</a> são visíveis somente dentro da função que as criou.</p>
+<p>Uma variável pode ser entendida como um contêiner ou local de armazenamento para um valor, então você muitas vezes vai ver que a documentação se refere ao valor da variável como <em>o conteúdo da variável</em>. Para uma variável <code>x := 42</code>, nós também podemos dizer que a variável x tem o número 42 como seu valor, ou que o valor de x é 42.</p>
+<p>É importante notar que a variável e seu valor não são a mesma coisa. Exemplificativamente, nós poderíamos dizer “<code>meuVetor</code> é um vetor”, mas o que realmente queremos dizer é que meuVetor é uma variável contendo uma referência a um vetor. O que estamos fazendo é tomar um atalho ao usar o nome da variável para se referir ao seu valor, mas “meuVetor” é na verdade apenas o nome da variável; o objeto vetor não sabe que ele tem um nome, e poderia ser referenciado por várias variáveis diferentes (portanto, vários diferentes nomes).</p>
 
-<h3 id="uninitialised-variables">Uninitialised Variables</h3>
-<p>To <em>initialise</em> a variable is to assign it a starting value. Although the program automatically initialises all variables (an empty string being the default value), it is good practice for a script to always initialise its variables before use. That way, anyone reading the script can see what variables the script will be using and what starting values they are expected to have.</p>
-<p>It is usually necessary for the script to initialise any variable which is expected to hold a number. For example, <code>x := x + 1</code> will not work if x has never been assigned a value, since the <em>empty string</em> is considered to be non-numeric. The script should have assigned a starting value, such as <code>x := 0</code>. There are some cases where empty values <em>are</em> assumed to be 0, but it is best not to rely on this.</p>
-<p>Script authors can use the <a href="commands/_Warn.htm">#Warn</a> directive to help find instances where a variable is used without having been initialised by the script.</p>
+<h3 id="uninitialised-variables">Variáveis Não Inicializadas</h3>
+<p><em>Inicializar</em> uma variável é atribuir a ela um valor inicial. Apesar de o programa automaticamente inicializar todas as variáveis (uma string vazia sendo o valor padrão), é uma boa prática que o script sempre inicialize as variáveis antes do uso. Dessa forma, qualquer pessoa lendo o script pode ver quais variáveis o script usará e quais valores iniciais espera-se que elas tenham.</p>
+<p>Costuma ser necessário que o script inicialize qualquer variável cujo valor que se espera que ela armazene seja um número. Por exemplo, <code>x := x + 1</code> não irá funcionar se à variável x nunca tiver sido atribuído um valor antes, já que a <em>string vazia</em> é considerada não numérica. O script deveria ter atribuído um valor inicial, como <code>x := 0</code>. Há alguns casos em que valores vazios <em>são</em> considerados iguais a 0, mas é melhor não pressupor isso.</p>
+<p>Autores de scripts podem usar a diretiva <a href="commands/_Warn.htm">#Warn</a> para ajudar a encontrar instâncias em que uma variável é usada sem ter sido inicializada pelo script.</p>
 
-<h3 id="built-in-variables">Built-in Variables</h3>
-<p>A number of useful variables are built into the program and can be referenced by any script. With the exception of <a href="misc/Clipboard.htm">Clipboard</a>, <a href="misc/ErrorLevel.htm">ErrorLevel</a>, and <a href="Scripts.htm#cmd">command line parameters</a>, these variables are read-only; that is, their contents cannot be directly altered by the script. By convention, most of these variables start with the prefix <code>A_</code>, so it is best to avoid using this prefix for your own variables.</p>
-<p>Some variables such as <a href="Variables.htm#KeyDelay">A_KeyDelay</a> and <a href="Variables.htm#TitleMatchMode">A_TitleMatchMode</a> represent settings that control the script's behavior, and retain separate values for each <a href="misc/Threads.htm">thread</a>. This allows subroutines launched by new threads (such as for hotkeys, menus, timers and such) to change settings without affecting other threads.</p>
-<p>Some special variables are not updated periodically, but rather their value is retrieved or calculated whenever the script references the variable. For example, <a href="misc/Clipboard.htm">Clipboard</a> retrieves the current contents of the clipboard as text, and <a href="Variables.htm#TimeSinceThisHotkey">A_TimeSinceThisHotkey</a> calculates the number of milliseconds that have elapsed since the hotkey was pressed.</p>
-<p>Related: <a href="Variables.htm#BuiltIn">list of built-in variables</a>.</p>
+<h3 id="built-in-variables">Variáveis Nativas</h3>
+<p>Há várias variáveis úteis que são nativas ao programa e que podem ser referenciadas por qualquer script. Com a exceção de <a href="misc/Clipboard.htm">Clipboard</a>, <a href="misc/ErrorLevel.htm">ErrorLevel</a> e <a href="Scripts.htm#cmd">parâmetros da linha de comando</a>, essas variáveis são somente leitura; isto é, seus conteúdos não podem ser diretamente alterados por um script. Por convenção, a maioria dessas variáveis inicia com o prefixo <code>A_</code>, então é melhor evitar usar esse prefixo nas variáveis que você criar.</p>
+<p>Algumas variáveis como <a href="Variables.htm#KeyDelay">A_KeyDelay</a> e <a href="Variables.htm#TitleMatchMode">A_TitleMatchMode</a> representam configurações que controlam o comportamento do script, e retêm valores separados para cada <a href="misc/Threads.htm">fio de execução</a>. Isso permite que sub-rotinas sejam executadas por novos fios de execução (como hotkeys, menus, timers e afins) para alterar configurações sem afetar outros fios de execução.</p>
+<p>Há também algumas variáveis especiais que não são atualizadas periodicamente; em vez disso, seus valores são obtidos ou calculados toda vez que o script referencia essa variável. Por exemplo, <a href="misc/Clipboard.htm">Clipboard</a> obtém o valor do conteúdo atual da área de transferência como texto, e <a href="Variables.htm#TimeSinceThisHotkey">A_TimeSinceThisHotkey</a> calcula o número de milissegundos que se passaram desde que a hotkey foi pressionada.</p>
+<p>Assuntos relacionados: <a href="Variables.htm#BuiltIn">lista de variáveis nativas</a>.</p>
 
-<h3 id="environment-variables">Environment Variables</h3>
-<p>Environment variables are maintained by the operating system. You can see a list of them at the command prompt by typing SET then pressing Enter.</p>
-<p>A script may create a new environment variable or change the contents of an existing one with <a href="commands/EnvSet.htm">EnvSet</a>. Such additions and changes are not seen by the rest of the system. However, any programs or scripts which the script launches by calling <a href="commands/Run.htm">Run</a> or <a href="commands/Run.htm">RunWait</a> usually inherit a copy of the parent script's environment variables.</p>
-<p>It is recommended that all new scripts retrieve environment variables such as Path via <a href="commands/EnvGet.htm">EnvGet</a>:</p>
-<pre>EnvGet, OutputVar, Path  <em>; For explanation, see #NoEnv.</em></pre>
-<p>If a script lacks the <a href="commands/_NoEnv.htm">#NoEnv</a> directive, reading an empty variable will instead return the value of the environment variable with that name, if there is one. This can cause confusion, so it is recommended that all new scripts use #NoEnv.</p>
+<h3 id="environment-variables">Variáveis de Ambiente</h3>
+<p>Variáveis de ambiente são mantidas pelo sistema operacional. Você pode ver uma lista delas no prompt de comando digitando SET e depois Enter.</p>
+<p>Um script pode criar uma variável de ambiente ou alterar o conteúdo de uma com <a href="commands/EnvSet.htm">EnvSet</a>. Tais adições e alterações não são vistas pelo resto do sistema. Todavia, quaisquer programas ou scripts que o script vier a executar por meio do comando <a href="commands/Run.htm">Run</a> ou <a href="commands/Run.htm">RunWait</a> normalmente herdam uma cópia das variáveis de ambiente do script pai.</p>
+<p>Recomenda-se que todos os novos scripts obtenham as variáveis de ambiente, como Path, via <a href="commands/EnvGet.htm">EnvGet</a>.</p>
+<pre>EnvGet, OutputVar, Path  <em>; Para explicações, veja #NoEnv.</em></pre>
+<p>Se um script não possui a diretiva <a href="commands/_NoEnv.htm">#NoEnv</a>, ler uma variável vazia vai, em vez disso, retornar o valor da variável de ambiente com aquele nome, se houver uma. Isso pode causar confusão, então recomenda-se que todos os novos scripts usem #NoEnv.</p>
 
 <h3 id="caching">Caching</h3>
-<p>Although a variable is typically thought of as holding a single value, and that value having a distinct type (string, number or object), AutoHotkey automatically converts between numbers and strings in cases like <code>myString + 1</code> and <code>MsgBox %myNumber%</code>. As these conversions can happen very frequently, whenever a variable is converted, the result is <em>cached</em> in the variable.</p>
-<p>In effect, a variable can contain both a string and a number simultaneously. Usually this just improves the script's performance with no down-sides, but if a variable contains both a number and a string, is it number, or is it a string? This ambiguity causes unexpected behavior in at least two cases:</p>
+<p>Apesar de que tipicamente imagina-se uma variável armazenando um único valor, e também cada variável seja de um tipo distinto (string, número e objeto), o AutoHotkey automaticamente converte entre números e strings em casos como <code>minhaString + 1</code> e <code>MsgBox %meuNumero%</code>. Já que essas conversões podem ocorrer muito frequentemente, toda vez que uma variável é convertida, o resultado é <em>armazenado no cache</em> da variável.</p>
+<p>Como efeito, a variável pode obter tanto uma string quanto um número simultaneamente. Normalmente isso apenas melhora o desempenho do script sem reveses, mas se uma variável contiver tanto um número quanto uma string, então ela é um número, ou é uma string? Essa ambiguidade causa comportamentos inesperados em pelo menos dois casos:</p>
 <ol>
-  <li>COM objects. In order to pass parameters to a COM object, the program must convert the variable's content to either a number <em>or</em> a string. Some COM objects throw an exception if the wrong type of value is passed. If a variable has both, the number is used. Usually this gets the right result, but sometimes it doesn't.</li>
-  <li>Objects don't have the capability to store both a number and a string as a key or value. Since numbers are more memory-efficient, if a variable has both, the number is used (except for floating-point values used as keys).</li>
+  <li>Objetos COM. Para passar parâmetros para um objeto COM, o programa deve converter o conteúdo da variável para ou uma número <em>ou</em> uma string. Alguns objetos COM lançam uma exceção se o tipo errado de valor for passado. Se uma variável possui ambos, o número é usado. Normalmente isso leva ao resultado correto, mas nem sempre.</li>
+  <li>Objetos não têm a capacidade de armazenar um número e uma string ao mesmo tempo como uma chave ou valor. Dado que números são mais eficientes no consumo de memória, se uma variável possui ambos, o número é usado (exceto valores de ponto flutuante usados como chaves).</li>
 </ol>
-<p><a href="commands/SetFormat.htm">SetFormat</a>'s slow mode forces the assignment of a pure number to immediately convert that number to a string. For integers, the number is also stored, so this doesn't have adverse effects other than to performance. For floats, the number is not stored, since SetFormat affects the precision of the value, possibly even truncating all decimal places. In other words, SetFormat's slow mode prevents pure floats from being stored in variables.</p>
-<p>Taking the address of a variable effectively converts the variable's value to a string, disabling caching until the variable's address changes (this happens when its capacity changes). This is both for backward-compatibility and because the script could change the value indirectly via its address at any time, making the cache inaccurate.</p>
+<p>O modo lento do <a href="commands/SetFormat.htm">SetFormat</a> força a atribuição de um número puro para imediatamente converter aquele número em uma string. Para inteiros, o número também é armazenado, então isso não tem efeitos adversos para além da performance. Para pontos flutuantes, o número não é armazenado, já que o comando SetFormat afeta a precisão do valor, possivelmente truncando todas as casas decimais. Em outras palavras, o modo lento do SetFormat impede que pontos flutuantes puros sejam armazenados em variáveis.</p>
+<p>Tomar o endereço de uma variável efetivamente converte o valor da variável em uma string, desabilitando o cache até que o endereço da variável mude (isso acontece quando sua capacidade muda). Isso é tanto para retrocompatibilidade e também porque o script poderia mudar o valor indiretamente por meio do endereço da variável a qualquer momento, tornando o cache impreciso.</p>
 
-<h3 id="Related">Related</h3>
+<h3 id="Related">Tópicos relacionados</h3>
 <ul>
-  <li><a href="Variables.htm#Intro">Variables</a>: basic usage and examples.</li>
-  <li><a href="Variables.htm#cap">Variable Capacity and Memory</a>: details about limitations.</li>
+  <li><a href="Variables.htm#Intro">Variáveis</a>: noções básicas de uso e exemplos.</li>
+  <li><a href="Variables.htm#cap">Capacidade de uma Variável e Memória Usada</a>: detalhes sobre limitações.</li>
 </ul>
 
-<h2 id="functions">Functions/Commands</h2>
-<p>A <em>function</em> or <em>command</em> is the basic means by which a script <em>does something</em>.</p>
-<p>In essence, functions and commands are the same thing, so the concepts explained here apply to both. However, the long history of AutoHotkey v1 and an emphasis on backward-compatibility have resulted in a divide between <em>commands</em>, which require legacy syntax, and <em>functions</em>, which require expression syntax.</p>
-<p>Commands and functions can have many different purposes. Some functions might do no more than perform a simple calculation, while others have immediately visible effects, such as moving a window. One of AutoHotkey's strengths is the ease with which scripts can automate other programs and perform many other common tasks by simply calling a few functions. See the <a href="commands/index.htm">command and function list</a> for examples.</p>
-<p>Throughout this documentation, some common words are used in ways that might not be obvious to someone without prior experience. Below are several such words/phrases which are used frequently in relation to functions and commands:</p>
+<h2 id="functions">Funções/Comandos</h2>
+<p>Uma <em>função</em> ou <em>comando</em> é o meio primordial pelo qual um script <em>faz algo</em>.</p>
+<p>Essencialmente, funções e comandos são a mesma coisa, então os conceitos aqui se aplicam a ambos. Entretanto, a longa história do AutoHotkey v1 e a ênfase em retrocompatibilidade têm resultado em uma divisão entre <em>comandos</em>, os quais requerem sintaxe legada, e <em>funções</em>, que requerem a sintaxe de expressão.</p>
+<p>Comandos e funções podem ter propósitos diferentes. Algumas funções fazem não mais que realizar um simples cálculo, enquanto outras têm efeitos imediatamente visíveis, como mover uma janela. Uma das vantagens do AutoHotkey é a facilidade com que os scripts podem automatizar outros programas e realizar várias outras tarefas comuns simplesmente chamando algumas funções. Veja a <a href="commands/index.htm">lista de comandos e funções</a> para exemplos.</p>
+<p>Ao longo desta documentação, algumas palavras comuns são usadas de maneiras que podem não ser óbvias para alguém sem experiência prévia. Abaixo há várias palavras/expressões que são usadas frequentemente em relação a funções e comandos:</p>
 <dl>
-  <dt id="call">Call a function or command</dt>
-  <dd><p><em>Calling</em> a function or command causes the program to invoke, execute or evaluate it. In other words, a <em>function call</em> temporarily transfers control from the script to the function. When the function has completed its purpose, it <em>returns</em> control to the script. In other words, any code following the function call does not execute until after the function completes.</p>
-  <p>However, sometimes a function or command completes before its effects can be seen by the user. For example, the <a href="commands/Send.htm">Send</a> command <em>sends</em> keystrokes, but may return before the keystrokes reach their destination and cause their intended effect.</p></dd>
-  <dt id="parameters">Parameters</dt>
-  <dd><p>Usually a command or function accepts <em>parameters</em> which tell it how to operate or what to operate on. Each parameter is a <a href="#values">value</a>, such as a string or number. For example, <a href="commands/WinMove.htm">WinMove</a> moves a window, so its parameters tell it which window to move and where to move it to. Parameters can also be called <em>arguments</em>. Common abbreviations include <em>param</em> and <em>arg</em>.</p></dd>
-  <dt id="pass-parameters">Pass parameters</dt>
-  <dd><p>Parameters are <em>passed</em> to a function or command, meaning that a value is specified for each parameter of the function or command when it is called. For example, one can <em>pass</em> the name of a key to <a href="commands/GetKeyState.htm#function">GetKeyState()</a> to determine whether that key is being held down.</p></dd>
-  <dt id="return-a-value">Return a value</dt>
-  <dd><p>Functions <em>return</em> a value, so the result of the function is often called a <em>return value</em>. For example, <a href="commands/StrLen.htm">StrLen()</a> returns the number of characters in a string. Commands do not return a result directly; instead, they store the result in a <a href="#variables">variable</a>. Functions may also do this, such as when there is more than one result.</p></dd>
+  <dt id="call">Chamar uma função ou comando</dt>
+  <dd><p><em>Chamar</em> uma função ou comando faz com que o programa invoque, execute ou calcule-o(a). Em outras palavras, uma <em>chamada de função</em> transfere temporariamente o controle do script para a função. Quando a função completar seu propósito, ela <em>retorna</em> o controle ao script. Ou seja, qualquer código que vier depois da chamada de função não executará até que a função complete.</p>
+  <p>Contudo, algumas vezes a função ou comando completa antes que seus efeitos possam ser vistos pelo usuário. Por exemplo, o comando <a href="commands/Send.htm">Send</a> <em>envia</em> pressionamentos de teclas, mas podem retornar antes que as teclas pressionadas cheguem ao seu destino e gerem seu efeito pretendido.</p></dd>
+  <dt id="parameters">Parâmetros</dt>
+  <dd><p>Geralmente um comando ou função aceita <em>parâmetros</em> que podem dizer ao comando ou função como operar ou em que operar. Cada parâmetro é um <a href="#values">valor</a>, como uma string ou um número. Por exemplo, <a href="commands/WinMove.htm">WinMove</a> move uma janela, então seus parâmetros irão dizer qual janela mover e para onde movê-la. Parâmetros também podem ser chamados de <em>argumentos</em>. Abreviaturas comuns são <em>param</em> e <em>arg</em>.</p></dd>
+  <dt id="pass-parameters">Passagem de parâmetros</dt>
+  <dd><p>Parâmetros são <em>passados</em> para uma função ou comando, o que significa que um valor é especificado para cada parâmetro da função ou comando quando ele(a) é chamado. Por exemplo, alguém pode <em>passar</em> o nome de uma tecla para <a href="commands/GetKeyState.htm#function">GetKeyState()</a> para determinar se aquela tecla está sendo mantida pressionada.</p></dd>
+  <dt id="return-a-value">Retornar um valor</dt>
+  <dd><p>Funções <em>retornam</em> um valor, então o resultado da função é frequentemente chamado de <em>valor de retorno</em>. Por exemplo, <a href="commands/StrLen.htm">StrLen()</a> retorna o número de caracteres em uma string. Comandos não retornam um valor diretamente; em vez disso, eles armazenam o resultado em uma <a href="#variables">variável</a>. Funções também podem fazer isso, como quando há mais de um resultado.</p></dd>
 </dl>
-<p>Functions and commands usually expect parameters to be written in a specific order, so the meaning of each parameter value depends on its position in the comma-delimited list of parameters. Some parameters can be omitted, in which case the parameter can be left blank, but the comma following it can only be omitted if all remaining parameters are also omitted. For example, the syntax for <a href="commands/ControlSend.htm">ControlSend</a> is:</p>
-<pre class="Syntax"><span class="func">ControlSend</span> <span class="optional">, Control, Keys, WinTitle, WinText, ExcludeTitle, ExcludeText</span></pre>
-<p>Square brackets signify that the enclosed parameters are optional (the brackets themselves should not appear in the actual code). However, ControlSend isn't useful unless <em>Keys</em> are specified, and usually one must also specify the target window. Por exemplo:</p>
-<pre>ControlSend, Edit1, ^{Home}, A  <em>; Correct. Control is specified.</em>
-ControlSend, ^{Home}, A         <em>; Incorrect: Parameters are mismatched.</em>
-ControlSend,, ^{Home}, A        <em>; Correct. Control is omitted.</em>
+<p>Funções e comandos normalmente aguardam que parâmetros sejam escritos em uma ordem específica, então o significado de cada parâmetro depende de sua posição na lista de parâmetros, que é separada por vírgulas. Alguns parâmetros podem ser omitidos, caso em que o parâmetro deve ser deixado em branco, mas a vírgula seguinte só pode ser omitida se todos os parâmetros que vierem depois também forem omitidos. Por exemplo, a sintaxe para <a href="commands/ControlSend.htm">ControlSend</a> é:</p>
+<pre class="Syntax"><span class="func">ControlSend</span> <span class="optional">, Controle, Teclas, TituloDaJanela, TextoDaJanela, ExcluirTitulo, ExcluirTexto</span></pre>
+<p>A presença de colchetes nos parâmetros significa que eles são parâmetros opcionais (os colchetes em si não devem aparecer no código). No entanto, ControlSend não tem utilidade a não ser que <em>Teclas</em> sejam especificadas, e geralmente também é necessário especificar a janela alvo. Por exemplo:</p>
+<pre>ControlSend, Edit1, ^{Home}, A  <em>; Correto. O controle foi especificado.</em>
+ControlSend, ^{Home}, A         <em>; Incorreto: os parâmetros não combinam.</em>
+ControlSend,, ^{Home}, A        <em>; Correto. O controle foi omitido.</em>
 </pre>
 
-<h3 id="methods">Methods</h3>
-<p><em>Methods</em> are functions which operate on a particular <a href="#objects">object</a>. While there can only be one function named <code>Send</code> (for example), there can be as many methods named <code>Send</code> as there are objects, as each object (or class of objects) can respond in a different way. For this reason, the target object (which may be a variable or sub-expression) is specified to left of the method name instead of inside the parameter list. For details, see <a href="#object-protocol">Object Protocol</a>.</p>
+<h3 id="methods">Métodos</h3>
+<p><em>Métodos</em> são funções que operam em um <a href="#objects">objeto</a> em particular. Embora só possa existir uma função denominada <code>Send</code> (por exemplo), pode haver tantos métodos denominados <code>Send</code> quanto for o número de objetos, já que cada objeto (ou classe de objetos) pode responder de uma maneira diferente. Por essa razão, o objeto alvo (que pode ser uma variável ou sub-expressão) é especificado à esquerda do nome do método em vez de dentro da lista de parâmetros. Para detalhes, vide <a href="#object-protocol">Protocolo dos Objetos</a>.</p>
 
-<h2 id="control-flow">Control Flow</h2>
-<p><em>Control flow</em> is the order in which individual statements are executed. Normally statements are executed sequentially from top to bottom, but a control flow statement can override this, such as by specifying that statements should be executed repeatedly, or only if a certain condition is met.</p>
+<h2 id="control-flow">Fluxo de Controle</h2>
+<p><em>Fluxo de controle</em> é a ordem na qual instruções individuais são executadas. Normalmente as instruções são executadas sequencialmente de cima para baixo, mas uma instrução de controle de fluxo pode ignorar essa ordem (tomar precedência), tal como quando se especifica que as instruções devem ser executadas repetidamente, ou somente se determinada condição for atingida.</p>
 <dl>
-  <dt id="statement">Statement</dt>
-  <dd><p>A <em>statement</em> is simply the smallest standalone element of the language that expresses some action to be carried out. In AutoHotkey, statements include commands, assignments, function calls and other expressions. However, directives, labels (including hotkeys and hotstrings), and declarations without assignments are not statements; they are processed when the program first starts up, before the script <em>executes</em>.</p></dd>
-  <dt id="execute">Execute</dt>
-  <dd><p>Carry out, perform, evaluate, put into effect, etc. <em>Execute</em> basically has the same meaning as in non-programming speak.</p></dd>
-  <dt id="cf-body">Body</dt>
-  <dd><p>The <em>body</em> of a control flow statement is the statement or group of statements to which it applies. For example, the body of an <a href="Language.htm#if-statement">if statement</a> is executed only if a specific condition is met.</p></dd>
+  <dt id="statement">Instrução</dt>
+  <dd><p>Uma <em>instrução</em> é simplesmente o menor elemento da linguagem que expressa uma ação a ser executada. No AutoHotkey, instruções incluem comandos, atribuições de valor, chamadas de funções e outras expressões. Porém, diretivas, rótulos (incluindo hotkeys e hotstrings) e declarações sem atribuições de valor não são instruções; eles são processados assim que o programa inicia, antes de o script <em>executar</em>.</p></dd>
+  <dt id="execute">Executar</dt>
+  <dd><p>Fazer, executar, exercer, calcular, avaliar, pôr em efeito, etc. <em>Executar</em> tem basicamente o mesmo significado que tem fora do jargão da programação.</p></dd>
+  <dt id="cf-body">Corpo</dt>
+  <dd><p>O <em>corpo</em> de uma instrução de fluxo de controle é a instrução ou grupo de instruções às quais aquele se aplica. Por exemplo, o corpo de uma <a href="Language.htm#if-statement">instrução com if</a> é executado somente se uma condição específica é atingida.</p></dd>
 </dl>
-<p>For example, consider this simple set of instructions:</p>
+<p>Considere, como exemplo, este pequeno conjunto de instruções:</p>
 <ol>
-  <li>Open Notepad</li>
-  <li>Wait for Notepad to appear on the screen</li>
-  <li>Type "Hello, world!"</li>
+  <li>Abrir o Bloco de Notas</li>
+  <li>Aguardar que o Bloco de Notas apareça na tela</li>
+  <li>Digitar (enviar teclas) “Olá, mundo!”</li>
 </ol>
-<p>We take one step at a time, and when that step is finished, we move on to the next step. In the same way, control in a program or script usually flows from one statement to the next statement. But what if we want to type into an existing Notepad window? Consider this revised set of instructions:</p>
+<p>Damos um passo de cada vez, e quando esse passo é concluído, passamos para o próximo. Da mesma forma, o controle em um programa ou script normalmente segue de uma instrução para a próxima. Mas e se quisermos digitar sobre uma janela já existente do Bloco de Notas? Considere este conjunto revisado de instruções:</p>
 <ol>
-  <li>If Notepad is not running:
+  <li>Se o Bloco de Notas não estiver em execução:
 <ol>
-  <li>Open Notepad</li>
-  <li>Wait for Notepad to appear on the screen</li>
-</ol>
-</li>
-  <li>Otherwise:
-<ol>
-  <li>Activate Notepad</li>
+  <li>Abrir o Bloco de Notas</li>
+  <li>Aguardar que o Bloco de Notas apareça na tela</li>
 </ol>
 </li>
-  <li>Type "Hello, world!"</li>
+  <li>Do contrário:
+<ol>
+  <li>Ative a janela do Bloco de Notas</li>
 </ol>
-<p>So we either open Notepad or activate Notepad depending on whether it is already running. #1 is a <em>conditional statement</em>, also known as an <em>if statement</em>; that is, we execute its <em>body</em> (#1.1 - #1.2) only if a condition is met. #2 is an <em>else statement</em>; we execute its body (#2.1) only if the condition of a previous <em>if statement</em> (#1) is not met. Depending on the condition, control <em>flows</em> one of two ways: #1 (if true) → #1.1 → #1.2 → #3; or #1 (if false) → #2 (else) → #2.1 → #3.</p>
-<p>The instructions above can be translated into the code below:</p>
+</li>
+  <li>Digitar (enviar teclas) “Olá, mundo!”</li>
+</ol>
+<p>Então ou abrimos o Bloco de Notas ou ativamos sua janela dependendo de ele já estar ou não em execução. #1 é uma <em>instrução condicional</em>, também conhecida como uma <em>instrução com if</em>; isto é, nós executamos seu <em>corpo</em> (#1.1 - #1.2) somente se uma condição específica é atingida. #2 é uma <em>instrução com else</em>; nós executamos seu corpo (#2.1) somente se a condição de uma <em>instrução com if</em> anterior não tiver sido atingida. Dependendo da condição, o controle <em>flui</em> de uma dessas duas maneiras: #1 (se verdadeiro) → #1.1 → #1.2 → #3; ou #1 (se falso) → #2 (senão) → #2.1 → #3.</p>
+<p>As instruções acima podem ser traduzidas no código abaixo:</p>
 <pre>if (not WinExist("ahk_class Notepad"))
 {
     Run Notepad
@@ -245,91 +245,91 @@ ControlSend,, ^{Home}, A        <em>; Correct. Control is omitted.</em>
 }
 else
     WinActivate ahk_class Notepad
-Send Hello`, world!
+Send Olá`, mundo!
 </pre>
-<p>In our written instructions, we used indentation and numbering to group the statements. Scripts work a little differently. Although indentation makes code easier to read, in AutoHotkey it does not affect the grouping of statements. Instead, statements are grouped by enclosing them in braces, as shown above. This is called a <a href="commands/Block.htm"><em>block</em></a>.</p>
-<p class="note">For details about syntax - that is, how to write or recognise control flow statements in AutoHotkey - see <a href="Language.htm#control-flow">Control Flow</a>.</p>
+<p>Em nossas instruções escritas, nós usamos indentação e numeração para agrupar as instruções. Scripts funcionam de um jeito um pouco diferente. Conquanto a indentação deixa o código mais fácil de ler, no AutoHotkey ela não afeta o agrupamento de instruções. Em vez de indentação, as instruções são agrupadas envolvendo-se-as em chaves, como mostrado acima. Isso é chamado de <a href="commands/Block.htm"><em>bloco</em></a>.</p>
+<p class="note">Para detalhes sobre a sintaxe - isto é, como escrever ou reconhecer instruções de fluxo de controle no AutoHotkey - veja <a href="Language.htm#control-flow">Fluxo de Controle</a>.</p>
 
-<h2 id="details">Details</h2>
+<h2 id="details">Detalhes</h2>
 
-<h3 id="string-encoding">String Encoding</h3>
-<p>Each character in the string is represented by a number, called its <em>ordinal number</em>, or <em>character code</em>. For example, the value "Abc" would be represented as follows:</p>
+<h3 id="string-encoding">Codificação de Strings</h3>
+<p>Cada caractere na string é representado por um número, chamado de <em>número ordinal do caractere</em>, ou <em>código do caractere</em>. Por exemplo, o valor “Abc” seria representado assim:</p>
 <table class="info" style="width: 8em; text-align: center">
   <tr><td>A</td><td>b</td><td>c</td></tr>
   <tr><td>65</td><td>98</td><td>99</td><td>0</td></tr>
 </table>
-<p><strong>Encoding:</strong> The <em>encoding</em> of a string defines how symbols are mapped to ordinal numbers, and ordinal numbers to bytes. There are many different encodings, but as all of those supported by AutoHotkey include ASCII as a subset, character codes 0 to 127 always have the same meaning. For example, 'A' always has the character code 65.</p>
-<p id="null-termination"><strong>Null-termination:</strong> Each string is terminated with a "null character", or in other words, a character with binary value zero marks the end of the string. The length of the string does not need to be stored as it can be inferred by the position of the null-terminator. For performance, AutoHotkey sometimes also stores the length, such as when a string is stored in a variable.</p>
-<p class="warning"><strong>Note:</strong> Due to reliance on null-termination, AutoHotkey v1 does not generally support strings with embedded null characters. Such strings can be created with <a href="commands/VarSetCapacity.htm">VarSetCapacity()</a> and <a href="commands/NumPut.htm">NumPut()</a> or <a href="commands/DllCall.htm">DllCall()</a>, but may produce inconsistent results.</p>
-<p id="native-encoding"><strong>Native encoding:</strong> Although AutoHotkey provides ways to work with text in various encodings, the built-in commands and functions--and to some degree the language itself--all assume string values to be in one particular encoding. This is referred to as the <em>native</em> encoding. The native encoding depends on the version of AutoHotkey:</p>
+<p><strong>Codificação:</strong> a <em>codificação</em> de uma string define como os símbolos são mapeados para números ordinais, e números ordinais para bytes. Há várias diferentes codificações, mas todas as que são suportadas pelo AutoHotkey incluem a ASCII como um subconjunto; caracteres de códigos 0 a 127 sempre têm o mesmo significado. Por exemplo, “A” sempre terá o código de caractere 65.</p>
+<p id="null-termination"><strong>Terminação nula:</strong> cada string é finalizada com um “caractere nulo”, ou, em outras palavras, um caractere com valor binário zero marca o fim da string. O comprimento de uma string não precisa ser armazenado uma vez que ele pode ser inferido pela posição do caractere finalizador. Com vistas no desempenho, o AutoHotkey às vezes armazena o comprimento, como na ocasião em que uma string é armazenada numa variável.</p>
+<p class="warning"><strong>Observação:</strong> devido à dependência na terminação no caractere nulo, o AutoHotkey v1 em geral não suporta strings com caracteres nulos incorporados. Tais strings podem ser criadas com <a href="commands/VarSetCapacity.htm">VarSetCapacity()</a> e <a href="commands/NumPut.htm">NumPut()</a> ou <a href="commands/DllCall.htm">DllCall()</a>, mas podem gerar efeitos inconsistentes.</p>
+<p id="native-encoding"><strong>Codificação nativa:</strong> apesar de o AutoHotkey proporcionar meios de trabalhar com texto em várias codificações, os comandos e funções nativos — e até certo ponto a linguagem em si — assumem, todos eles, que os valores de strings estão em uma codificação em particular. Isso é chamado aqui de codificação <em>nativa</em>. A codificação nativa depende da versão do AutoHotkey.</p>
 <ul>
   <li>
-<p>Unicode versions of AutoHotkey use UTF-16. The smallest element in a UTF-16 string is two bytes (16 bits). Unicode characters in the range 0 to 65535 (U+FFFF) are represented by a single 16-bit code unit of the same value, while characters in the range 65536 (U+10000) to 1114111 (U+10FFFF) are represented by a <em>surrogate pair</em>; that is, exactly two 16-bit code units between 0xD800 and 0xDFFF. (For further explanation of surrogate pairs and methods of encoding or decoding them, search the Internet.)</p>
+<p>As versões Unicode do AutoHotkey usam UTF-16. O menor elemento em uma string em UTF-16 possui dois bytes (16 bits). Caracteres Unicode no intervalo 0 a 65535 (U+FFFF) são representados por uma única unidade de código 16 bits do mesmo valor, enquanto os caracteres no intervalo 65536 (U+10000) a 1114111 (U+10FFFF) são representados por um <em>par substituto</em>; isto é, exatamente duas unidades de código 16-bits entre 0xD800 e 0xDFFF. (Para explicações mais detalhadas dos pares substitutos e seus métodos de codificação e decodificação, pesquise na Internet.)</p>
 </li>
   <li>
-<p>ANSI versions of AutoHotkey use the system default ANSI code page, which depends on the system locale or "language for non-Unicode programs" system setting. The smallest element of an ANSI string is one byte. However, some code pages contain characters which are represented by sequences of multiple bytes (these are always non-ASCII characters).</p>
+<p>Versões ANSI do AutoHotkey usam a página de código padrão ANSI, que depende da região do sistema ou a configuração “idioma para programas não Unicode” do sistema. O menor elemento de uma string ANSI é um byte. Entretanto, algumas páginas de código contêm caracteres que são representados por sequências de múltiplos bytes (estas são sempre caracteres não ASCII).</p>
 </li>
 </ul>
-<p id="character"><strong>Character:</strong> Generally, other parts of this documentation use the term "character" to mean a string's smallest unit; bytes for ANSI strings and 16-bit code units for Unicode (UTF-16) strings. For practical reasons, the length of a string and positions within a string are measured by counting these fixed-size units, even though they may not be complete Unicode characters.</p>
-<p><a href="commands/FileRead.htm">FileRead</a>, <a href="commands/FileAppend.htm">FileAppend</a>, <a href="commands/FileOpen.htm">FileOpen()</a> and the <a href="objects/File.htm">File object</a> provide ways of reading and writing text in files with a specific encoding.</p>
-<p>The functions <a href="commands/StrGet.htm">StrGet</a> and <a href="commands/StrPut.htm">StrPut</a> can be used to convert strings between the native encoding and some other specified encoding. However, these are usually only useful in combination with data structures and the <a href="commands/DllCall.htm">DllCall</a> function. Strings which are passed directly to or from <a href="commands/DllCall.htm">DllCall()</a> can be converted to ANSI or UTF-16 by using the <code>AStr</code> or <code>WStr</code> parameter types.</p>
-<p>Techniques for dealing with the differences between ANSI and Unicode versions of AutoHotkey can be found under <a href="Compat.htm#Format">Unicode vs ANSI</a>.</p>
+<p id="character"><strong>Caractere:</strong> geralmente, outras partes desta documentação usam o termo “caractere” para se referir à menor unidade de uma string; usa-se aqui também “bytes” para strings ANSI e “unidades de código 16 bits” para strings Unicode (UTF-16). Por razões de praticidade, o comprimento de uma string e posições no interior de uma string são medidas contando-se essas unidades de tamanho fixo, mesmo que elas possam não ser caracteres Unicode completos.</p>
+<p>Os comandos <a href="commands/FileRead.htm">FileRead</a>, <a href="commands/FileAppend.htm">FileAppend</a>, a função <a href="commands/FileOpen.htm">FileOpen()</a> e o <a href="objects/File.htm">Objeto arquivo</a> fornecem meios de ler e escrever texto com uma codificação específica em arquivos.</p>
+<p>As funções <a href="commands/StrGet.htm">StrGet</a> e <a href="commands/StrPut.htm">StrPut</a> podem ser usadas para converter strings entre a codificação nativa e alguma outra codificação especificada. Entretanto, essas funções só são úteis em combinação com estruturas de dados e com a função <a href="commands/DllCall.htm">DllCall</a>. Strings que são passadas diretamente de ou para <a href="commands/DllCall.htm">DllCall()</a> podem ser convertidas para ANSI ou UTF-16 usando-se os tipos de parâmetros <code>AStr</code> ou <code>WStr</code>.</p>
+<p>Técnicas para lidar com as diferenças entre as versões ANSI e Unicode do AutoHotkey podem ser encontradas na página <a href="Compat.htm#Format">Unicode x ANSI</a>.</p>
 
-<h3 id="pure-numbers">Pure Numbers</h3>
-<p>A <em>pure</em> or <em>binary</em> number is one which is stored in memory in a format that the computer's CPU can directly work with, such as to perform math. In most cases, AutoHotkey automatically converts between numeric strings and pure numbers as needed, and rarely differentiates between the two types. AutoHotkey primarily uses two data types for pure numbers:</p>
+<h3 id="pure-numbers">Números Puros</h3>
+<p>Um número <em>puro</em> ou <em>binário</em> é aquele que é armazenado na método em um formato com que o processador do computador pode trabalhar diretamente, como para realizar operações matemáticas. Na maioria dos casos, AutoHotkey converte automaticamente entre strings numéricas e números puros conforme necessário, e raramente diferencia entre os dois tipos. O AutoHotkey primariamente usa dois tipos de dados para números puros:</p>
 <ul>
-  <li>64-bit signed integers (<em>int64</em>).</li>
-  <li>64-bit binary floating-point numbers (the <em>double</em> or <em>binary64</em> format of the IEEE 754 international standard).</li>
+  <li>Inteiros 64 bits (signed, <em>int64</em>).</li>
+  <li>Números de ponto flutuante 64 bits binários (o formato <em>double</em> ou <em>binary64</em> do padrão internacional 754 do IEEE.</li>
 </ul>
-<p>In other words, scripts are affected by the following limitations:</p>
+<p>Em outras palavras, scripts são afetados pelas limitações seguintes:</p>
 <ul>
   <li>
-<p>Integers must be within the range -9223372036854775808 (-0x8000000000000000, or -2<sup>63</sup>) to 9223372036854775807 (0x7FFFFFFFFFFFFFFF, or 2<sup>63</sup>-1). Although larger values can be contained within a string, any attempt to convert the string to a number (such as by using it in a math operation) might yield inconsistent results.</p>
+<p>Inteiros devem estar no intervalo 9223372036854775808 (-0x8000000000000000, ou -2<sup>63</sup>) a 9223372036854775807 (0x7FFFFFFFFFFFFFFF, ou 2<sup>63</sup>-1). Apesar de valores maiores poderem ser contidos numa string, qualquer tentativa de converter a string em um número (como pelo uso da string numa operação matemática) pode gerar resultados inconsistentes.</p>
 </li>
   <li>
-<p>Floating-point numbers generally support 15 digits of precision. However, converting a floating-point number to a string causes the number to be rounded according to the current <a href="commands/SetFormat.htm#Float">float format</a>, which defaults to 6 decimal places. If the "slow" mode of <a href="commands/SetFormat.htm">SetFormat</a> is present anywhere in the script, numbers are <em>always</em> converted to strings when assigned to a <a href="#variables">variable</a>.</p>
+<p>Números de ponto flutuante geralmente suportam 15 dígitos de precisão. Porém, converter um número de ponto flutuante em uma string faz com que o número seja arredondado de acordo com o <a href="commands/SetFormat.htm#Float">formato de ponto flutuante</a> atual, que, por padrão, tem 6 casas decimais. Se o modo “lento” do comando <a href="commands/SetFormat.htm">SetFormat</a> está presente em qualquer lugar do script, números são <em>sempre</em> convertidos em strings quando atribuídos a uma <a href="#variables">variável</a>.</p>
 </li>
 </ul>
-<p><strong>Note:</strong> There are some decimal fractions which the binary floating-point format cannot precisely represent, so a number is rounded to the closest representable number. This may lead to unexpected results. Por exemplo:</p>
-<pre>SetFormat FloatFast, 0.17  <em>; Show "over-full" precision</em>
+<p><strong>Observação:</strong> há algumas frações decimais cujo formato de ponto flutuante não pode representar precisamente, então um número é arredondado para o número representável mais próximo. Isso pode levar a resultados inesperados. Por exemplo:</p>
+<pre>SetFormat FloatFast, 0.17  <em>; Mostrar precisão "além do máximo"</em>
 MsgBox % 0.1 + 0           <em>; 0.10000000000000001</em>
 MsgBox % 0.1 + 0.2         <em>; 0.30000000000000004</em>
 MsgBox % 0.3 + 0           <em>; 0.29999999999999999</em>
 MsgBox % 0.1 + 0.2 = 0.3   <em>; 0 (not equal)</em>
 </pre>
-<p>One strategy for dealing with this is to avoid direct comparison, instead comparing the difference. Por exemplo:</p>
+<p>Uma estratégia para lidar com isso é evitar a comparação direta, e fazer a comparação da diferença no lugar. Por exemplo:</p>
 <pre>MsgBox % Abs((0.1 + 0.2) - (0.3)) &lt; 0.0000000000000001
 </pre>
-<p>Another strategy is to always convert to string (thereby applying rounding) before comparison. There are generally two ways to do this while specifying the precision, and both are shown below:</p>
+<p>Outra estratégia é sempre converter para string (logo, aplicando o arredondamento) antes da comparação. Há geralmente dois modos de fazer isso enquanto se especifica a precisão, e ambos são mostrados abaixo:</p>
 <pre>MsgBox % Round(0.1 + 0.2, 15) = Format("{:.15f}", 0.3)
 </pre>
 
-<h3 id="names">Names</h3>
-<p>AutoHotkey uses the same set of rules for naming various things, including variables, functions, <a href="commands/GroupAdd.htm">window groups</a>, <a href="commands/Gui.htm">GUIs</a>, classes and methods:</p>
+<h3 id="names">Nomes</h3>
+<p>AutoHotkey usa o mesmo conjunto de regras para denominar várias coisas, inclusive variáveis, funções, <a href="commands/GroupAdd.htm">grupos de janelas</a>, <a href="commands/Gui.htm">GUIs</a>, classes e métodos:</p>
 <ul>
-  <li><strong>Case sensitivity:</strong> None for ASCII characters. For example, <code>CurrentDate</code> is the same as <code>currentdate</code>. However, uppercase non-ASCII characters such as 'Ä' are <em>not</em> considered equal to their lowercase counterparts, regardless of the current user's locale. This helps the script to behave consistently across multiple locales.</li>
-  <li><strong>Maximum length:</strong> 253 characters.</li>
-  <li><strong>Allowed characters:</strong> Letters, numbers, non-ASCII characters, and the following symbols: _ # @ $</li>
+  <li><strong>Diferenciação entre maiúsculas e minúsculas:</strong> nenhuma para caracteres ASCII. Por exemplo, <code>CurrentDate</code> é o mesmo que <code>currentdate</code>. Todavia, caracteres não ASCII maiúsculos, como “Ä”, <em>não são</em> consideradas iguais aos seus correspondentes minúsculos, independentemente da configuração de região do usuário. Isso ajuda o script a se comportar de maneira consistente entre múltiplas configurações regionais.</li>
+  <li><strong>Comprimento máximo:</strong> 253 caracteres.</li>
+  <li><strong>Caracteres permitidos:</strong> letras, números, caracteres não ASCII e os símbolos seguintes: _ # @ $</li>
 </ul>
-<p>Due to style conventions, it is generally better to name your variables using only letters, numbers, and the underscore character (for example: <em>CursorPosition</em>, <em>Total_Items</em>, and <em>entry_is_valid</em>). This style allows people familiar with other computer languages to understand your scripts more easily.</p>
-<p>Although a <a href="#variables">variable</a> name may consist entirely of digits, this is generally used only for <a href="Scripts.htm#cmd_args_old">incoming command line parameters</a>. Such numeric names cannot be used in expressions because they would be seen as numbers rather than variables. It is best to avoid starting a name with a digit, as such names are confusing and will be considered invalid in AutoHotkey v2.</p>
-<p>As the following characters may be reserved for other purposes in AutoHotkey v2, it is recommended to avoid using them: # @ $</p>
-<p>Property names in classes have the same rules and restrictions as variable names, except that the three characters listed above (# @ $) are not allowed. Although they can be used in a method definition, calling such a method requires using square brackets. For example, <code>myObject.@home()</code> is not valid, but <code>myObject["@home"]()</code> is acceptable.</p>
+<p>Devido a convenções de estilo, é geralmente melhor nomear suas variáveis usando somente letras, números e o caractere _ (por exemplo:) <em>PosicaoCursor</em>, <em>Total_itens</em> e <em>entrada_eh_valida</em>). Esse estilo permite que pessoas familiarizadas com outras linguagens entendam seus scripts mais facilmente.</p>
+<p>Embora uma <a href="#variables">variável</a> possa consistir totalmente de algarismos, fazer isso geralmente só é usado para <a href="Scripts.htm#cmd_args_old">parâmetros de entrada da linha de comando</a>. Esses nomes numéricos não podem ser usados em expressões porque eles seriam vistos como números e não como variáveis. É melhor evitar iniciar um nome de variável com um algarismo, já que esses nomes levam a confusões e serão considerados inválidos no AutoHotkey v2.</p>
+<p>E, dado que os caracteres a seguir poderão estar reservados para outros fins na versão 2 do AutoHotkey, recomenda-se evitá-los: # @ $</p>
+<p>Nomes de propriedades em classes têm as mesmas regras e restrições dos nomes de variáveis, exceto que os três caracteres listados acima (# @ $) não são permitidos. Apesar de poderem ser usados na definição de um método, chamar um método desse exigirá o uso de colchetes. Por exemplo, <code>meuObjeto.@home()</code> não é válido, mas <code>meuObjeto["@home"]()</code> é aceitável.</p>
 
-<h3 id="variable-references">Variable References vs Values</h3>
-<p>Variables have certain attributes that blur the line between a variable and its value, but it is important to make the distinction. In particular, consider <a href="#objects">objects</a> and ByRef parameters.</p>
-<p>Although we may say the variable <code>myArray</code> <em>contains</em> an array (which is a type of object), what the variable contains isn't the array itself but rather a <em>reference or pointer</em> to the array. Any number of variables can contain a reference to the same object. It may be helpful to think of a variable as just a name in that case. For instance, giving a person a nickname doesn't cause a clone of that person to come into existence.</p>
-<p>By default, variables are passed to user-defined functions <em>by value</em>. In other words, the value contained by the variable is copied into the variable which corresponds to the function's parameter. <strong>ByRef</strong> parameters allow you to pass a variable <em>by reference</em>, or in other words, to make one parameter of the function an <em>alias</em> for your variable, allowing the function to assign a new value to your variable.</p>
-<p>Because a variable only ever contains a <em>reference</em> to an object and not the object itself, when you pass such a variable to a non-ByRef parameter, what the function receives is a reference to the same object. This allows the function to modify the object, but it does not allow the function to modify the <em>variable</em> which the function's caller used, because the function only has a reference to the object, not the variable.</p>
+<h3 id="variable-references">Referências a Variáveis x Valores</h3>
+<p>Variáveis têm certos atributos que turvam a linha que diferencia uma variável de seu valor, mas é importante fazer a distinção. Em particular, considere <a href="#objects">objetos</a> e parâmetros ByRef.</p>
+<p>Não obstante possamos dizer que a variável <code>meuVetor</code> <em>contém</em> um vetor (o que é um tipo de objeto), o que a variável contém não é o vetor em si mas uma <em>referência ou ponteiro</em> para o vetor. Qualquer número de variáveis pode conter uma referência para o mesmo objeto. Pode ser útil pensar numa variável como simplesmente um nome, nesse caso. Exemplificativamente, dar a uma pessoa um apelido não faz com que surja um clone daquela pessoa.</p>
+<p>Por padrão, variáveis são passadas para funções definidas pelo usuário <em>por valor</em>. Ou seja, o valor contido na variável é copiado para a variável que corresponde ao parâmetro da função. Parâmetros <strong>ByRef</strong> permitem que você passe uma variável <em>por referência</em>, ou, em outras palavras, tornar um parâmetro da função um <em>codinome</em> para sua variável, permitindo que a função atribua um novo valor para sua variável.</p>
+<p>Como uma variável somente contém, a qualquer momento, uma <em>referência</em> para um objeto e não o objeto em si, quando você passar uma variável dessa para um parâmetro que não seja ByRef, o que a função recebe é uma referência ao mesmo objeto. Isso permite que a função modifique o objeto, mas não permite que a função modifique a <em>variável</em> que o chamador da função empregou, pois a função apenas tem uma referência ao objeto, não à variável.</p>
 
-<h3 id="references-to-objects">References to Objects</h3>
-<p>Scripts interact with an object only indirectly, through a <em>reference</em> to the object. When you create an object, the object is created at some location you don't control, and you're given a reference. Passing this reference to a function or storing it in a variable or another object creates a new reference to the <em>same</em> object. You release a reference by simply using an assignment to replace it with any other value. An object is deleted only after all references have been released; you cannot delete an object explicitly, and should not try.</p>
-<pre>ref1 := Object()  <em>; Create an object and store first reference</em>
-ref2 := ref1      <em>; Create a new reference to the same object</em>
-ref1 := ""        <em>; Release the first reference</em>
-ref2 := ""        <em>; Release the second reference; object is deleted</em>
+<h3 id="references-to-objects">Referências a Objetos</h3>
+<p>Scripts interagem com um objeto só indiretamente, através de uma <em>referência</em> ao objeto. Quando você cria um objeto, o objeto é criado em certo local que você não controla, e a você é dada uma referência. Passar essa referência a uma função ou armazená-la numa variável ou outro objeto cria uma nova referência ao <em>mesmo</em> objeto. Você libera uma referência ao simplesmente usar uma atribuição para substituí-la por qualquer outro valor. Um objeto só é excluído depois que todas as referências a ele são liberadas; você não pode excluir um objeto explicitamente, e não deve tentar fazê-lo.</p>
+<pre>ref1 := Object()  <em>; Criar um objeto e armazenar sua primeira referência</em>
+ref2 := ref1      <em>; Criar uma nova referência para o mesmo objeto</em>
+ref1 := ""        <em>; Libera a primeira referência</em>
+ref2 := ""        <em>; Libera a segunda referência; o objeto é excluído</em>
 </pre>
-<p>If that's difficult to understand, try thinking of an object as a rental unit. When you rent a unit, you're given a key which you can use to access the unit. You can get more keys and use them to access the same unit, but when you're finished with the unit, you must hand all keys back to the rental agent. Usually a unit wouldn't be <em>deleted</em>, but maybe the agent will have any junk you left behind removed; just as any values you stored in an object are freed when the object is deleted.</p>
+<p>Se está difícil entender, tente pensar nos objetos como uma casa que você aluga. Quando você aluga uma unidade residencial, você recebe uma chave que você pode usar para acessá-la. Você pode obter mais chaves e usá-las para acessar a mesma casa, mas quando você tiver terminado seu período locatício, você deverá devolver todas as chaves ao responsável pela locação. Geralmente uma unidade residencial não seria <em>deletada</em>, mas talvez o representante da imobiliária providenciará a remoção de toda tralha que você tiver deixado para trás; da mesma forma que quaisquer valores armazenados num objeto são liberados quando o objeto é excluído.</p>
 
 </body>
 </html>

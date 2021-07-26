@@ -15,7 +15,7 @@
 <p>Searches a region of the screen for an image.</p>
 
 <pre class="Syntax"><span class="func">ImageSearch</span>, OutputVarX, OutputVarY, X1, Y1, X2, Y2, ImageFile</pre>
-<h2 id="Parameters">Parameters</h2>
+<h2 id="Parameters">Parâmetros</h2>
 <dl>
 
   <dt>OutputVarX, OutputVarY</dt>
@@ -61,7 +61,7 @@
 <p>ImageSearch supports 8-bit color screens (256-color) or higher.</p>
 <p>The search behavior may vary depending on the display adapter's color depth (especially for GIF and JPG files). Therefore, if a script will run under multiple color depths, it is best to test it on each depth setting. You can use the shades-of-variation option (*n) to help make the behavior consistent across multiple color depths.</p>
 <p>If the image on the screen is translucent, ImageSearch will probably fail to find it. To work around this, try the shades-of-variation option (*n) or make the window temporarily opaque via <code><a href="WinSet.htm#trans">WinSet, Transparent</a>, Off</code>.</p>
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="PixelSearch.htm">PixelSearch</a>, <a href="PixelGetColor.htm">PixelGetColor</a>, <a href="CoordMode.htm">CoordMode</a>, <a href="MouseGetPos.htm">MouseGetPos</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">

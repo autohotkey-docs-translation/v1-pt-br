@@ -15,7 +15,7 @@
 <p>Separates a file name or URL into its name, directory, extension, and drive.</p>
 
 <pre class="Syntax"><span class="func">SplitPath</span>, InputVar <span class="optional">, OutFileName, OutDir, OutExtension, OutNameNoExt, OutDrive</span></pre>
-<h2 id="Parameters">Parameters</h2>
+<h2 id="Parameters">Parâmetros</h2>
 <dl>
 
   <dt>InputVar</dt>
@@ -47,7 +47,7 @@
 <p>Actual files and directories in the file system are not checked by this command. It simply analyzes the string given in <em>InputVar</em>.</p>
 <p>Wildcards (* and ?) and other  characters illegal in filenames are  treated the same as legal characters, with the exception of colon, backslash, and period (dot), which are processed according to their nature in delimiting the drive letter, directory, and extension of the file.</p>
 <p><strong>Support for URLs</strong>: If <em>InputVar</em> contains a colon-double-slash, such as https://domain.com or ftp://domain.com, <em>OutDir</em> is set to the protocol prefix + domain name + directory (e.g. https://domain.com/images) and <em>OutDrive</em> is set to the protocol prefix + domain name (e.g. https://domain.com). All other variables are set according to their definitions above.</p>
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="LoopFile.htm#LoopFileExt">A_LoopFileExt</a>, <a href="StrSplit.htm">StrSplit()</a>, <a href="StringGetPos.htm">StringGetPos</a>, <a href="StringMid.htm">StringMid</a>, <a href="StringTrimLeft.htm">StringTrimLeft</a>, <a href="StringLeft.htm">StringLeft</a>, <a href="FileSelectFile.htm">FileSelectFile</a>, <a href="FileSelectFolder.htm">FileSelectFolder</a>, <a href="StringSplit.htm">StringSplit</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">

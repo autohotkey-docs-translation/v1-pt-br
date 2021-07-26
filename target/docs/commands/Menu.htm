@@ -24,7 +24,7 @@
     <li><a href="#MenuItemName">The <em>MenuItemName</em> Parameter</a></li>
     <li><a href="#Win32_Menus">Win32 Menus</a></li>
     <li><a href="#Remarks">Remarks</a></li>
-    <li><a href="#Related">Related</a></li>
+    <li><a href="#Related">Tópicos relacionados</a></li>
     <li><a href="#Examples">Exemplos</a></li>
 </ul>
 
@@ -52,8 +52,8 @@
     <li><a href="#Show">Show</a>: Displays the specified menu.</li>
     <li><a href="#Color">Color</a>: Changes the background color of the menu.</li>
     <li><a href="#Click">Click</a>: Sets the number of clicks to activate the tray menu's default menu item.</li>
-    <li><a href="#MainWindow">MainWindow</a>: Allows the main window of a compiled script to be opened via the tray icon.</li>
-    <li><a href="#NoMainWindow">NoMainWindow</a>: Prevents the main window of a compiled script from being opened via the tray icon.</li>
+    <li><a href="#MainWindow">MainWindow</a>: Allows the main window of a script to be opened via the tray icon.</li>
+    <li><a href="#NoMainWindow">NoMainWindow</a>: Prevents the main window from being opened via the tray icon.</li>
     <li><a href="#UseErrorLevel">UseErrorLevel</a>: Skips any warning dialogs and thread terminations whenever the Menu command generates an error.</li>
 </ul>
 
@@ -278,7 +278,7 @@ Menu, Tray, Add, This menu item is a submenu, :MySubmenu</pre>
 <p>The built-in variables <strong>A_ThisMenuItem</strong> and <strong>A_ThisMenuItemPos</strong> contain the name and position of the custom menu item most recently selected by the user (blank if none). Similarly, <strong>A_ThisMenu</strong> is the name of the menu from which <strong>A_ThisMenuItem</strong> was selected. These variables are useful when building a menu whose contents are not always the same. In such a case, it is usually best to point all such menu items to the same label and have that label refer to the above variables to determine what action to take.</p>
 <p>To keep a non-hotkey, non-<a href="Gui.htm">GUI</a> script running -- such as one that contains only custom menus or menu items -- use <a href="_Persistent.htm">#Persistent</a>.</p>
 
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="Gui.htm">GUI</a>, <a href="../misc/Threads.htm">Threads</a>, <a href="Thread.htm">Thread</a>, <a href="Critical.htm">Critical</a>, <a href="_NoTrayIcon.htm">#NoTrayIcon</a>, <a href="Gosub.htm">Gosub</a>, <a href="Return.htm">Return</a>, <a href="SetTimer.htm">SetTimer</a>, <a href="_Persistent.htm">#Persistent</a></p>
 
 <h2 id="Examples">Exemplos</h2>

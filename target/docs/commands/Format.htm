@@ -15,7 +15,7 @@
 <p>Formats a variable number of input values according to a format string.</p>
 
 <pre class="Syntax">String := <span class="func">Format</span>(FormatStr <span class="optional">, Values...</span>)</pre>
-<h2 id="Parameters">Parameters</h2>
+<h2 id="Parameters">Parâmetros</h2>
 <dl>
 
   <dt>FormatStr</dt>
@@ -28,7 +28,7 @@
     <p>Whitespace inside the braces is not permitted (except as a flag).</p>
   </dd>
 
-  <dt>Values</dt>
+  <dt>Valores</dt>
   <dd>
     <p>Input values to be formatted and inserted into the final string. Each value is a separate parameter. The first value has an index of 1.</p>
     <p>To pass an array of values, use a <a href="../Functions.htm#VariadicCall">variadic function call</a>:</p>
@@ -173,7 +173,7 @@ MsgBox % Format("{2:x}{1:02x}", arr*)</pre>
 <h2 id="Remarks">Remarks</h2>
 <p>Unlike <a href="https://docs.microsoft.com/en-us/cpp/c-runtime-library/format-specification-syntax-printf-and-wprintf-functions">printf</a>, size specifiers are not supported. All integers and floating-point input values are 64-bit.</p>
 
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="SetFormat.htm">SetFormat</a>, <a href="FormatTime.htm">FormatTime</a></p>
 
 <h2 id="Examples">Exemplos</h2>

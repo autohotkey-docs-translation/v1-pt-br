@@ -15,7 +15,7 @@
 <h2 id="toc">Sumário</h2>
 <ul>
   <li><a href="#intro">Introduction and Simple Examples</a></li>
-  <li><a href="#param">Parameters</a></li>
+  <li><a href="#param">Parâmetros</a></li>
   <li><a href="#optional">Optional Parameters</a></li>
   <li><a href="#return">Returning Values to Caller</a></li>
   <li><a href="#Variadic">Variadic Functions</a></li>
@@ -45,7 +45,7 @@
 <p>Finally, functions may be called in the parameters of any command (except OutputVar and InputVar parameters such as those of <a href="commands/StringLen.htm">StringLen</a>). However, parameters that do not support <a href="Variables.htm#Expressions">expressions</a> must use the "% " prefix as in this example:</p>
 <pre>MsgBox % "The answer is: " . Add(3, 2)</pre>
 <p>The "% " prefix is also permitted in parameters that natively support expressions, but it is simply ignored.</p>
-<h2 id="param">Parameters</h2>
+<h2 id="param">Parâmetros</h2>
 <p>When a function is defined, its parameters are listed in parentheses next to its name (there must be no spaces between its name and the open-parenthesis). If a function does not accept any parameters, leave the parentheses empty; for example: <code>GetCurrentTimestamp()</code>.</p>
 <p id="ByRef"><strong>ByRef Parameters</strong>: From the function's point of view, parameters are essentially the same as <a href="#Local">local variables</a> unless they are defined as <em>ByRef</em> as in this example:</p>
 <pre>Swap(ByRef Left, ByRef Right)

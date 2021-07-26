@@ -31,7 +31,7 @@ tocData = [
   ["Mostruário de Scripts","scripts/index.htm"],
   ["Compatibilidade de Scripts","Compat.htm"],
   ["Índice de Comandos e Funções","commands/index.htm"],
-  ["Environment","",
+  ["Ambiente","",
   [
     ["ClipWait","commands/ClipWait.htm"],
     ["EnvGet","commands/EnvGet.htm"],
@@ -209,7 +209,7 @@ tocData = [
     ["ASin() / ACos() / ATan()","commands/Math.htm#ASin"],
     ["Transform","commands/Transform.htm"]
   ]],
-  ["Mouse and Keyboard","",
+  ["Mouse e Teclado","",
   [
     ["Hotkeys e Hotstrings","Hotkeys.htm",
     [

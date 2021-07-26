@@ -15,7 +15,7 @@
 <p>Replaces occurrences of a pattern (regular expression) inside a string.</p>
 
 <pre class="Syntax">NewStr := <span class="func">RegExReplace</span>(Haystack, NeedleRegEx <span class="optional">, Replacement := "", OutputVarCount := "", Limit := -1, StartingPos := 1</span>)</pre>
-<h2 id="Parameters">Parameters</h2>
+<h2 id="Parameters">Parâmetros</h2>
 <dl>
 
   <dt>Haystack</dt>
@@ -64,7 +64,7 @@
 <p>Most characters like abc123 can be used literally inside a regular expression. However, the characters <strong>\.*?+[{|()^$</strong> must be preceded by a backslash to be seen as literal. For example, <strong>\.</strong> is a literal period and <strong>\\</strong> is a literal backslash. Escaping can be avoided by using \Q...\E. Por exemplo: <span class="regex">\QLiteral Text\E</span>.</p>
 <p>Within a regular expression, special characters such as tab and newline can be escaped with either an accent (`) or a backslash (\). For example, `t is the same as \t.</p>
 <p>To learn the basics of regular expressions (or refresh your memory of pattern syntax), see the <a href="../misc/RegEx-QuickRef.htm">RegEx Quick Reference</a>.</p>
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="RegExMatch.htm">RegExMatch()</a>, <a href="../misc/RegEx-QuickRef.htm">RegEx Quick Reference</a>, <a href="../misc/RegExCallout.htm">Regular Expression Callouts</a>, <a href="StrReplace.htm">StrReplace()</a>, <a href="InStr.htm">InStr()</a>, <a href="StringReplace.htm">StringReplace</a></p>
 <p>Common sources of text data: <a href="FileRead.htm">FileRead</a>, <a href="URLDownloadToFile.htm">UrlDownloadToFile</a>, <a href="../misc/Clipboard.htm">Clipboard</a>, <a href="GuiControls.htm#Edit">GUI Edit controls</a></p>
 <h2 id="Examples">Exemplos</h2>

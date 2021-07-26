@@ -18,7 +18,7 @@
 <span class="func">WinMove</span>, X, Y
 <span class="func">WinMove</span>, WinTitle, WinText, X, Y <span class="optional">, Width, Height, ExcludeTitle, ExcludeText</span>
 </pre>
-<h2 id="Parameters">Parameters</h2>
+<h2 id="Parameters">Parâmetros</h2>
 <dl>
 
   <dt>X, Y</dt>
@@ -50,7 +50,7 @@
 <p>The speed of WinMove is affected by <a href="SetWinDelay.htm">SetWinDelay</a>.</p>
 <p>Window titles and text are case sensitive. Hidden windows are not detected unless <a href="DetectHiddenWindows.htm">DetectHiddenWindows</a> has been turned on.</p>
 <p id="limitation"><strong>Known limitation</strong>: If <em>WinTitle</em> or <em>WinText</em> contains <code>(</code>, <code>[</code> or <code>{</code>, but not the closing counterpart, such as <code>WinMove, KEDIT - [</code>, the parameter is automatically interpreted as an <a href="../Variables.htm#Expressions">expression</a>, resulting in an error message. To avoid this, you can use a <a href="../Variables.htm#percent-space">leading percent sign</a> to force a literal string instead, such as <code>WinMove, % "KEDIT - ["</code>.</p>
-<h2 id="Related">Related</h2>
+<h2 id="Related">Tópicos relacionados</h2>
 <p><a href="ControlMove.htm">ControlMove</a>, <a href="WinGetPos.htm">WinGetPos</a>, <a href="WinHide.htm">WinHide</a>, <a href="WinMinimize.htm">WinMinimize</a>, <a href="WinMaximize.htm">WinMaximize</a>, <a href="WinSet.htm">WinSet</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExLastFound">

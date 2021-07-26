@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10703,6 +10703,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Send - Syntax &amp; Usage | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T140527Z" creationid="Setur" creationdate="20210726T140527Z">
+        <seg>Send - Sintaxe e uso | AutoHotkey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Send Hello`, world!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153516Z" creationid="Setur" creationdate="20210722T153516Z">
@@ -10979,6 +10987,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063354Z" creationid="Leo" creationdate="20210624T045329Z">
         <seg>Envia &lt;k0&gt;Win&lt;/k0&gt; (a tecla do logo do Windows), portanto &lt;c1&gt;Send #e&lt;/c1&gt;&lt;k2&gt;&lt;/k2&gt; faz segurar a tecla Win e então pressionar E&lt;k3&gt;&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sends simulated keystrokes and mouse clicks to the &lt;a0&gt;active&lt;/a0&gt; window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142231Z" creationid="Setur" creationdate="20210726T142231Z">
+        <seg>Envia pressionamentos de tecla e cliques do mouse simulados para a janela &lt;a0&gt;ativa&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11787,6 +11803,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T192537Z" creationid="Leo" creationdate="20210622T192537Z">
         <seg>Primeiros passos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Send, SendRaw, SendInput, SendPlay and SendEvent commands send simulated keystrokes and mouse clicks to the active window.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T140655Z" creationid="Setur" creationdate="20210726T140655Z">
+        <seg>Os comandos Send, sendraw, SendInput, SendPlay e SendEvent enviam pressionamentos de tecla simulados e cliques do mouse para a janela ativa.</seg>
       </tuv>
     </tu>
     <tu>

@@ -6262,6 +6262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, both &lt;c8&gt;Send {Raw}{Tab}&lt;/c8&gt; and &lt;c9&gt;SendRaw {Tab}&lt;/c9&gt; send &lt;c10&gt;{Tab}&lt;/c10&gt; instead of &lt;k11&gt;Tab&lt;/k11&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T173335Z" creationid="Setur" creationdate="20210726T173335Z">
+        <seg>Por exemplo, tanto &lt;c8&gt;Send {Raw}{Tab}&lt;/c8&gt; e &lt;c9&gt;SendRaw {Tab}&lt;/c9&gt; enviam &lt;c10&gt;{Tab}&lt;/c10&gt; em vez de &lt;k11&gt;Tab&lt;/k11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, consider this simple set of instructions:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152740Z" creationid="Setur" creationdate="20210722T152740Z">

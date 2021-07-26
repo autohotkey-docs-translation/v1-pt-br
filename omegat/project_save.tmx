@@ -3142,6 +3142,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;SendInput&lt;/s0&gt; and &lt;s1&gt;SendPlay&lt;/s1&gt; &lt;s2&gt;[v1.0.43+]:&lt;/s2&gt; SendInput and SendPlay use the same syntax as Send but are generally faster and more reliable.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143434Z" creationid="Setur" creationdate="20210726T143434Z">
+        <seg>&lt;s0&gt;SendInput&lt;/s0&gt; e &lt;s1&gt;SendPlay&lt;/s1&gt; &lt;s2&gt;[v1.0.43+]:&lt;/s2&gt; SendInput e SendPlay usam a mesma sintaxe do Send mas são geralmente mais rápidas e mais confiáveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;SendRaw:&lt;/s0&gt; Similar to Send, except that all characters in &lt;e1&gt;Keys&lt;/e1&gt; are interpreted and sent literally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143334Z" creationid="Setur" creationdate="20210726T143334Z">
+        <seg>&lt;s0&gt;SendRaw:&lt;/s0&gt; similar ao Send, exceto que todos os caracteres das &lt;e1&gt;Teclas&lt;/e1&gt; são interpretados e enviados literalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Set&lt;/s0&gt; a value, denoted by &lt;c1&gt;:=&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T134728Z" creationid="Setur" creationdate="20210722T131927Z">
@@ -7911,6 +7927,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition, they buffer any physical keyboard or mouse activity during the send, which prevents the user's keystrokes from being interspersed with those being sent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143615Z" creationid="Setur" creationdate="20210726T143615Z">
+        <seg>Além disso, essas duas variantes do Send memorizam a atividade do teclado e mouse durante o envio, o que impede que as teclas pressionadas pelo usuário sejam indesejadamente intercaladas com aquelas enviadas pelos comandos SendInput e SendPlay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In all other places, they are treated literally as if they were normal characters.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174906Z" creationid="Setur" creationdate="20210719T174906Z">
@@ -10835,6 +10859,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T201838Z" creationid="Leo" creationdate="20210625T201838Z">
         <seg>Vide &lt;a2&gt;Funções&lt;/a2&gt; para mais detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;a2&gt;Raw mode&lt;/a2&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143346Z" creationid="Setur" creationdate="20210726T143346Z">
+        <seg>Veja &lt;a2&gt;modo Bruto&lt;/a2&gt; para detalhes.</seg>
       </tuv>
     </tu>
     <tu>

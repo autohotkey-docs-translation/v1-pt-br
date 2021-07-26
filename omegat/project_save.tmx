@@ -526,14 +526,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>#</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043310Z" creationid="Leo" creationdate="20210629T043310Z">
-        <seg>#</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>#1 (if true) → #1.1 → #1.2 → #3; or #1 (if false) → #2 (else) → #2.1 → #3.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153442Z" creationid="Setur" creationdate="20210722T153442Z">
@@ -2282,6 +2274,46 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050356Z" creationid="Leo" creationdate="20210629T050356Z">
         <seg>&lt;c0&gt;&lt;s1&gt;Var&lt;/s1&gt; = 123abc&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;Send !+a&lt;/c0&gt; presses &lt;k1&gt;Alt&lt;/k1&gt;+&lt;k2&gt;Shift&lt;/k2&gt;+&lt;k3&gt;A&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142706Z" creationid="Setur" creationdate="20210726T142706Z">
+        <seg>&lt;c0&gt;Send !+a&lt;/c0&gt; pressiona &lt;k1&gt;Alt&lt;/k1&gt;+&lt;k2&gt;Shift&lt;/k2&gt;+&lt;k3&gt;A&lt;/k3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;Send !a&lt;/c0&gt; presses &lt;k1&gt;Alt&lt;/k1&gt;+&lt;k2&gt;A&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142715Z" creationid="Setur" creationdate="20210726T142715Z">
+        <seg>&lt;c0&gt;Send !a&lt;/c0&gt; pressiona &lt;k1&gt;Alt&lt;/k1&gt;+&lt;k2&gt;A&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;Send #e&lt;/c0&gt; holds down &lt;k1&gt;Win&lt;/k1&gt; and then presses &lt;k2&gt;E&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142741Z" creationid="Setur" creationdate="20210726T142741Z">
+        <seg>&lt;c0&gt;Send #e&lt;/c0&gt; segura &lt;k1&gt;Win&lt;/k1&gt; e então pressiona &lt;k2&gt;E&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;Send +abC&lt;/c0&gt; sends the text "AbC"</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142700Z" creationid="Setur" creationdate="20210726T142700Z">
+        <seg>&lt;c0&gt;Send +abC&lt;/c0&gt; envia o texto "AbC"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;Send ^{Home}&lt;/c0&gt; presses &lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;Home&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142650Z" creationid="Setur" creationdate="20210726T142650Z">
+        <seg>&lt;c0&gt;Send ^{Home}&lt;/c0&gt; pressiona &lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;Home&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4066,6 +4098,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183151Z" creationid="Leo" creationdate="20210702T183151Z">
         <seg>Como hotkey (&lt;c1&gt;Shift::&lt;/c1&gt;), a tecla Shift só é enviada no momento em que é solta a não ser que esteja acompanhada do prefixo ~ (til).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As capital letters are produced by sending &lt;k1&gt;Shift&lt;/k1&gt;, &lt;c2&gt;A&lt;/c2&gt; produces a different effect in some programs than &lt;c3&gt;a&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142829Z" creationid="Setur" creationdate="20210726T142829Z">
+        <seg>Tendo em vista que as letras maiúsculas são produzidas mediante o envio da tecla &lt;k1&gt;Shift&lt;/k1&gt;, &lt;c2&gt;A&lt;/c2&gt; produz um efeito diferente de &lt;c3&gt;a&lt;/c3&gt; em alguns programas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6090,6 +6130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T010229Z" creationid="Leo" creationdate="20210624T010229Z">
         <seg>Por exemplo, &lt;c1&gt;Send, ^!a&lt;/c1&gt; faz pressionar &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;Alt&lt;/k3&gt;+&lt;k4&gt;A&lt;/k4&gt;, enquanto &lt;c5&gt;Send, ^{Home}&lt;/c5&gt; faz pressionar &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;Home&lt;/k7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c4&gt;!A&lt;/c4&gt; presses &lt;k5&gt;Alt&lt;/k5&gt;+&lt;k6&gt;Shift&lt;/k6&gt;+&lt;k7&gt;A&lt;/k7&gt; and &lt;c8&gt;!a&lt;/c8&gt; presses &lt;k9&gt;Alt&lt;/k9&gt;+&lt;k10&gt;A&lt;/k10&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142903Z" creationid="Setur" creationdate="20210726T142903Z">
+        <seg>Por exemplo, &lt;c4&gt;!A&lt;/c4&gt; pressiona &lt;k5&gt;Alt&lt;/k5&gt;+&lt;k6&gt;Shift&lt;/k6&gt;+&lt;k7&gt;A&lt;/k7&gt; e &lt;c8&gt;!a&lt;/c8&gt; pressiona &lt;k9&gt;Alt&lt;/k9&gt;+&lt;k10&gt;A&lt;/k10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8511,6 +8559,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142632Z" creationid="Setur" creationdate="20210726T142632Z">
+        <seg>Tecla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key history and script info - See &lt;a0&gt;KeyHistory&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212201Z" creationid="Setur" creationdate="20210723T212201Z">
@@ -10031,6 +10087,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142634Z" creationid="Setur" creationdate="20210726T142634Z">
+        <seg>Pressione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press &lt;k0&gt;Win&lt;/k0&gt;+&lt;k1&gt;R&lt;/k1&gt; to open the Run dialog, then enter &lt;c2&gt;shell:startup&lt;/c2&gt; and click OK or &lt;k3&gt;Enter&lt;/k3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T202820Z" creationid="Setur" creationdate="20210719T202820Z">
@@ -10227,6 +10291,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143323Z" creationid="Setur" creationdate="20210722T143323Z">
         <seg>Assuntos relacionados:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142636Z" creationid="Setur" creationdate="20210726T142636Z">
+        <seg>Solte</seg>
       </tuv>
     </tu>
     <tu>

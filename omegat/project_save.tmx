@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Auto-repeat consists of consecutive down-events (with no up-events).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164447Z" creationid="Setur" creationdate="20210728T164447Z">
+        <seg>; Repetir automaticamente consiste em vários eventos “down” consecutivos (sem os eventos “up” correspondentes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Avoids the need to specify the full path of the file below.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195837Z" creationid="Setur" creationdate="20210719T195837Z">
@@ -1406,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Note that both 0 and -1 are the same in SendPlay mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T181017Z" creationid="Setur" creationdate="20210728T181017Z">
+        <seg>; Note que tanto 0 e -1 são a mesma coisa no modo SendPlay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Notepad</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154848Z" creationid="Leo" creationdate="20210623T154848Z">
@@ -1454,6 +1470,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Presses Shift-Tab 4 times.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164158Z" creationid="Setur" creationdate="20210728T164158Z">
+        <seg>; Pressiona Shift-Tab 4 vezes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; Presses the Delete key 4 times.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164124Z" creationid="Setur" creationdate="20210728T164124Z">
+        <seg>; Pressiona a tecla Delete 4 vezes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Prevent main window from hiding.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213212Z" creationid="Setur" creationdate="20210723T213149Z">
@@ -1486,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Release the key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164520Z" creationid="Setur" creationdate="20210728T164520Z">
+        <seg>; Solta a tecla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Release the second reference; object is deleted</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011952Z" creationid="Leo" creationdate="20210723T011952Z">
@@ -1496,7 +1536,7 @@
       <tuv lang="en">
         <seg>; Release the up-arrow key.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T181141Z" creationid="Leo" creationdate="20210625T181141Z">
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164257Z" creationid="Leo" creationdate="20210625T181141Z">
         <seg>; Solta a tecla SETA PARA CIMA.</seg>
       </tuv>
     </tu>
@@ -1622,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>; Sends 30 uppercase S characters.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164143Z" creationid="Setur" creationdate="20210728T164143Z">
+        <seg>; Envia 30 caracteres S (maiúsculos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>; Several programs do not need a full path, such as Windows-standard programs:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T183211Z" creationid="Leo" creationdate="20210625T183211Z">
@@ -1666,6 +1714,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091557Z" creationid="Leo" creationdate="20210703T091557Z">
         <seg>; Testar hotkey:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>; The number of milliseconds between keystrokes (or use &lt;a2&gt;SetKeyDelay&lt;/a2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164509Z" creationid="Setur" creationdate="20210728T164509Z">
+        <seg>; O número de milissegundos entre os pressionamentos (ou use &lt;a2&gt;SetKeyDelay&lt;/a2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2150,6 +2206,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;SendInput&lt;/a0&gt; {Raw}A long series of raw characters sent via the fastest method.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190550Z" creationid="Setur" creationdate="20210728T190550Z">
+        <seg>&lt;a0&gt;SendInput&lt;/a0&gt; {Raw}Uma longa sequência de caracteres brutos enviada pelo método mais rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;SendMode&lt;/a0&gt;, &lt;a1&gt;SetKeyDelay&lt;/a1&gt;, &lt;a2&gt;SetStoreCapsLockMode&lt;/a2&gt;, &lt;a3&gt;Escape sequences (e.g. `%)&lt;/a3&gt;, &lt;a4&gt;ControlSend&lt;/a4&gt;, &lt;a5&gt;BlockInput&lt;/a5&gt;, &lt;a6&gt;Hotstrings&lt;/a6&gt;, &lt;a7&gt;WinActivate&lt;/a7&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190330Z" creationid="Setur" creationdate="20210728T190330Z">
+        <seg>&lt;a0&gt;SendMode&lt;/a0&gt;, &lt;a1&gt;SetKeyDelay&lt;/a1&gt;, &lt;a2&gt;SetStoreCapsLockMode&lt;/a2&gt;, &lt;a3&gt;Sequências de escape (ex. `%)&lt;/a3&gt;, &lt;a4&gt;ControlSend&lt;/a4&gt;, &lt;a5&gt;BlockInput&lt;/a5&gt;, &lt;a6&gt;Hotstrings&lt;/a6&gt;, &lt;a7&gt;WinActivate&lt;/a7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;SetFormat&lt;/a0&gt;'s slow mode forces the assignment of a pure number to immediately convert that number to a string.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145526Z" creationid="Setur" creationdate="20210722T145526Z">
@@ -2306,6 +2378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132325Z" creationid="Setur" creationdate="20210722T135847Z">
         <seg>&lt;a5&gt;Variáveis locais&lt;/a5&gt; são visíveis somente dentro da função que as criou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;b0&gt;Send may have no effect&lt;/b0&gt; on Windows Vista or later if the active window is running with administrative privileges and the script is not.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174036Z" creationid="Setur" creationdate="20210728T174036Z">
+        <seg>&lt;b0&gt;Send poderá não ter nenhum efeito&lt;/b0&gt; no Windows Vista ou posterior se a janela ativa está rodando com privilégios administrativos e o script não.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c4&gt;{Raw}&lt;/c4&gt; can be omitted in this case, unless a modifier key was put into effect by a prior Send.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T172646Z" creationid="Setur" creationdate="20210728T172646Z">
+        <seg>&lt;c4&gt;{Raw}&lt;/c4&gt; pode ser omitido neste caso, a não ser que uma tecla modificadora tenha sido posta em efeito por um Send anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c5&gt;!A&lt;/c5&gt; produces a different effect in some programs than &lt;c6&gt;!a&lt;/c6&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210624T004654Z" creationid="Leo" creationdate="20210624T004654Z">
@@ -2582,6 +2670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e10&gt;DownTemp&lt;/e10&gt; and &lt;e11&gt;DownR&lt;/e11&gt; have the same effect as &lt;e12&gt;Down&lt;/e12&gt; except for the modifier keys (Control, Shift, Alt, and Win).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164719Z" creationid="Setur" creationdate="20210728T164719Z">
+        <seg>&lt;e10&gt;DownTemp&lt;/e10&gt; e &lt;e11&gt;DownR&lt;/e11&gt; têm o mesmo efeito de &lt;e12&gt;Down&lt;/e12&gt; exceto para as teclas modificadoras (Control, Shift, Alt, e Win).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e11&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052729Z" creationid="Leo" creationdate="20210626T052729Z">
@@ -2626,14 +2722,6 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053104Z" creationid="Leo" creationdate="20210626T053104Z">
         <seg>&lt;e16&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;e1&gt;</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202043Z" creationid="Leo" creationdate="20210625T202043Z">
-        <seg>&lt;e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2694,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e8&gt;DownTemp&lt;/e8&gt; and &lt;e9&gt;DownR&lt;/e9&gt; can be used to override this behavior.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164657Z" creationid="Setur" creationdate="20210728T164657Z">
+        <seg>&lt;e8&gt;DownTemp&lt;/e8&gt; e &lt;e9&gt;DownR&lt;/e9&gt; podem ser usadas para ignorar esse comportamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e9&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T052608Z" creationid="Leo" creationdate="20210626T052608Z">
@@ -2734,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;*&lt;/k0&gt; (numpad multiplication)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161021Z" creationid="Setur" creationdate="20210728T161021Z">
+        <seg>&lt;k0&gt;*&lt;/k0&gt; (asterisco/sinal de multiplicação do teclado numérico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;+&lt;/k0&gt; (addition)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181112Z" creationid="Leo" creationdate="20210702T181112Z">
@@ -2742,10 +2846,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;+&lt;/k0&gt; (numpad addition)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161219Z" creationid="Setur" creationdate="20210728T161219Z">
+        <seg>&lt;k0&gt;+&lt;/k0&gt; (sinal de adição do teclado numérico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;-&lt;/k0&gt; (numpad subtraction)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161233Z" creationid="Setur" creationdate="20210728T161233Z">
+        <seg>&lt;k0&gt;-&lt;/k0&gt; (hífen/sinal de subtração do teclado numérico)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;-&lt;/k0&gt; (subtraction)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181120Z" creationid="Leo" creationdate="20210702T181120Z">
         <seg>&lt;k0&gt;-&lt;/k0&gt; (subtração)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;.&lt;/k0&gt; (numpad period) (as seen when &lt;k1&gt;NumLock&lt;/k1&gt; is ON).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T160758Z" creationid="Setur" creationdate="20210728T160758Z">
+        <seg>&lt;k0&gt;.&lt;/k0&gt; (ponto do teclado numérico) (como visto quando &lt;k1&gt;NumLock&lt;/k1&gt; está LIGADA).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2762,6 +2890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181057Z" creationid="Leo" creationdate="20210702T181057Z">
         <seg>&lt;k0&gt;/&lt;/k0&gt; (divisão)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;/&lt;/k0&gt; (numpad division)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161034Z" creationid="Setur" creationdate="20210728T161034Z">
+        <seg>&lt;k0&gt;/&lt;/k0&gt; (barra/sinal de divisão do teclado numérico)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2814,10 +2950,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Del&lt;/k0&gt; on keypad (this key and the following Numpad keys are used when &lt;k1&gt;NumLock&lt;/k1&gt; is OFF)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161257Z" creationid="Setur" creationdate="20210728T161257Z">
+        <seg>&lt;k0&gt;Del&lt;/k0&gt; no teclado numérico (esta tecla e as seguintes são as usadas quando &lt;k1&gt;NumLock&lt;/k1&gt; está DESLIGADA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;End&lt;/k0&gt; on keypad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161500Z" creationid="Setur" creationdate="20210728T161500Z">
+        <seg>&lt;k0&gt;End&lt;/k0&gt; no teclado numérico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;End&lt;/k0&gt; on main keyboard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144140Z" creationid="Setur" creationdate="20210728T144140Z">
         <seg>&lt;k0&gt;End&lt;/k0&gt; no teclado principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Enter&lt;/k0&gt; on keypad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T160916Z" creationid="Setur" creationdate="20210728T160916Z">
+        <seg>&lt;k0&gt;Enter&lt;/k0&gt;no teclado numérico</seg>
       </tuv>
     </tu>
     <tu>
@@ -2838,10 +2998,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Home&lt;/k0&gt; on keypad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161454Z" creationid="Setur" creationdate="20210728T161454Z">
+        <seg>&lt;k0&gt;Home&lt;/k0&gt; no teclado numérico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Home&lt;/k0&gt; on main keyboard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144131Z" creationid="Setur" creationdate="20210728T144131Z">
         <seg>&lt;k0&gt;Home&lt;/k0&gt; no teclado principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Ins&lt;/k0&gt; on keypad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161305Z" creationid="Setur" creationdate="20210728T161305Z">
+        <seg>&lt;k0&gt;Ins&lt;/k0&gt; no teclado numérico</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;PgDn&lt;/k0&gt; on keypad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161512Z" creationid="Setur" creationdate="20210728T161512Z">
+        <seg>&lt;k0&gt;PgDn&lt;/k0&gt; no teclado numérico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;PgDn&lt;/k0&gt; on main keyboard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144159Z" creationid="Setur" creationdate="20210728T144159Z">
@@ -2898,6 +3082,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180428Z" creationid="Leo" creationdate="20210702T180428Z">
         <seg>&lt;k0&gt;PgUp&lt;/k0&gt; (tecla page up)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;PgUp&lt;/k0&gt; on keypad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161507Z" creationid="Setur" creationdate="20210728T161507Z">
+        <seg>&lt;k0&gt;PgUp&lt;/k0&gt; no teclado numérico</seg>
       </tuv>
     </tu>
     <tu>
@@ -2990,6 +3182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;←&lt;/k0&gt; (left arrow) on keypad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161430Z" creationid="Setur" creationdate="20210728T161430Z">
+        <seg>&lt;k0&gt;←&lt;/k0&gt; (tecla seta para a esquerda) no teclado numérico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;←&lt;/k0&gt; (left arrow) on main keyboard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144115Z" creationid="Setur" creationdate="20210728T144115Z">
@@ -3002,6 +3202,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180454Z" creationid="Leo" creationdate="20210702T180454Z">
         <seg>&lt;k0&gt;↑&lt;/k0&gt; (tecla seta para cima)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (up arrow) on keypad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161355Z" creationid="Setur" creationdate="20210728T161355Z">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (tecla seta para cima) no teclado numérico</seg>
       </tuv>
     </tu>
     <tu>
@@ -3022,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;→&lt;/k0&gt; (right arrow) on keypad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161447Z" creationid="Setur" creationdate="20210728T161447Z">
+        <seg>&lt;k0&gt;→&lt;/k0&gt; (tecla seta para a direita) no teclado numérico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;→&lt;/k0&gt; (right arrow) on main keyboard</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144125Z" creationid="Setur" creationdate="20210728T144125Z">
@@ -3034,6 +3250,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180501Z" creationid="Leo" creationdate="20210702T180501Z">
         <seg>&lt;k0&gt;↓&lt;/k0&gt; (tecla seta para baixo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;↓&lt;/k0&gt; (down arrow) on keypad</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161413Z" creationid="Setur" creationdate="20210728T161413Z">
+        <seg>&lt;k0&gt;↓&lt;/k0&gt; (tecla seta para baixo) no teclado numérico</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,6 +3302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;BlockInput Compared to SendInput/SendPlay&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173451Z" creationid="Setur" creationdate="20210728T173451Z">
+        <seg>&lt;s0&gt;BlockInput Comparado a SendInput/SendPlay&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Call&lt;/s0&gt; a method, denoted by &lt;c1&gt;()&lt;/c1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131939Z" creationid="Setur" creationdate="20210722T131939Z">
@@ -3110,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Characters vs. keys&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165249Z" creationid="Setur" creationdate="20210728T165249Z">
+        <seg>&lt;s0&gt;Caracteres x teclas&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;ControlGetText&lt;/s0&gt;, OutputVar &lt;s1&gt;, Control, WinTitle, WinText, ExcludeTitle, ExcludeText&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214753Z" creationid="Leo" creationdate="20210627T214657Z">
@@ -3138,6 +3378,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184151Z" creationid="Leo" creationdate="20210702T184151Z">
         <seg>&lt;s0&gt;Obsoleto:&lt;/s0&gt; Use o sinônimo &lt;c1&gt;Pause&lt;/c1&gt; em vez de Break para evitar ambiguidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;DownTemp&lt;/s0&gt; tells subsequent sends that the key is not permanently down, and may be released whenever a keystroke calls for it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164819Z" creationid="Setur" creationdate="20210728T164819Z">
+        <seg>&lt;s0&gt;DownTemp&lt;/s0&gt; sinaliza às ocorrências subsequentes do comando Send que a tecla não está permanentemente pressionada, e pode ser solta toda vez que um pressionamento de tecla o requer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,6 +3470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Modifier State&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173305Z" creationid="Setur" creationdate="20210728T173301Z">
+        <seg>&lt;s0&gt;Estado das Teclas Modificadoras&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Multiple Joysticks&lt;/s0&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090636Z" creationid="Leo" creationdate="20210703T074043Z">
@@ -3234,6 +3490,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T001938Z" creationid="Leo" creationdate="20210723T001938Z">
         <seg>&lt;s0&gt;Codificação nativa:&lt;/s0&gt; apesar de o AutoHotkey proporcionar meios de trabalhar com texto em várias codificações, os comandos e funções nativos — e até certo ponto a linguagem em si — assumem, todos eles, que os valores de strings estão em uma codificação em particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; Characters sent using any of the above methods usually do not trigger keyboard shortcuts or hotkeys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165742Z" creationid="Setur" creationdate="20210728T165742Z">
+        <seg>&lt;s0&gt;Observação:&lt;/s0&gt; caracteres enviados por quaisquer dos métodos acima normalmente não ativarão teclas de atalho ou hotkeys.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3258,6 +3522,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033646Z" creationid="Leo" creationdate="20210724T033646Z">
         <seg>&lt;s0&gt;Observação:&lt;/s0&gt;o script Installer.ahk deve ser executado como administrador para funcionar corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Note:&lt;/s0&gt; SendInput ignores SetKeyDelay because the operating system does not support a delay in this mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174451Z" creationid="Setur" creationdate="20210728T174451Z">
+        <seg>&lt;s0&gt;Observação:&lt;/s0&gt; SendInput ignora SetKeyDelay porque o sistema operacional não suporta um delay (adiamento) nesse modo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3438,6 +3710,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;To hold down or release a key&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164206Z" creationid="Setur" creationdate="20210728T164206Z">
+        <seg>&lt;s0&gt;Para manter pressionada ou soltar uma tecla&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;To repeat a keystroke&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164054Z" creationid="Setur" creationdate="20210728T164054Z">
+        <seg>&lt;s0&gt;Para repetir um pressionamento de tecla&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Uninstall&lt;/s0&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033341Z" creationid="Leo" creationdate="20210724T033341Z">
@@ -3466,6 +3754,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090203Z" creationid="Leo" creationdate="20210702T185515Z">
         <seg>&lt;s0&gt;Aviso:&lt;/s0&gt; somente &lt;a1&gt;Send&lt;/a1&gt;, &lt;a2&gt;GetKeyName()&lt;/a2&gt;, &lt;a3&gt;GetKeyVK()&lt;/a3&gt;, &lt;a4&gt;GetKeySC()&lt;/a4&gt; e &lt;a5&gt;#MenuMaskKey&lt;/a5&gt; suportam a combinação de VKnn com SCnnn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Warning:&lt;/s0&gt; SendPlay may have no effect at all if UAC is enabled, even if the script is running as an administrator.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175300Z" creationid="Setur" creationdate="20210728T175300Z">
+        <seg>&lt;s0&gt;Aviso:&lt;/s0&gt; SendPlay pode não ter nenhum efeito se o UAC estiver ligado; mesmo que o script esteja sendo executado como administrador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3502,10 +3798,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; &lt;s1&gt;DownR&lt;/s1&gt; (where "R" stands for &lt;a2&gt;remapping&lt;/a2&gt;, which is its main use) tells subsequent sends that if the key is automatically released, it should be pressed down again when send is finished.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165009Z" creationid="Setur" creationdate="20210728T165009Z">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; &lt;s1&gt;DownR&lt;/s1&gt; (em que "R" significa &lt;a2&gt;remapear&lt;/a2&gt;, que é seu uso principal) sinaliza às ocorrências subsequentes do comando Send que, se a tecla é automaticamente solta, ela deve ser pressionada novamente quando o Send termina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; Enclosing a plain ASCII letter (a-z or A-Z) in braces forces it to be sent as the corresponding virtual keycode, even if the character does not exist on the current keyboard layout.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143101Z" creationid="Setur" creationdate="20210726T143101Z">
         <seg>&lt;s0&gt;[v.1.1.27+]:&lt;/s0&gt; envolver uma letra puramente ASCII (a-z ou A-Z) em chaves força-a a ser enviada com o código de tecla virtual, mesmo se o caractere não existir no layout do teclado em uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; For characters in the range &lt;s1&gt;a-z&lt;/s1&gt; or &lt;s2&gt;A-Z&lt;/s2&gt; (plain ASCII letters), each character which does not exist in the current keyboard layout may be sent either as a character or as the corresponding virtual keycode (vk41-vk5A):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165906Z" creationid="Setur" creationdate="20210728T165906Z">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; para caracteres no intervalo &lt;s1&gt;a-z&lt;/s1&gt; ou &lt;s2&gt;A-Z&lt;/s2&gt; (letras ASCII puras), cada caractere que não existir no layout atual do teclado podem ser enviadas ou como um caractere ou como o código de tecla virtual (vk41-vk5A):</seg>
       </tuv>
     </tu>
     <tu>
@@ -3562,6 +3874,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050358Z" creationid="Leo" creationdate="20210629T050358Z">
         <seg>&lt;s2&gt;Var1&lt;/s2&gt; := &lt;s3&gt;Var2&lt;/s3&gt; + 100</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s2&gt;[v1.1.27+]:&lt;/s2&gt; ANSI builds of AutoHotkey convert the character to Unicode before sending it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165601Z" creationid="Setur" creationdate="20210728T165538Z">
+        <seg>&lt;s2&gt;[v1.1.27+]:&lt;/s2&gt; Builds ANSI do AutoHotkey convertem o caractere para Unicode antes de enviá-lo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4038,6 +4358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also, SendPlay has other limitations described on the &lt;a4&gt;SendMode page&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190027Z" creationid="Setur" creationdate="20210728T190027Z">
+        <seg>Além disso, SendPlay tem outras limitações descritas na &lt;a4&gt;página do SendMode&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also, a &lt;a0&gt;hotkey&lt;/a0&gt; that executes more than one line must list its first line &lt;e1&gt;beneath&lt;/e1&gt; the hotkey, not on the same line.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183400Z" creationid="Setur" creationdate="20210719T183400Z">
@@ -4102,6 +4430,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although SendPlay can send LWin and RWin events, they are sent directly to the active window rather than performing their native operating system function.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190236Z" creationid="Setur" creationdate="20210728T190236Z">
+        <seg>Apesar de SendPlay poder enviar eventos com LWin e RWin, essas teclas são enviadas diretamente para a janela ativa em vez de realizar suas ações nativas do sistema operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although SendPlay is considerably slower than SendInput, it is usually faster than the traditional &lt;a0&gt;SendEvent&lt;/a0&gt; mode (even when &lt;a1&gt;KeyDelay&lt;/a1&gt; is -1).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175832Z" creationid="Setur" creationdate="20210728T175832Z">
+        <seg>Apesar de SendPlay ser consideravelmente mais lento que SendInput, é geralmente mais rápido que o modo  &lt;a0&gt;SendEvent&lt;/a0&gt; tradicional (mesmo quando o &lt;a1&gt;KeyDelay&lt;/a1&gt; é -1.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although a &lt;a0&gt;variable&lt;/a0&gt; name may consist entirely of digits, this is generally used only for &lt;a1&gt;incoming command line parameters&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010150Z" creationid="Leo" creationdate="20210723T010150Z">
@@ -4158,6 +4502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although the &lt;a1&gt;BlockInput&lt;/a1&gt; command can be used to prevent any keystrokes physically typed by the user from disrupting the flow of simulated keystrokes, it is often better to use &lt;a2&gt;SendInput&lt;/a2&gt; or &lt;a3&gt;SendPlay&lt;/a3&gt; so that keystrokes and mouse clicks become uninterruptible.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173603Z" creationid="Setur" creationdate="20210728T173603Z">
+        <seg>Apesar de o comando &lt;a1&gt;BlockInput&lt;/a1&gt; poder ser usado para impedir que teclas fisicamente pressionadas pelo usuário atrapalhem o fluxo dos pressionamentos simulados, costuma ser melhor usar &lt;a2&gt;SendInput&lt;/a2&gt; ou &lt;a3&gt;SendPlay&lt;/a3&gt; de forma que os pressionamentos e cliques do mouse fiquem ininterruptíveis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although the &lt;a1&gt;SetFormat&lt;/a1&gt; command can be used to change the current format, it is usually better to use the &lt;a2&gt;Format&lt;/a2&gt; function to format a string.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020433Z" creationid="Leo" creationdate="20210721T020433Z">
@@ -4178,6 +4530,22 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T140350Z" creationid="Setur" creationdate="20210722T140350Z">
         <seg>Apesar de o programa automaticamente inicializar todas as variáveis (uma string vazia sendo o valor padrão), é uma boa prática que o script sempre inicialize as variáveis antes do uso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although the string &lt;c2&gt;{Raw}&lt;/c2&gt; need not occur at the beginning of the string, once specified, it stays in effect for the remainder of the string.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163904Z" creationid="Setur" creationdate="20210728T163904Z">
+        <seg>Apesar de a string &lt;c2&gt;{Raw}&lt;/c2&gt; não precisar ocorrer no início da string, uma vez especificada, ela permanece em efeito até o final da string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although the string &lt;c2&gt;{Text}&lt;/c2&gt; need not occur at the beginning of the string, once specified, it stays in effect for the remainder of the string.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164028Z" creationid="Setur" creationdate="20210728T164028Z">
+        <seg>Embora a string &lt;c2&gt;{Text}&lt;/c2&gt;não precise ocorrer no início da strng, uma vez especificadas, ela permanece em efeito até o final da string.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4338,6 +4706,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T204124Z" creationid="Leo" creationdate="20210625T204124Z">
         <seg>Qualquer texto que vier terá que vir entre aspas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any use of Send may potentially release the modifier permanently, so &lt;e6&gt;DownTemp&lt;/e6&gt; is not ideal for &lt;a7&gt;remapping&lt;/a7&gt; modifier keys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164912Z" creationid="Setur" creationdate="20210728T164912Z">
+        <seg>Qualquer uso do comando Send pode potencialmente soltar a tecla modificadora permanentemente, então &lt;e6&gt;DownTemp&lt;/e6&gt; não é ideal para &lt;a7&gt;remapear&lt;/a7&gt; teclas modificadoras.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4782,6 +5158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both &lt;k0&gt;Win&lt;/k0&gt; (LWin and RWin) are automatically blocked during a SendPlay if the &lt;a1&gt;keyboard hook&lt;/a1&gt; is installed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175914Z" creationid="Setur" creationdate="20210728T175914Z">
+        <seg>Ambas as teclas &lt;k0&gt;Win&lt;/k0&gt; (LWin e RWin) são automaticamente bloqueadas durante um SendPlay se o &lt;a1&gt;gancho de teclado&lt;/a1&gt; estiver instalado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Both variables might exist at the same time, but only one is visible to each part of the script.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135713Z" creationid="Setur" creationdate="20210722T135713Z">
@@ -4918,6 +5302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By contrast, keys other than LWin and RWin do not need to be blocked because the operating system automatically postpones them until after the SendPlay (via buffering).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T180911Z" creationid="Setur" creationdate="20210728T180911Z">
+        <seg>Em contraste, teclas que não sejam LWin e RWin não precisam ser bloqueadas porque o sistema operacional automaticamente adia-as até depois do SendPlay (via buffering).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By convention in AutoHotkey, the first character is at position 1.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015424Z" creationid="Leo" creationdate="20210721T015424Z">
@@ -4950,10 +5342,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, Send will not automatically release a modifier key (Control, Shift, Alt, and Win) if that modifier key was "pressed down" by sending it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164557Z" creationid="Setur" creationdate="20210728T164557Z">
+        <seg>Por padrão, o comando Send não irá automaticamente soltar uma tecla modificadora (Control, Shift, Alt e Win) se essa tecla tiver sido “pressionada” ao ser enviada com o Send.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, UAC protects "elevated" programs (that is, programs which are running as admin) from being automated by non-elevated programs, since that would allow them to bypass security restrictions.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T184329Z" creationid="Setur" creationdate="20210719T184329Z">
         <seg>Por padrão, o UAC protege programas “elevados” (isto é, programas que estão sendo executados como administrador) de serem automatizados por programas não elevados, já que isso permitiria contornar restrições de segurança.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, characters are sent by first translating them to keystrokes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165309Z" creationid="Setur" creationdate="20210728T165309Z">
+        <seg>Por padrão, caracteres são enviados ao se traduzi-los primeiro para pressionamentos de tecla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5078,6 +5486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters and events beyond this limit are not sent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174429Z" creationid="Setur" creationdate="20210728T174429Z">
+        <seg>Caracteres e eventos além desse limite não são enviados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters sent this way usually do not trigger shortcut keys or hotkeys.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145411Z" creationid="Setur" creationdate="20210728T145411Z">
@@ -5090,6 +5506,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221211Z" creationid="Leo" creationdate="20210627T221211Z">
         <seg>Escolha aquele estilo que você gostou ou aprenda a indentar daquele jeito que você acha que é mais fácil de ler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clear key on keypad (usually &lt;k0&gt;5&lt;/k0&gt; when &lt;k1&gt;NumLock&lt;/k1&gt; is OFF).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161344Z" creationid="Setur" creationdate="20210728T161344Z">
+        <seg>Tecla “Clear” no teclado numérico (normalmente &lt;k0&gt;5&lt;/k0&gt; quando a tecla &lt;k1&gt;NumLock&lt;/k1&gt; está DESLIGADA)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5302,6 +5726,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consequently, SendPlay does not trigger hotkeys or hotstrings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175610Z" creationid="Setur" creationdate="20210728T175610Z">
+        <seg>Consequentemente, SendPlay não desencadeia hotkeys ou hotstrings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Consider the following example, which makes Numpad0 into a prefix key:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203954Z" creationid="Setur" creationdate="20210719T203954Z">
@@ -5386,6 +5818,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214947Z" creationid="Leo" creationdate="20210627T214947Z">
         <seg>ControlGetText, VarDeSaida, Controle,,, TituloExcluido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ControlSend posts a &lt;a0&gt;WM_CHAR&lt;/a0&gt; message.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165716Z" creationid="Setur" creationdate="20210728T165716Z">
+        <seg>ControlSend posta uma mensagem &lt;a0&gt;WM_CHAR&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5886,6 +6326,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables the &lt;a0&gt;Blind mode&lt;/a0&gt;, which gives the script more control by disabling a number of things that are normally done automatically to make things generally work as expected.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163747Z" creationid="Setur" creationdate="20210728T163747Z">
+        <seg>Ativa o &lt;a0&gt;modo Cego&lt;/a0&gt;, o qual dá ao script mais controle ao desabilitar várias coisas que são normalmente feitas de modo automático para fazer com que elas, em geral, funcionem como esperado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables the &lt;a0&gt;Raw mode&lt;/a0&gt;, which causes the following characters to be interpreted literally:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163833Z" creationid="Setur" creationdate="20210728T163833Z">
+        <seg>Habilita o &lt;a0&gt;modo Bruto&lt;/a0&gt;, o qual faz com que os caracteres a seguir sejam interpretados literalmente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables the &lt;a0&gt;Text mode&lt;/a0&gt;, which sends a stream of characters rather than keystrokes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163930Z" creationid="Setur" creationdate="20210728T163930Z">
+        <seg>Habilita o &lt;a0&gt;modo Texto&lt;/a0&gt;, o qual envia um fluxo de caracteres em vez de pressionamentos de tecla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enclose in braces the name of the key followed by the number of times to repeat it.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164113Z" creationid="Setur" creationdate="20210728T164113Z">
+        <seg>Envolva o nome da tecla em chaves seguido do número de vezes a repetir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enclose in braces the name of the key followed by the word &lt;s1&gt;Down&lt;/s1&gt; or &lt;s2&gt;Up&lt;/s2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164224Z" creationid="Setur" creationdate="20210728T164224Z">
+        <seg>Envolva o nome da tecla em chaves seguido da palavra &lt;s1&gt;Down&lt;/s1&gt; ou &lt;s2&gt;Up&lt;/s2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enjoy!</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214216Z" creationid="Leo" creationdate="20210627T214216Z">
@@ -5946,6 +6426,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134930Z" creationid="Setur" creationdate="20210722T134930Z">
         <seg>Mesmo uma variável à qual somente uma vez é atribuído um valor pode ser útil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even then, any changes to the left/right modifier keys (e.g. RControl) can be detected only via their neutral counterparts (e.g. Control).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190006Z" creationid="Setur" creationdate="20210728T190006Z">
+        <seg>Mesmo assim, quaisquer modificações às teclas modificadoras da esquerda ou direita (ex: RControl) podem ser detectadas somente por meio das suas correspondentes neutras (ex: Control).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6334,6 +6822,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For details, see &lt;a4&gt;#MenuMaskKey&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173442Z" creationid="Setur" creationdate="20210728T173442Z">
+        <seg>Para detalhes, vide &lt;a4&gt;#MenuMaskKey&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For details, see &lt;a4&gt;Object Protocol&lt;/a4&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151927Z" creationid="Setur" creationdate="20210722T151927Z">
@@ -6422,6 +6918,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;c0&gt;Send a&lt;/c0&gt; may behave similar to &lt;c1&gt;Send &lt;a2&gt;{Blind}&lt;/a2&gt;{Ctrl up}a{Ctrl down}&lt;/c1&gt; if the user is physically holding &lt;k3&gt;Ctrl&lt;/k3&gt;, but &lt;c4&gt;Send {Ctrl Down}&lt;/c4&gt; followed by &lt;c5&gt;Send a&lt;/c5&gt; will produce &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;A&lt;/k7&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164644Z" creationid="Setur" creationdate="20210728T164644Z">
+        <seg>Por exemplo, &lt;c0&gt;Send a&lt;/c0&gt; pode se comportar de maneira similar a &lt;c1&gt;Send &lt;a2&gt;{Blind}&lt;/a2&gt;{Ctrl up}a{Ctrl down}&lt;/c1&gt; se o usuário estiver fisicamente mantendo pressionada &lt;k3&gt;Ctrl&lt;/k3&gt;, mas &lt;c4&gt;Send {Ctrl Down}&lt;/c4&gt; seguida de &lt;c5&gt;Send a&lt;/c5&gt; produzirá &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;A&lt;/k7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c0&gt;Send {µ up}&lt;/c0&gt; has no effect on most layouts, and &lt;c1&gt;Send {µ down}&lt;/c1&gt; is equivalent to &lt;c2&gt;Send µ&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165222Z" creationid="Setur" creationdate="20210728T165222Z">
+        <seg>Por exemplo, &lt;c0&gt;Send {µ up}&lt;/c0&gt; não tem efeito na maioria dos layouts, e &lt;c1&gt;Send {µ down}&lt;/c1&gt; é equivalente a &lt;c2&gt;Send µ&lt;/c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c0&gt;^space::Send {Ctrl up}&lt;/c0&gt; automatically pushes &lt;k1&gt;Ctrl&lt;/k1&gt; back down if the user is still physically holding &lt;k2&gt;Ctrl&lt;/k2&gt;, whereas &lt;c3&gt;^space::Send {Blind}{Ctrl up}&lt;/c3&gt; allows &lt;k4&gt;Ctrl&lt;/k4&gt; to be logically up even though it is physically down.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174944Z" creationid="Setur" creationdate="20210726T174944Z">
@@ -6454,6 +6966,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;c1&gt;Send {Click}&lt;/c1&gt; would click the left mouse button once at the mouse cursor's current position, and &lt;c2&gt;Send {Click 100 200}&lt;/c2&gt; would click at coordinates 100, 200 (based on &lt;a3&gt;CoordMode&lt;/a3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162436Z" creationid="Setur" creationdate="20210728T162436Z">
+        <seg>Por exemplo, &lt;c1&gt;Send {Click}&lt;/c1&gt; clicaria uma vez com botão esquerdo do mouse nas coordenadas atuais do cursor do mouse, e &lt;c2&gt;Send {Click 100 200}&lt;/c2&gt; clicaria nas coordenadas 100, 200 (baseadas no modo configurado com &lt;a3&gt;CoordMode&lt;/a3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c1&gt;Send {Control DownTemp}&lt;/c1&gt; followed later by &lt;c2&gt;Send a&lt;/c2&gt; would produce &lt;k3&gt;A&lt;/k3&gt;, not &lt;k4&gt;Ctrl&lt;/k4&gt;+&lt;k5&gt;A&lt;/k5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164844Z" creationid="Setur" creationdate="20210728T164844Z">
+        <seg>Por exemplo, &lt;c1&gt;Send {Control DownTemp}&lt;/c1&gt; seguida posteriormente por &lt;c2&gt;Send a&lt;/c2&gt; produziria &lt;k3&gt;A&lt;/k3&gt;, não &lt;k4&gt;Ctrl&lt;/k4&gt;+&lt;k5&gt;A&lt;/k5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c1&gt;Send {Raw}Regards&lt;/c1&gt; sends the expected text, even though pressing &lt;k2&gt;R&lt;/k2&gt; (vk52) produces some other character (such as &lt;k3&gt;К&lt;/k3&gt; on the Russian layout).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T172618Z" creationid="Setur" creationdate="20210728T172618Z">
+        <seg>Por exemplo, &lt;c1&gt;Send {Raw}Atenciosamente&lt;/c1&gt; envia o texto conforme esperado, embora pressionar &lt;k2&gt;R&lt;/k2&gt; (vk52) produza um outro caractere (como &lt;k3&gt;K&lt;/k3&gt; no layout russo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c1&gt;Send, +abC&lt;/c1&gt; would send the text "AbC", and &lt;c2&gt;Send, !+a&lt;/c2&gt; would press &lt;k3&gt;Alt&lt;/k3&gt;+&lt;k4&gt;Shift&lt;/k4&gt;+&lt;k5&gt;A&lt;/k5&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220317Z" creationid="Leo" creationdate="20210624T010045Z">
@@ -6478,10 +7014,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;c1&gt;SendEvent #r&lt;/c1&gt; would show the Start Menu's Run dialog.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190307Z" creationid="Setur" creationdate="20210728T190307Z">
+        <seg>Por exemplo, &lt;c1&gt;SendEvent #r&lt;/c1&gt; exibiria o menu Executar do Menu Iniciar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c1&gt;^c&lt;/c1&gt; and &lt;c2&gt;{Ctrl down}c{Ctrl up}&lt;/c2&gt; activate the standard &lt;k3&gt;Ctrl&lt;/k3&gt;+&lt;k4&gt;C&lt;/k4&gt; shortcut and &lt;c5&gt;{c}&lt;/c5&gt; is equivalent to &lt;c6&gt;{vk43}&lt;/c6&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173126Z" creationid="Setur" creationdate="20210728T173126Z">
+        <seg>Por exemplo, &lt;c1&gt;^c&lt;/c1&gt; e &lt;c2&gt;{Ctrl down}c{Ctrl up}&lt;/c2&gt; ativam a tecla de atalho padrão &lt;k3&gt;Ctrl&lt;/k3&gt;+&lt;k4&gt;C&lt;/k4&gt; e &lt;c5&gt;{c}&lt;/c5&gt; é equivalente a &lt;c6&gt;{vk43}&lt;/c6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;c2&gt;{Tab}&lt;/c2&gt; is &lt;k3&gt;Tab&lt;/k3&gt; and &lt;c4&gt;{!}&lt;/c4&gt; is a literal exclamation mark.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142957Z" creationid="Setur" creationdate="20210726T142957Z">
         <seg>Por exemplo, &lt;c2&gt;{Tab&lt;/c2&gt; é &lt;k3&gt;Tab&lt;/k3&gt; e &lt;c4&gt;{!}&lt;/c4&gt; é um ponto de exclamação literal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;c3&gt;Send {Control DownR}&lt;/c3&gt; followed later by &lt;c4&gt;Send a&lt;/c4&gt; would produce &lt;k5&gt;A&lt;/k5&gt;, not &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;A&lt;/k7&gt;, but will leave &lt;k8&gt;Ctrl&lt;/k8&gt; in the pressed state for use with keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165054Z" creationid="Setur" creationdate="20210728T165054Z">
+        <seg>Por exemplo, &lt;c3&gt;Send {Control DownR}&lt;/c3&gt; seguido posteriormente por &lt;c4&gt;Send a&lt;/c4&gt; produziria &lt;k5&gt;A&lt;/k5&gt;, não &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;A&lt;/k7&gt;, mas deixará &lt;k8&gt;Ctrl&lt;/k8&gt; no estado pressionado para ser usada com teclas de atalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6546,6 +7106,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134849Z" creationid="Setur" creationdate="20210722T134849Z">
         <seg>Por exemplo, uma hotkey pode usar uma variável &lt;c0&gt;contagem_pressionamentos&lt;/c0&gt; para contar o número de vezes que ela foi pressionada, e enviar o pressionamento de uma tecla diferente toda vez que &lt;c1&gt;contagem_pressionamentos&lt;/c1&gt; for um múltiplo de 3 (a cada três pressionamentos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a particular game may accept &lt;a0&gt;hotstrings&lt;/a0&gt; only when they have the &lt;a1&gt;SendPlay option&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175457Z" creationid="Setur" creationdate="20210728T175457Z">
+        <seg>Por exemplo, um jogo em particular pode aceitar &lt;a0&gt;hotstrings&lt;/a0&gt; somente quando a &lt;a1&gt;opção SendPlay&lt;/a1&gt; estiver sendo usada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6822,6 +7390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For more information, refer to the &lt;a1&gt;FAQ&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175316Z" creationid="Setur" creationdate="20210728T175311Z">
+        <seg>Para mais informações, veja o &lt;a1&gt;FAQ&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For more specific details about syntax, see &lt;a0&gt;Scripting Language&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014741Z" creationid="Leo" creationdate="20210721T014741Z">
@@ -7034,6 +7610,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065823Z" creationid="Leo" creationdate="20210701T162304Z">
         <seg>Teclas Gerais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General Remarks</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165241Z" creationid="Setur" creationdate="20210728T165241Z">
+        <seg>Observações Gerais</seg>
       </tuv>
     </tu>
     <tu>
@@ -7711,6 +8295,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, a &lt;a0&gt;Loop&lt;/a0&gt; can be used to simulate auto-repeat.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164358Z" creationid="Setur" creationdate="20210728T164358Z">
+        <seg>Entretanto, um &lt;a0&gt;Loop&lt;/a0&gt; pode ser usado para simular a repetição automática.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, a quoted string (or the result of concatenating with a quoted string) is never considered numeric when used directly in an expression.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015626Z" creationid="Leo" creationdate="20210721T015626Z">
@@ -7747,6 +8339,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085433Z" creationid="Leo" creationdate="20210702T182902Z">
         <seg>No entanto, as hotkeys com o modificador &lt;c4&gt;#&lt;/c4&gt; podem ser desencadeadas por quaisquer das teclas &lt;k5&gt;Win&lt;/k5&gt;, esquerda ou direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, since SendInput is unable to detect a low-level hook in programs other than &lt;s6&gt;[AutoHotkey v1.0.43+]&lt;/s6&gt;, it will not revert in these cases, making it less reliable than SendPlay/Event.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175030Z" creationid="Setur" creationdate="20210728T175030Z">
+        <seg>Porém, já que o SendInput é incapaz de detectar um gancho de baixo nível em programas que não sejam &lt;s6&gt;[AutoHotkey v1.0.43+]&lt;/s6&gt;, ele não será revertido nestes casos, tornando-o menos confiável que SendPlay/Event.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7827,6 +8427,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005813Z" creationid="Leo" creationdate="20210723T005813Z">
         <seg>Todavia, caracteres não ASCII maiúsculos, como “Ä”, &lt;e3&gt;não são&lt;/e3&gt; consideradas iguais aos seus correspondentes minúsculos, independentemente da configuração de região do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, when SendInput reverts to &lt;a1&gt;SendEvent&lt;/a1&gt; under the conditions described below, it uses &lt;c2&gt;&lt;a3&gt;SetKeyDelay&lt;/a3&gt; -1, 0&lt;/c2&gt; (unless SendEvent's KeyDelay is &lt;c4&gt;-1,-1&lt;/c4&gt;, in which case &lt;c5&gt;-1,-1&lt;/c5&gt; is used).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174544Z" creationid="Setur" creationdate="20210728T174544Z">
+        <seg>Todavia, quando o SendInput reverte-se para &lt;a1&gt;SendEvent&lt;/a1&gt; nas condições descritas abaixo, ele usa &lt;c2&gt;&lt;a3&gt;SetKeyDelay&lt;/a3&gt; -1, 0&lt;/c2&gt; (a não ser que o KeyDelay do SendEvent seja &lt;c4&gt;-1,--1&lt;/c4&gt;, caso em que &lt;c5&gt;-1,-1&lt;/c5&gt; será usado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7927,10 +8535,34 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a character does not correspond to a virtual key on the current keyboard layout, it cannot be "pressed" or "released".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165139Z" creationid="Setur" creationdate="20210728T165139Z">
+        <seg>Se um caractere não corresponde à tecla virtual no layout atual do teclado, ele não poderá ser “pressionado” ou “solto”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a game has a cheat prevention system and your hotkeys, hotstrings and Send commands do not work, you are out of luck.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T182209Z" creationid="Leo" creationdate="20210625T182209Z">
         <seg>Se um jogo tem um sistema de prevenção de cheats e suas hotkeys, hotstrings e comandos Send não funcionam, você está sem sorte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a naked letter is sent (that is, without modifiers or braces), or if &lt;a0&gt;Raw&lt;/a0&gt; mode is in effect, it is sent as a character.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T172526Z" creationid="Setur" creationdate="20210728T172526Z">
+        <seg>Se uma letra nua é enviada (isto é, sem modificadores ou chaves), ou se o modo &lt;a0&gt;Bruto&lt;/a0&gt; está em vigor, ela será enviada como um caractere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a script &lt;e0&gt;other than&lt;/e0&gt; the one executing SendInput has a &lt;a1&gt;low-level keyboard hook&lt;/a1&gt; installed, SendInput automatically reverts to &lt;a2&gt;SendEvent&lt;/a2&gt; (or &lt;a3&gt;SendPlay&lt;/a3&gt; if &lt;c4&gt;&lt;a5&gt;SendMode&lt;/a5&gt; InputThenPlay&lt;/c4&gt; is in effect).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174716Z" creationid="Setur" creationdate="20210728T174716Z">
+        <seg>Se um script &lt;e0&gt;que não seja&lt;/e0&gt; o que está exeecutando um SendInput tenha um &lt;a1&gt;gancho de teclado de baixo nível&lt;/a1&gt; instalado, o SendInput automaticamente reverter-se-á para &lt;a2&gt;SendEvent&lt;/a2&gt; (ou &lt;a3&gt;SendPlay&lt;/a3&gt; se &lt;c4&gt;&lt;a5&gt;Sendmode&lt;/a5&gt; InputThenPlay&lt;/c4&gt; estiver em vigor).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8023,6 +8655,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If one or more modifier keys have been put into effect by the Send command, or if the letter is wrapped in braces, it is sent as a keycode (modified with &lt;k0&gt;Shift&lt;/k0&gt; if the letter is upper-case).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T172956Z" creationid="Setur" creationdate="20210728T172956Z">
+        <seg>Se uma ou mais teclas modificadoras tiverem sido postas em efeito pelo comando Send, ou se a letra está envolta em chaves, ela será enviada como um código de tecla (modificado por &lt;k0&gt;Shift&lt;/k0&gt;Shift se a tecla é maiúscula).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If present, this script is automatically "included" before any script that the program loads, and before any file specified with &lt;a0&gt;/include&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214618Z" creationid="Setur" creationdate="20210723T214618Z">
@@ -8079,6 +8719,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the letter exists in the current keyboard layout, it is always sent as whichever keycode the layout associates with that letter (unless the &lt;a0&gt;Text mode&lt;/a0&gt; is used, in which case the character is sent by other means).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173224Z" creationid="Setur" creationdate="20210728T173224Z">
+        <seg>Se a letra existe no layout atual, ela será sempre enviada na forma do código da tecla que o layout associar àquela letra (a não ser que o &lt;a0&gt;modo Texto&lt;/a0&gt; seja usado, caso em que o caractere é enviado por outros meios).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the program you are trying to start is in &lt;c0&gt;%A_WinDir%\System32&lt;/c0&gt; and you are using AutoHotkey 32-bit on a 64-bit system, the &lt;a1&gt;File System Redirector&lt;/a1&gt; may be interfering.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190646Z" creationid="Setur" creationdate="20210719T190646Z">
@@ -8131,6 +8779,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T080043Z" creationid="Leo" creationdate="20210703T080043Z">
         <seg>Se esse for seu caso, você não poderá criar uma hotkey diretamente a partir daquela tecla porque seu driver de teclado ou hardware manipula-a num nível muito baixo para que o AutoHotkey acesse. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this translation is not possible (that is, if the current keyboard layout does not contain a key or key combination which produces that character), the character is sent by one of following fallback methods:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165421Z" creationid="Setur" creationdate="20210728T165421Z">
+        <seg>Se essa tradução não for possível (isto é, se o layout atual do teclado não contém uma tecla ou combinação de teclas que produzem o caractere), o caractere é enviado por meio de um dos métodos alternativos abaixo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8447,6 +9103,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other words, &lt;e9&gt;DownR&lt;/e9&gt; has an effect similar to physically pressing the key.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165108Z" creationid="Setur" creationdate="20210728T165108Z">
+        <seg>Em outras palavras, &lt;e9&gt;DownR&lt;/e9&gt; tem um efeito similar a pressionar fisicamente a tecla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In other words, I want a certain key to act as it normally does except when a specific window is active.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T174551Z" creationid="Setur" creationdate="20210719T174551Z">
@@ -8503,6 +9167,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In other words, if the user has swapped the buttons via system settings, &lt;c0&gt;{LButton}&lt;/c0&gt; performs a logical right click, but a physical left click activates the &lt;c1&gt;RButton::&lt;/c1&gt; hotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163543Z" creationid="Setur" creationdate="20210728T163543Z">
+        <seg>Em outras palavras se o usuário permutou os botões pelas configurações do sistema, &lt;c0&gt;{LButton}&lt;/c0&gt; executa um clique lógico do botão direito, mas um clique físico no botão esquerdo ativa a hotkey &lt;c1&gt;RButton::&lt;/c1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In other words, it inserts the values at the highest integer key plus one.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212906Z" creationid="Leo" creationdate="20210627T212906Z">
@@ -8523,6 +9195,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T004725Z" creationid="Leo" creationdate="20210723T004725Z">
         <seg>Em outras palavras, scripts são afetados pelas limitações seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, the section above is only relevant for non-Latin based layouts such as Russian.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173244Z" creationid="Setur" creationdate="20210728T173244Z">
+        <seg>Em outras palavras, a seção acima só é relevante para layouts que não se baseiam no latino, como o russo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8695,6 +9375,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Increase the master volume.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162003Z" creationid="Setur" creationdate="20210728T162003Z">
+        <seg>Aumenta o volume principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Increase the volume</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183751Z" creationid="Leo" creationdate="20210702T183751Z">
@@ -8795,6 +9483,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T125504Z" creationid="Setur" creationdate="20210722T125504Z">
         <seg>Em vez disso, uma string vazia (uma string com comprimento zero) é o que costuma fazer esse papel no AHK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, it creates a series of events (messages) that flow directly to the active window (similar to &lt;a0&gt;ControlSend&lt;/a0&gt;, but at a lower level).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175546Z" creationid="Setur" creationdate="20210728T175546Z">
+        <seg>Em vez disso, ele cria uma série de eventos (mensagens) que fluem diretamente para a janela ativa (similar a &lt;a0&gt;ControlSend&lt;/a0&gt;, mas em um nível mais baixo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, it defaults to no delay at all, which can be changed as shown in the following examples:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T180949Z" creationid="Setur" creationdate="20210728T180949Z">
+        <seg>Em vez disso, ele por padrão não tem delay algum, o que pode ser mudado conforme visto nos exemplos que seguem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9023,6 +9727,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jumps to the end of the text then send four shift+left-arrow keystrokes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190502Z" creationid="Setur" creationdate="20210728T190502Z">
+        <seg>Pula para o final do texto e daí envia quatro pressionamentos de Shift+Seta para a esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Just kidding.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T210401Z" creationid="Leo" creationdate="20210622T211849Z">
@@ -9135,6 +9847,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LButton and RButton correspond to the "physical" left and right buttons when used with Send, but the "logical" left and right buttons when used with hotkeys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163432Z" creationid="Setur" creationdate="20210728T163432Z">
+        <seg>LButton e RButton correspondem aos botões esquerdo e direito “físicos” quando usados com Send, mas os botões esquerdo e direito “lógicos” são usados com hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LControl (or LCtrl)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183203Z" creationid="Leo" creationdate="20210702T183203Z">
@@ -9203,6 +9923,46 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183854Z" creationid="Leo" creationdate="20210702T183854Z">
         <seg>Abre o player de mídia padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch media player</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162124Z" creationid="Setur" creationdate="20210728T162124Z">
+        <seg>Abre o player de mídia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch the browser and go to the home page</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161912Z" creationid="Setur" creationdate="20210728T161912Z">
+        <seg>Abre o navegador e vai para a página inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch the email application</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162117Z" creationid="Setur" creationdate="20210728T162117Z">
+        <seg>Abre o aplicativo padrão de e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch user app1</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162140Z" creationid="Setur" creationdate="20210728T162140Z">
+        <seg>Abre o “aplicativo 1” configurado pelo usuário</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launch user app2</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162146Z" creationid="Setur" creationdate="20210728T162146Z">
+        <seg>Abre o “aplicativo 2” configurado pelo usuário</seg>
       </tuv>
     </tu>
     <tu>
@@ -9331,6 +10091,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230639Z" creationid="Leo" creationdate="20210703T230639Z">
         <seg>Clara (padrão)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Like &lt;a0&gt;SendInput&lt;/a0&gt;, SendPlay's keystrokes do not get interspersed with keystrokes typed by the user.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175719Z" creationid="Setur" creationdate="20210728T175719Z">
+        <seg>Da mesma forma que com o &lt;a0&gt;SendInput&lt;/a0&gt;, os pressionamentos de tecla do SendPlay não sofrem “intercalação” com as teclas pressionadas pelo usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Like the Raw mode, the Text mode causes the following characters to be interpreted literally:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163946Z" creationid="Setur" creationdate="20210728T163946Z">
+        <seg>Como no modo Bruto, o modo Texto faz com que os caracteres a seguir sejam interpretados literalmente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Likewise for &lt;c2&gt;{RButton}&lt;/c2&gt; and &lt;c3&gt;LButton::&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163609Z" creationid="Setur" creationdate="20210728T163555Z">
+        <seg>Da mesma forma funcionam &lt;c2&gt;{RButton&lt;/c2&gt; e &lt;c3&gt;LButton::&lt;/c3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9839,6 +10623,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mute/unmute the master volume.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161920Z" creationid="Setur" creationdate="20210728T161920Z">
+        <seg>Muta/desmuta o volume principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>My antivirus program flagged AHK as malware.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210722T001745Z" creationid="Setur" creationdate="20210719T173616Z">
@@ -10279,6 +11071,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Of the three sending modes, SendPlay is the most unusual because it does not simulate keystrokes and mouse clicks per se.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175518Z" creationid="Setur" creationdate="20210728T175518Z">
+        <seg>Dos três modos do comando Send, SendPlay é o menos comum porque ele não simula pressionamentos de tecla e cliques do mouse em si.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows 7 and later, taskbar buttons for multiple scripts are automatically grouped together or combined into one button by default.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034137Z" creationid="Leo" creationdate="20210724T034137Z">
@@ -10591,6 +11391,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Play/pause media player</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162109Z" creationid="Setur" creationdate="20210728T162109Z">
+        <seg>Pausa ou dá Play no player de mídia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please note that you cannot IGNORE parameters, but you can leave them blank.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T215003Z" creationid="Leo" creationdate="20210627T215003Z">
@@ -10711,6 +11519,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Prior to v1.1.27, ANSI builds used the Alt+nnnnn method.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165623Z" creationid="Setur" creationdate="20210728T165623Z">
+        <seg>Antes da versão 1.1.27, builds ANSI usavam o método Alt+nnnnn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Probably &lt;b1&gt;C:\&lt;/b1&gt; drive.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211600Z" creationid="Leo" creationdate="20210622T211600Z">
@@ -10823,6 +11639,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reduce the master volume.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161939Z" creationid="Setur" creationdate="20210728T161939Z">
+        <seg>Diminui o volume principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>References to Objects</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015014Z" creationid="Leo" creationdate="20210721T015014Z">
@@ -10887,6 +11711,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reliability is further improved by the fact that anything the user types during a SendInput is postponed until afterward.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174343Z" creationid="Setur" creationdate="20210728T174343Z">
+        <seg>A confiabilidade é ainda maior devido ao fato de que qualquer coisa que o usuário digite durante um SendInput é adiado até que este finalize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload This Script - See &lt;a0&gt;Reload&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T211641Z" creationid="Setur" creationdate="20210723T211641Z">
@@ -10923,6 +11755,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T211816Z" creationid="Leo" creationdate="20210627T213809Z">
         <seg>ValorRemovido := MeuObjeto.RemoveAt(Indice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeating or Holding Down a Key</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164041Z" creationid="Setur" creationdate="20210728T164041Z">
+        <seg>Repetindo ou Mantendo uma Tecla Pressionada</seg>
       </tuv>
     </tu>
     <tu>
@@ -11463,6 +12303,70 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select next track in media player</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162020Z" creationid="Setur" creationdate="20210728T162020Z">
+        <seg>Seleciona a próxima faixa no player de mídia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select previous track in media player</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162045Z" creationid="Setur" creationdate="20210728T162045Z">
+        <seg>Seleciona a faixa anterior no player de mídia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the browser "back" button</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161827Z" creationid="Setur" creationdate="20210728T161543Z">
+        <seg>Aciona o botão “voltar” para uso nos navegadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the browser "favorites" button</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161827Z" creationid="Setur" creationdate="20210728T161652Z">
+        <seg>Aciona o botão “favoritos” para uso nos navegadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the browser "forward" button</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161827Z" creationid="Setur" creationdate="20210728T161549Z">
+        <seg>Aciona o botão “avançar” para uso nos navegadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the browser "refresh" button</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161827Z" creationid="Setur" creationdate="20210728T161558Z">
+        <seg>Aciona o botão “Atualizar” para uso nos navegadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the browser "search" button</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161827Z" creationid="Setur" creationdate="20210728T161616Z">
+        <seg>Aciona o botão “Pesquisar” para uso nos navegadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the browser "stop" button</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161827Z" creationid="Setur" creationdate="20210728T161607Z">
+        <seg>Aciona o botão “Parar” para uso nos navegadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the menu item "View-&gt;&lt;a0&gt;Key history&lt;/a0&gt;"</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T091010Z" creationid="Leo" creationdate="20210703T075809Z">
@@ -11479,6 +12383,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selects the File-&gt;Save menu (Alt+F followed by S).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190427Z" creationid="Setur" creationdate="20210728T190427Z">
+        <seg>Seleciona o menu Arquivo -&gt; Salvar (Alt+A seguido de S no Windows em português).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send !fs</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190436Z" creationid="Setur" creationdate="20210728T190436Z">
+        <seg>Send !as</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Send - Syntax &amp; Usage | AutoHotkey</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T140527Z" creationid="Setur" creationdate="20210726T140527Z">
@@ -11491,6 +12411,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153516Z" creationid="Setur" creationdate="20210722T153516Z">
         <seg>Send Olá`, mundo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send Sincerely,{enter}John Smith</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190356Z" creationid="Setur" creationdate="20210728T190356Z">
+        <seg>Send Cordialmente,{enter}Leo Carmo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11703,6 +12631,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SendEvent and SendInput use &lt;a0&gt;SendInput()&lt;/a0&gt; with the &lt;a1&gt;KEYEVENTF_UNICODE flag&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165531Z" creationid="Setur" creationdate="20210728T165531Z">
+        <seg>SendEvent e SendInput usam &lt;a0&gt;SendInput()&lt;/a0&gt; com o &lt;a1&gt;interruptor KEYEVENTF_UNICODE&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SendInput is generally the preferred method to send keystrokes and mouse clicks because of its superior speed and reliability.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174151Z" creationid="Setur" creationdate="20210728T174151Z">
+        <seg>SendInput é geralmente o método preferido para enviar pressionamentos de tecla e cliques do mouse por causa de sua velocidade e confiabilidade superiores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SendInput, This is awesome{!}{!}{!}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202039Z" creationid="Leo" creationdate="20210625T202039Z">
@@ -11727,10 +12671,42 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SendPlay does not use the standard settings of &lt;a0&gt;SetKeyDelay&lt;/a0&gt; and &lt;a1&gt;SetMouseDelay&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T180929Z" creationid="Setur" creationdate="20210728T180929Z">
+        <seg>SendPlay não usa as configurações padrão do &lt;a0&gt;SetKeyDelay&lt;/a0&gt; e &lt;a1&gt;SetMouseDelay&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SendPlay is unable to turn on or off &lt;k0&gt;CapsLock&lt;/k0&gt;, &lt;k1&gt;NumLock&lt;/k1&gt;, or &lt;k2&gt;ScrollLock&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T181048Z" creationid="Setur" creationdate="20210728T181048Z">
+        <seg>SendPlay é incapaz de ligar ou desligar &lt;k0&gt;CapsLock&lt;/k0&gt;, &lt;k1&gt;NumLock&lt;/k1&gt;, ou &lt;k2&gt;ScrollLock&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SendPlay may have no effect at all on Windows Vista or later if User Account Control is enabled, even if the script is running as an administrator.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T192240Z" creationid="Setur" creationdate="20210719T192240Z">
         <seg>SendPlay pode não ter efeito algum no Windows Vista ou posterior se o Controle de Conta do Usuário (UAC) estiver habilitado, mesmo que o script esteja rodando como administrador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SendPlay uses the &lt;a0&gt;Alt+nnnnn&lt;/a0&gt; method, which produces Unicode only if supported by the target application.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165705Z" creationid="Setur" creationdate="20210728T165705Z">
+        <seg>SendPlay usa o método &lt;a0&gt;Alt+nnnnn&lt;/a0&gt;, que produz caracteres Unicode somente se suportados pelo aplicativo em que são usados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SendPlay's biggest advantage is its ability to "play back" keystrokes and mouse clicks in a broader variety of games than the other modes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175411Z" creationid="Setur" creationdate="20210728T175411Z">
+        <seg>A maior vantagem do SendPlay é sua capacidade de “tocar” pressionamentos de tecla e cliques do mouse em uma maior variedade de games do que os outros modos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11795,6 +12771,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145436Z" creationid="Setur" creationdate="20210728T145436Z">
         <seg>Envia um pressionamento de tecla que contém a tecla virtual XX e código de leitura YYY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sends a long series of &lt;a0&gt;raw characters&lt;/a0&gt; via the fastest method.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190520Z" creationid="Setur" creationdate="20210728T190520Z">
+        <seg>Envia uma longa série de &lt;a0&gt;caracteres brutos&lt;/a0&gt; pelo método mais rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sends a mouse button event at the cursor's current position (to have control over position and other options, use &lt;a0&gt;{Click}&lt;/a0&gt; above).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163253Z" creationid="Setur" creationdate="20210728T163253Z">
+        <seg>Envia um evento de botão do mouse à posição atual do cursor (para ter controle sobre a posição e outras opções, use &lt;a0&gt;{Click}&lt;/a0&gt; como visto acima).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sends a mouse click using the same options available in the &lt;a0&gt;Click command&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162223Z" creationid="Setur" creationdate="20210728T162223Z">
+        <seg>Envia um clique do mouse usando as mesmas opções disponíveis no &lt;a0&gt;comando Click&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11871,6 +12871,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, it is unable to change a key's state as seen by &lt;a3&gt;GetKeyState()&lt;/a3&gt; unless the keystrokes are sent to one of the script's own windows.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T181317Z" creationid="Setur" creationdate="20210728T181317Z">
+        <seg>De maneira similar, ele também é incapaz de mudar o estado de uma tecla como visto pelo comando &lt;a3&gt;GetKeyState&lt;/a3&gt; a não ser que os pressionamentos de tecla são enviados a uma das janelas do próprio script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly, the middle button and the turning of the &lt;a2&gt;mouse wheel&lt;/a2&gt; should be assignable normally except on mice whose drivers directly control those buttons.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203132Z" creationid="Setur" creationdate="20210719T203132Z">
@@ -11919,10 +12927,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since SendInput is so fast, it is also more reliable because there is less opportunity for some other window to pop up unexpectedly and intercept the keystrokes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174303Z" creationid="Setur" creationdate="20210728T174303Z">
+        <seg>Como o SendInput é tão rápido, também é mais confiável porque há menor oportunidade de alguma outra janela abrir na frente e interceptar os pressionamentos de teclas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since numbers are more memory-efficient, if a variable has both, the number is used (except for floating-point values used as keys).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145452Z" creationid="Setur" creationdate="20210722T145452Z">
         <seg>Dado que números são mais eficientes no consumo de memória, se uma variável possui ambos, o número é usado (exceto valores de ponto flutuante usados como chaves).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since the operating system does not allow simulation of the &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;Alt&lt;/k1&gt;+&lt;k2&gt;Del&lt;/k2&gt; combination, doing something like &lt;c3&gt;Send ^!{Delete}&lt;/c3&gt; will have no effect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173952Z" creationid="Setur" creationdate="20210728T173952Z">
+        <seg>Tendo em vista que o sistema operacional não permite a simulação da combinação &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;Alt&lt;/k1&gt;+&lt;k2&gt;Del&lt;/k2&gt;, fazer algo como &lt;c3&gt;Send ^!{Delete}&lt;/c3&gt; não terá efeito algum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12283,6 +13307,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183729Z" creationid="Leo" creationdate="20210702T183729Z">
         <seg>Parar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Stop media player</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162057Z" creationid="Setur" creationdate="20210728T162057Z">
+        <seg>Dá Stop no player de mídia</seg>
       </tuv>
     </tu>
     <tu>
@@ -12783,6 +13815,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The delay between mouse clicks is determined by &lt;a1&gt;SetMouseDelay&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163308Z" creationid="Setur" creationdate="20210728T163308Z">
+        <seg>O atraso entre cliques do mouse é determinado por &lt;a1&gt;SetMouseDelay&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The delay between mouse clicks is determined by &lt;a5&gt;SetMouseDelay&lt;/a5&gt; (not &lt;a6&gt;SetKeyDelay&lt;/a6&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163219Z" creationid="Setur" creationdate="20210728T163219Z">
+        <seg>O atraso entre os cliques do mouse é determinado pela instrução &lt;a5&gt;SetMouseDelay&lt;/a5&gt; (não &lt;a6&gt;SetKeyDelay&lt;/a6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The difference between the two examples is that the hotkey will be triggered when you press &lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;J&lt;/k1&gt; while the hotstring will convert your typed "ftw" into "Free the whales".</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T215651Z" creationid="Leo" creationdate="20210622T212421Z">
@@ -12827,6 +13875,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213621Z" creationid="Setur" creationdate="20210723T213621Z">
         <seg>O código a seguir ilustra como o título principal pod ser determinado pelo próprio script (mas o título verdadeiro pode ser obtido com o comando &lt;a0&gt;WinGetTitle&lt;/a0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following example sends 20 tab keystrokes:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164415Z" creationid="Setur" creationdate="20210728T164415Z">
+        <seg>O exemplo a seguir envia 20 pressionamentos da tecla Tab:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13167,6 +14223,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The string &lt;c1&gt;{Blind}&lt;/c1&gt; must occur at the beginning of the string.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163800Z" creationid="Setur" creationdate="20210728T163800Z">
+        <seg>A string &lt;c1&gt;{Blind}&lt;/c1&gt; deve ocorrer no início da string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The third line:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210330Z" creationid="Leo" creationdate="20210622T210330Z">
@@ -13415,6 +14479,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, if SendInput intentionally activates another window (by means such as alt-tab), the coordinates of subsequent clicks within the same command will be wrong because they will still be relative to the old window rather than the new one.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175230Z" creationid="Setur" creationdate="20210728T175230Z">
+        <seg>Consequentemente, se o SendInput intencionalmente ativar outra janela (como por meio do Alt-Tab), as coordenadas de cliques subsequentes dentro do mesmo comando serão erradas porque elas continuarão a ser relativas à janela anterior e não à nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These can be &lt;a0&gt;used as hotkeys&lt;/a0&gt; with some (but not all) mice which have a second wheel or support tilting the wheel to either side.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T084759Z" creationid="Leo" creationdate="20210702T071106Z">
@@ -13531,6 +14603,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T011542Z" creationid="Leo" creationdate="20210723T011542Z">
         <seg>Isso permite que a função modifique o objeto, mas não permite que a função modifique a &lt;e1&gt;variável&lt;/e1&gt; que o chamador da função empregou, pois a função apenas tem uma referência ao objeto, não à variável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This allows the script to easily activate standard keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173027Z" creationid="Setur" creationdate="20210728T173027Z">
+        <seg>Isso permite que o script ative facilmente as teclas de atalho padrão.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13679,6 +14759,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is because unlike BlockInput, SendInput/Play does not discard what the user types during the send; instead, such keystrokes are buffered and sent afterward.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173820Z" creationid="Setur" creationdate="20210728T173820Z">
+        <seg>Isso é por que, ao contrário do que ocorre com o BlockInput, o SendInput/Play não descarta o que o usuário digita durante o envio (durante a execução do comando Send); em vez disso, as teclas pressionadas nesse momento são memorizadas e enviadas logo depois.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is both for backward-compatibility and because the script could change the value indirectly via its address at any time, making the cache inaccurate.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145925Z" creationid="Setur" creationdate="20210722T145925Z">
@@ -13703,10 +14791,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is done because the presence of an external hook disables all of SendInput's advantages, making it inferior to both SendPlay and SendEvent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174936Z" creationid="Setur" creationdate="20210728T174936Z">
+        <seg>Isso é feito porque a presença de um gancho externo anula todas as vantagens do SendInput, tornando-o inferior tanto ao SendPláy quanto ao SendEvent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is done to prevent any owned windows (such as GUI windows or certain dialog windows) from automatically being minimized, but also has the effect of hiding the main window's taskbar button.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212905Z" creationid="Setur" creationdate="20210723T212905Z">
         <seg>Isso é feito para prevenir que quaisquer janelas criadas pelo script (como janelas de GUI ou certas janelas de diálogo) sejam automaticamente minimizadas, mas também tem o efeito de ocultar o botão da janela principal da barra de tarefas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is due to a security mechanism called User Interface Privilege Isolation.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174115Z" creationid="Setur" creationdate="20210728T174115Z">
+        <seg>Isso é por conta do mecanismo de segurança chamado Isolamento de Privilégios da Interface do Usuário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13891,6 +14995,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T020012Z" creationid="Leo" creationdate="20210721T020012Z">
         <seg>Esse prefixo deve ser escrito depois do sinal de &lt;c2&gt;+&lt;/c2&gt; ou &lt;c3&gt;-&lt;/c3&gt;, se presente, e antes de quaisquer zeros à esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This prevents the Start Menu from appearing if the user accidentally presses &lt;k2&gt;Win&lt;/k2&gt; during the send.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T180836Z" creationid="Setur" creationdate="20210728T180836Z">
+        <seg>Isso impede a aparição do Menu Iniciar se o usuário pressionar &lt;k2&gt;Win&lt;/k2&gt; acidentalmente durante o envio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14080,6 +15192,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thus, if the user happens to type something during a SendPlay, those keystrokes are postponed until afterward.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175742Z" creationid="Setur" creationdate="20210728T175742Z">
+        <seg>Assim, se o usuário por acaso digitar algo durante um SendPlay, esses pressionamentos serão adiados até o fim da execução do comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Title Expression</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213421Z" creationid="Setur" creationdate="20210723T213421Z">
@@ -14116,6 +15236,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212207Z" creationid="Leo" creationdate="20210627T212207Z">
         <seg>Para adicionar novas chaves e valores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To always perform a logical click, use &lt;a4&gt;{Click}&lt;/a4&gt; instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163641Z" creationid="Setur" creationdate="20210728T163641Z">
+        <seg>Para sempre executar um clique lógico, use &lt;a4&gt;{Click}&lt;/a4&gt; em vez de {L/RButton}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14288,6 +15416,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To move the mouse without clicking, specify 0 after the coordinates; for example:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162450Z" creationid="Setur" creationdate="20210728T162450Z">
+        <seg>Para mover o mouse sem clicar, especifique 0 depois das coordenadas; por exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To open a script for editing, right-click on the script file and select &lt;s0&gt;Edit Script&lt;/s0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T210032Z" creationid="Setur" creationdate="20210723T210032Z">
@@ -14424,6 +15560,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To work around this, use &lt;a0&gt;SendEvent&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190242Z" creationid="Setur" creationdate="20210728T190242Z">
+        <seg>Para contornar isso, use &lt;a0&gt;SendEvent&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To work around this, use &lt;c2&gt;%A_WinDir%\SysNative&lt;/c2&gt; instead; this is a virtual directory only visible to 32-bit programs running on 64-bit systems.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190731Z" creationid="Setur" creationdate="20210719T190731Z">
@@ -14536,6 +15680,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Types a two-line signature.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190339Z" creationid="Setur" creationdate="20210728T190339Z">
+        <seg>Digita uma assinatura de duas linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Typically performs the same function as Browser_Back.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T070836Z" creationid="Leo" creationdate="20210702T070836Z">
@@ -14592,6 +15744,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Under most conditions, SendInput is nearly instantaneous, even when sending long strings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174214Z" creationid="Setur" creationdate="20210728T174214Z">
+        <seg>Na maioria das condições, SendInput é quase instantâneo, mesmo quando enviando longas strings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unicode 32-bit.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033253Z" creationid="Leo" creationdate="20210724T033253Z">
@@ -14640,10 +15800,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unlike &lt;a0&gt;SendInput&lt;/a0&gt; and &lt;a1&gt;SendEvent&lt;/a1&gt;, the user may interrupt a SendPlay by pressing &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;Alt&lt;/k3&gt;+&lt;k4&gt;Del&lt;/k4&gt; or &lt;k5&gt;Ctrl&lt;/k5&gt;+&lt;k6&gt;Esc&lt;/k6&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190108Z" creationid="Setur" creationdate="20210728T190108Z">
+        <seg>Ao contrário de &lt;a0&gt;SendInput&lt;/a0&gt;e &lt;a1&gt;SendEvent&lt;/a1&gt;, o usuário pode interromper um SendPlay pressionando &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;Alt&lt;/k3&gt;+&lt;k4&gt;Del&lt;/k4&gt; ou &lt;k5&gt;Ctrl&lt;/k5&gt;+&lt;k6&gt;Esc&lt;/k6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unlike &lt;k1&gt;Ctrl&lt;/k1&gt;/&lt;k2&gt;Alt&lt;/k2&gt;/&lt;k3&gt;Shift&lt;/k3&gt;, there is no generic/neutral "Win" key because the OS does not support it.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T182828Z" creationid="Leo" creationdate="20210702T182828Z">
         <seg>Ao contrário do caso das teclas &lt;k1&gt;Ctrl&lt;/k1&gt;/&lt;k2&gt;Alt&lt;/k2&gt;/&lt;k3&gt;Shift&lt;/k3&gt;, não há tecla "Win" genérica/neutra porque o sistema operacional não a suporta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike the other sending modes, the operating system limits SendInput to about 5000 characters (this may vary depending on the operating system's version and performance settings).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174417Z" creationid="Setur" creationdate="20210728T174417Z">
+        <seg>Ao contrário de outros modos de envio, o sistema operacional limita o SendInput a aproximadamente 5000 caracteres (o que pode variar dependendo da versão do sistema e das configurações de desempenho).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14772,6 +15948,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T201317Z" creationid="Leo" creationdate="20210723T012255Z">
         <seg>Geralmente uma unidade residencial não seria &lt;e0&gt;deletada&lt;/e0&gt;, mas talvez o representante da imobiliária providenciará a remoção de toda tralha que você tiver deixado para trás; da mesma forma que quaisquer valores armazenados num objeto são liberados quando o objeto é excluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usually equivalent to &lt;c0&gt;&lt;a1&gt;SoundSet&lt;/a1&gt; +5&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162009Z" creationid="Setur" creationdate="20210728T162009Z">
+        <seg>Geralmente equivalente a &lt;c0&gt;&lt;a1&gt;SoundSet&lt;/a1&gt; +5&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usually equivalent to &lt;c0&gt;&lt;a1&gt;SoundSet&lt;/a1&gt; -5&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161957Z" creationid="Setur" creationdate="20210728T161957Z">
+        <seg>Geralmente equivalente a &lt;c0&gt;&lt;a1&gt;SoundSet&lt;/a1&gt; -5&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usually equivalent to &lt;c0&gt;&lt;a1&gt;SoundSet&lt;/a1&gt;, +1, , mute&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161930Z" creationid="Setur" creationdate="20210728T161930Z">
+        <seg>Geralmente equivalente a &lt;c0&gt;&lt;a1&gt;SoundSet&lt;/a1&gt;, +1, , mute&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15192,6 +16392,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>WheelLeft/Right require &lt;s2&gt;[v1.0.48+]&lt;/s2&gt;, but have no effect on operating systems older than Windows Vista.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163332Z" creationid="Setur" creationdate="20210728T163332Z">
+        <seg>WheelLeft/Right requerem &lt;s2&gt;[v1.0.48+]&lt;/s2&gt;, mas não têm efeito em sistemas operacionais anteriores ao Windows Vista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When #IfWin directives are never used in a script, all hotkeys and hotstrings are enabled for all windows.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154720Z" creationid="Leo" creationdate="20210623T154720Z">
@@ -15204,6 +16412,38 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T213130Z" creationid="Leo" creationdate="20210626T051028Z">
         <seg>Quando &lt;b0&gt;não&lt;/b0&gt; usar sinais de porcentagem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When Send is required to change the state of the &lt;k1&gt;Win&lt;/k1&gt; or &lt;k2&gt;Alt&lt;/k2&gt; modifier keys (such as if the user was holding one of those keys), it may inject additional keystrokes (&lt;k3&gt;Ctrl&lt;/k3&gt; by default) to prevent the Start menu or window menu from appearing.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173432Z" creationid="Setur" creationdate="20210728T173432Z">
+        <seg>Quando o comando Send é exigido para alterar o estado das teclas modificadoras &lt;k1&gt;Win&lt;/k1&gt; ou &lt;k2&gt;Alt&lt;/k2&gt; (como se o usuário estivesse mantido uma dessas teclas pressionadas), o programa poderá injetar pressionamentos de tecla adicionais (&lt;k3&gt;Ctrl&lt;/k3&gt; por padrão) para impedir que o Menu Iniciar do Windows seja aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When SendInput reverts to &lt;a6&gt;SendPlay&lt;/a6&gt;, it uses SendPlay's KeyDelay.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174603Z" creationid="Setur" creationdate="20210728T174603Z">
+        <seg>Quando o SendInput reverte-se para &lt;a6&gt;SendPlay&lt;/a6&gt;, ele usa o KeyDelay do SendPlay.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When SendInput sends mouse clicks by means such as &lt;a0&gt;{Click}&lt;/a0&gt;, and &lt;c1&gt;&lt;a2&gt;CoordMode&lt;/a2&gt; Mouse, Relative&lt;/c1&gt; is in effect (the default), every click will be relative to the window that was active at the start of the send.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175142Z" creationid="Setur" creationdate="20210728T175142Z">
+        <seg>Quando SendInput envia cliques do mouse através de meios como &lt;a0&gt;{Click}&lt;/a0&gt;, e &lt;c1&gt;&lt;a2&gt;CoordMode&lt;/a2&gt; Mouse, Relative&lt;/c1&gt; está em vigor (que é a opção padrão), todo clique será relativo à janela que estava ativa no início do Send.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a key is held down via the method above, it does not begin auto-repeating like it would if you were physically holding it down (this is because auto-repeat is a driver/hardware feature).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164345Z" creationid="Setur" creationdate="20210728T164345Z">
+        <seg>Quando uma tecla é mantida pressionada pelo método acima, ela não começa a repetir automaticamente como ela faria se fosse mantida pressionada (isso é porque a repetição automática é uma característica do driver/hardware).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15256,6 +16496,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When sending a large number of keystrokes, a &lt;a0&gt;continuation section&lt;/a0&gt; can be used to improve readability and maintainability.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173906Z" creationid="Setur" creationdate="20210728T173906Z">
+        <seg>Quando enviar um grande número de pressionamentos, uma &lt;a0&gt;continuação de seção&lt;/a0&gt; pode ser usada para melhorara  legibilidade e manutenibilidade.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When should percent signs and commas be &lt;a0&gt;escaped&lt;/a0&gt;?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T180506Z" creationid="Setur" creationdate="20210719T180506Z">
@@ -15292,6 +16540,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T053827Z" creationid="Leo" creationdate="20210626T053827Z">
         <seg>Quando os valores são vetores também, isso é chamado de &lt;i0&gt;vetor aninhado&lt;/i0&gt;, que serão explicados mais tarde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this happens, the remaining keystrokes are not sent but the script continues executing as though the SendPlay had completed normally.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190155Z" creationid="Setur" creationdate="20210728T190155Z">
+        <seg>Quando isso acontece, as teclas remanescentes não pressionadas não são enviadas mas o script continua executando como se o SendPlay tivesse sido completado normalmente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19922,8 +21178,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>{</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220616Z" creationid="Leo" creationdate="20210627T220616Z">
-        <seg>{</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164418Z" creationid="Leo" creationdate="20210627T220616Z">
+        <seg>{{</seg>
       </tuv>
     </tu>
     <tu>
@@ -19932,6 +21188,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144022Z" creationid="Setur" creationdate="20210728T144022Z">
         <seg>{Backspace} ou {BS}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{Click [Options]}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T162159Z" creationid="Setur" creationdate="20210728T162159Z">
+        <seg>{Click [Opções]}</seg>
       </tuv>
     </tu>
     <tu>
@@ -19996,6 +21260,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045936Z" creationid="Leo" creationdate="20210629T045936Z">
         <seg>{LCtrl}::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{Numpad5} is &lt;k1&gt;5&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T160737Z" creationid="Setur" creationdate="20210728T160737Z">
+        <seg>{Numpad5} é &lt;k1&gt;5&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

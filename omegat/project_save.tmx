@@ -5062,6 +5062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters sent this way usually do not trigger shortcut keys or hotkeys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145411Z" creationid="Setur" creationdate="20210728T145411Z">
+        <seg>Caracteres enviados desta forma normalmente não desencadeiam teclas de atalho ou hotkeys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose what you like or learn to indent how you think it's easiest to read.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221211Z" creationid="Leo" creationdate="20210627T221211Z">
@@ -8059,6 +8067,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190646Z" creationid="Setur" creationdate="20210719T190646Z">
         <seg>Se o programa que você está tentando iniciar está na pasta &lt;c0&gt;%A_WinDir\System32%&lt;/c0&gt; e você está usando AutoHotkey de 32 bits num sistema de 64 bits, o &lt;a1&gt;Redirecionador de Arquivos do Sistema&lt;/a1&gt; pode estar interferindo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the sc or vk portion is omitted, the most appropriate value is sent in its place.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T150633Z" creationid="Setur" creationdate="20210728T150633Z">
+        <seg>Se a porção sc ou vk é omitida, o valor mais apropriado é enviado em seu lugar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11731,6 +11747,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063354Z" creationid="Leo" creationdate="20210624T045329Z">
         <seg>Envia &lt;k0&gt;Win&lt;/k0&gt; (a tecla do logo do Windows), portanto &lt;c1&gt;Send #e&lt;/c1&gt;&lt;k2&gt;&lt;/k2&gt; faz segurar a tecla Win e então pressionar E&lt;k3&gt;&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sends a keystroke that has virtual key XX and scan code YYY.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145436Z" creationid="Setur" creationdate="20210728T145436Z">
+        <seg>Envia um pressionamento de tecla que contém a tecla virtual XX e código de leitura YYY.</seg>
       </tuv>
     </tu>
     <tu>

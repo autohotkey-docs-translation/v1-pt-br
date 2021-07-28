@@ -2766,6 +2766,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;CapsLock&lt;/k0&gt; (using &lt;a1&gt;SetCapsLockState&lt;/a1&gt; is more reliable on Win 2k/XP).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144226Z" creationid="Setur" creationdate="20210728T144226Z">
+        <seg>&lt;k0&gt;CapsLock&lt;/k0&gt; (usando &lt;a1&gt;SetCapsLockState&lt;/a1&gt; é mais confiável nos Windows 2000 e XP).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; (technical info:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144330Z" creationid="Setur" creationdate="20210728T144330Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; (informações técnicas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl&lt;/k0&gt;+&lt;k1&gt;Pause&lt;/k1&gt; or &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;ScrollLock&lt;/k3&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T085854Z" creationid="Leo" creationdate="20210702T184020Z">
@@ -2814,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (see also:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144320Z" creationid="Setur" creationdate="20210728T144320Z">
+        <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (veja também:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Pause&lt;/k0&gt; or &lt;k1&gt;Ctrl&lt;/k1&gt;+&lt;k2&gt;NumLock&lt;/k2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184028Z" creationid="Leo" creationdate="20210702T184028Z">
@@ -2830,10 +2854,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;PgDn&lt;/k0&gt; on main keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144159Z" creationid="Setur" creationdate="20210728T144159Z">
+        <seg>&lt;k0&gt;PgDn&lt;/k0&gt; no teclado principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;PgUp&lt;/k0&gt; (page up key)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180428Z" creationid="Leo" creationdate="20210702T180428Z">
         <seg>&lt;k0&gt;PgUp&lt;/k0&gt; (tecla page up)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;PgUp&lt;/k0&gt; on main keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144151Z" creationid="Setur" creationdate="20210728T144151Z">
+        <seg>&lt;k0&gt;PgUp&lt;/k0&gt; no teclado principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2850,6 +2890,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180312Z" creationid="Leo" creationdate="20210702T180312Z">
         <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (tecla scroll lock).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (see also:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144311Z" creationid="Setur" creationdate="20210728T144311Z">
+        <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (veja também:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9071,6 +9119,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left &lt;k0&gt;Ctrl&lt;/k0&gt; (technical info:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144418Z" creationid="Setur" creationdate="20210728T144418Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; da esquerda (informações técnicas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left &lt;k0&gt;Ctrl&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183217Z" creationid="Leo" creationdate="20210702T183217Z">
@@ -10751,6 +10807,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right &lt;k0&gt;Ctrl&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144452Z" creationid="Setur" creationdate="20210728T144452Z">
+        <seg>Tecla &lt;k0&gt;Ctrl&lt;/k0&gt; da direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right &lt;k0&gt;Ctrl&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183255Z" creationid="Leo" creationdate="20210702T183255Z">
@@ -11483,6 +11547,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210628T081206Z" creationid="Leo" creationdate="20210622T192954Z">
         <seg>Enviando pressionamentos de teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sending {CapsLock} might require &lt;c2&gt;&lt;a3&gt;SetStoreCapsLockMode&lt;/a3&gt; Off&lt;/c2&gt; beforehand.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144304Z" creationid="Setur" creationdate="20210728T144304Z">
+        <seg>Enviar {CapsLock} pode exigir que se declare &lt;c2&gt;&lt;a3&gt;SetStoreCapsLockmode&lt;/a3&gt; Off&lt;/c2&gt; antes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19496,6 +19568,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>sends the left virtual key rather than the neutral one)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144436Z" creationid="Setur" creationdate="20210728T144436Z">
+        <seg>envia a tecla virtual da esquerda em vez da neutra)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sends the neutral virtual key but the left scan code)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144355Z" creationid="Setur" creationdate="20210728T144355Z">
+        <seg>envia a tecla virtual neutra mas o código de leitura esquerdo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>static/ahk_logo.svg</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070209Z" creationid="Leo" creationdate="20210701T070209Z">
@@ -19568,6 +19656,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{Control} or {Ctrl}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144325Z" creationid="Setur" creationdate="20210728T144325Z">
+        <seg>{Control} ou {Ctrl}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{Delete} or {Del}</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144026Z" creationid="Setur" creationdate="20210728T144026Z">
@@ -19600,10 +19696,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{LControl} or {LCtrl}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144358Z" creationid="Setur" creationdate="20210728T144358Z">
+        <seg>{LControl} ou {LCtrl}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{LCtrl}::</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045936Z" creationid="Leo" creationdate="20210629T045936Z">
         <seg>{LCtrl}::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{RControl} or {RCtrl}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144439Z" creationid="Setur" creationdate="20210728T144439Z">
+        <seg>{RControl} ou {RCtrl}</seg>
       </tuv>
     </tu>
     <tu>

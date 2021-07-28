@@ -7232,8 +7232,8 @@
       <tuv lang="en">
         <seg>For example, the remapping &lt;c1&gt;a::b&lt;/c1&gt; would produce:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143559Z" creationid="Setur" creationdate="20210728T143559Z">
-        <seg>Por exemplo, o remapeamenteo &lt;c1&gt;a::b&lt;/c1&gt; produziria:</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T195506Z" creationid="Setur" creationdate="20210728T143559Z">
+        <seg>Por exemplo, o remapeamento &lt;c1&gt;a::b&lt;/c1&gt; produziria:</seg>
       </tuv>
     </tu>
     <tu>

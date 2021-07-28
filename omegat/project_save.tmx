@@ -2062,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Menu masking&lt;/a0&gt; is disabled.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T142930Z" creationid="Setur" creationdate="20210728T142930Z">
+        <seg>&lt;a0&gt;Menu masking&lt;/a0&gt; é desabilitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;MsgBox&lt;/a0&gt;, 4,, Would you like to continue?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051912Z" creationid="Leo" creationdate="20210626T051912Z">
@@ -2122,6 +2130,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145526Z" creationid="Setur" creationdate="20210722T145526Z">
         <seg>O modo lento do &lt;a0&gt;SetFormat&lt;/a0&gt; força a atribuição de um número puro para imediatamente converter aquele número em uma string.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;SetStoreCapsLockMode&lt;/a0&gt; is ignored; that is, the state of &lt;k1&gt;CapsLock&lt;/k1&gt; is not changed.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T142911Z" creationid="Setur" creationdate="20210728T142911Z">
+        <seg>&lt;a0&gt;SetStoreCapsLockMode&lt;/a0&gt; é ignorado; isto é, o estado da tecla &lt;k1&gt;CapsLock&lt;/k1&gt; não é alterado.</seg>
       </tuv>
     </tu>
     <tu>

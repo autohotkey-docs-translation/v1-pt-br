@@ -3648,8 +3648,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;SendEvent&lt;/s0&gt; &lt;s1&gt;[v1.0.43+]:&lt;/s1&gt; SendEvent sends keystrokes using the same method as the pre-1.0.43 &lt;e2&gt;Send&lt;/e2&gt; command.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144151Z" creationid="Setur" creationdate="20210726T144151Z">
-        <seg>&lt;s0&gt;SendEvent&lt;/s0&gt; &lt;s1&gt;[v1.0.43+]:&lt;/s1&gt; SendEvent envia pressionamentos de tecla usando o mesmo método do comando Send tal como este funcionava nas versões anteriores à 1.0.43.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200554Z" creationid="Setur" creationdate="20210726T144151Z">
+        <seg>&lt;s0&gt;SendEvent&lt;/s0&gt; &lt;s1&gt;[v1.0.43+]:&lt;/s1&gt; SendEvent envia pressionamentos de tecla usando o mesmo método do comando &lt;e2&gt;Send&lt;/e2&gt; tal como este funcionava nas versões anteriores à 1.0.43.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9097,8 +9097,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>In other words, &lt;c1&gt;Send a&lt;/c1&gt; produces the letter "a" while &lt;c2&gt;Send {a}&lt;/c2&gt; may or may not produce "a", depending on the keyboard layout.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143132Z" creationid="Setur" creationdate="20210726T143132Z">
-        <seg>Em outras palavras &lt;c1&gt;Send a&lt;/c1&gt; produz a letra “a” enquanto &lt;c2&gt;Send {a}&lt;/c2&gt; pode ou não produzir “a”, dependendo do layout do teclado.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200309Z" creationid="Setur" creationdate="20210726T143132Z">
+        <seg>Em outras palavras, &lt;c1&gt;Send a&lt;/c1&gt; produz a letra “a” enquanto &lt;c2&gt;Send {a}&lt;/c2&gt; pode ou não produzir “a”, dependendo do layout do teclado.</seg>
       </tuv>
     </tu>
     <tu>

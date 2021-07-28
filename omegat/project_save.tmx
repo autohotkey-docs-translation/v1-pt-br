@@ -5328,8 +5328,8 @@
       <tuv lang="en">
         <seg>By default (that is, if neither SendRaw nor the &lt;a0&gt;Raw mode&lt;/a0&gt; or &lt;a1&gt;Text mode&lt;/a1&gt; is used), the characters &lt;c2&gt;^+!#{}&lt;/c2&gt; have a special meaning.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142446Z" creationid="Setur" creationdate="20210726T142446Z">
-        <seg>Por padrão (isto é, se nem o comando SendRaw nem o &lt;a0&gt;modo Bruto&lt;/a0&gt; ou &lt;a1&gt;modo textual&lt;/a1&gt; são usados), os caracteres &lt;c2&gt;^+!#{}&lt;/c2&gt; têm um significado especial.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T195942Z" creationid="Setur" creationdate="20210726T142446Z">
+        <seg>Por padrão (isto é, se nem o comando SendRaw nem o &lt;a0&gt;modo Bruto&lt;/a0&gt; ou &lt;a1&gt;modo Texto&lt;/a1&gt; são usados), os caracteres &lt;c2&gt;^+!#{}&lt;/c2&gt; têm um significado especial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11465,8 +11465,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Press</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142634Z" creationid="Setur" creationdate="20210726T142634Z">
-        <seg>Pressione</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200030Z" creationid="Setur" creationdate="20210726T142634Z">
+        <seg>Pressionar</seg>
       </tuv>
     </tu>
     <tu>
@@ -11705,8 +11705,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Release</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142636Z" creationid="Setur" creationdate="20210726T142636Z">
-        <seg>Solte</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200238Z" creationid="Setur" creationdate="20210726T142636Z">
+        <seg>Soltar</seg>
       </tuv>
     </tu>
     <tu>
@@ -15506,8 +15506,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>To send the corresponding modifier key on its own, enclose the key name in braces.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142550Z" creationid="Setur" creationdate="20210726T142550Z">
-        <seg>Para enviar a tecla modificadora correspondente em si, envolva o nome da tecla em chaves.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200027Z" creationid="Setur" creationdate="20210726T142550Z">
+        <seg>Para enviar a correspondente tecla modificadora em si, envolva o nome da tecla em chaves.</seg>
       </tuv>
     </tu>
     <tu>

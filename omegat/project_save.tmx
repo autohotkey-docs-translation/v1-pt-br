@@ -13737,8 +13737,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The Text mode can be enabled with &lt;c0&gt;{Text}&lt;/c0&gt;, which is similar to the Raw mode, except that no attempt is made to translate characters (other than &lt;c1&gt;`r&lt;/c1&gt;, &lt;c2&gt;`n&lt;/c2&gt;, &lt;c3&gt;`t&lt;/c3&gt; and &lt;c4&gt;`b&lt;/c4&gt;) to keycodes; instead, the &lt;a5&gt;fallback method&lt;/a5&gt; is used for all of the remaining characters.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174021Z" creationid="Setur" creationdate="20210726T173732Z">
-        <seg>O modo Texto pode ser habilitado com &lt;c0&gt;{Text}&lt;/c0&gt;, o que é similar ao modo Bruto, exceto que não se tenta traduzir os caracteres (&lt;c1&gt;com exceção de &lt;/c1&gt;`r&lt;c2&gt;, &lt;/c2&gt;`n&lt;c3&gt;, &lt;/c3&gt;`t&lt;c4&gt; e &lt;/c4&gt;`b&lt;a5&gt;) para os respectivos códigos de teclas; em vez disso, o &lt;/a5&gt;método de salvaguarda é usado para todos os demais caracteres.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201238Z" creationid="Setur" creationdate="20210726T173732Z">
+        <seg>O modo Texto pode ser habilitado com &lt;c0&gt;{Text}&lt;/c0&gt;, o que é similar ao modo Bruto, exceto que não se tenta traduzir os caracteres (com exceção de &lt;c1&gt;`r&lt;/c1&gt;, &lt;c2&gt;`n&lt;/c2&gt;, &lt;c3&gt;`t&lt;/c3&gt; e &lt;c4&gt;`b&lt;/c4&gt;) para os respectivos códigos de teclas; em vez disso, o &lt;a5&gt;método alternativo&lt;/a5&gt; é usado para todos os demais caracteres.</seg>
       </tuv>
     </tu>
     <tu>

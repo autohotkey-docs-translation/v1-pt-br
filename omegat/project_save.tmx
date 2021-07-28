@@ -7032,8 +7032,8 @@
       <tuv lang="en">
         <seg>For example, &lt;c2&gt;{Tab}&lt;/c2&gt; is &lt;k3&gt;Tab&lt;/k3&gt; and &lt;c4&gt;{!}&lt;/c4&gt; is a literal exclamation mark.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142957Z" creationid="Setur" creationdate="20210726T142957Z">
-        <seg>Por exemplo, &lt;c2&gt;{Tab&lt;/c2&gt; é &lt;k3&gt;Tab&lt;/k3&gt; e &lt;c4&gt;{!}&lt;/c4&gt; é um ponto de exclamação literal.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T194814Z" creationid="Setur" creationdate="20210726T142957Z">
+        <seg>Por exemplo, &lt;c2&gt;{Tab}&lt;/c2&gt; é &lt;k3&gt;Tab&lt;/k3&gt; e &lt;c4&gt;{!}&lt;/c4&gt; é um ponto de exclamação literal.</seg>
       </tuv>
     </tu>
     <tu>

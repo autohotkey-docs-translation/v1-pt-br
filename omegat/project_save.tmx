@@ -11063,6 +11063,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;a4&gt;Hotkeys&lt;/a4&gt; for details.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143534Z" creationid="Setur" creationdate="20210728T143534Z">
+        <seg>Vide &lt;a4&gt;Hotkeys&lt;/a4&gt; para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Wikipedia's &lt;a0&gt;Indentation style&lt;/a0&gt; page for various styles and examples.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221152Z" creationid="Leo" creationdate="20210627T221152Z">
@@ -11115,6 +11123,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T153516Z" creationid="Setur" creationdate="20210722T153516Z">
         <seg>Send Olá`, mundo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Send does not wait for &lt;k0&gt;Win&lt;/k0&gt; to be released even if the text contains an &lt;k1&gt;L&lt;/k1&gt; keystroke.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143520Z" creationid="Setur" creationdate="20210728T143414Z">
+        <seg>O comando Send não aguarda a soltura da tecla &lt;k0&gt;Win&lt;/k0&gt;Win mesmo se o texto contiver um pressionamento incluindo a tecla &lt;k1&gt;L&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13580,6 +13596,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T220721Z" creationid="Leo" creationdate="20210627T064304Z">
         <seg>Isso o iniciará naquilo que se chama “vetor indexado”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This would normally be done to prevent Send from triggering the system "lock workstation" hotkey (&lt;k2&gt;Win&lt;/k2&gt;+&lt;k3&gt;L&lt;/k3&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143500Z" creationid="Setur" creationdate="20210728T143500Z">
+        <seg>Isso normalmente seria feito para impedir o Send de desencadear a tecla de atalho do Windows “bloquear computador” (Win+L).</seg>
       </tuv>
     </tu>
     <tu>

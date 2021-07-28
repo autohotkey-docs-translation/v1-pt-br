@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Alt&lt;/k0&gt; (technical info:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144617Z" creationid="Setur" creationdate="20210728T144617Z">
+        <seg>&lt;k0&gt;Alt&lt;/k0&gt; (informações técnicas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;CapsLock&lt;/k0&gt; (caps lock key)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T175949Z" creationid="Leo" creationdate="20210702T175949Z">
@@ -2898,6 +2906,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144311Z" creationid="Setur" creationdate="20210728T144311Z">
         <seg>&lt;k0&gt;ScrollLock&lt;/k0&gt; (veja também:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Shift&lt;/k0&gt; (technical info:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144743Z" creationid="Setur" creationdate="20210728T144743Z">
+        <seg>&lt;k0&gt;Shift&lt;/k0&gt; (informações técnicas:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7207,6 +7223,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Holds &lt;k0&gt;Alt&lt;/k0&gt; down until {Alt up} is sent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144719Z" creationid="Setur" creationdate="20210728T144719Z">
+        <seg>Segura &lt;k0&gt;Alt&lt;/k0&gt; até que {Alt up} seja enviada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Holds &lt;k0&gt;Ctrl&lt;/k0&gt; down until {Ctrl up} is sent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144516Z" creationid="Setur" creationdate="20210728T144516Z">
+        <seg>Segura &lt;k0&gt;Ctrl&lt;/k0&gt; até que {Ctrl up} seja enviada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Homepage</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183739Z" creationid="Leo" creationdate="20210702T183739Z">
@@ -9111,6 +9143,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left &lt;k0&gt;Alt&lt;/k0&gt; (technical info:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144630Z" creationid="Setur" creationdate="20210728T144630Z">
+        <seg>&lt;k0&gt;Alt&lt;/k0&gt; da esquerda (informações técnicas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left &lt;k0&gt;Alt&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183357Z" creationid="Leo" creationdate="20210702T183357Z">
@@ -10795,6 +10835,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T131059Z" creationid="Setur" creationdate="20210722T131059Z">
         <seg>Código reusável poupa tempo, dispensando a necessidade de escrever e testar código para a mesma tarefa ou tarefas similares a cada vez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right &lt;k0&gt;Alt&lt;/k0&gt; (or &lt;k1&gt;AltGr&lt;/k1&gt;, depending on keyboard layout)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144700Z" creationid="Setur" creationdate="20210728T144700Z">
+        <seg>Tecla &lt;k0&gt;Alt&lt;/k0&gt; da direita (ou &lt;k1&gt;AltGr&lt;/k1&gt;, dependendo do layout do teclado)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13980,6 +14028,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T232339Z" creationid="Leo" creationdate="20210625T180912Z">
         <seg>Para segurar ou soltar uma tecla, envolva o nome da tecla em chaves e aí use as palavras UP ou DOWN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To hold down the left or right key instead, use {RAlt down} and {RAlt up}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144734Z" creationid="Setur" creationdate="20210728T144734Z">
+        <seg>Para, em vez disso, segurar a tecla esquerda ou direita, use {RAlt down} e {RAlt up}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To hold down the left or right key instead, use {RCtrl down} and {RCtrl up}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144610Z" creationid="Setur" creationdate="20210728T144610Z">
+        <seg>Para, em vez disso, segurar a tecla esquerda ou direita, use {RCtrl down} e {RCtrl up}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19652,6 +19716,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144022Z" creationid="Setur" creationdate="20210728T144022Z">
         <seg>{Backspace} ou {BS}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{Control down} or {Ctrl down}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144500Z" creationid="Setur" creationdate="20210728T144500Z">
+        <seg>{Control down} ou {Ctrl down}</seg>
       </tuv>
     </tu>
     <tu>

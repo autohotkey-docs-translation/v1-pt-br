@@ -2142,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;SendInput()&lt;/a0&gt; or &lt;a1&gt;WM_CHAR&lt;/a1&gt; is used to send the character and the current Send mode has no effect.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145353Z" creationid="Setur" creationdate="20210728T145353Z">
+        <seg>&lt;a0&gt;SendInput()&lt;/a0&gt; ou &lt;a1&gt;WM_CHAR&lt;/a1&gt; será usado para enviar o caractere e o modo atual do comando Send não terá efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;SetFormat&lt;/a0&gt;'s slow mode forces the assignment of a pure number to immediately convert that number to a string.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T145526Z" creationid="Setur" creationdate="20210722T145526Z">
@@ -3442,6 +3450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T090203Z" creationid="Leo" creationdate="20210702T185515Z">
         <seg>&lt;s0&gt;Aviso:&lt;/s0&gt; somente &lt;a1&gt;Send&lt;/a1&gt;, &lt;a2&gt;GetKeyName()&lt;/a2&gt;, &lt;a3&gt;GetKeyVK()&lt;/a3&gt;, &lt;a4&gt;GetKeySC()&lt;/a4&gt; e &lt;a5&gt;#MenuMaskKey&lt;/a5&gt; suportam a combinação de VKnn com SCnnn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;[AHK_L 24+]:&lt;/s0&gt; Sends a Unicode character where &lt;e1&gt;nnnn&lt;/e1&gt; is the hexadecimal value of the character excluding the 0x prefix.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145249Z" creationid="Setur" creationdate="20210728T145249Z">
+        <seg>&lt;s0&gt;[AHK_L 24+]:&lt;/s0&gt; envia um caractere Unicode onde &lt;e1&gt;nnnn&lt;/e1&gt; é o valor hexadecimal do caractere excluindo-se o prefixo 0x.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6230,6 +6246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For alternatives, see the section below.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145218Z" creationid="Setur" creationdate="20210728T145218Z">
+        <seg>Para alternativas, veja a seção abaixo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For an integer ID, the resource name must be a hash sign (#) followed by a decimal number.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T214121Z" creationid="Setur" creationdate="20210723T214121Z">
@@ -7755,6 +7779,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003815Z" creationid="Leo" creationdate="20210723T003815Z">
         <seg>Entretanto, essas funções só são úteis em combinação com estruturas de dados e com a função &lt;a2&gt;DllCall&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, this is not supported by all applications.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145214Z" creationid="Setur" creationdate="20210728T145214Z">
+        <seg>Contudo, isso não é suportado por todos os programas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13871,6 +13903,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This typically isn't needed in Unicode versions of AutoHotkey, where Send and ControlSend automatically support Unicode text.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145310Z" creationid="Setur" creationdate="20210728T145310Z">
+        <seg>Isso tipicamente não é necessário em versões Unicode do AutoHotkey, em que os comandos Send e ControlSend automaticamente suportam texto Unicode.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will become your best friend.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210403Z" creationid="Leo" creationdate="20210622T210403Z">
@@ -14076,6 +14116,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T025944Z" creationid="Leo" creationdate="20210623T025944Z">
         <seg>Para fazer isso, você precisará usar um destes comandos garbosos com um símbolo # na frente deles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To generate ANSI characters (standard in most languages), specify a number between 128 and 255, but precede it with a leading zero, e.g. {Asc 0133}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145136Z" creationid="Setur" creationdate="20210728T145136Z">
+        <seg>Para gerar caracteres ANSI (padrão na maioria dos idiomas), especifique um número entre 128 e 255, mas insira um zero na frente, como {Asc 0133}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14492,6 +14540,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T002437Z" creationid="Leo" creationdate="20210723T002437Z">
         <seg>Caracteres Unicode no intervalo 0 a 65535 (U+FFFF) são representados por uma única unidade de código 16 bits do mesmo valor, enquanto os caracteres no intervalo 65536 (U+10000) a 1114111 (U+10FFFF) são representados por um &lt;e0&gt;par substituto&lt;/e0&gt;; isto é, exatamente duas unidades de código 16-bits entre 0xD800 e 0xDFFF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode characters may be generated by specifying a number between 256 and 65535 (without a leading zero).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145159Z" creationid="Setur" creationdate="20210728T145159Z">
+        <seg>Caracteres Unicode podem ser gerados especificando-se um número entre 256 e 65535 (sem um zero na frente).</seg>
       </tuv>
     </tu>
     <tu>

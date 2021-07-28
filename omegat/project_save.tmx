@@ -13785,8 +13785,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The characters &lt;c3&gt;^+!#&lt;/c3&gt; represent the modifier keys &lt;k4&gt;Ctrl&lt;/k4&gt;, &lt;k5&gt;Shift&lt;/k5&gt;, &lt;k6&gt;Alt&lt;/k6&gt; and &lt;k7&gt;Win&lt;/k7&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142516Z" creationid="Setur" creationdate="20210726T142516Z">
-        <seg>Os caracteres &lt;c3&gt;^+!#&lt;/c3&gt; representam as teclas modificadoras &lt;k4&gt;Ctrl&lt;/k4&gt;, &lt;k5&gt;Shift&lt;/k5&gt;, &lt;k6&gt;Alt&lt;/k6&gt; e &lt;k7&gt;Win&lt;/k7&gt;Win, respectivamente.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T194555Z" creationid="Setur" creationdate="20210726T142516Z">
+        <seg>Os caracteres &lt;c3&gt;^+!#&lt;/c3&gt; representam as teclas modificadoras &lt;k4&gt;Ctrl&lt;/k4&gt;, &lt;k5&gt;Shift&lt;/k5&gt;, &lt;k6&gt;Alt&lt;/k6&gt; e &lt;k7&gt;Win&lt;/k7&gt;, respectivamente.</seg>
       </tuv>
     </tu>
     <tu>

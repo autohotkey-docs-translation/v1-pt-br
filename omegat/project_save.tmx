@@ -2830,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Menu&lt;/k0&gt; (invokes the right-click or context menu)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144943Z" creationid="Setur" creationdate="20210728T144943Z">
+        <seg>&lt;k0&gt;Menu&lt;/k0&gt; (invoca o menu contexto que abre ao se clicar com o botão direito)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;NumLock&lt;/k0&gt; (number lock key).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T181013Z" creationid="Leo" creationdate="20210702T181013Z">
@@ -2920,8 +2928,8 @@
       <tuv lang="en">
         <seg>&lt;k0&gt;Sleep&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063109Z" creationid="Leo" creationdate="20210702T184233Z">
-        <seg>&lt;k0&gt;Adormecer&lt;/k0&gt;</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145015Z" creationid="Leo" creationdate="20210702T184233Z">
+        <seg>&lt;k0&gt;Adormecer&lt;/k0&gt; (aguardar uma quantidade especificada de milissegundos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7239,6 +7247,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Holds &lt;k0&gt;Shift&lt;/k0&gt; down until {Shift up} is sent.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144828Z" creationid="Setur" creationdate="20210728T144828Z">
+        <seg>Segura &lt;k0&gt;Shift&lt;/k0&gt; até que {Shift up} seja enviada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Holds the left &lt;k0&gt;Win&lt;/k0&gt; down until {LWin up} is sent</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144904Z" creationid="Setur" creationdate="20210728T144904Z">
+        <seg>Segura &lt;k0&gt;Win&lt;/k0&gt; até que {Win up} seja enviada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Holds the right &lt;k0&gt;Win&lt;/k0&gt; down until {RWin up} is sent</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144918Z" creationid="Setur" creationdate="20210728T144918Z">
+        <seg>Segura &lt;k0&gt;Win&lt;/k0&gt; da direita até que {RWin up} seja enviada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Homepage</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183739Z" creationid="Leo" creationdate="20210702T183739Z">
@@ -9175,10 +9207,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left &lt;k0&gt;Shift&lt;/k0&gt; (technical info:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144800Z" creationid="Setur" creationdate="20210728T144800Z">
+        <seg>&lt;k0&gt;Shift&lt;/k0&gt; da esquerda (informações técnicas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left &lt;k0&gt;Shift&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183315Z" creationid="Leo" creationdate="20210702T183315Z">
         <seg>Tecla &lt;k0&gt;Shift&lt;/k0&gt; da esquerda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left &lt;k0&gt;Win&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144847Z" creationid="Setur" creationdate="20210728T144847Z">
+        <seg>Tecla &lt;k0&gt;Win&lt;/k0&gt; (botão do Windows) da esquerda</seg>
       </tuv>
     </tu>
     <tu>
@@ -10871,10 +10919,26 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right &lt;k0&gt;Shift&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144813Z" creationid="Setur" creationdate="20210728T144813Z">
+        <seg>Tecla &lt;k0&gt;Shift&lt;/k0&gt; da direita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right &lt;k0&gt;Shift&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183340Z" creationid="Leo" creationdate="20210702T183335Z">
         <seg>Tecla &lt;k0&gt;Shift&lt;/k0&gt; da direita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right &lt;k0&gt;Win&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144851Z" creationid="Setur" creationdate="20210728T144851Z">
+        <seg>Tecla &lt;k0&gt;Win&lt;/k0&gt; da direita</seg>
       </tuv>
     </tu>
     <tu>
@@ -11635,6 +11699,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063354Z" creationid="Leo" creationdate="20210624T045329Z">
         <seg>Envia &lt;k0&gt;Win&lt;/k0&gt; (a tecla do logo do Windows), portanto &lt;c1&gt;Send #e&lt;/c1&gt;&lt;k2&gt;&lt;/k2&gt; faz segurar a tecla Win e então pressionar E&lt;k3&gt;&lt;/k3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sends an &lt;k0&gt;Alt&lt;/k0&gt;+nnnnn keypad combination, which can be used to generate special characters that don't exist on the keyboard.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145045Z" creationid="Setur" creationdate="20210728T145045Z">
+        <seg>Envia uma combinação com &lt;k0&gt;Alt&lt;/k0&gt;Alt+nnnnm, que pode ser usada para gerar caracteres especiais que não existem no teclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14008,6 +14080,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To generate ASCII characters, specify a number between 1 and 255.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145057Z" creationid="Setur" creationdate="20210728T145057Z">
+        <seg>Para gerar caracteres ASCII, especifique um número entre 1 e 255.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To help determine the button numbers for your joystick, use this &lt;a1&gt;test script&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T185736Z" creationid="Leo" creationdate="20210702T185736Z">
@@ -14044,6 +14124,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144610Z" creationid="Setur" creationdate="20210728T144610Z">
         <seg>Para, em vez disso, segurar a tecla esquerda ou direita, use {RCtrl down} e {RCtrl up}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To hold down the left or right key instead, use {RShift down} and {RShift up}.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144840Z" creationid="Setur" creationdate="20210728T144840Z">
+        <seg>Para, em vez disso, segurar a tecla esquerda ou direita, use {RShift down} e {RShift up}.</seg>
       </tuv>
     </tu>
     <tu>

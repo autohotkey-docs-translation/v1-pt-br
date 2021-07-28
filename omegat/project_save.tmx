@@ -3832,8 +3832,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;[v1.1.29+]:&lt;/s0&gt; Like the Blind mode, the Text mode ignores &lt;a1&gt;SetStoreCapsLockMode&lt;/a1&gt; (that is, the state of &lt;k2&gt;CapsLock&lt;/k2&gt; is not changed) and does not &lt;a3&gt;wait for &lt;k4&gt;Win&lt;/k4&gt; to be released&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174403Z" creationid="Setur" creationdate="20210726T174403Z">
-        <seg>&lt;s0&gt;[v1.1.29+]:&lt;/s0&gt; como no modo Cego, o modo Texto ignora o &lt;a1&gt;SetStoreCapsLockMode&lt;/a1&gt; (isto é, o estado da tecla &lt;k2&gt;CapsLock&lt;/k2&gt; não é alterado) e não &lt;a3&gt;espera que a tecla &lt;k4&gt;Win&lt;/k4&gt; seja solta&lt;/a3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201803Z" creationid="Setur" creationdate="20210726T174403Z">
+        <seg>&lt;s0&gt;[v1.1.29+]:&lt;/s0&gt; da mesma forma que no modo Cego, o modo Texto ignora o &lt;a1&gt;SetStoreCapsLockMode&lt;/a1&gt; (isto é, o estado da tecla &lt;k2&gt;CapsLock&lt;/k2&gt; não é alterado) e não &lt;a3&gt;espera que a tecla &lt;k4&gt;Win&lt;/k4&gt; seja solta&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>

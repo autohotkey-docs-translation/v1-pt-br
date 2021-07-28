@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a1&gt;Special Keys&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T150724Z" creationid="Setur" creationdate="20210728T150724Z">
+        <seg>&lt;a1&gt;Teclas Especiais&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a2&gt;Changing the title&lt;/a2&gt; prevents the script from being identified as such.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T213351Z" creationid="Setur" creationdate="20210723T213351Z">
@@ -3442,6 +3450,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033034Z" creationid="Leo" creationdate="20210724T033034Z">
         <seg>&lt;s0&gt;Versão&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;Warning:&lt;/s0&gt; Combining vk and sc in this manner is valid only with Send.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T150754Z" creationid="Setur" creationdate="20210728T150754Z">
+        <seg>&lt;s0&gt;Atenção:&lt;/s0&gt; combinar vk e sc deste jeito só é válido com Send.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10167,6 +10183,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Numpad digit keys (as seen when &lt;k0&gt;NumLock&lt;/k0&gt; is ON).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T160731Z" creationid="Setur" creationdate="20210728T160731Z">
+        <seg>As teclas de algarismos do teclado numérico (como visto quando &lt;k0&gt;NumLock&lt;/k0&gt; está LIGADA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Numpad0 &amp; Numpad1::</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045918Z" creationid="Leo" creationdate="20210629T045918Z">
@@ -10675,6 +10699,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183808Z" creationid="Leo" creationdate="20210702T183808Z">
         <seg>Faixa anterior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prior to &lt;s1&gt;[v1.1.27]&lt;/s1&gt;, hotkeys permitted but ignored any non-hexadecimal characters following XX.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T150839Z" creationid="Setur" creationdate="20210728T150839Z">
+        <seg>Antes da versão &lt;s1&gt;[1.1.27]&lt;/s1&gt;, as hotkeys permitiam mas ignoravam todos os caracteres não hexadecimais que sucediam XX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11411,6 +11443,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T190403Z" creationid="Setur" creationdate="20210719T190403Z">
         <seg>Veja também &lt;a0&gt;Parâmetro da Linha de Comando "Nome do Arquivo de Script"&lt;/a0&gt; e &lt;a1&gt;Portabilidade do AutoHotkey.exe&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See also:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T150716Z" creationid="Setur" creationdate="20210728T150716Z">
+        <seg>Veja também:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13155,6 +13195,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213703Z" creationid="Leo" creationdate="20210627T213703Z">
         <seg>O valor que o método dará será o número de chaves que foram removidas, o que é útil se você tem uma lacuna entre suas chaves (por exemplo, você especificou as chaves 1 a 4, mas a chave número 2 não existe, isso definirá &lt;e2&gt;NumeroDeChavesDeletadas&lt;/e2&gt; para 3 já que somente três chaves estavam lá para ser removidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The values for XX and YYY are hexadecimal and can usually be determined from the main window's &lt;a0&gt;View-&gt;Key history&lt;/a0&gt; menu item.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T150712Z" creationid="Setur" creationdate="20210728T150712Z">
+        <seg>Os valores para XX e YYY são hexadecimais e podem normalmente ser determinados por meio do item de menu &lt;a0&gt;View -&gt; Key history&lt;/a0&gt; da janela principal do script.</seg>
       </tuv>
     </tu>
     <tu>

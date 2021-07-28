@@ -928,8 +928,8 @@
       <tuv lang="en">
         <seg>1) Start Menu appearance during Win keystrokes (LWin/RWin); 2) menu bar activation during Alt keystrokes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143131Z" creationid="Setur" creationdate="20210728T143131Z">
-        <seg>1) a aparição do Menu Iniciar durante os pressionamentos de tecla envolvendo a tecla Win (LWin/RWin); 2) a ativação da barra de menu ao enviar pressionamentos de tecla envolvendo a tecla Alt.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T143131Z">
+        <seg>1) a aparição do Menu Iniciar durante os pressionamentos de teclas envolvendo a tecla Win (LWin/RWin); 2) a ativação da barra de menu ao enviar pressionamentos de teclas envolvendo a tecla Alt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,8 +944,8 @@
       <tuv lang="en">
         <seg>3 - Sending Keystrokes</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210624T003438Z" creationid="Leo" creationdate="20210624T003438Z">
-        <seg>3 - Enviando pressionamentos de teclas</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210624T003438Z">
+        <seg>3 - Enviando pressionamentos de teclass</seg>
       </tuv>
     </tu>
     <tu>
@@ -2112,8 +2112,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;Joystick remapping:&lt;/a0&gt; Methods of sending keystrokes and mouse clicks with a joystick.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210703T074432Z" creationid="Leo" creationdate="20210703T074432Z">
-        <seg>&lt;a0&gt;Remapeamento de joystick:&lt;/a0&gt; métodos para enviar pressionamentos de teclas e cliques do mouse com um joystick.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210703T074432Z">
+        <seg>&lt;a0&gt;Remapeamento de joystick:&lt;/a0&gt; métodos para enviar pressionamentos de teclass e cliques do mouse com um joystick.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2456,8 +2456,8 @@
       <tuv lang="en">
         <seg>&lt;c0&gt;Send, My First Script&lt;/c0&gt; is how you &lt;s1&gt;send&lt;/s1&gt; keystrokes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210259Z" creationid="Leo" creationdate="20210622T210259Z">
-        <seg>&lt;c0&gt;Send, Meu primeiro script&lt;/c0&gt; é como você envia (&lt;s1&gt;send&lt;/s1&gt;) pressionamentos de teclas.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210622T210259Z">
+        <seg>&lt;c0&gt;Send, Meu primeiro script&lt;/c0&gt; é como você envia (&lt;s1&gt;send&lt;/s1&gt;) pressionamentos de teclass.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3648,8 +3648,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;SendEvent&lt;/s0&gt; &lt;s1&gt;[v1.0.43+]:&lt;/s1&gt; SendEvent sends keystrokes using the same method as the pre-1.0.43 &lt;e2&gt;Send&lt;/e2&gt; command.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200554Z" creationid="Setur" creationdate="20210726T144151Z">
-        <seg>&lt;s0&gt;SendEvent&lt;/s0&gt; &lt;s1&gt;[v1.0.43+]:&lt;/s1&gt; SendEvent envia pressionamentos de tecla usando o mesmo método do comando &lt;e2&gt;Send&lt;/e2&gt; tal como este funcionava nas versões anteriores à 1.0.43.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210726T144151Z">
+        <seg>&lt;s0&gt;SendEvent&lt;/s0&gt; &lt;s1&gt;[v1.0.43+]:&lt;/s1&gt; SendEvent envia pressionamentos de teclas usando o mesmo método do comando &lt;e2&gt;Send&lt;/e2&gt; tal como este funcionava nas versões anteriores à 1.0.43.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5360,8 +5360,8 @@
       <tuv lang="en">
         <seg>By default, characters are sent by first translating them to keystrokes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165309Z" creationid="Setur" creationdate="20210728T165309Z">
-        <seg>Por padrão, caracteres são enviados ao se traduzi-los primeiro para pressionamentos de tecla.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T165309Z">
+        <seg>Por padrão, caracteres são enviados ao se traduzi-los primeiro para pressionamentos de teclas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6344,8 +6344,8 @@
       <tuv lang="en">
         <seg>Enables the &lt;a0&gt;Text mode&lt;/a0&gt;, which sends a stream of characters rather than keystrokes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163930Z" creationid="Setur" creationdate="20210728T163930Z">
-        <seg>Habilita o &lt;a0&gt;modo Texto&lt;/a0&gt;, o qual envia um fluxo de caracteres em vez de pressionamentos de tecla.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T163930Z">
+        <seg>Habilita o &lt;a0&gt;modo Texto&lt;/a0&gt;, o qual envia um fluxo de caracteres em vez de pressionamentos de teclas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7176,8 +7176,8 @@
       <tuv lang="en">
         <seg>For example, the &lt;a0&gt;Send&lt;/a0&gt; command &lt;e1&gt;sends&lt;/e1&gt; keystrokes, but may return before the keystrokes reach their destination and cause their intended effect.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150759Z" creationid="Setur" creationdate="20210722T150759Z">
-        <seg>Por exemplo, o comando &lt;a0&gt;Send&lt;/a0&gt; &lt;e1&gt;envia&lt;/e1&gt; pressionamentos de teclas, mas podem retornar antes que as teclas pressionadas cheguem ao seu destino e gerem seu efeito pretendido.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210722T150759Z">
+        <seg>Por exemplo, o comando &lt;a0&gt;Send&lt;/a0&gt; &lt;e1&gt;envia&lt;/e1&gt; pressionamentos de teclass, mas podem retornar antes que as teclas pressionadas cheguem ao seu destino e gerem seu efeito pretendido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9985,8 +9985,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Learn how to download and install AutoHotkey, to create a script, to use hotkeys and hotstrings, to send keystrokes, to run programs, etc.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T070513Z" creationid="Leo" creationdate="20210622T192230Z">
-        <seg>Aprenda a baixar e instalar o AutoHotkey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclas, executar programas e mais.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210622T192230Z">
+        <seg>Aprenda a baixar e instalar o AutoHotkey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclass, executar programas e mais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10097,8 +10097,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Like &lt;a0&gt;SendInput&lt;/a0&gt;, SendPlay's keystrokes do not get interspersed with keystrokes typed by the user.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175719Z" creationid="Setur" creationdate="20210728T175719Z">
-        <seg>Da mesma forma que com o &lt;a0&gt;SendInput&lt;/a0&gt;, os pressionamentos de tecla do SendPlay não sofrem “intercalação” com as teclas pressionadas pelo usuário.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T175719Z">
+        <seg>Da mesma forma que com o &lt;a0&gt;SendInput&lt;/a0&gt;, os pressionamentos de teclas do SendPlay não sofrem “intercalação” com as teclas pressionadas pelo usuário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10833,8 +10833,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Not all games allow AHK to send keys and clicks or receive pixel colors.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210719T191835Z" creationid="Setur" creationdate="20210719T191835Z">
-        <seg>Nem todos os jogos permitem que o AHK envie pressionamentos de teclas ou cliques ou receba cores de píxeis.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210719T191835Z">
+        <seg>Nem todos os jogos permitem que o AHK envie pressionamentos de teclass ou cliques ou receba cores de píxeis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11073,8 +11073,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Of the three sending modes, SendPlay is the most unusual because it does not simulate keystrokes and mouse clicks per se.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175518Z" creationid="Setur" creationdate="20210728T175518Z">
-        <seg>Dos três modos do comando Send, SendPlay é o menos comum porque ele não simula pressionamentos de tecla e cliques do mouse em si.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T175518Z">
+        <seg>Dos três modos do comando Send, SendPlay é o menos comum porque ele não simula pressionamentos de teclas e cliques do mouse em si.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12641,8 +12641,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>SendInput is generally the preferred method to send keystrokes and mouse clicks because of its superior speed and reliability.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174151Z" creationid="Setur" creationdate="20210728T174151Z">
-        <seg>SendInput é geralmente o método preferido para enviar pressionamentos de tecla e cliques do mouse por causa de sua velocidade e confiabilidade superiores.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T174151Z">
+        <seg>SendInput é geralmente o método preferido para enviar pressionamentos de teclas e cliques do mouse por causa de sua velocidade e confiabilidade superiores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12705,8 +12705,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>SendPlay's biggest advantage is its ability to "play back" keystrokes and mouse clicks in a broader variety of games than the other modes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175411Z" creationid="Setur" creationdate="20210728T175411Z">
-        <seg>A maior vantagem do SendPlay é sua capacidade de “tocar” pressionamentos de tecla e cliques do mouse em uma maior variedade de games do que os outros modos.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T175411Z">
+        <seg>A maior vantagem do SendPlay é sua capacidade de “tocar” pressionamentos de teclas e cliques do mouse em uma maior variedade de games do que os outros modos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12721,8 +12721,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Sending Keystrokes</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210628T081206Z" creationid="Leo" creationdate="20210622T192954Z">
-        <seg>Enviando pressionamentos de teclas</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210622T192954Z">
+        <seg>Enviando pressionamentos de teclass</seg>
       </tuv>
     </tu>
     <tu>
@@ -12809,8 +12809,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Sends simulated keystrokes and mouse clicks to the &lt;a0&gt;active&lt;/a0&gt; window.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142231Z" creationid="Setur" creationdate="20210726T142231Z">
-        <seg>Envia pressionamentos de tecla e cliques do mouse simulados para a janela &lt;a0&gt;ativa&lt;/a0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210726T142231Z">
+        <seg>Envia pressionamentos de teclas e cliques do mouse simulados para a janela &lt;a0&gt;ativa&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12873,8 +12873,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Similarly, it is unable to change a key's state as seen by &lt;a3&gt;GetKeyState()&lt;/a3&gt; unless the keystrokes are sent to one of the script's own windows.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T181317Z" creationid="Setur" creationdate="20210728T181317Z">
-        <seg>De maneira similar, ele também é incapaz de mudar o estado de uma tecla como visto pelo comando &lt;a3&gt;GetKeyState&lt;/a3&gt; a não ser que os pressionamentos de tecla são enviados a uma das janelas do próprio script.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T181317Z">
+        <seg>De maneira similar, ele também é incapaz de mudar o estado de uma tecla como visto pelo comando &lt;a3&gt;GetKeyState&lt;/a3&gt; a não ser que os pressionamentos de teclas são enviados a uma das janelas do próprio script.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12929,8 +12929,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Since SendInput is so fast, it is also more reliable because there is less opportunity for some other window to pop up unexpectedly and intercept the keystrokes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174303Z" creationid="Setur" creationdate="20210728T174303Z">
-        <seg>Como o SendInput é tão rápido, também é mais confiável porque há menor oportunidade de alguma outra janela abrir na frente e interceptar os pressionamentos de teclas.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T174303Z">
+        <seg>Como o SendInput é tão rápido, também é mais confiável porque há menor oportunidade de alguma outra janela abrir na frente e interceptar os pressionamentos de teclass.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13537,8 +13537,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>That is, Send omits the extra keystrokes that would otherwise be sent in order to prevent:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143036Z" creationid="Setur" creationdate="20210728T143036Z">
-        <seg>Isto é, o comando Send omite os pressionamentos de tecla extras que, de outro modo, seriam enviados, de forma a impedir:</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T143036Z">
+        <seg>Isto é, o comando Send omite os pressionamentos de teclas extras que, de outro modo, seriam enviados, de forma a impedir:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13729,8 +13729,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The Send, SendRaw, SendInput, SendPlay and SendEvent commands send simulated keystrokes and mouse clicks to the active window.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T140655Z" creationid="Setur" creationdate="20210726T140655Z">
-        <seg>Os comandos Send, sendraw, SendInput, SendPlay e SendEvent enviam pressionamentos de tecla simulados e cliques do mouse para a janela ativa.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210726T140655Z">
+        <seg>Os comandos Send, sendraw, SendInput, SendPlay e SendEvent enviam pressionamentos de teclas simulados e cliques do mouse para a janela ativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13913,8 +13913,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The following modes affect the interpretation of the characters in &lt;e0&gt;Keys&lt;/e0&gt; or the behavior of key-sending commands such as Send, SendInput, SendPlay, SendEvent and &lt;a1&gt;ControlSend&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144307Z" creationid="Setur" creationdate="20210726T144307Z">
-        <seg>Os modos a seguir afetam a interpretação dos caracteres nas &lt;e0&gt;Teclas&lt;/e0&gt; ou o comportamento de comandos que enviam pressionamentos de tecla como Send, SendInput, SendPlay, SendEvent e &lt;a1&gt;ControlSend&lt;/a1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210726T144307Z">
+        <seg>Os modos a seguir afetam a interpretação dos caracteres nas &lt;e0&gt;Teclas&lt;/e0&gt; ou o comportamento de comandos que enviam pressionamentos de teclas como Send, SendInput, SendPlay, SendEvent e &lt;a1&gt;ControlSend&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15146,8 +15146,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This would normally be done to prevent Send from triggering the system "lock workstation" hotkey (&lt;k2&gt;Win&lt;/k2&gt;+&lt;k3&gt;L&lt;/k3&gt;).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143500Z" creationid="Setur" creationdate="20210728T143500Z">
-        <seg>Isso normalmente seria feito para impedir o Send de desencadear a tecla de atalho do Windows “bloquear computador” (Win+L).</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200707Z" creationid="Setur" creationdate="20210728T143500Z">
+        <seg>Isso normalmente seria feito para impedir o Send de desencadear a tecla de atalho do Windows “bloquear computador” (&lt;k2&gt;Win&lt;/k2&gt;+&lt;k3&gt;L&lt;/k3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -16418,8 +16418,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>When Send is required to change the state of the &lt;k1&gt;Win&lt;/k1&gt; or &lt;k2&gt;Alt&lt;/k2&gt; modifier keys (such as if the user was holding one of those keys), it may inject additional keystrokes (&lt;k3&gt;Ctrl&lt;/k3&gt; by default) to prevent the Start menu or window menu from appearing.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173432Z" creationid="Setur" creationdate="20210728T173432Z">
-        <seg>Quando o comando Send é exigido para alterar o estado das teclas modificadoras &lt;k1&gt;Win&lt;/k1&gt; ou &lt;k2&gt;Alt&lt;/k2&gt; (como se o usuário estivesse mantido uma dessas teclas pressionadas), o programa poderá injetar pressionamentos de tecla adicionais (&lt;k3&gt;Ctrl&lt;/k3&gt; por padrão) para impedir que o Menu Iniciar do Windows seja aberto.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T173432Z">
+        <seg>Quando o comando Send é exigido para alterar o estado das teclas modificadoras &lt;k1&gt;Win&lt;/k1&gt; ou &lt;k2&gt;Alt&lt;/k2&gt; (como se o usuário estivesse mantido uma dessas teclas pressionadas), o programa poderá injetar pressionamentos de teclas adicionais (&lt;k3&gt;Ctrl&lt;/k3&gt; por padrão) para impedir que o Menu Iniciar do Windows seja aberto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19578,8 +19578,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["keystrokes, sending","commands/Send.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053923Z" creationid="Leo" creationdate="20210711T053923Z">
-        <seg>["pressionamentos de teclas, enviar","commands/Send.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210711T053923Z">
+        <seg>["pressionamentos de teclass, enviar","commands/Send.htm"],</seg>
       </tuv>
     </tu>
     <tu>

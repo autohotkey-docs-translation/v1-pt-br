@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) Start Menu appearance during Win keystrokes (LWin/RWin); 2) menu bar activation during Alt keystrokes.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143131Z" creationid="Setur" creationdate="20210728T143131Z">
+        <seg>1) a aparição do Menu Iniciar durante os pressionamentos de tecla envolvendo a tecla Win (LWin/RWin); 2) a ativação da barra de menu ao enviar pressionamentos de tecla envolvendo a tecla Alt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2 - Hotkeys &amp; Hotstrings</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T211801Z" creationid="Leo" creationdate="20210622T211801Z">
@@ -7519,6 +7527,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the Blind mode does not prevent masking performed by the keyboard hook following activation of a hook hotkey.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143313Z" creationid="Setur" creationdate="20210728T143313Z">
+        <seg>No entanto, o modo Cego não impede o “mascaramento” feito pelo gancho de teclado que sucede a ativação de uma hotkey de gancho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the long history of AutoHotkey v1 and an emphasis on backward-compatibility have resulted in a divide between &lt;e0&gt;commands&lt;/e0&gt;, which require legacy syntax, and &lt;e1&gt;functions&lt;/e1&gt;, which require expression syntax.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T150217Z" creationid="Setur" creationdate="20210722T150217Z">
@@ -12075,6 +12091,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180517Z" creationid="Leo" creationdate="20210625T180517Z">
         <seg>Isso é FALSO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That is, Send omits the extra keystrokes that would otherwise be sent in order to prevent:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143036Z" creationid="Setur" creationdate="20210728T143036Z">
+        <seg>Isto é, o comando Send omite os pressionamentos de tecla extras que, de outro modo, seriam enviados, de forma a impedir:</seg>
       </tuv>
     </tu>
     <tu>

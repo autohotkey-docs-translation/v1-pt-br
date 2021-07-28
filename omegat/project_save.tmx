@@ -13721,8 +13721,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The Raw mode does not affect the interpretation of &lt;a0&gt;escape sequences&lt;/a0&gt;, &lt;a1&gt;variable references&lt;/a1&gt; and &lt;a2&gt;expressions&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T173356Z" creationid="Setur" creationdate="20210726T173356Z">
-        <seg>O modo Bruto não afeta a interpretação de &lt;a0&gt;sequencias de escape&lt;/a0&gt;, &lt;a1&gt;referências a variáveis&lt;/a1&gt; e &lt;a2&gt;expressões&lt;/a2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201052Z" creationid="Setur" creationdate="20210726T173356Z">
+        <seg>O modo Bruto não afeta a interpretação de &lt;a0&gt;sequências de escape&lt;/a0&gt;, &lt;a1&gt;referências a variáveis&lt;/a1&gt; e &lt;a2&gt;expressões&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -2774,10 +2774,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;End&lt;/k0&gt; on main keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144140Z" creationid="Setur" creationdate="20210728T144140Z">
+        <seg>&lt;k0&gt;End&lt;/k0&gt; no teclado principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Enter&lt;/k0&gt; on the main keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143900Z" creationid="Setur" creationdate="20210728T143900Z">
+        <seg>&lt;k0&gt;Enter&lt;/k0&gt; no teclado principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Help&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T184203Z" creationid="Leo" creationdate="20210702T184203Z">
         <seg>&lt;k0&gt;Ajuda&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;Home&lt;/k0&gt; on main keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144131Z" creationid="Setur" creationdate="20210728T144131Z">
+        <seg>&lt;k0&gt;Home&lt;/k0&gt; no teclado principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Space&lt;/k0&gt; (this is only needed for spaces that appear either at the beginning or the end of the string to be sent -- ones in the middle can be literal spaces)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144017Z" creationid="Setur" creationdate="20210728T144017Z">
+        <seg>&lt;k0&gt;Space&lt;/k0&gt; (esta só é necessária para enviar strings com espaços que aparecem ou no início ou no final delas — as que vierem no meio podem ser espaços literais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Tab&lt;/k0&gt; (tabulator key)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180143Z" creationid="Leo" creationdate="20210702T180143Z">
@@ -2870,10 +2902,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;←&lt;/k0&gt; (left arrow) on main keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144115Z" creationid="Setur" creationdate="20210728T144115Z">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (seta para a esquerda) no teclado principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;↑&lt;/k0&gt; (up arrow key)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180454Z" creationid="Leo" creationdate="20210702T180454Z">
         <seg>&lt;k0&gt;↑&lt;/k0&gt; (tecla seta para cima)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (up arrow) on main keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144050Z" creationid="Setur" creationdate="20210728T144050Z">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (seta para cima) no teclado principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,10 +2934,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;→&lt;/k0&gt; (right arrow) on main keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144125Z" creationid="Setur" creationdate="20210728T144125Z">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (seta para a direita) no teclado principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;↓&lt;/k0&gt; (down arrow key)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T180501Z" creationid="Leo" creationdate="20210702T180501Z">
         <seg>&lt;k0&gt;↓&lt;/k0&gt; (tecla seta para baixo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;↓&lt;/k0&gt; (down arrow) on main keyboard</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144105Z" creationid="Setur" creationdate="20210728T144105Z">
+        <seg>&lt;k0&gt;↑&lt;/k0&gt; (seta para baixo) no teclado principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -19496,6 +19560,30 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{Backspace} or {BS}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144022Z" creationid="Setur" creationdate="20210728T144022Z">
+        <seg>{Backspace} ou {BS}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{Delete} or {Del}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144026Z" creationid="Setur" creationdate="20210728T144026Z">
+        <seg>{Delete} ou {Del}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{Escape} or {Esc}</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143905Z" creationid="Setur" creationdate="20210728T143905Z">
+        <seg>{Escape} ou {Esc}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{F12} is &lt;k0&gt;F12&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143834Z" creationid="Setur" creationdate="20210728T143834Z">
@@ -19504,18 +19592,18 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>{LCtrl}::</seg>
+        <seg>{Insert} or {Ins}</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045936Z" creationid="Leo" creationdate="20210629T045936Z">
-        <seg>{LCtrl}::</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144030Z" creationid="Setur" creationdate="20210728T144030Z">
+        <seg>{Insert} ou {Ins}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>}</seg>
+        <seg>{LCtrl}::</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T203030Z" creationid="Leo" creationdate="20210625T203030Z">
-        <seg>}</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045936Z" creationid="Leo" creationdate="20210629T045936Z">
+        <seg>{LCtrl}::</seg>
       </tuv>
     </tu>
     <tu>

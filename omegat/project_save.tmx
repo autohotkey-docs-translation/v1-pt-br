@@ -918,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) "b" when you type "a"; 2) uppercase "B" when you type uppercase "A"; and 3) &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;B&lt;/k3&gt; when you type &lt;k4&gt;Ctrl&lt;/k4&gt;+&lt;k5&gt;A&lt;/k5&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143656Z" creationid="Setur" creationdate="20210728T143656Z">
+        <seg>1) “b” quando você pressiona “a”; 2) “B” maiúsculo quando você pressiona “A” maiúsculo; e 3) &lt;k2&gt;Ctrl&lt;/k2&gt;+&lt;k3&gt;B&lt;/k3&gt; quando você digita &lt;k4&gt;Ctrl&lt;/k4&gt;+&lt;k5&gt;A&lt;/k5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Start Menu appearance during Win keystrokes (LWin/RWin); 2) menu bar activation during Alt keystrokes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143131Z" creationid="Setur" creationdate="20210728T143131Z">
@@ -2394,6 +2402,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044321Z" creationid="Leo" creationdate="20210629T044321Z">
         <seg>&lt;c0&gt;return&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;{Blind}&lt;/c0&gt; is not supported by SendRaw or &lt;a1&gt;ControlSendRaw&lt;/a1&gt;; use &lt;c2&gt;{Blind}{Raw}&lt;/c2&gt; instead.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143725Z" creationid="Setur" creationdate="20210728T143725Z">
+        <seg>&lt;c0&gt;{Blind}&lt;/c0&gt; não é suportado pelo comando SendRaw ou &lt;a1&gt;ControlSendRaw&lt;/a1&gt;; use &lt;c2&gt;{Blind}{Raw}&lt;/c2&gt; no lugar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6462,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the remapping &lt;c1&gt;a::b&lt;/c1&gt; would produce:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143559Z" creationid="Setur" creationdate="20210728T143559Z">
+        <seg>Por exemplo, o remapeamenteo &lt;c1&gt;a::b&lt;/c1&gt; produziria:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, the syntax for &lt;a0&gt;ControlSend&lt;/a0&gt; is:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T151414Z" creationid="Setur" creationdate="20210722T151414Z">
@@ -6722,6 +6746,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065837Z" creationid="Leo" creationdate="20210702T065400Z">
         <seg>Teclas de Função</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Function keys.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143827Z" creationid="Setur" creationdate="20210728T143827Z">
+        <seg>Teclas de função.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8811,6 +8843,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T212201Z" creationid="Setur" creationdate="20210723T212201Z">
         <seg>Histórico de teclas e informações do script - Veja &lt;a0&gt;KeyHistory&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Key name</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143820Z" creationid="Setur" creationdate="20210728T143820Z">
+        <seg>Nome da tecla</seg>
       </tuv>
     </tu>
     <tu>
@@ -12271,6 +12311,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Blind mode is not completely supported by &lt;a0&gt;SendPlay&lt;/a0&gt;, especially when dealing with the modifier keys (Ctrl, Alt, Shift, and Win).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143746Z" creationid="Setur" creationdate="20210728T143746Z">
+        <seg>O modo Cego não é completamente suportado por &lt;a0&gt;SendPlay&lt;/a0&gt; especialmente quando lidando com as teclas modificadoras (Ctrl, Alt, Shift e Win).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Blind mode is used internally when &lt;a0&gt;remapping a key&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143549Z" creationid="Setur" creationdate="20210728T143549Z">
+        <seg>O modo Cego é usado internamente ao se &lt;a0&gt;remapear uma tecla&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Raw mode can be either enabled with &lt;c0&gt;{Raw}&lt;/c0&gt;, SendRaw or &lt;a1&gt;ControlSendRaw&lt;/a1&gt;, which causes all subsequent characters, including the special characters &lt;c2&gt;^+!#{}&lt;/c2&gt;, to be interpreted literally rather than translating &lt;c3&gt;{Enter}&lt;/c3&gt; to &lt;k4&gt;Enter&lt;/k4&gt;, &lt;c5&gt;^c&lt;/c5&gt; to &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;C&lt;/k7&gt;, etc.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T145527Z" creationid="Setur" creationdate="20210726T145527Z">
@@ -12451,6 +12507,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T144307Z" creationid="Setur" creationdate="20210726T144307Z">
         <seg>Os modos a seguir afetam a interpretação dos caracteres nas &lt;e0&gt;Teclas&lt;/e0&gt; ou o comportamento de comandos que enviam pressionamentos de tecla como Send, SendInput, SendPlay, SendEvent e &lt;a1&gt;ControlSend&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following table lists the special keys that can be sent (each key name must be enclosed in braces):</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143816Z" creationid="Setur" creationdate="20210728T143816Z">
+        <seg>A tabela a seguir lista as teclas especiais que podem ser enviadas (cada nome de tecla deve ser envolto em chaves):</seg>
       </tuv>
     </tu>
     <tu>
@@ -19428,6 +19492,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T220616Z" creationid="Leo" creationdate="20210627T220616Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{F12} is &lt;k0&gt;F12&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143834Z" creationid="Setur" creationdate="20210728T143834Z">
+        <seg>{F12} é &lt;k0&gt;F12&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

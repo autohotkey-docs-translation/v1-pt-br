@@ -6720,8 +6720,8 @@
       <tuv lang="en">
         <seg>For SendEvent, SendInput and &lt;a6&gt;ControlSend&lt;/a6&gt;, this improves reliability because the characters are much less dependent on correct modifier state.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T173944Z" creationid="Setur" creationdate="20210726T173944Z">
-        <seg>Para SendEvent, SendInput e &lt;a6&gt;ControlSend&lt;/a6&gt;, isso melhora a confiabilidade porque os caracteres são muito menos dependentes da precisão do estado da tecla modificadora - se pressionada ou solta.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201337Z" creationid="Setur" creationdate="20210726T173944Z">
+        <seg>Para SendEvent, SendInput e &lt;a6&gt;ControlSend&lt;/a6&gt;, isso melhora a confiabilidade porque os caracteres são muito menos dependentes da precisão do estado da tecla modificadora — se pressionada ou solta.</seg>
       </tuv>
     </tu>
     <tu>

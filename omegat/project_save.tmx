@@ -12329,24 +12329,24 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Select the browser "back" button</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161827Z" creationid="Setur" creationdate="20210728T161543Z">
-        <seg>Aciona o botão “voltar” para uso nos navegadores</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174052Z" creationid="Setur" creationdate="20210728T161543Z">
+        <seg>Aciona o botão “Voltar” para uso nos navegadores</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select the browser "favorites" button</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161827Z" creationid="Setur" creationdate="20210728T161652Z">
-        <seg>Aciona o botão “favoritos” para uso nos navegadores</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174104Z" creationid="Setur" creationdate="20210728T161652Z">
+        <seg>Aciona o botão “Favoritos” para uso nos navegadores</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select the browser "forward" button</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161827Z" creationid="Setur" creationdate="20210728T161549Z">
-        <seg>Aciona o botão “avançar” para uso nos navegadores</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174057Z" creationid="Setur" creationdate="20210728T161549Z">
+        <seg>Aciona o botão “Avançar” para uso nos navegadores</seg>
       </tuv>
     </tu>
     <tu>

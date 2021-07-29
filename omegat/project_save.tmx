@@ -3136,8 +3136,8 @@
       <tuv lang="en">
         <seg>&lt;k0&gt;Sleep&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145015Z" creationid="Leo" creationdate="20210702T184233Z">
-        <seg>&lt;k0&gt;Adormecer&lt;/k0&gt; (aguardar uma quantidade especificada de milissegundos).</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140553Z" creationid="Leo" creationdate="20210702T184233Z">
+        <seg>&lt;k0&gt;Adormecer&lt;/k0&gt; (aguardar uma quantidade especificada de milissegundos)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7889,16 +7889,16 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Holds the left &lt;k0&gt;Win&lt;/k0&gt; down until {LWin up} is sent</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144904Z" creationid="Setur" creationdate="20210728T144904Z">
-        <seg>Segura &lt;k0&gt;Win&lt;/k0&gt; até que {Win up} seja enviada.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140541Z" creationid="Setur" creationdate="20210728T144904Z">
+        <seg>Segura &lt;k0&gt;Win&lt;/k0&gt; até que {Win up} seja enviada</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Holds the right &lt;k0&gt;Win&lt;/k0&gt; down until {RWin up} is sent</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144918Z" creationid="Setur" creationdate="20210728T144918Z">
-        <seg>Segura &lt;k0&gt;Win&lt;/k0&gt; da direita até que {RWin up} seja enviada.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140545Z" creationid="Setur" creationdate="20210728T144918Z">
+        <seg>Segura &lt;k0&gt;Win&lt;/k0&gt; da direita até que {RWin up} seja enviada</seg>
       </tuv>
     </tu>
     <tu>
@@ -15330,8 +15330,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>To generate ASCII characters, specify a number between 1 and 255.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T145057Z" creationid="Setur" creationdate="20210728T145057Z">
-        <seg>Para gerar caracteres ASCII, especifique um número entre 1 e 255.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140557Z" creationid="Setur" creationdate="20210728T145057Z">
+        <seg>Para gerar caracteres ASCII, especifique um número entre 1 e 255</seg>
       </tuv>
     </tu>
     <tu>
@@ -15370,8 +15370,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>To hold down the left or right key instead, use {RCtrl down} and {RCtrl up}.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144610Z" creationid="Setur" creationdate="20210728T144610Z">
-        <seg>Para, em vez disso, segurar a tecla esquerda ou direita, use {RCtrl down} e {RCtrl up}.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140538Z" creationid="Setur" creationdate="20210728T144610Z">
+        <seg>Para, em vez disso, segurar a tecla esquerda ou direita, use {RCtrl down} e {RCtrl up}</seg>
       </tuv>
     </tu>
     <tu>

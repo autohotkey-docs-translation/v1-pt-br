@@ -12809,8 +12809,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Sends an &lt;k0&gt;Alt&lt;/k0&gt;+nnnnn keypad combination, which can be used to generate special characters that don't exist on the keyboard.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T173501Z" creationid="Setur" creationdate="20210728T145045Z">
-        <seg>Envia uma combinação com &lt;k0&gt;Alt&lt;/k0&gt;nnnnn, que pode ser usada para gerar caracteres especiais que não existem no teclado.asc</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174017Z" creationid="Setur" creationdate="20210728T145045Z">
+        <seg>Envia uma combinação com &lt;k0&gt;Alt&lt;/k0&gt;nnnnn, que pode ser usada para gerar caracteres especiais que não existem no teclado.</seg>
       </tuv>
     </tu>
     <tu>

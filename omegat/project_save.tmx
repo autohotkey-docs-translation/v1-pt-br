@@ -2480,8 +2480,8 @@
       <tuv lang="en">
         <seg>&lt;c0&gt;`n&lt;/c0&gt;, &lt;c1&gt;`r&lt;/c1&gt; and &lt;c2&gt;`r`n&lt;/c2&gt; are all translated to a single &lt;k3&gt;Enter&lt;/k3&gt;, unlike the default behavior and Raw mode, which translate &lt;c4&gt;`r`n&lt;/c4&gt; to two &lt;k5&gt;Enter&lt;/k5&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T174146Z" creationid="Setur" creationdate="20210726T174146Z">
-        <seg>&lt;c0&gt;`n&lt;/c0&gt;, &lt;c1&gt;`r&lt;/c1&gt; e &lt;c2&gt;`r`n&lt;/c2&gt; são todas traduzidas para um único &lt;k3&gt;Enter&lt;/k3&gt;, ao contrário do comportamento padrão e do modo Bruto, que traduzem &lt;c4&gt;`r`n&lt;/c4&gt; para dois &lt;k5&gt;Enter&lt;/k5&gt;s.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134320Z" creationid="Setur" creationdate="20210726T174146Z">
+        <seg>&lt;c0&gt;`n&lt;/c0&gt;, &lt;c1&gt;`r&lt;/c1&gt; e &lt;c2&gt;`r`n&lt;/c2&gt; são todas traduzidas para um único &lt;k3&gt;Enter&lt;/k3&gt;, ao contrário do comportamento padrão e do modo bruto, que traduzem &lt;c4&gt;`r`n&lt;/c4&gt; para dois &lt;k5&gt;Enter&lt;/k5&gt;s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3832,8 +3832,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;[v1.1.29+]:&lt;/s0&gt; Like the Blind mode, the Text mode ignores &lt;a1&gt;SetStoreCapsLockMode&lt;/a1&gt; (that is, the state of &lt;k2&gt;CapsLock&lt;/k2&gt; is not changed) and does not &lt;a3&gt;wait for &lt;k4&gt;Win&lt;/k4&gt; to be released&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T202020Z" creationid="Setur" creationdate="20210726T174403Z">
-        <seg>&lt;s0&gt;[v1.1.29+]:&lt;/s0&gt; da mesma forma que no modo Blind, o modo Text ignora o &lt;a1&gt;SetStoreCapsLockMode&lt;/a1&gt; (isto é, o estado da tecla &lt;k2&gt;CapsLock&lt;/k2&gt; não é alterado) e não &lt;a3&gt;espera que a tecla &lt;k4&gt;Win&lt;/k4&gt; seja solta&lt;/a3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134341Z" creationid="Setur" creationdate="20210726T174403Z">
+        <seg>&lt;s0&gt;[v1.1.29+]:&lt;/s0&gt; da mesma forma que no modo Blind, o modo text ignora o &lt;a1&gt;SetStoreCapsLockMode&lt;/a1&gt; (isto é, o estado da tecla &lt;k2&gt;CapsLock&lt;/k2&gt; não é alterado) e não &lt;a3&gt;espera que a tecla &lt;k4&gt;Win&lt;/k4&gt; seja solta&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5328,8 +5328,8 @@
       <tuv lang="en">
         <seg>By default (that is, if neither SendRaw nor the &lt;a0&gt;Raw mode&lt;/a0&gt; or &lt;a1&gt;Text mode&lt;/a1&gt; is used), the characters &lt;c2&gt;^+!#{}&lt;/c2&gt; have a special meaning.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T202020Z" creationid="Setur" creationdate="20210726T142446Z">
-        <seg>Por padrão (isto é, se nem o comando SendRaw nem o &lt;a0&gt;modo Bruto&lt;/a0&gt; ou &lt;a1&gt;modo Text&lt;/a1&gt; são usados), os caracteres &lt;c2&gt;^+!#{}&lt;/c2&gt; têm um significado especial.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134341Z" creationid="Setur" creationdate="20210726T142446Z">
+        <seg>Por padrão (isto é, se nem o comando SendRaw nem o &lt;a0&gt;modo bruto&lt;/a0&gt; ou &lt;a1&gt;modo text&lt;/a1&gt; são usados), os caracteres &lt;c2&gt;^+!#{}&lt;/c2&gt; têm um significado especial.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6336,16 +6336,16 @@
       <tuv lang="en">
         <seg>Enables the &lt;a0&gt;Raw mode&lt;/a0&gt;, which causes the following characters to be interpreted literally:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163833Z" creationid="Setur" creationdate="20210728T163833Z">
-        <seg>Habilita o &lt;a0&gt;modo Bruto&lt;/a0&gt;, o qual faz com que os caracteres a seguir sejam interpretados literalmente:</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134320Z" creationid="Setur" creationdate="20210728T163833Z">
+        <seg>Habilita o &lt;a0&gt;modo bruto&lt;/a0&gt;, o qual faz com que os caracteres a seguir sejam interpretados literalmente:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Enables the &lt;a0&gt;Text mode&lt;/a0&gt;, which sends a stream of characters rather than keystrokes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T202020Z" creationid="Setur" creationdate="20210728T163930Z">
-        <seg>Habilita o &lt;a0&gt;modo Text&lt;/a0&gt;, o qual envia um fluxo de caracteres em vez de pressionamentos de teclas.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134341Z" creationid="Setur" creationdate="20210728T163930Z">
+        <seg>Habilita o &lt;a0&gt;modo text&lt;/a0&gt;, o qual envia um fluxo de caracteres em vez de pressionamentos de teclas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8721,8 +8721,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>If the letter exists in the current keyboard layout, it is always sent as whichever keycode the layout associates with that letter (unless the &lt;a0&gt;Text mode&lt;/a0&gt; is used, in which case the character is sent by other means).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T202020Z" creationid="Setur" creationdate="20210728T173224Z">
-        <seg>Se a letra existe no layout atual, ela será sempre enviada na forma do código da tecla que o layout associar àquela letra (a não ser que o &lt;a0&gt;modo Text&lt;/a0&gt; seja usado, caso em que o caractere é enviado por outros meios).</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134341Z" creationid="Setur" creationdate="20210728T173224Z">
+        <seg>Se a letra existe no layout atual, ela será sempre enviada na forma do código da tecla que o layout associar àquela letra (a não ser que o &lt;a0&gt;modo text&lt;/a0&gt; seja usado, caso em que o caractere é enviado por outros meios).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10105,8 +10105,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Like the Raw mode, the Text mode causes the following characters to be interpreted literally:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T202020Z" creationid="Setur" creationdate="20210728T163946Z">
-        <seg>Como no modo Bruto, o modo Text faz com que os caracteres a seguir sejam interpretados literalmente:</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134341Z" creationid="Setur" creationdate="20210728T163946Z">
+        <seg>Como no modo bruto, o modo text faz com que os caracteres a seguir sejam interpretados literalmente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12257,8 +12257,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>See &lt;a2&gt;Raw mode&lt;/a2&gt; for details.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T143346Z" creationid="Setur" creationdate="20210726T143346Z">
-        <seg>Veja &lt;a2&gt;modo Bruto&lt;/a2&gt; para detalhes.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134320Z" creationid="Setur" creationdate="20210726T143346Z">
+        <seg>Veja &lt;a2&gt;modo bruto&lt;/a2&gt; para detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13713,16 +13713,16 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The Raw mode can be either enabled with &lt;c0&gt;{Raw}&lt;/c0&gt;, SendRaw or &lt;a1&gt;ControlSendRaw&lt;/a1&gt;, which causes all subsequent characters, including the special characters &lt;c2&gt;^+!#{}&lt;/c2&gt;, to be interpreted literally rather than translating &lt;c3&gt;{Enter}&lt;/c3&gt; to &lt;k4&gt;Enter&lt;/k4&gt;, &lt;c5&gt;^c&lt;/c5&gt; to &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;C&lt;/k7&gt;, etc.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T145527Z" creationid="Setur" creationdate="20210726T145527Z">
-        <seg>O modo Bruto pode ser habilitado com &lt;c0&gt;{Raw}&lt;/c0&gt;, SendRaw ou &lt;a1&gt;ControlSendRaw&lt;/a1&gt;, que faz com que todos os caracteres subsequentes, incluindo os caracteres especiais &lt;c2&gt;^+!#{}&lt;/c2&gt;, sejam interpretados literalmente em vez de traduzir &lt;c3&gt;{Enter}&lt;/c3&gt; para &lt;k4&gt;Enter&lt;/k4&gt;, &lt;c5&gt;^c&lt;/c5&gt; para &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;C&lt;/k7&gt;, etc.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134320Z" creationid="Setur" creationdate="20210726T145527Z">
+        <seg>O modo bruto pode ser habilitado com &lt;c0&gt;{Raw}&lt;/c0&gt;, SendRaw ou &lt;a1&gt;ControlSendRaw&lt;/a1&gt;, que faz com que todos os caracteres subsequentes, incluindo os caracteres especiais &lt;c2&gt;^+!#{}&lt;/c2&gt;, sejam interpretados literalmente em vez de traduzir &lt;c3&gt;{Enter}&lt;/c3&gt; para &lt;k4&gt;Enter&lt;/k4&gt;, &lt;c5&gt;^c&lt;/c5&gt; para &lt;k6&gt;Ctrl&lt;/k6&gt;+&lt;k7&gt;C&lt;/k7&gt;, etc.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The Raw mode does not affect the interpretation of &lt;a0&gt;escape sequences&lt;/a0&gt;, &lt;a1&gt;variable references&lt;/a1&gt; and &lt;a2&gt;expressions&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201052Z" creationid="Setur" creationdate="20210726T173356Z">
-        <seg>O modo Bruto não afeta a interpretação de &lt;a0&gt;sequências de escape&lt;/a0&gt;, &lt;a1&gt;referências a variáveis&lt;/a1&gt; e &lt;a2&gt;expressões&lt;/a2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134320Z" creationid="Setur" creationdate="20210726T173356Z">
+        <seg>O modo bruto não afeta a interpretação de &lt;a0&gt;sequências de escape&lt;/a0&gt;, &lt;a1&gt;referências a variáveis&lt;/a1&gt; e &lt;a2&gt;expressões&lt;/a2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13737,8 +13737,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The Text mode can be enabled with &lt;c0&gt;{Text}&lt;/c0&gt;, which is similar to the Raw mode, except that no attempt is made to translate characters (other than &lt;c1&gt;`r&lt;/c1&gt;, &lt;c2&gt;`n&lt;/c2&gt;, &lt;c3&gt;`t&lt;/c3&gt; and &lt;c4&gt;`b&lt;/c4&gt;) to keycodes; instead, the &lt;a5&gt;fallback method&lt;/a5&gt; is used for all of the remaining characters.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T202020Z" creationid="Setur" creationdate="20210726T173732Z">
-        <seg>O modo Text pode ser habilitado com &lt;c0&gt;{Text}&lt;/c0&gt;, o que é similar ao modo Bruto, exceto que não se tenta traduzir os caracteres (com exceção de &lt;c1&gt;`r&lt;/c1&gt;, &lt;c2&gt;`n&lt;/c2&gt;, &lt;c3&gt;`t&lt;/c3&gt; e &lt;c4&gt;`b&lt;/c4&gt;) para os respectivos códigos de teclas; em vez disso, o &lt;a5&gt;método alternativo&lt;/a5&gt; é usado para todos os demais caracteres.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134341Z" creationid="Setur" creationdate="20210726T173732Z">
+        <seg>O modo text pode ser habilitado com &lt;c0&gt;{Text}&lt;/c0&gt;, o que é similar ao modo bruto, exceto que não se tenta traduzir os caracteres (com exceção de &lt;c1&gt;`r&lt;/c1&gt;, &lt;c2&gt;`n&lt;/c2&gt;, &lt;c3&gt;`t&lt;/c3&gt; e &lt;c4&gt;`b&lt;/c4&gt;) para os respectivos códigos de teclas; em vez disso, o &lt;a5&gt;método alternativo&lt;/a5&gt; é usado para todos os demais caracteres.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14745,8 +14745,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This is because the Text mode typically does not depend on the state of &lt;k5&gt;CapsLock&lt;/k5&gt; and cannot trigger the system &lt;k6&gt;Win&lt;/k6&gt;+&lt;k7&gt;L&lt;/k7&gt; hotkey.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T202020Z" creationid="Setur" creationdate="20210726T174443Z">
-        <seg>Isso é porque o modo Text tipicamente não depende do estado da tecla &lt;k5&gt;CapsLock&lt;/k5&gt; e não pode desencadear a tecla de atalho &lt;k6&gt;Win&lt;/k6&gt;+&lt;k7&gt;L&lt;/k7&gt; do sistema.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134341Z" creationid="Setur" creationdate="20210726T174443Z">
+        <seg>Isso é porque o modo text tipicamente não depende do estado da tecla &lt;k5&gt;CapsLock&lt;/k5&gt; e não pode desencadear a tecla de atalho &lt;k6&gt;Win&lt;/k6&gt;+&lt;k7&gt;L&lt;/k7&gt; do sistema.</seg>
       </tuv>
     </tu>
     <tu>

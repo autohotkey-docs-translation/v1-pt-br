@@ -15330,8 +15330,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>To generate ASCII characters, specify a number between 1 and 255.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140557Z" creationid="Setur" creationdate="20210728T145057Z">
-        <seg>Para gerar caracteres ASCII, especifique um número entre 1 e 255</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140624Z" creationid="Setur" creationdate="20210728T145057Z">
+        <seg>Para gerar caracteres ASCII, especifique um número entre 1 e 255.</seg>
       </tuv>
     </tu>
     <tu>

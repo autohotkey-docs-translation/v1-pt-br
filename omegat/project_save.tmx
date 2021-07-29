@@ -12881,8 +12881,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Similarly, it is unable to change a key's state as seen by &lt;a3&gt;GetKeyState()&lt;/a3&gt; unless the keystrokes are sent to one of the script's own windows.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T181317Z">
-        <seg>De maneira similar, ele também é incapaz de mudar o estado de uma tecla como visto pelo comando &lt;a3&gt;GetKeyState&lt;/a3&gt; a não ser que os pressionamentos de teclas são enviados a uma das janelas do próprio script.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T201124Z" creationid="Setur" creationdate="20210728T181317Z">
+        <seg>De maneira similar, ele também é incapaz de mudar o estado de uma tecla como visto pelo comando &lt;a3&gt;GetKeyState&lt;/a3&gt; a não ser que os pressionamentos de teclas sejam enviados a uma das janelas do próprio script.</seg>
       </tuv>
     </tu>
     <tu>

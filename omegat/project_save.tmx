@@ -3304,8 +3304,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;BlockInput Compared to SendInput/SendPlay&lt;/s0&gt;:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173451Z" creationid="Setur" creationdate="20210728T173451Z">
-        <seg>&lt;s0&gt;BlockInput Comparado a SendInput/SendPlay&lt;/s0&gt;:</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T193515Z" creationid="Setur" creationdate="20210728T173451Z">
+        <seg>&lt;s0&gt;BlockInput comparado a SendInput/SendPlay&lt;/s0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3472,8 +3472,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;Modifier State&lt;/s0&gt;:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173305Z" creationid="Setur" creationdate="20210728T173301Z">
-        <seg>&lt;s0&gt;Estado das Teclas Modificadoras&lt;/s0&gt;:</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T193521Z" creationid="Setur" creationdate="20210728T173301Z">
+        <seg>&lt;s0&gt;Estado das teclas modificadoras&lt;/s0&gt;:</seg>
       </tuv>
     </tu>
     <tu>

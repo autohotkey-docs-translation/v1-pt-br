@@ -3816,8 +3816,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; For characters in the range &lt;s1&gt;a-z&lt;/s1&gt; or &lt;s2&gt;A-Z&lt;/s2&gt; (plain ASCII letters), each character which does not exist in the current keyboard layout may be sent either as a character or as the corresponding virtual keycode (vk41-vk5A):</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T165906Z" creationid="Setur" creationdate="20210728T165906Z">
-        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; para caracteres no intervalo &lt;s1&gt;a-z&lt;/s1&gt; ou &lt;s2&gt;A-Z&lt;/s2&gt; (letras ASCII puras), cada caractere que não existir no layout atual do teclado podem ser enviadas ou como um caractere ou como o código de tecla virtual (vk41-vk5A):</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T193506Z" creationid="Setur" creationdate="20210728T165906Z">
+        <seg>&lt;s0&gt;[v1.1.27+]:&lt;/s0&gt; para caracteres no intervalo &lt;s1&gt;a-z&lt;/s1&gt; ou &lt;s2&gt;A-Z&lt;/s2&gt; (letras ASCII puras), cada caractere que não existir no layout atual do teclado pode ser enviado ou como um caractere ou como o código de tecla virtual (vk41-vk5A):</seg>
       </tuv>
     </tu>
     <tu>

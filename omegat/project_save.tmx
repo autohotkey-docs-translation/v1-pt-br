@@ -944,8 +944,8 @@
       <tuv lang="en">
         <seg>3 - Sending Keystrokes</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210624T003438Z">
-        <seg>3 - Enviando pressionamentos de teclass</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T195604Z" creationid="Leo" creationdate="20210624T003438Z">
+        <seg>3 - Enviando pressionamentos de teclas</seg>
       </tuv>
     </tu>
     <tu>
@@ -2112,8 +2112,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;Joystick remapping:&lt;/a0&gt; Methods of sending keystrokes and mouse clicks with a joystick.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210703T074432Z">
-        <seg>&lt;a0&gt;Remapeamento de joystick:&lt;/a0&gt; métodos para enviar pressionamentos de teclass e cliques do mouse com um joystick.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T195604Z" creationid="Leo" creationdate="20210703T074432Z">
+        <seg>&lt;a0&gt;Remapeamento de joystick:&lt;/a0&gt; métodos para enviar pressionamentos de teclas e cliques do mouse com um joystick.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2456,8 +2456,8 @@
       <tuv lang="en">
         <seg>&lt;c0&gt;Send, My First Script&lt;/c0&gt; is how you &lt;s1&gt;send&lt;/s1&gt; keystrokes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210622T210259Z">
-        <seg>&lt;c0&gt;Send, Meu primeiro script&lt;/c0&gt; é como você envia (&lt;s1&gt;send&lt;/s1&gt;) pressionamentos de teclass.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T195604Z" creationid="Leo" creationdate="20210622T210259Z">
+        <seg>&lt;c0&gt;Send, Meu primeiro script&lt;/c0&gt; é como você envia (&lt;s1&gt;send&lt;/s1&gt;) pressionamentos de teclas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7176,8 +7176,8 @@
       <tuv lang="en">
         <seg>For example, the &lt;a0&gt;Send&lt;/a0&gt; command &lt;e1&gt;sends&lt;/e1&gt; keystrokes, but may return before the keystrokes reach their destination and cause their intended effect.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210722T150759Z">
-        <seg>Por exemplo, o comando &lt;a0&gt;Send&lt;/a0&gt; &lt;e1&gt;envia&lt;/e1&gt; pressionamentos de teclass, mas podem retornar antes que as teclas pressionadas cheguem ao seu destino e gerem seu efeito pretendido.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T195604Z" creationid="Setur" creationdate="20210722T150759Z">
+        <seg>Por exemplo, o comando &lt;a0&gt;Send&lt;/a0&gt; &lt;e1&gt;envia&lt;/e1&gt; pressionamentos de teclas, mas podem retornar antes que as teclas pressionadas cheguem ao seu destino e gerem seu efeito pretendido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9993,8 +9993,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Learn how to download and install AutoHotkey, to create a script, to use hotkeys and hotstrings, to send keystrokes, to run programs, etc.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210622T192230Z">
-        <seg>Aprenda a baixar e instalar o AutoHotkey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclass, executar programas e mais.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T195604Z" creationid="Leo" creationdate="20210622T192230Z">
+        <seg>Aprenda a baixar e instalar o AutoHotkey, criar um script, usar teclas de atalho e hotstrings, enviar pressionamentos de teclas, executar programas e mais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10841,8 +10841,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Not all games allow AHK to send keys and clicks or receive pixel colors.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210719T191835Z">
-        <seg>Nem todos os jogos permitem que o AHK envie pressionamentos de teclass ou cliques ou receba cores de píxeis.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T195604Z" creationid="Setur" creationdate="20210719T191835Z">
+        <seg>Nem todos os jogos permitem que o AHK envie pressionamentos de teclas ou cliques ou receba cores de píxeis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12729,8 +12729,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Sending Keystrokes</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210622T192954Z">
-        <seg>Enviando pressionamentos de teclass</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T195604Z" creationid="Leo" creationdate="20210622T192954Z">
+        <seg>Enviando pressionamentos de teclas</seg>
       </tuv>
     </tu>
     <tu>
@@ -19586,8 +19586,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["keystrokes, sending","commands/Send.htm"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Leo" creationdate="20210711T053923Z">
-        <seg>["pressionamentos de teclass, enviar","commands/Send.htm"],</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T195604Z" creationid="Leo" creationdate="20210711T053923Z">
+        <seg>["pressionamentos de teclas, enviar","commands/Send.htm"],</seg>
       </tuv>
     </tu>
     <tu>

@@ -2544,8 +2544,8 @@
       <tuv lang="en">
         <seg>&lt;c1&gt;{Blind}&lt;/c1&gt; must be the first item in the string to enable the Blind mode.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201941Z" creationid="Setur" creationdate="20210726T174643Z">
-        <seg>&lt;c1&gt;{Blind}&lt;/c1&gt; deve ser o primeiro item na string para habilitar o modo Blind.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Setur" creationdate="20210726T174643Z">
+        <seg>&lt;c1&gt;{Blind}&lt;/c1&gt; deve ser o primeiro item na string para habilitar o modo blind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3832,8 +3832,8 @@
       <tuv lang="en">
         <seg>&lt;s0&gt;[v1.1.29+]:&lt;/s0&gt; Like the Blind mode, the Text mode ignores &lt;a1&gt;SetStoreCapsLockMode&lt;/a1&gt; (that is, the state of &lt;k2&gt;CapsLock&lt;/k2&gt; is not changed) and does not &lt;a3&gt;wait for &lt;k4&gt;Win&lt;/k4&gt; to be released&lt;/a3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134341Z" creationid="Setur" creationdate="20210726T174403Z">
-        <seg>&lt;s0&gt;[v1.1.29+]:&lt;/s0&gt; da mesma forma que no modo Blind, o modo text ignora o &lt;a1&gt;SetStoreCapsLockMode&lt;/a1&gt; (isto é, o estado da tecla &lt;k2&gt;CapsLock&lt;/k2&gt; não é alterado) e não &lt;a3&gt;espera que a tecla &lt;k4&gt;Win&lt;/k4&gt; seja solta&lt;/a3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Setur" creationdate="20210726T174403Z">
+        <seg>&lt;s0&gt;[v1.1.29+]:&lt;/s0&gt; da mesma forma que no modo blind, o modo text ignora o &lt;a1&gt;SetStoreCapsLockMode&lt;/a1&gt; (isto é, o estado da tecla &lt;k2&gt;CapsLock&lt;/k2&gt; não é alterado) e não &lt;a3&gt;espera que a tecla &lt;k4&gt;Win&lt;/k4&gt; seja solta&lt;/a3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6328,8 +6328,8 @@
       <tuv lang="en">
         <seg>Enables the &lt;a0&gt;Blind mode&lt;/a0&gt;, which gives the script more control by disabling a number of things that are normally done automatically to make things generally work as expected.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201941Z" creationid="Setur" creationdate="20210728T163747Z">
-        <seg>Ativa o &lt;a0&gt;modo Blind&lt;/a0&gt;, o qual dá ao script mais controle ao desabilitar várias coisas que são normalmente feitas de modo automático para fazer com que elas, em geral, funcionem como esperado.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Setur" creationdate="20210728T163747Z">
+        <seg>Ativa o &lt;a0&gt;modo blind&lt;/a0&gt;, o qual dá ao script mais controle ao desabilitar várias coisas que são normalmente feitas de modo automático para fazer com que elas, em geral, funcionem como esperado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8385,8 +8385,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>However, the Blind mode does not prevent masking performed by the keyboard hook following activation of a hook hotkey.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201941Z" creationid="Setur" creationdate="20210728T143313Z">
-        <seg>No entanto, o modo Blind não impede o “mascaramento” feito pelo gancho de teclado que sucede a ativação de uma hotkey de gancho.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Setur" creationdate="20210728T143313Z">
+        <seg>No entanto, o modo blind não impede o “mascaramento” feito pelo gancho de teclado que sucede a ativação de uma hotkey de gancho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13681,32 +13681,32 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The Blind mode avoids releasing the modifier keys (Alt, Ctrl, Shift, and Win) if they started out in the down position.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201941Z" creationid="Setur" creationdate="20210726T174720Z">
-        <seg>O modo Blind evita a soltura das teclas modificadoras (Alt, Ctrl, Shift e Win) se elas começaram na posição “pressionada” (down).</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Setur" creationdate="20210726T174720Z">
+        <seg>O modo blind evita a soltura das teclas modificadoras (Alt, Ctrl, Shift e Win) se elas começaram na posição “pressionada” (down).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The Blind mode can be enabled with &lt;c0&gt;{Blind}&lt;/c0&gt;, which gives the script more control by disabling a number of things that are normally done automatically to make things work as expected.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201941Z" creationid="Setur" creationdate="20210726T174623Z">
-        <seg>O modo Blind pode ser habilitado com &lt;c0&gt;{Blind}&lt;/c0&gt;, o que dá ao script mais controle ao desabilitar várias coisas que normalmente acontecem automaticamente, de forma a fazer com que o script funcione da maneira esperada.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Setur" creationdate="20210726T174623Z">
+        <seg>O modo blind pode ser habilitado com &lt;c0&gt;{Blind}&lt;/c0&gt;, o que dá ao script mais controle ao desabilitar várias coisas que normalmente acontecem automaticamente, de forma a fazer com que o script funcione da maneira esperada.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The Blind mode is not completely supported by &lt;a0&gt;SendPlay&lt;/a0&gt;, especially when dealing with the modifier keys (Ctrl, Alt, Shift, and Win).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201941Z" creationid="Setur" creationdate="20210728T143746Z">
-        <seg>O modo Blind não é completamente suportado por &lt;a0&gt;SendPlay&lt;/a0&gt; especialmente quando lidando com as teclas modificadoras (Ctrl, Alt, Shift e Win).</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Setur" creationdate="20210728T143746Z">
+        <seg>O modo blind não é completamente suportado por &lt;a0&gt;SendPlay&lt;/a0&gt; especialmente quando lidando com as teclas modificadoras (Ctrl, Alt, Shift e Win).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The Blind mode is used internally when &lt;a0&gt;remapping a key&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201941Z" creationid="Setur" creationdate="20210728T143549Z">
-        <seg>O modo Blind é usado internamente ao se &lt;a0&gt;remapear uma tecla&lt;/a0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Setur" creationdate="20210728T143549Z">
+        <seg>O modo blind é usado internamente ao se &lt;a0&gt;remapear uma tecla&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14937,8 +14937,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This mode can be combined with the Blind mode to avoid releasing any modifier keys:</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201941Z" creationid="Setur" creationdate="20210726T174005Z">
-        <seg>Esse modo pode ser combinado com o modo Blind para evitar a soltura de quaisquer teclas modificadoras:</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Setur" creationdate="20210726T174005Z">
+        <seg>Esse modo pode ser combinado com o modo blind para evitar a soltura de quaisquer teclas modificadoras:</seg>
       </tuv>
     </tu>
     <tu>
@@ -18786,8 +18786,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>["blind-mode Send","commands/Send.htm#blind"],</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T201941Z" creationid="Leo" creationdate="20210704T041619Z">
-        <seg>["Send em modo Blind","commands/Send.htm#blind"],</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Leo" creationdate="20210704T041619Z">
+        <seg>["Send em modo blind","commands/Send.htm#blind"],</seg>
       </tuv>
     </tu>
     <tu>

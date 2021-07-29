@@ -3192,8 +3192,8 @@
       <tuv lang="en">
         <seg>&lt;k0&gt;←&lt;/k0&gt; (left arrow) on main keyboard</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144115Z" creationid="Setur" creationdate="20210728T144115Z">
-        <seg>&lt;k0&gt;↑&lt;/k0&gt; (seta para a esquerda) no teclado principal</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T135626Z" creationid="Setur" creationdate="20210728T144115Z">
+        <seg>&lt;k0&gt;←&lt;/k0&gt; (seta para a esquerda) no teclado principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -3240,8 +3240,8 @@
       <tuv lang="en">
         <seg>&lt;k0&gt;→&lt;/k0&gt; (right arrow) on main keyboard</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144125Z" creationid="Setur" creationdate="20210728T144125Z">
-        <seg>&lt;k0&gt;↑&lt;/k0&gt; (seta para a direita) no teclado principal</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T135640Z" creationid="Setur" creationdate="20210728T144125Z">
+        <seg>&lt;k0&gt;→&lt;/k0&gt; (seta para a direita) no teclado principal</seg>
       </tuv>
     </tu>
     <tu>
@@ -3264,8 +3264,8 @@
       <tuv lang="en">
         <seg>&lt;k0&gt;↓&lt;/k0&gt; (down arrow) on main keyboard</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144105Z" creationid="Setur" creationdate="20210728T144105Z">
-        <seg>&lt;k0&gt;↑&lt;/k0&gt; (seta para baixo) no teclado principal</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T135612Z" creationid="Setur" creationdate="20210728T144105Z">
+        <seg>&lt;k0&gt;↓&lt;/k0&gt; (seta para baixo) no teclado principal</seg>
       </tuv>
     </tu>
     <tu>

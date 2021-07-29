@@ -6360,8 +6360,8 @@
       <tuv lang="en">
         <seg>Enclose in braces the name of the key followed by the word &lt;s1&gt;Down&lt;/s1&gt; or &lt;s2&gt;Up&lt;/s2&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164224Z" creationid="Setur" creationdate="20210728T164224Z">
-        <seg>Envolva o nome da tecla em chaves seguido da palavra &lt;s1&gt;Down&lt;/s1&gt; ou &lt;s2&gt;Up&lt;/s2&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T180720Z" creationid="Setur" creationdate="20210728T164224Z">
+        <seg>envolva o nome da tecla em chaves seguido da palavra &lt;s1&gt;down&lt;/s1&gt; ou &lt;s2&gt;up&lt;/s2&gt;.</seg>
       </tuv>
     </tu>
     <tu>

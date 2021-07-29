@@ -9169,8 +9169,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>In other words, if the user has swapped the buttons via system settings, &lt;c0&gt;{LButton}&lt;/c0&gt; performs a logical right click, but a physical left click activates the &lt;c1&gt;RButton::&lt;/c1&gt; hotkey.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163543Z" creationid="Setur" creationdate="20210728T163543Z">
-        <seg>Em outras palavras se o usuário permutou os botões pelas configurações do sistema, &lt;c0&gt;{LButton}&lt;/c0&gt; executa um clique lógico do botão direito, mas um clique físico no botão esquerdo ativa a hotkey &lt;c1&gt;RButton::&lt;/c1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174457Z" creationid="Setur" creationdate="20210728T163543Z">
+        <seg>Dito de outro modo, se o usuário permutou os botões pelas configurações do sistema, &lt;c0&gt;{LButton}&lt;/c0&gt; executa um clique lógico do botão direito, mas um clique físico no botão esquerdo ativa a hotkey &lt;c1&gt;RButton::&lt;/c1&gt;.</seg>
       </tuv>
     </tu>
     <tu>

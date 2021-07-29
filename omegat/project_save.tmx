@@ -12937,8 +12937,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Since SendInput is so fast, it is also more reliable because there is less opportunity for some other window to pop up unexpectedly and intercept the keystrokes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T174303Z">
-        <seg>Como o SendInput é tão rápido, também é mais confiável porque há menor oportunidade de alguma outra janela abrir na frente e interceptar os pressionamentos de teclass.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T195603Z" creationid="Setur" creationdate="20210728T174303Z">
+        <seg>Como o SendInput é tão rápido, também é mais confiável porque há menor oportunidade de alguma outra janela abrir na frente e interceptar os pressionamentos de teclas.</seg>
       </tuv>
     </tu>
     <tu>

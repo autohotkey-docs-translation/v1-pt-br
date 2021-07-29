@@ -9807,6 +9807,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key names</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140848Z" creationid="Setur" creationdate="20210729T140848Z">
+        <seg>Nomes das Teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>KeyList.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044503Z" creationid="Leo" creationdate="20210629T044503Z">

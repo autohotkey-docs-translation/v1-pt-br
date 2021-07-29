@@ -297,7 +297,7 @@ indexData = [
   ["Método Bind (Objeto Funcional)","objects/Func.htm#Bind"],
   ["Script BinMode (Ahk2Exe)","misc/Ahk2ExeDirectives.htm#PostExec",99],
   ["operações bit a bit","Variables.htm#bitwise"],
-  ["Send em modo cego","commands/Send.htm#blind"],
+  ["Send em modo blind","commands/Send.htm#blind"],
   ["BlockInput","commands/BlockInput.htm",6,"S"],
   ["blocos (linhas envoltas por chaves)","commands/Block.htm"],
   ["Objeto atrelado à função (Func.Bind)","objects/Functor.htm#BoundFunc"],

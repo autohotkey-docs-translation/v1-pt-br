@@ -25,7 +25,7 @@
 
 </dl>
 
-<h2 id="General_Remarks">General Remarks</h2>
+<h2 id="General_Remarks">Observações Gerais</h2>
 <p>This command is only useful on Windows 64-bit.  It has no effect on Windows 32-bit.</p>
 <p>On 64-bit systems, 32-bit applications run on a subsystem of Windows called <a href="http://msdn.microsoft.com/en-us/library/aa384249">WOW64</a>.  By default, the system redirects certain <a href="http://msdn.microsoft.com/en-us/library/aa384253">registry keys</a> to prevent conflicts.  For example, in a 32-bit script, <code>HKLM\SOFTWARE\AutoHotkey</code> is redirected to <code>HKLM\SOFTWARE\Wow6432Node\AutoHotkey</code>.  SetRegView allows the registry commands in a 32-bit script to access redirected keys in the 64-bit registry view and vice versa.</p>
 
@@ -36,7 +36,7 @@
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a> Shows how to set a specific registry view, and how registry redirection affects the script.</p>
+<p><a class="ex_number" href="#ExBasic"></a>  Shows how to set a specific registry view, and how registry redirection affects the script.</p>
 <pre id="example1">
 <em>; Access the registry as a 32-bit application would.</em>
 SetRegView 32
@@ -57,7 +57,7 @@ SetRegView Default
 </div>
 
 <div class="ex" id="Ex32Or64">
-<p><a class="ex_number" href="#Ex32Or64"></a> Shows how to detect the type of EXE and operating system on which the script is running.</p>
+<p><a class="ex_number" href="#Ex32Or64"></a>  Shows how to detect the type of EXE and operating system on which the script is running.</p>
 <pre id="example2">if (A_PtrSize = 8)
     script_is := "64-bit"
 else <em>; if (A_PtrSize = 4)</em>

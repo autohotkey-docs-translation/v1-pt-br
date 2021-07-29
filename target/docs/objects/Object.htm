@@ -138,7 +138,7 @@ Object.<span class="func">Delete</span>(Key)
 Object.<span class="func">Delete</span>(FirstKey, LastKey)
 </pre>
 <dl>
-  <dt>Key</dt>
+  <dt>Tecla</dt>
   <dd><p>Any single key.</p></dd>
   <dt>FirstKey, LastKey</dt>
   <dd><p>Any valid range of integer or string keys, where <em>FirstKey</em> &lt;= <em>LastKey</em>. Both keys must be the same type.</p></dd>
@@ -192,7 +192,7 @@ Object.<span class="func">SetCapacity</span>(Key, ByteSize)
 <dl>
 	<dt>MaxItems</dt>
 	<dd><p>The maximum number of key-value pairs the object should be able to contain before it must be automatically expanded.  If less than the current number of key-value pairs, that number is used instead, and any unused space is freed.</p></dd>
-	<dt>Key</dt>
+	<dt>Tecla</dt>
 	<dd><p>Any valid key.</p></dd>
 	<dt>ByteSize</dt>
 	<dd><p>The new size in bytes of the field's string buffer, excluding the null-terminator.  If the field does not exist, it is created.  If <i>ByteSize</i> is zero, the buffer is freed but the empty field is not removed.  If <i>ByteSize</i> is less than the current size, excess data is truncated; otherwise all existing data is preserved.</p></dd>
@@ -231,7 +231,7 @@ ByteSize := Object.<span class="func">GetCapacity</span>(Key)
 <pre class="Syntax">Object.Base := BaseObject</pre>
 <p><em>BaseObject</em> must be an object or an empty string.</p>
 <p>Properties and methods defined by a base object are accessible only while that base object is in use. Therefore, changing <em>Object</em>'s base also changes the set of available properties and methods.</p>
-<p>See also: <a href="#GetBase">ObjGetBase()</a>, <a href="#SetBase">ObjSetBase()</a></p>
+<p>Veja também: <a href="#GetBase">ObjGetBase()</a>, <a href="#SetBase">ObjSetBase()</a></p>
 </div>
 
 <div class="methodShort" id="RawGet"><h2>ObjRawGet <span class="ver">[v1.1.29+]</span></h2>
@@ -254,7 +254,7 @@ ByteSize := Object.<span class="func">GetCapacity</span>(Key)
 <pre class="Syntax">BaseObject := <span class="func">ObjGetBase</span>(Object)</pre>
 <p>No <a href="../Objects.htm#Meta_Functions">meta-functions</a> are called. The object's base is returned even if the key "base" has been stored in the object (such as with <a href="#RawSet">ObjRawSet</a> or <a href="#SetCapacity">SetCapacity</a>). An empty string is returned if the object has no base.</p>
 <p>An exception is thrown if <em>Object</em> is of an incorrect type.</p>
-<p>See also: <a href="#Base">Base property</a></p>
+<p>Veja também: <a href="#Base">Base property</a></p>
 </div>
 
 <div class="methodShort" id="SetBase"><h2>ObjSetBase <span class="ver">[v1.1.29+]</span></h2>
@@ -262,7 +262,7 @@ ByteSize := Object.<span class="func">GetCapacity</span>(Key)
 <pre class="Syntax"><span class="func">ObjSetBase</span>(Object, BaseObject)</pre>
 <p>No <a href="../Objects.htm#Meta_Functions">meta-functions</a> are called. The object's base is set even if the key "base" has been stored in the object (such as with <a href="#RawSet">ObjRawSet</a> or <a href="#SetCapacity">SetCapacity</a>). An empty string is returned if the object has no base.</p>
 <p>An exception is thrown if <em>Object</em> is of an incorrect type or if <em>BaseObject</em> is not an object or empty string.</p>
-<p>See also: <a href="#Base">Base property</a></p>
+<p>Veja também: <a href="#Base">Base property</a></p>
 </div>
 
 <div class="methodShort" id="Insert"><h2>Insert <span class="ver">[AHK_L 31+]</span></h2>

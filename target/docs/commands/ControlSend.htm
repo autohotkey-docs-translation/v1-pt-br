@@ -25,7 +25,7 @@ ControlSendRaw: Same parameters as above.
   <dd><p>Can be either ClassNN (the classname and instance number of the control) or the control's text, both of which can be determined via Window Spy. When using text, the matching behavior is determined by <a href="SetTitleMatchMode.htm">SetTitleMatchMode</a>. If this parameter is blank or omitted, the target window's topmost control will be used. If this parameter is <code>ahk_parent</code>, the keystrokes will be sent directly to the target window instead of one of its controls (see <a href="../misc/Winamp.htm">Automating Winamp</a> for an example).</p>
     <p>To operate upon a control's HWND (window handle), leave the <em>Control</em> parameter blank and specify <code>ahk_id %ControlHwnd%</code> for the <em>WinTitle</em> parameter (this also works on hidden controls even when <a href="DetectHiddenWindows.htm">DetectHiddenWindows</a> is Off). The HWND of a control is typically retrieved via <a href="ControlGet.htm#Hwnd">ControlGet Hwnd</a>, <a href="MouseGetPos.htm">MouseGetPos</a>, or <a href="DllCall.htm">DllCall()</a>.</p></dd>
 
-  <dt>Keys</dt>
+  <dt>Teclas</dt>
   <dd><p>The sequence of keys to send (see the <a href="Send.htm">Send</a> command for details). To send a literal comma, <a href="../misc/EscapeChar.htm">escape</a> it (`,). The rate at which characters are sent is determined by <a href="SetKeyDelay.htm">SetKeyDelay</a>.</p>
     <p>Unlike the <a href="Send.htm">Send</a> command, mouse clicks cannot be sent by ControlSend. Use <a href="ControlClick.htm">ControlClick</a> for that.</p></dd>
 
@@ -67,7 +67,7 @@ SetKeyDelay, -1, 0</pre>
 <p><a href="SetKeyDelay.htm">SetKeyDelay</a>, <a href="../misc/EscapeChar.htm">Escape sequences (e.g. `%)</a>, <a href="Control.htm">Control</a>, <a href="ControlGet.htm">ControlGet</a>, <a href="ControlGetText.htm">ControlGetText</a>, <a href="ControlMove.htm">ControlMove</a>, <a href="ControlGetPos.htm">ControlGetPos</a>, <a href="ControlClick.htm">ControlClick</a>, <a href="ControlSetText.htm">ControlSetText</a>, <a href="ControlFocus.htm">ControlFocus</a>, <a href="Send.htm">Send</a>, <a href="../misc/Winamp.htm">Automating Winamp</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExNotepad">
-<p><a class="ex_number" href="#ExNotepad"></a> Opens Notepad minimized and send it some text.</p>
+<p><a class="ex_number" href="#ExNotepad"></a>  Opens Notepad minimized and send it some text.</p>
 <pre>Run, Notepad,, Min, PID  <em>; Run Notepad minimized.</em>
 WinWait, ahk_pid %PID%  <em>; Wait for it to appear.</em>
 <em>; Send the text to the inactive Notepad edit control.
@@ -80,7 +80,7 @@ WinActivate, ahk_pid %PID%  <em>; Show the result.</em></pre>
 </div>
 
 <div class="ex" id="ExCmd">
-<p><a class="ex_number" href="#ExCmd"></a> Opens the command prompt and sent it some text.</p>
+<p><a class="ex_number" href="#ExCmd"></a>  Opens the command prompt and sent it some text.</p>
 <pre>SetTitleMatchMode, 2
 Run, %A_ComSpec%,,, PID  <em>; Run command prompt.</em>
 WinWait, ahk_pid %PID%  <em>; Wait for it to appear.</em>

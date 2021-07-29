@@ -72,7 +72,7 @@ MsgBox You pressed Win+Z in either Notepad or WordPad.
 return</pre>
 <p>Alternatively, a <a href="GroupAdd.htm">window group</a> can be used via <code>#IfWinActive ahk_group MyGroup</code>.</p>
 <p>To create hotkey variants dynamically (while the script is running), see <a href="Hotkey.htm#IfWin">"Hotkey IfWin"</a>.</p>
-<h2 id="gen">General Remarks</h2>
+<h2 id="gen">Observações Gerais</h2>
 <p>#IfWin also restores prefix keys to their native function when appropriate (a <a href="../Hotkeys.htm#prefix">prefix key</a> is <kbd>A</kbd> in a hotkey such as "a &amp; b"). This occurs whenever there are no enabled hotkeys for a given prefix.</p>
 <p>When Gosub or Goto is used to jump to a hotkey or hotstring label, it jumps to the variant closest to the top of the script.</p>
 <p>When a hotkey is currently disabled via #IfWin, its key or mouse button will appear with a "#" character in <a href="KeyHistory.htm">KeyHistory's</a> "Type" column. This can help debug a script.</p>
@@ -89,7 +89,7 @@ return</pre>
 <p><a href="_If.htm">#If <i>expression</i></a>, <a href="Hotkey.htm">Hotkey command</a>, <a href="../Hotkeys.htm">Hotkeys</a>, <a href="../Hotstrings.htm">Hotstrings</a>, <a href="Suspend.htm">Suspend</a>, <a href="WinActive.htm">WinActive()</a>, <a href="WinExist.htm">WinExist()</a>, <a href="SetTitleMatchMode.htm">SetTitleMatchMode</a>, <a href="DetectHiddenWindows.htm">DetectHiddenWindows</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a> Creates two hotkeys and one hotstring which only work when Notepad is active, and one hotkey which works for any window except Notepad.</p>
+<p><a class="ex_number" href="#ExBasic"></a>  Creates two hotkeys and one hotstring which only work when Notepad is active, and one hotkey which works for any window except Notepad.</p>
 <pre>#IfWinActive ahk_class Notepad
 ^!a::MsgBox You pressed Ctrl-Alt-A while Notepad is active.  <em>; This hotkey will have no effect if pressed in other windows (and it will "pass through").</em>
 #c::MsgBox You pressed Win-C while Notepad is active.

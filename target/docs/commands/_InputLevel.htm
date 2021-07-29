@@ -22,7 +22,7 @@
 
 </dl>
 
-<h2 id="General_Remarks">General Remarks</h2>
+<h2 id="General_Remarks">Observações Gerais</h2>
 <p>For an explanation of how SendLevel and #InputLevel are used, see <a href="SendLevel.htm">SendLevel</a>.</p>
 <p>This directive is positional: it affects all hotkeys and hotstrings between it and the next #InputLevel directive. If not specified by an #InputLevel directive, hotkeys and hotstrings default to level 0.</p>
 <p><span class="ver">[v1.1.23+]:</span> A hotkey's input level can also be set using the Hotkey command. Por exemplo: <code>Hotkey, #z, my_hotkey_sub, <strong>I1</strong></code></p>
@@ -35,7 +35,7 @@
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a> Causes the first hotkey <code>Numpad0::</code> to trigger the second hotkey <code>~LButton::</code>. This would be not the case if the #InputLevel directives are omitted or commented out.</p>
+<p><a class="ex_number" href="#ExBasic"></a>  Causes the first hotkey <code>Numpad0::</code> to trigger the second hotkey <code>~LButton::</code>. This would be not the case if the #InputLevel directives are omitted or commented out.</p>
 <pre>
 #InputLevel 1
 Numpad0::LButton

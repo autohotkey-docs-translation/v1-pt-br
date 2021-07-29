@@ -264,7 +264,7 @@ WheelUp::ShiftAltTab</pre>
 #If</pre>
 <p>If the script sent <code>{Alt Down}</code> (such as to invoke the Alt-Tab menu), it might also be necessary to send <code>{Alt Up}</code> as shown in the example further below.</p>
 
-<h3 id="AltTabRemarks">General Remarks</h3>
+<h3 id="AltTabRemarks">Observações Gerais</h3>
 <p>Currently, all special Alt-tab actions must be assigned directly to a hotkey as in the examples above (i.e. they cannot be used as though they were commands). They are <span class="red">not affected by <a href="commands/_IfWinActive.htm">#IfWin</a> or <a href="commands/_If.htm">#If</a></span>.</p>
 <p>An alt-tab action may take effect on key-down and/or key-up regardless of whether the <code>up</code> keyword is used, and cannot be combined with another action on the same key. For example, using both <code>F1::AltTabMenu</code> and <code>F1 up::OtherAction()</code> is unsupported.</p>
 <p id="AltTabWindow">Custom alt-tab actions can also be created via hotkeys. As the identity of the alt-tab menu differs between OS versions, it may be helpful to use a window group as shown below. For the examples above and below which use <code>ahk_group AltTabWindow</code>, this window group is expected to be defined in the <a href="Scripts.htm#auto">auto-execute section</a>. Alternatively, <code>ahk_group AltTabWindow</code> can be replaced with the appropriate <code>ahk_class</code> for your system.</p>

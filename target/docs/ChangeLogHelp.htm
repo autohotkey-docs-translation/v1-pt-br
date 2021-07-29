@@ -156,7 +156,7 @@
 <p>Fixed inability to pass a variable <a href="Functions.htm#ByRef">ByRef</a> if that same expression changed it from empty to non-empty (when <a href="commands/_NoEnv.htm">#NoEnv</a> is absent). [thanks Joy2DWorld]</p>
 <p>Changed DllCall's <a href="commands/DllCall.htm#LastError">A_LastError</a> to reflect only changes made by the script, not by AutoHotkey itself. [thanks Azerty]</p>
 <h2 id="v1.0.46.06">1.0.46.06 - January 16, 2007</h2>
-<p>Applied minor fixes and improvements to <a href="misc/RegEx-QuickRef.htm">regular expressions</a> by upgrading from PCRE 6.7 to 7.0. One of the most notable improvements is the `a option, which recognizes any type of newline (namely `r, `n, or `r`n). Similarly, the \R escape sequence means "any single newline of any type". See also: <a href="http://www.pcre.org/changelog.txt">Full PCRE changelog</a></p>
+<p>Applied minor fixes and improvements to <a href="misc/RegEx-QuickRef.htm">regular expressions</a> by upgrading from PCRE 6.7 to 7.0. One of the most notable improvements is the `a option, which recognizes any type of newline (namely `r, `n, or `r`n). Similarly, the \R escape sequence means "any single newline of any type". Veja também: <a href="http://www.pcre.org/changelog.txt">Full PCRE changelog</a></p>
 <p>Changed and fixed all <a href="commands/Control.htm">Control commands</a> and <a href="commands/StatusBarWait.htm">StatusBarWait</a> to obey <a href="commands/SetTitleMatchMode.htm#RegEx">SetTitleMatchMode RegEx</a> as documented.</p>
 <p>Changed <a href="commands/RegExReplace.htm">RegExReplace()</a> to return the original/unaltered string rather than "" when an error occurs.</p>
 <p>Changed: Enabled the <a href="http://msdn2.microsoft.com/en-us/library/01cfys9z.aspx">Terminal Server Awareness flag</a> on AutoHotkey.exe and <a href="Scripts.htm#ahk2exe">compiled scripts</a>.</p>
@@ -212,6 +212,7 @@
 <h2 id="v1.0.45.02">1.0.45.02 - November 8, 2006</h2>
 <p>Fixed <a href="commands/StringLower.htm">StringUpper</a> and <a href="commands/StringLower.htm">StringLower</a> to work when OutputVar is the clipboard (broken by v1.0.45). [thanks songsoverruins]</p>
 <p>Fixed the hotkeys ~Alt, ~Control, and ~Shift to fire upon press-down rather than release (broken by v1.0.44).<br>
+
 Background: Without the tilde, Alt/Control/Shift fire upon release to avoid taking over both the left and right key. But a specific left/right hotkey like LAlt or RShift fires upon press-down.</p>
 <h2 id="v1.0.45.01">1.0.45.01 - November 7, 2006</h2>
 <p>Fixed <a href="commands/FileReadLine.htm">FileReadLine</a> and <a href="commands/FileSelectFile.htm">FileSelectFile</a> not to crash or misbehave when other <a href="misc/Threads.htm">threads</a> interrupt them (broken by v1.0.45). [thanks toralf]</p>

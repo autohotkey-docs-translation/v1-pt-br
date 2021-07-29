@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2976,8 +2976,8 @@
       <tuv lang="en">
         <seg>&lt;k0&gt;Enter&lt;/k0&gt; on keypad</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T160916Z" creationid="Setur" creationdate="20210728T160916Z">
-        <seg>&lt;k0&gt;Enter&lt;/k0&gt;no teclado numérico</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210729T204650Z" creationid="Setur" creationdate="20210728T160916Z">
+        <seg>&lt;k0&gt;Enter&lt;/k0&gt; no teclado numérico</seg>
       </tuv>
     </tu>
     <tu>
@@ -4544,8 +4544,8 @@
       <tuv lang="en">
         <seg>Although the string &lt;c2&gt;{Text}&lt;/c2&gt; need not occur at the beginning of the string, once specified, it stays in effect for the remainder of the string.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174557Z" creationid="Setur" creationdate="20210728T164028Z">
-        <seg>Embora a string &lt;c2&gt;{Text}&lt;/c2&gt;não precise ocorrer no início da strng, uma vez especificadas, ela permanece em vigor até o final da string.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210729T204907Z" creationid="Setur" creationdate="20210728T164028Z">
+        <seg>Embora a string &lt;c2&gt;{Text}&lt;/c2&gt; não precise ocorrer no início da strng, uma vez especificadas, ela permanece em vigor até o final da string.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10121,8 +10121,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Likewise for &lt;c2&gt;{RButton}&lt;/c2&gt; and &lt;c3&gt;LButton::&lt;/c3&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163609Z" creationid="Setur" creationdate="20210728T163555Z">
-        <seg>Da mesma forma funcionam &lt;c2&gt;{RButton&lt;/c2&gt; e &lt;c3&gt;LButton::&lt;/c3&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210729T204729Z" creationid="Setur" creationdate="20210728T163555Z">
+        <seg>Da mesma forma funcionam &lt;c2&gt;{RButton}&lt;/c2&gt; e &lt;c3&gt;LButton::&lt;/c3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12409,8 +12409,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Send - Syntax &amp; Usage | AutoHotkey</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210726T140527Z" creationid="Setur" creationdate="20210726T140527Z">
-        <seg>Send - Sintaxe e uso | AutoHotkey</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210729T204101Z" creationid="Setur" creationdate="20210726T140527Z">
+        <seg>Send - Sintaxe e Uso | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -12809,8 +12809,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Sends an &lt;k0&gt;Alt&lt;/k0&gt;+nnnnn keypad combination, which can be used to generate special characters that don't exist on the keyboard.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174017Z" creationid="Setur" creationdate="20210728T145045Z">
-        <seg>Envia uma combinação com &lt;k0&gt;Alt&lt;/k0&gt;nnnnn, que pode ser usada para gerar caracteres especiais que não existem no teclado.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210729T204552Z" creationid="Setur" creationdate="20210728T145045Z">
+        <seg>Envia uma combinação com &lt;k0&gt;Alt&lt;/k0&gt;+nnnnn, que pode ser usada para gerar caracteres especiais que não existem no teclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13737,8 +13737,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>The Send, SendRaw, SendInput, SendPlay and SendEvent commands send simulated keystrokes and mouse clicks to the active window.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210726T140655Z">
-        <seg>Os comandos Send, sendraw, SendInput, SendPlay e SendEvent enviam pressionamentos de teclas simulados e cliques do mouse para a janela ativa.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210729T204317Z" creationid="Setur" creationdate="20210726T140655Z">
+        <seg>Os comandos Send, SendRaw, SendInput, SendPlay e SendEvent enviam pressionamentos de teclas simulados e cliques do mouse para a janela ativa.</seg>
       </tuv>
     </tu>
     <tu>

@@ -8433,8 +8433,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>However, when SendInput reverts to &lt;a1&gt;SendEvent&lt;/a1&gt; under the conditions described below, it uses &lt;c2&gt;&lt;a3&gt;SetKeyDelay&lt;/a3&gt; -1, 0&lt;/c2&gt; (unless SendEvent's KeyDelay is &lt;c4&gt;-1,-1&lt;/c4&gt;, in which case &lt;c5&gt;-1,-1&lt;/c5&gt; is used).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174544Z" creationid="Setur" creationdate="20210728T174544Z">
-        <seg>Todavia, quando o SendInput reverte-se para &lt;a1&gt;SendEvent&lt;/a1&gt; nas condições descritas abaixo, ele usa &lt;c2&gt;&lt;a3&gt;SetKeyDelay&lt;/a3&gt; -1, 0&lt;/c2&gt; (a não ser que o KeyDelay do SendEvent seja &lt;c4&gt;-1,--1&lt;/c4&gt;, caso em que &lt;c5&gt;-1,-1&lt;/c5&gt; será usado.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T200315Z" creationid="Setur" creationdate="20210728T174544Z">
+        <seg>Todavia, quando o SendInput reverte-se para &lt;a1&gt;SendEvent&lt;/a1&gt; nas condições descritas abaixo, ele usa &lt;c2&gt;&lt;a3&gt;SetKeyDelay&lt;/a3&gt; -1, 0&lt;/c2&gt; (a não ser que o KeyDelay do SendEvent seja &lt;c4&gt;-1,-1&lt;/c4&gt;, caso em que &lt;c5&gt;-1,-1&lt;/c5&gt; será usado.</seg>
       </tuv>
     </tu>
     <tu>

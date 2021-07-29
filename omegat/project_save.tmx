@@ -4432,8 +4432,8 @@
       <tuv lang="en">
         <seg>Although SendPlay can send LWin and RWin events, they are sent directly to the active window rather than performing their native operating system function.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190236Z" creationid="Setur" creationdate="20210728T190236Z">
-        <seg>Apesar de SendPlay poder enviar eventos com LWin e RWin, essas teclas são enviadas diretamente para a janela ativa em vez de realizar suas ações nativas do sistema operacional.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T202507Z" creationid="Setur" creationdate="20210728T190236Z">
+        <seg>Apesar de o SendPlay poder enviar eventos com LWin e RWin, essas teclas são enviadas diretamente para a janela ativa em vez de realizar suas ações nativas do sistema operacional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9729,8 +9729,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Jumps to the end of the text then send four shift+left-arrow keystrokes.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190502Z" creationid="Setur" creationdate="20210728T190502Z">
-        <seg>Pula para o final do texto e daí envia quatro pressionamentos de Shift+Seta para a esquerda.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T202554Z" creationid="Setur" creationdate="20210728T190502Z">
+        <seg>Pula para o final da linha no texto atual e daí envia quatro pressionamentos de Shift+Seta para a esquerda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12393,8 +12393,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Selects the File-&gt;Save menu (Alt+F followed by S).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T190427Z" creationid="Setur" creationdate="20210728T190427Z">
-        <seg>Seleciona o menu Arquivo -&gt; Salvar (Alt+A seguido de S no Windows em português).</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T202557Z" creationid="Setur" creationdate="20210728T190427Z">
+        <seg>Seleciona o menu Arquivo → Salvar (Alt+A seguido de S no Windows em português).</seg>
       </tuv>
     </tu>
     <tu>

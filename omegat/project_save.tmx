@@ -4544,8 +4544,8 @@
       <tuv lang="en">
         <seg>Although the string &lt;c2&gt;{Text}&lt;/c2&gt; need not occur at the beginning of the string, once specified, it stays in effect for the remainder of the string.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164028Z" creationid="Setur" creationdate="20210728T164028Z">
-        <seg>Embora a string &lt;c2&gt;{Text}&lt;/c2&gt;não precise ocorrer no início da strng, uma vez especificadas, ela permanece em efeito até o final da string.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174557Z" creationid="Setur" creationdate="20210728T164028Z">
+        <seg>Embora a string &lt;c2&gt;{Text}&lt;/c2&gt;não precise ocorrer no início da strng, uma vez especificadas, ela permanece em vigor até o final da string.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15250,8 +15250,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>To always perform a logical click, use &lt;a4&gt;{Click}&lt;/a4&gt; instead.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163641Z" creationid="Setur" creationdate="20210728T163641Z">
-        <seg>Para sempre executar um clique lógico, use &lt;a4&gt;{Click}&lt;/a4&gt; em vez de {L/RButton}.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174551Z" creationid="Setur" creationdate="20210728T163641Z">
+        <seg>Caso você queira sempre executar um clique lógico, use &lt;a4&gt;{Click}&lt;/a4&gt; em vez de {L/RButton}.</seg>
       </tuv>
     </tu>
     <tu>

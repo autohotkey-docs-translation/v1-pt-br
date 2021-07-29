@@ -14769,8 +14769,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This is because unlike BlockInput, SendInput/Play does not discard what the user types during the send; instead, such keystrokes are buffered and sent afterward.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T173820Z" creationid="Setur" creationdate="20210728T173820Z">
-        <seg>Isso é por que, ao contrário do que ocorre com o BlockInput, o SendInput/Play não descarta o que o usuário digita durante o envio (durante a execução do comando Send); em vez disso, as teclas pressionadas nesse momento são memorizadas e enviadas logo depois.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T193558Z" creationid="Setur" creationdate="20210728T173820Z">
+        <seg>Isso é porque, ao contrário do que ocorre com o BlockInput, o SendInput/Play não descarta o que o usuário digita durante o envio (durante a execução do comando Send); em vez disso, as teclas pressionadas nesse momento são memorizadas e enviadas logo depois.</seg>
       </tuv>
     </tu>
     <tu>

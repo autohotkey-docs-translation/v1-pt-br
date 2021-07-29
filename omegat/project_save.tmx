@@ -4536,8 +4536,8 @@
       <tuv lang="en">
         <seg>Although the string &lt;c2&gt;{Raw}&lt;/c2&gt; need not occur at the beginning of the string, once specified, it stays in effect for the remainder of the string.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T163904Z" creationid="Setur" creationdate="20210728T163904Z">
-        <seg>Apesar de a string &lt;c2&gt;{Raw}&lt;/c2&gt; não precisar ocorrer no início da string, uma vez especificada, ela permanece em efeito até o final da string.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174751Z" creationid="Setur" creationdate="20210728T163904Z">
+        <seg>Apesar de a string &lt;c2&gt;{Raw}&lt;/c2&gt; não precisar ocorrer no início da string, uma vez especificada, ela permanece em vigor até o final da string.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11769,8 +11769,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Repeating or Holding Down a Key</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164041Z" creationid="Setur" creationdate="20210728T164041Z">
-        <seg>Repetindo ou Mantendo uma Tecla Pressionada</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T174800Z" creationid="Setur" creationdate="20210728T164041Z">
+        <seg>Repetindo Pressionamentos ou Mantendo uma Tecla Pressionada</seg>
       </tuv>
     </tu>
     <tu>

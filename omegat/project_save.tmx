@@ -6352,8 +6352,8 @@
       <tuv lang="en">
         <seg>Enclose in braces the name of the key followed by the number of times to repeat it.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164113Z" creationid="Setur" creationdate="20210728T164113Z">
-        <seg>Envolva o nome da tecla em chaves seguido do número de vezes a repetir.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T180006Z" creationid="Setur" creationdate="20210728T164113Z">
+        <seg>envolva o nome da tecla em chaves seguido do número de vezes a repetir.</seg>
       </tuv>
     </tu>
     <tu>

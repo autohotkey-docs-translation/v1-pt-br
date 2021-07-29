@@ -7865,8 +7865,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Holds &lt;k0&gt;Alt&lt;/k0&gt; down until {Alt up} is sent.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144719Z" creationid="Setur" creationdate="20210728T144719Z">
-        <seg>Segura &lt;k0&gt;Alt&lt;/k0&gt; até que {Alt up} seja enviada.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140527Z" creationid="Setur" creationdate="20210728T144719Z">
+        <seg>Segura &lt;k0&gt;Alt&lt;/k0&gt; até que {Alt up} seja enviada</seg>
       </tuv>
     </tu>
     <tu>
@@ -12729,8 +12729,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Sending {CapsLock} might require &lt;c2&gt;&lt;a3&gt;SetStoreCapsLockMode&lt;/a3&gt; Off&lt;/c2&gt; beforehand.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144304Z" creationid="Setur" creationdate="20210728T144304Z">
-        <seg>Enviar {CapsLock} pode exigir que se declare &lt;c2&gt;&lt;a3&gt;SetStoreCapsLockmode&lt;/a3&gt; Off&lt;/c2&gt; antes.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140155Z" creationid="Setur" creationdate="20210728T144304Z">
+        <seg>Enviar {CapsLock} pode exigir que se declare &lt;c2&gt;&lt;a3&gt;SetStoreCapsLockmode&lt;/a3&gt; Off&lt;/c2&gt; antes</seg>
       </tuv>
     </tu>
     <tu>
@@ -15362,8 +15362,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>To hold down the left or right key instead, use {RAlt down} and {RAlt up}.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T144734Z" creationid="Setur" creationdate="20210728T144734Z">
-        <seg>Para, em vez disso, segurar a tecla esquerda ou direita, use {RAlt down} e {RAlt up}.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T140159Z" creationid="Setur" creationdate="20210728T144734Z">
+        <seg>Para, em vez disso, segurar a tecla esquerda ou direita, use {RAlt down} e {RAlt up}</seg>
       </tuv>
     </tu>
     <tu>

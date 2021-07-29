@@ -8561,8 +8561,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>If a script &lt;e0&gt;other than&lt;/e0&gt; the one executing SendInput has a &lt;a1&gt;low-level keyboard hook&lt;/a1&gt; installed, SendInput automatically reverts to &lt;a2&gt;SendEvent&lt;/a2&gt; (or &lt;a3&gt;SendPlay&lt;/a3&gt; if &lt;c4&gt;&lt;a5&gt;SendMode&lt;/a5&gt; InputThenPlay&lt;/c4&gt; is in effect).</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174716Z" creationid="Setur" creationdate="20210728T174716Z">
-        <seg>Se um script &lt;e0&gt;que não seja&lt;/e0&gt; o que está exeecutando um SendInput tenha um &lt;a1&gt;gancho de teclado de baixo nível&lt;/a1&gt; instalado, o SendInput automaticamente reverter-se-á para &lt;a2&gt;SendEvent&lt;/a2&gt; (ou &lt;a3&gt;SendPlay&lt;/a3&gt; se &lt;c4&gt;&lt;a5&gt;Sendmode&lt;/a5&gt; InputThenPlay&lt;/c4&gt; estiver em vigor).</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T200522Z" creationid="Setur" creationdate="20210728T174716Z">
+        <seg>Se um script &lt;e0&gt;que não seja&lt;/e0&gt; o que está executando um SendInput tenha um &lt;a1&gt;gancho de teclado de baixo nível&lt;/a1&gt; instalado, o SendInput automaticamente reverter-se-á para &lt;a2&gt;SendEvent&lt;/a2&gt; (ou &lt;a3&gt;SendPlay&lt;/a3&gt; se &lt;c4&gt;&lt;a5&gt;Sendmode&lt;/a5&gt; InputThenPlay&lt;/c4&gt; estiver em vigor).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14801,8 +14801,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>This is done because the presence of an external hook disables all of SendInput's advantages, making it inferior to both SendPlay and SendEvent.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174936Z" creationid="Setur" creationdate="20210728T174936Z">
-        <seg>Isso é feito porque a presença de um gancho externo anula todas as vantagens do SendInput, tornando-o inferior tanto ao SendPláy quanto ao SendEvent.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T200613Z" creationid="Setur" creationdate="20210728T174936Z">
+        <seg>Isso é feito porque a presença de um gancho externo anula todas as vantagens do SendInput, tornando-o inferior tanto ao SendPlay quanto ao SendEvent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16442,8 +16442,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>When SendInput sends mouse clicks by means such as &lt;a0&gt;{Click}&lt;/a0&gt;, and &lt;c1&gt;&lt;a2&gt;CoordMode&lt;/a2&gt; Mouse, Relative&lt;/c1&gt; is in effect (the default), every click will be relative to the window that was active at the start of the send.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T175142Z" creationid="Setur" creationdate="20210728T175142Z">
-        <seg>Quando SendInput envia cliques do mouse através de meios como &lt;a0&gt;{Click}&lt;/a0&gt;, e &lt;c1&gt;&lt;a2&gt;CoordMode&lt;/a2&gt; Mouse, Relative&lt;/c1&gt; está em vigor (que é a opção padrão), todo clique será relativo à janela que estava ativa no início do Send.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T200617Z" creationid="Setur" creationdate="20210728T175142Z">
+        <seg>Quando SendInput envia cliques do mouse através de meios como &lt;a0&gt;{Click}&lt;/a0&gt; e &lt;c1&gt;&lt;a2&gt;CoordMode&lt;/a2&gt; Mouse, Relative&lt;/c1&gt; está em vigor (que é a opção padrão), todo clique será relativo à janela que estava ativa no início do Send.</seg>
       </tuv>
     </tu>
     <tu>

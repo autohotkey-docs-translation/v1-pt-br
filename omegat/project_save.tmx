@@ -12425,8 +12425,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Send does not wait for &lt;k0&gt;Win&lt;/k0&gt; to be released even if the text contains an &lt;k1&gt;L&lt;/k1&gt; keystroke.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T143520Z" creationid="Setur" creationdate="20210728T143414Z">
-        <seg>O comando Send não aguarda a soltura da tecla &lt;k0&gt;Win&lt;/k0&gt;Win mesmo se o texto contiver um pressionamento incluindo a tecla &lt;k1&gt;L&lt;/k1&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210729T135446Z" creationid="Setur" creationdate="20210728T143414Z">
+        <seg>O comando Send não aguarda a soltura da tecla &lt;k0&gt;Win&lt;/k0&gt; mesmo se o texto contiver um pressionamento incluindo a tecla &lt;k1&gt;L&lt;/k1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21172,14 +21172,6 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064031Z" creationid="Ragnar-F" creationdate="20210701T064031Z">
         <seg>translateData = {</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>{</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210728T164418Z" creationid="Leo" creationdate="20210627T220616Z">
-        <seg>{{</seg>
       </tuv>
     </tu>
     <tu>

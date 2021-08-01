@@ -9135,6 +9135,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignores whitespace characters in the pattern except when escaped or inside a character class.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T021926Z" creationid="Leo" creationdate="20210801T021926Z">
+        <seg>Ignora espaços em branco no padrão a não ser que estejam escapados ou dentro de uma classe de caracteres (dentro de colchetes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In AutoHotkey v1, comparisons are performed numerically if both values are numeric even if both values are strings.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T131827Z" creationid="Leo" creationdate="20210721T015551Z">
@@ -14067,6 +14075,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T194555Z" creationid="Setur" creationdate="20210726T142516Z">
         <seg>Os caracteres &lt;c3&gt;^+!#&lt;/c3&gt; representam as teclas modificadoras &lt;k4&gt;Ctrl&lt;/k4&gt;, &lt;k5&gt;Shift&lt;/k5&gt;, &lt;k6&gt;Alt&lt;/k6&gt; e &lt;k7&gt;Win&lt;/k7&gt;, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The characters `n and `t are among those ignored because by the time they get to PCRE, they are already raw/literal whitespace characters (by contrast, \n and \t are not ignored because they are PCRE escape sequences).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T022203Z" creationid="Leo" creationdate="20210801T022203Z">
+        <seg>Os caracteres `n e `t estão entre eles porque, no momento em que eles são enxergados pelo engine do PCRE, eles já se tornaram caracteres de espaço em branco literais/brutos (em contraste, \n e \t não são ignorados porque eles são sequências de escape das PCRE.</seg>
       </tuv>
     </tu>
     <tu>

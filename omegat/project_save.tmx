@@ -3398,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Escaped characters&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015248Z" creationid="Leo" creationdate="20210801T015248Z">
+        <seg>&lt;s0&gt;Caracteres escapados&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Extract&lt;/s0&gt;:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T033651Z" creationid="Leo" creationdate="20210724T033651Z">
@@ -7110,6 +7118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;s2&gt;\.&lt;/s2&gt; is a literal period and &lt;s3&gt;\\&lt;/s3&gt; is a literal backslash.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015433Z" creationid="Leo" creationdate="20210801T015433Z">
+        <seg>POR EXEMPLO, &lt;s2&gt;\.&lt;/s2&gt; é um ponto literal e &lt;s3&gt;\\&lt;/s3&gt; é uma contrabarra literal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, a &lt;c2&gt;WebBrowserTitle&lt;/c2&gt; variable could be used to make your code easier to update when and if you were to change your preferred web browser, or if the &lt;a3&gt;title&lt;/a3&gt; or &lt;a4&gt;window class&lt;/a4&gt; changes due to a software update.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135030Z" creationid="Setur" creationdate="20210722T135030Z">
@@ -7250,6 +7266,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015121Z" creationid="Leo" creationdate="20210721T015121Z">
         <seg>Por exemplo, o nome de uma tecla a ser enviada ou um programa a executar, o número de vezes que uma hotkey foi pressionada, o título de uma janela a ser ativada, ou qualquer que seja a coisa que tenha algum significado dentro do programa ou script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the regular expression &lt;s2&gt;abc&lt;/s2&gt; matches &lt;s3&gt;abc&lt;/s3&gt;123, 123&lt;s4&gt;abc&lt;/s4&gt;, and 123&lt;s5&gt;abc&lt;/s5&gt;xyz.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015209Z" creationid="Leo" creationdate="20210801T015209Z">
+        <seg>Por exemplo, a expressão regular &lt;s2&gt;abc&lt;/s2&gt; corresponde a &lt;s3&gt;abc&lt;/s3&gt;123, 123&lt;s4&gt;abc&lt;/s4&gt;, e 123&lt;s5&gt;abc&lt;/s5&gt;xyz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8419,6 +8443,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Setur" creationdate="20210728T143313Z">
         <seg>No entanto, o modo blind não impede o “mascaramento” feito pelo gancho de teclado que sucede a ativação de uma hotkey de gancho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, the characters &lt;s1&gt;\.*?+[{|()^$&lt;/s1&gt; must be preceded by a backslash to be seen as literal.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015418Z" creationid="Leo" creationdate="20210801T015418Z">
+        <seg>Entretanto, os caracteres &lt;s1&gt;\.*?+[{|()^$&lt;/s1&gt; devem ser precedidos de uma contrabarra para que sejam tratados como caracteres literais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10379,6 +10411,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T232617Z" creationid="Leo" creationdate="20210625T182556Z">
         <seg>Pode ocorrer outros problemas com o DirectX ao se usar &lt;a1&gt;PixelSearch&lt;/a1&gt;, &lt;a2&gt;PixelGetColor&lt;/a2&gt; ou &lt;a3&gt;ImageSearch&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most characters like abc123 can be used literally inside a regular expression.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015308Z" creationid="Leo" creationdate="20210801T015308Z">
+        <seg>A maioria dos caracteres como abc123 pode ser usada literalmente dentro de uma expressão regular.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15540,6 +15580,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T212909Z" creationid="Leo" creationdate="20210627T212909Z">
         <seg>Para remover chaves e valores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To require the match to occur only at the beginning or end, use an &lt;a6&gt;anchor&lt;/a6&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015242Z" creationid="Leo" creationdate="20210801T015242Z">
+        <seg>Para exigir que a correspondência ocorra somente no início ou no final da string, use uma &lt;a6&gt;âncora&lt;/a6&gt;.</seg>
       </tuv>
     </tu>
     <tu>

@@ -4590,6 +4590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although this syntax breaks from tradition, it requires no special delimiters (such as forward-slash), and thus there is no need to escape such delimiters inside the pattern.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T020437Z" creationid="Leo" creationdate="20210801T020437Z">
+        <seg>Apesar de essa sintaxe quebrar a tradição, ela não requer nenhum delimitador especial (como uma barra), e portanto não há necessidade de escapar esses delimitadores dentro do padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although we may say the variable &lt;c0&gt;myArray&lt;/c0&gt; &lt;e1&gt;contains&lt;/e1&gt; an array (which is a type of object), what the variable contains isn't the array itself but rather a &lt;e2&gt;reference or pointer&lt;/e2&gt; to the array.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T010916Z" creationid="Leo" creationdate="20210723T010908Z">
@@ -5530,6 +5538,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T152534Z" creationid="Setur" creationdate="20210722T152534Z">
         <seg>Fazer, executar, exercer, calcular, avaliar, pôr em efeito, etc. &lt;e0&gt;Executar&lt;/e0&gt; tem basicamente o mesmo significado que tem fora do jargão da programação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Case-insensitive matching, which treats the letters A through Z as identical to their lowercase counterparts.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T020610Z" creationid="Leo" creationdate="20210801T020610Z">
+        <seg>Correspondência insensível à altura da caixa (case insensitive matching), que trata as letras A a Z como idênticas às suas correspondentes minúsculas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9135,6 +9151,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition, performance is improved because the options are easier to parse.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T020521Z" creationid="Leo" creationdate="20210801T020521Z">
+        <seg>Além disso, o desempenho é melhorado porque as opções são mais fáceis de analisar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition, the above action occurs at the time the key is &lt;s0&gt;released.&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T204456Z" creationid="Setur" creationdate="20210719T204456Z">
@@ -10727,6 +10751,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Multiline.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T020619Z" creationid="Leo" creationdate="20210801T020619Z">
+        <seg>Multilinha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Multimedia Keys</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065846Z" creationid="Leo" creationdate="20210702T065411Z">
@@ -11355,6 +11387,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T210739Z" creationid="Leo" creationdate="20210622T210739Z">
         <seg>Abra o Bloco de Notas ou (qualquer janela em que você possa digitar texto) e pressione &lt;k0&gt;Ctrl&lt;/k0&gt; e &lt;k1&gt;J&lt;/k1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Option</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T020525Z" creationid="Leo" creationdate="20210801T020525Z">
+        <seg>Opção</seg>
       </tuv>
     </tu>
     <tu>
@@ -16396,6 +16436,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T230531Z" creationid="Leo" creationdate="20210703T230531Z">
         <seg>Minúscula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Views &lt;e0&gt;Haystack&lt;/e0&gt; as a collection of individual lines (if it contains newlines) rather than as a single continuous line.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T020701Z" creationid="Leo" creationdate="20210801T020701Z">
+        <seg>Enxerga &lt;e0&gt;Haystack&lt;/e0&gt; como uma coleção de linhas individuais (se contiver mais de uma linha) em vez de uma única linha contínua.</seg>
       </tuv>
     </tu>
     <tu>

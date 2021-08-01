@@ -5582,6 +5582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Circumflex (^) matches immediately after all internal newlines -- as well as at the start of &lt;e0&gt;Haystack&lt;/e0&gt; where it always matches (but it does not match after a newline &lt;e1&gt;at the very end&lt;/e1&gt; of &lt;e2&gt;Haystack&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T021229Z" creationid="Leo" creationdate="20210801T020740Z">
+        <seg>Circunflexo (^) encontra o item que vem imediatamente depois de todas as quebras de linha internas — como também encontra o início do &lt;e0&gt;Palheiro&lt;/e0&gt; ao qual “^” sempre corresponde (mas não encontra uma quebra de linha &lt;e1&gt;bem no final&lt;/e1&gt; do &lt;e2&gt;Palheiro&lt;/e2&gt;). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clear key on keypad (usually &lt;k0&gt;5&lt;/k0&gt; when &lt;k1&gt;NumLock&lt;/k1&gt; is OFF).</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T161344Z" creationid="Setur" creationdate="20210728T161344Z">
@@ -13463,6 +13471,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specifically, it changes the following:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T020710Z" creationid="Leo" creationdate="20210801T020710Z">
+        <seg>Especialmente, a opção m altera o seguinte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specifically, send a key-up to modify the state of the IME, but prevent any other effects by signalling the keyboard hook to suppress the event.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T081930Z" creationid="Leo" creationdate="20210703T081930Z">
@@ -16442,8 +16458,8 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       <tuv lang="en">
         <seg>Views &lt;e0&gt;Haystack&lt;/e0&gt; as a collection of individual lines (if it contains newlines) rather than as a single continuous line.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T020701Z" creationid="Leo" creationdate="20210801T020701Z">
-        <seg>Enxerga &lt;e0&gt;Haystack&lt;/e0&gt; como uma coleção de linhas individuais (se contiver mais de uma linha) em vez de uma única linha contínua.</seg>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T020751Z" creationid="Leo" creationdate="20210801T020701Z">
+        <seg>Enxerga &lt;e0&gt;Haystack&lt;/e0&gt; como uma coleção de linhas individuais (se contiver pelo menos uma quebra de linha) em vez de uma única linha contínua.</seg>
       </tuv>
     </tu>
     <tu>

@@ -7630,6 +7630,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Forces the pattern to be anchored; that is, it can match only at the start of &lt;e0&gt;Haystack&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T022428Z" creationid="Leo" creationdate="20210801T022428Z">
+        <seg>Força a ancoragem do padrão; isto é, ele só pode corresponder ao início do &lt;e0&gt;Palheiro&lt;/e0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Forward</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T183718Z" creationid="Leo" creationdate="20210702T183718Z">
@@ -8579,6 +8587,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T003815Z" creationid="Leo" creationdate="20210723T003815Z">
         <seg>Entretanto, essas funções só são úteis em combinação com estruturas de dados e com a função &lt;a2&gt;DllCall&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, this applies only to data characters; whitespace may never appear within special character sequences such as (?(, which begins a conditional subpattern.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T022350Z" creationid="Leo" creationdate="20210801T022350Z">
+        <seg>Contudo, isso só se aplica a caracteres de dados; espaços em branco podem ocorrer dentro de sequências de caracteres especiais como (?(, o qual inicia um subpadrão condicional.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13847,6 +13863,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "x" option also ignores characters between a non-escaped # outside a character class and the next newline character, inclusive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T022250Z" creationid="Leo" creationdate="20210801T022250Z">
+        <seg>A opção “x” também ignora caracteres entre uma # não escapada fora de uma classe de caracteres e o próximo caractere de quebra de linha, inclusiuve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The #IfWin directives are positional:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210623T154728Z" creationid="Leo" creationdate="20210623T154728Z">
@@ -15223,6 +15247,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This makes it possible to include comments inside complicated patterns.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T022302Z" creationid="Leo" creationdate="20210801T022302Z">
+        <seg>Isso torna possível a inclusão de comentários dentro de padrões complicados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This may lead to unexpected results.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005314Z" creationid="Leo" creationdate="20210723T005314Z">
@@ -16076,6 +16108,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T174214Z" creationid="Setur" creationdate="20210728T174214Z">
         <seg>Na maioria das condições, SendInput é quase instantâneo, mesmo quando enviando longas strings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under most conditions, this is equivalent to explicitly anchoring the pattern by means such as "^".</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T022513Z" creationid="Leo" creationdate="20210801T022513Z">
+        <seg>Sob a maioria das condições, essa opção é equivalente a ancorar explicitamente o padrão por meios como o “^”.</seg>
       </tuv>
     </tu>
     <tu>

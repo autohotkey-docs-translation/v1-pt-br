@@ -8623,6 +8623,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, when the newline character is at its default of CRLF (`r`n), two dots are required to match it (not one).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T021757Z" creationid="Leo" creationdate="20210801T021757Z">
+        <seg>No entanto, quando um caractere de quebra de linha está em seu padrão, que é (`r`n), dois pontos finais são requeridos para corresponder àquele (não somente um).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I can't edit my script via tray icon because it won't start due to an error.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T173306Z" creationid="Setur" creationdate="20210719T173306Z">
@@ -11903,6 +11911,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regardless of this option, a negative class such as &lt;s0&gt;[^a]&lt;/s0&gt; always matches newlines.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T021847Z" creationid="Leo" creationdate="20210801T021847Z">
+        <seg>Independentemente desta opção, uma classe negada como &lt;s0&gt;[^a]&lt;/s0&gt; sempre corresponde a quebras de linhas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Registers the context menu option to run the appropriate exe file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034933Z" creationid="Leo" creationdate="20210724T034933Z">
@@ -14947,6 +14963,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143929Z" creationid="Setur" creationdate="20210722T143929Z">
         <seg>Isso pode causar confusão, então recomenda-se que todos os novos scripts usem #NoEnv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This causes a period (.) to match all characters including newlines (normally, it does not match newlines).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T021636Z" creationid="Leo" creationdate="20210801T021636Z">
+        <seg>Faz com que o ponto final (.) corresponda a todos os caracteres inclusive quebras de linha (normalmente, o ponto não corresponde a quebras de linha).</seg>
       </tuv>
     </tu>
     <tu>

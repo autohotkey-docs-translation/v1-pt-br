@@ -5366,6 +5366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, a regular expression matches a substring &lt;e1&gt;anywhere&lt;/e1&gt; inside the string to be searched.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015124Z" creationid="Leo" creationdate="20210801T015124Z">
+        <seg>Por padrão, uma expressão regular corresponde a uma substring &lt;e1&gt;em qualquer posição&lt;/e1&gt; dentro da string a ser pesquisada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, characters are sent by first translating them to keystrokes.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T165309Z">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3462,6 +3462,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Match anywhere&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015043Z" creationid="Leo" creationdate="20210801T015043Z">
+        <seg>&lt;s0&gt;Encontrar em qualquer posição&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Maximum length:&lt;/s0&gt; 253 characters.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210723T005843Z" creationid="Leo" creationdate="20210723T005843Z">
@@ -5702,6 +5710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commonly Used Symbols and Syntax</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T014709Z" creationid="Leo" creationdate="20210801T014709Z">
+        <seg>Símbolos Comuns e Sintaxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compile Script (depending on the &lt;e0&gt;Install script compiler&lt;/e0&gt; installation option)</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182751Z" creationid="Setur" creationdate="20210719T182751Z">
@@ -7586,6 +7602,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T014909Z" creationid="Leo" creationdate="20210721T014909Z">
         <seg>Funções/Comandos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fundamentals</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T014653Z" creationid="Leo" creationdate="20210801T014653Z">
+        <seg>Fundamentos</seg>
       </tuv>
     </tu>
     <tu>
@@ -11231,6 +11255,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Options (case sensitive)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T014657Z" creationid="Leo" creationdate="20210801T014657Z">
+        <seg>Opções</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Or add in some more details:</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T214822Z" creationid="Leo" creationdate="20210627T214822Z">
@@ -11691,6 +11723,22 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034933Z" creationid="Leo" creationdate="20210724T034933Z">
         <seg>Registra a opção do menu contexto para executar o executável apropriado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular Expressions (RegEx) - Quick Reference</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T014645Z" creationid="Leo" creationdate="20210801T014645Z">
+        <seg>Expressões Regulares (RegEx) — Referência Rápida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular Expressions (RegEx) - Quick Reference | AutoHotkey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T014605Z" creationid="Leo" creationdate="20210801T014605Z">
+        <seg>Expressões Regulares (RegEx) — Referência Rápida | AutoHotkey</seg>
       </tuv>
     </tu>
     <tu>
@@ -14979,6 +15027,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070150Z" creationid="Leo" creationdate="20210701T070150Z">
         <seg>Esta página contém informações sobre a versão atual, os autores, a licença e uma breve visão geral da documentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page covers options, commonly used symbols and syntax which can be used inside a regular expression.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T014628Z" creationid="Leo" creationdate="20210801T014628Z">
+        <seg>Esta página cobre opções, símbolos comumente usados e sintaxe que pode ser usada dentro de uma expressão regular.</seg>
       </tuv>
     </tu>
     <tu>

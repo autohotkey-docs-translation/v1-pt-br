@@ -3326,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Case-sensitive&lt;/s0&gt;:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015637Z" creationid="Leo" creationdate="20210801T015542Z">
+        <seg>&lt;s0&gt;Distinção entre maiúsculas e minúsculas&lt;/s0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;Caution:&lt;/s0&gt; This table &lt;b1&gt;does not&lt;/b1&gt; apply to &lt;a2&gt;hotkeys&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T063435Z" creationid="Leo" creationdate="20210625T175242Z">
@@ -3922,6 +3930,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210726T142330Z" creationid="Setur" creationdate="20210726T142330Z">
         <seg>&lt;s4&gt;SendEvent&lt;/s4&gt; Teclas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s4&gt;\QLiteral Text\E&lt;/s4&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015521Z" creationid="Leo" creationdate="20210801T015521Z">
+        <seg>&lt;s4&gt;\QTexto Literal\E&lt;/s4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5406,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, regular expressions are case-sensitive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015656Z" creationid="Leo" creationdate="20210801T015616Z">
+        <seg>Por padrão, expressões regulares distinguem maiúsculas e minúsculas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the installer will enable the option if UAC is enabled and the UI Access context menu option was present before installation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T035300Z" creationid="Leo" creationdate="20210724T035300Z">
@@ -6454,6 +6478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Escaping can be avoided by using \Q...\E.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015507Z" creationid="Leo" creationdate="20210801T015507Z">
+        <seg>O escape de caracteres pode ser dispensado se se usar \Q...\E.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even a variable which is only assigned a value once can be useful.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T134930Z" creationid="Setur" creationdate="20210722T134930Z">
@@ -7266,6 +7298,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210721T015121Z" creationid="Leo" creationdate="20210721T015121Z">
         <seg>Por exemplo, o nome de uma tecla a ser enviada ou um programa a executar, o número de vezes que uma hotkey foi pressionada, o título de uma janela a ser ativada, ou qualquer que seja a coisa que tenha algum significado dentro do programa ou script.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the pattern &lt;s1&gt;i)abc&lt;/s1&gt; searches for "abc" without regard to case.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T020122Z" creationid="Leo" creationdate="20210801T020122Z">
+        <seg>Por exemplo, o padrão &lt;s1&gt;i)abc&lt;/s1&gt; procura por “abc” sem importar-se com a altura da caixa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14755,6 +14795,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T203622Z" creationid="Setur" creationdate="20210719T203622Z">
         <seg>Isso assume que existe um driver para seu mouse em particular e que você pode ficar numa boa sem as funcionalidades extras proporcionadas pelo software personalizado do seu mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be changed via the "i" option.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015711Z" creationid="Leo" creationdate="20210801T015711Z">
+        <seg>Isso pode ser alterado com a opção "i".</seg>
       </tuv>
     </tu>
     <tu>

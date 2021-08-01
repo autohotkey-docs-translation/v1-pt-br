@@ -6182,6 +6182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dollar-sign ($) matches before any newlines in &lt;e0&gt;Haystack&lt;/e0&gt; (as well as at the very end where it always matches).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T021351Z" creationid="Leo" creationdate="20210801T021351Z">
+        <seg>Sinal de cifrão ($) encontra aquilo que vem antes de quaisquer quebras de linha no &lt;e0&gt;Palheiro&lt;/e0&gt; (bem como ao final da string, à qual o $ sempre corresponde).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Don't be afraid to ask for help, even the smartest people ask others for help.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221333Z" creationid="Leo" creationdate="20210627T221333Z">

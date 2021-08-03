@@ -6974,6 +6974,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For details, see &lt;a0&gt;OutputVar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T165718Z" creationid="Setur" creationdate="20210803T165718Z">
+        <seg>Para detalhes, vide &lt;a0&gt;Outputvar&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For details, see &lt;a3&gt;auto-execute section&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T183257Z" creationid="Setur" creationdate="20210719T183257Z">
@@ -11759,6 +11767,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Position mode.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T165635Z" creationid="Setur" creationdate="20210803T165635Z">
+        <seg>Modo posição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post anything you have tried.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T221407Z" creationid="Leo" creationdate="20210627T221407Z">
@@ -15091,6 +15107,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143929Z" creationid="Setur" creationdate="20210722T143929Z">
         <seg>Isso pode causar confusão, então recomenda-se que todos os novos scripts usem #NoEnv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This causes RegExMatch() to yield the position and length of the match and its subpatterns rather than their matching substrings.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T165710Z" creationid="Setur" creationdate="20210803T165710Z">
+        <seg>Este modo faz com que RegExMatch() encontre a posição e comprimento da correspondência e seus subpadrões em vez das substrings correspondentes.</seg>
       </tuv>
     </tu>
     <tu>

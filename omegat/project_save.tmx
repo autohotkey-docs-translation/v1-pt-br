@@ -10479,6 +10479,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Makes the quantifiers &lt;s0&gt;*&lt;/s0&gt;, &lt;s1&gt;?&lt;/s1&gt;, &lt;s2&gt;+&lt;/s2&gt; and &lt;s3&gt;{min,max}&lt;/s3&gt; consume only those characters absolutely necessary to form a match, leaving the remaining ones available for the next part of the pattern.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T165028Z" creationid="Setur" creationdate="20210803T165028Z">
+        <seg>Torna os quantificadores &lt;s0&gt;*&lt;/s0&gt;, &lt;s1&gt;?&lt;/s1&gt;, &lt;s2&gt;+&lt;/s2&gt; e &lt;s3&gt;{min, máx}&lt;/s3&gt; consumir somente aqueles caracteres absolutamente necessários para formar uma correspondência, deixando as remanescentes para a próxima parte do padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manually extracting the files to a different directory may help.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182053Z" creationid="Setur" creationdate="20210719T182053Z">

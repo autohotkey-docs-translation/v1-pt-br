@@ -174,7 +174,7 @@ DllCall("dwmapi\DwmSetWindowAttribute", "ptr", WinExist("Window Title")
 </div>
 
 <div class="ex" id="ExTransHotkey">
-<p><a class="ex_number" href="#ExTransHotkey"></a>  Demonstrates the effects of the sub-commands <a href="#Transparent">Transparent</a> and <a href="#TransColor">TransColor</a>. Note: If you press one of the hotkeys while the mouse cursor is hovering over a pixel that is invisible as a result of TransColor, the window visible beneath that pixel will be acted upon instead! Also, <kbd>Win</kbd>+<kbd>G</kbd> will have an effect only on Windows XP or later because retrieval of transparency settings is not supported by Windows 2000.</p>
+<p><a class="ex_number" href="#ExTransHotkey"></a> Demonstrates the effects of the sub-commands <a href="#Transparent">Transparent</a> and <a href="#TransColor">TransColor</a>. Observação: If you press one of the hotkeys while the mouse cursor is hovering over a pixel that is invisible as a result of TransColor, the window visible beneath that pixel will be acted upon instead! Also, <kbd>Win</kbd>+<kbd>G</kbd> will have an effect only on Windows XP or later because retrieval of transparency settings is not supported by Windows 2000.</p>
 <pre>#t::  <em>; Press Win+T to make the color under the mouse cursor invisible.</em>
 MouseGetPos, MouseX, MouseY, MouseWin
 PixelGetColor, MouseRGB, %MouseX%, %MouseY%, RGB

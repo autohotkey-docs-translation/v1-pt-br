@@ -54,7 +54,7 @@
 <p class="warning"><strong>Deprecated:</strong> Not recommended for use in new scripts. Use the Unicode version of AutoHotkey instead.</p>
 <p>Retrieves or stores Unicode text on the clipboard (for ANSI builds only).</p>
 <pre class="Syntax"><span class="func">Transform</span>, OutputVar, Unicode <span class="optional">, String</span></pre>
-<p>Note: The entire clipboard may be saved and restored by means of <a href="../misc/Clipboard.htm#ClipboardAll">ClipboardAll</a>, which allows this sub-command to operate without losing the original contents of the clipboard.</p>
+<p>Observação: The entire clipboard may be saved and restored by means of <a href="../misc/Clipboard.htm#ClipboardAll">ClipboardAll</a>, which allows this sub-command to operate without losing the original contents of the clipboard.</p>
 <p>There are two modes of operation as illustrated in the following examples:</p>
 <pre>Transform, OutputVar, Unicode  <em>; Retrieves the clipboard's Unicode text as a UTF-8 string.</em>
 Transform, Clipboard, Unicode, %MyUTF_String%  <em>; Places Unicode text onto the clipboard.</em></pre>
@@ -132,7 +132,7 @@ return</pre>
 <p class="warning"><strong>Deprecated:</strong> Not recommended for use in new scripts. Use <a href="Math.htm#Round">Round()</a> instead.</p>
 <p>Retrieves <em>Number</em> rounded to <em>N</em> decimal places.</p>
 <pre class="Syntax"><span class="func">Transform</span>, OutputVar, Round, Number <span class="optional">, N</span></pre>
-<p>If <em>N</em> is omitted, <em>OutputVar</em> will be set to <em>Number</em> rounded to the nearest integer. If <em>N</em> is positive number, <em>Number</em> will be rounded to <em>N</em> decimal places. If <em>N</em> is negative, <em>Number</em> will be rounded by <em>N</em> digits to the left of the decimal point. For example, -1 rounds to the ones place, -2 rounds to the tens place, and-3 rounds to the hundreds place. Note: The Round sub-command does not remove trailing zeros when rounding decimal places. For example, 12.333 rounded to one decimal place would become 12.300000. This behavior can be altered by using something like <code><a href="SetFormat.htm">SetFormat</a>, Float, 0.1</code> prior to the operation (in fact, <a href="SetFormat.htm">SetFormat</a> might eliminate the need to use the Round sub-command in the first place).</p>
+<p>If <em>N</em> is omitted, <em>OutputVar</em> will be set to <em>Number</em> rounded to the nearest integer. If <em>N</em> is positive number, <em>Number</em> will be rounded to <em>N</em> decimal places. If <em>N</em> is negative, <em>Number</em> will be rounded by <em>N</em> digits to the left of the decimal point. For example, -1 rounds to the ones place, -2 rounds to the tens place, and-3 rounds to the hundreds place. Observação: The Round sub-command does not remove trailing zeros when rounding decimal places. For example, 12.333 rounded to one decimal place would become 12.300000. This behavior can be altered by using something like <code><a href="SetFormat.htm">SetFormat</a>, Float, 0.1</code> prior to the operation (in fact, <a href="SetFormat.htm">SetFormat</a> might eliminate the need to use the Round sub-command in the first place).</p>
 
 <h3 id="Ceil">Ceil</h3>
 <p class="warning"><strong>Deprecated:</strong> Not recommended for use in new scripts. Use <a href="Math.htm#Ceil">Ceil()</a> instead.</p>

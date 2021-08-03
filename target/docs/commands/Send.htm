@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 <head>
-<title>Send - Sintaxe e uso | AutoHotkey</title>
-<meta name="description" content="Os comandos Send, sendraw, SendInput, SendPlay e SendEvent enviam pressionamentos de teclas simulados e cliques do mouse para a janela ativa." />
+<title>Send - Sintaxe e Uso | AutoHotkey</title>
+<meta name="description" content="Os comandos Send, SendRaw, SendInput, SendPlay e SendEvent enviam pressionamentos de teclas simulados e cliques do mouse para a janela ativa." />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link href="../static/theme.css" rel="stylesheet" type="text/css" />
@@ -292,7 +292,7 @@
   </tr>
   <tr id="asc">
     <td>{ASC nnnnn}</td>
-    <td><p>Envia uma combinação com <kbd>Alt</kbd>nnnnn, que pode ser usada para gerar caracteres especiais que não existem no teclado. Para gerar caracteres ASCII, especifique um número entre 1 e 255. Para gerar caracteres ANSI (padrão na maioria dos idiomas), especifique um número entre 128 e 255, mas insira um zero na frente, como {Asc 0133}.</p>
+    <td><p>Envia uma combinação com <kbd>Alt</kbd>+nnnnn, que pode ser usada para gerar caracteres especiais que não existem no teclado. Para gerar caracteres ASCII, especifique um número entre 1 e 255. Para gerar caracteres ANSI (padrão na maioria dos idiomas), especifique um número entre 128 e 255, mas insira um zero na frente, como {Asc 0133}.</p>
     <p>Caracteres Unicode podem ser gerados especificando-se um número entre 256 e 65535 (sem um zero na frente). Contudo, isso não é suportado por todos os programas. Para alternativas, veja a seção abaixo.</p></td>
   </tr>
   <tr id="Unicode">
@@ -320,7 +320,7 @@
   </tr>
   <tr>
     <td>{NumpadEnter}</td>
-    <td><kbd>Enter</kbd>no teclado numérico</td>
+    <td><kbd>Enter</kbd> no teclado numérico</td>
   </tr>
   <tr>
     <td>{NumpadMult}</td>
@@ -475,7 +475,7 @@
     <td>{WheelDown}, {WheelUp}, {WheelLeft}, {WheelRight}, {LButton}, {RButton}, {MButton}, {XButton1}, {XButton2}</td>
     <td>
       <p>Envia um evento de botão do mouse à posição atual do cursor (para ter controle sobre a posição e outras opções, use <a href="Click.htm">{Click}</a> como visto acima). O atraso entre cliques do mouse é determinado por <a href="SetMouseDelay.htm">SetMouseDelay</a>. WheelLeft/Right requerem <span class="ver">[v1.0.48+]</span>, mas não têm efeito em sistemas operacionais anteriores ao Windows Vista.</p>
-      <p>LButton e RButton correspondem aos botões esquerdo e direito “físicos” quando usados com Send, mas os botões esquerdo e direito “lógicos” são usados com hotkeys. Dito de outro modo, se o usuário permutou os botões pelas configurações do sistema, <code>{LButton}</code> executa um clique lógico do botão direito, mas um clique físico no botão esquerdo ativa a hotkey <code>RButton::</code>. Da mesma forma funcionam <code>{RButton</code> e <code>LButton::</code>. Caso você queira sempre executar um clique lógico, use <a href="Click.htm">{Click}</a> em vez de {L/RButton}.</p>
+      <p>LButton e RButton correspondem aos botões esquerdo e direito “físicos” quando usados com Send, mas os botões esquerdo e direito “lógicos” são usados com hotkeys. Dito de outro modo, se o usuário permutou os botões pelas configurações do sistema, <code>{LButton}</code> executa um clique lógico do botão direito, mas um clique físico no botão esquerdo ativa a hotkey <code>RButton::</code>. Da mesma forma funcionam <code>{RButton}</code> e <code>LButton::</code>. Caso você queira sempre executar um clique lógico, use <a href="Click.htm">{Click}</a> em vez de {L/RButton}.</p>
     </td>
   </tr>
   <tr>
@@ -490,7 +490,7 @@
   <tr>
     <td>{Text}<br>
     <span class="ver">[v1.1.27+]</span></td>
-    <td>Habilita o <a href="#SendText">modo text</a>, o qual envia um fluxo de caracteres em vez de pressionamentos de teclas. Como no modo bruto, o modo text faz com que os caracteres a seguir sejam interpretados literalmente: <code>^+!#{}</code>. Embora a string <code>{Text}</code>não precise ocorrer no início da strng, uma vez especificadas, ela permanece em vigor até o final da string.</td>
+    <td>Habilita o <a href="#SendText">modo text</a>, o qual envia um fluxo de caracteres em vez de pressionamentos de teclas. Como no modo bruto, o modo text faz com que os caracteres a seguir sejam interpretados literalmente: <code>^+!#{}</code>. Embora a string <code>{Text}</code> não precise ocorrer no início da strng, uma vez especificadas, ela permanece em vigor até o final da string.</td>
   </tr>
 </table>
 

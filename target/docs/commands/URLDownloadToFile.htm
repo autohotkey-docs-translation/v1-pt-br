@@ -37,7 +37,7 @@
 <p><strong>Caching</strong>:</p>
 <ul>
   <li><span class="ver">[v1.0.44.07+]</span>: The URL is retrieved directly from the remote server (that is, never from Internet Explorer's cache). To permit caching, precede the URL with *0 followed by a space; for example: <code>*0 https://someorg.org</code>. The zero following the asterisk may be replaced by any valid dwFlags number; for details, search <a href="https://www.microsoft.com">www.microsoft.com</a> for InternetOpenUrl.</li>
-  <li>In versions older than 1.0.44.07, the file is retrieved from the cache whenever possible. To avoid this, specify a query string at the end of the URL. Por exemplo: <code>https://www.someorg.org/doc.html?fakeParam=42</code>. Note: If you download the same file frequently, the query string should be varied.</li>
+  <li>In versions older than 1.0.44.07, the file is retrieved from the cache whenever possible. To avoid this, specify a query string at the end of the URL. Por exemplo: <code>https://www.someorg.org/doc.html?fakeParam=42</code>. Observação: If you download the same file frequently, the query string should be varied.</li>
 </ul>
 <p><strong>Proxies</strong>: UrlDownloadToFile will use a proxy server to access the Internet if such a proxy has been configured in Microsoft Internet Explorer's settings.</p>
 <p><strong>FTP and Gopher</strong>: <span class="ver">[v1.0.48.04+]</span> supports FTP and Gopher URLs. Por exemplo:</p>

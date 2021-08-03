@@ -56,7 +56,7 @@
 <p>Changes the priority level of the first matching process.</p>
 <pre class="Syntax"><span class="func">Process</span>, Priority, PIDOrName, Level</pre>
 <p>Changes the priority (as seen in Windows Task Manager) of the first matching process to <em>Level</em> and sets <a href="../misc/ErrorLevel.htm">ErrorLevel</a> to its Process ID (PID). If the <em>PIDOrName</em> parameter is blank, the script's own priority will be changed. If there is no matching process or there was a problem changing its priority, ErrorLevel is set to 0.</p>
-<p><em>Level</em> should be one of the following letters or words: L (or Low), B (or BelowNormal), N (or Normal), A (or AboveNormal), H (or High), R (or Realtime). Note: Any process not designed to run at Realtime priority might reduce system stability if set to that level.</p>
+<p><em>Level</em> should be one of the following letters or words: L (or Low), B (or BelowNormal), N (or Normal), A (or AboveNormal), H (or High), R (or Realtime). Observação: Any process not designed to run at Realtime priority might reduce system stability if set to that level.</p>
 
 <h3 id="Wait">Wait</h3>
 <p>Waits for the specified process to exist.</p>

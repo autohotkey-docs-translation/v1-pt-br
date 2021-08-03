@@ -1,78 +1,79 @@
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 <head>
-<title>Regular Expressions (RegEx) - Quick Reference | AutoHotkey</title>
-<meta name="description" content="This page covers options, commonly used symbols and syntax which can be used inside a regular expression." />
+<title>Expressões Regulares (RegEx) — Referência Rápida | AutoHotkey</title>
+<meta name="description" content="Esta página cobre opções, símbolos comumente usados e sintaxe que pode ser usada dentro de uma expressão regular." />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link href="../static/theme.css" rel="stylesheet" type="text/css" />
 <script src="../static/content.js" type="text/javascript"></script>
 </head>
 <body>
-<h1>Regular Expressions (RegEx) - Quick Reference</h1>
+<h1>Expressões Regulares (RegEx) — Referência Rápida</h1>
 
 <h2 id="toc">Sumário</h2>
 <ul>
-  <li><a href="#fundamentals">Fundamentals</a></li>
-  <li><a href="#Options">Options (case sensitive)</a></li>
-  <li><a href="#Common">Commonly Used Symbols and Syntax</a></li>
+  <li><a href="#fundamentals">Fundamentos</a></li>
+  <li><a href="#Options">Opções (há distinção entre maiúsculas e minúsculas)</a></li>
+  <li><a href="#Common">Símbolos Comuns e Sintaxe</a></li>
 </ul>
 
-<h2 id="fundamentals">Fundamentals</h2>
-<p><strong>Match anywhere</strong>: By default, a regular expression matches a substring <em>anywhere</em> inside the string to be searched. For example, the regular expression <span class="regex">abc</span> matches <span class="subj">abc</span>123, 123<span class="subj">abc</span>, and 123<span class="subj">abc</span>xyz. To require the match to occur only at the beginning or end, use an <a href="#anchor">anchor</a>.</p>
-<p><strong>Escaped characters</strong>: Most characters like abc123 can be used literally inside a regular expression. However, the characters <strong>\.*?+[{|()^$</strong> must be preceded by a backslash to be seen as literal. For example, <span class="regex">\.</span> is a literal period and <span class="regex">\\</span> is a literal backslash. Escaping can be avoided by using \Q...\E. Por exemplo: <span class="regex">\QLiteral Text\E</span>.</p>
-<p><strong>Case-sensitive</strong>: By default, regular expressions are case-sensitive. This can be changed via the "i" option. For example, the pattern <span class="regex">i)abc</span> searches for "abc" without regard to case. See below for other modifiers.</p>
+<h2 id="fundamentals">Fundamentos</h2>
+<p><strong>Encontrar em qualquer posição</strong>: Por padrão, uma expressão regular corresponde a uma substring <em>em qualquer posição</em> dentro da string a ser pesquisada. Por exemplo, a expressão regular <span class="regex">abc</span> corresponde a <span class="subj">abc</span>123, 123<span class="subj">abc</span>, e 123<span class="subj">abc</span>xyz. Para exigir que a correspondência ocorra somente no início ou no final da string, use uma <a href="#anchor">âncora</a>.</p>
+<p><strong>Caracteres escapados</strong>: A maioria dos caracteres como abc123 pode ser usada literalmente dentro de uma expressão regular. Entretanto, os caracteres <strong>\.*?+[{|()^$</strong> devem ser precedidos de uma contrabarra para que sejam tratados como caracteres literais. Por exempleonasmo, <span class="regex">\.</span> é um ponto literal e <span class="regex">\\</span> é uma contrabarra literal. O escape de caracteres pode ser dispensado se se usar \Q...\E. Por exemplo: <span class="regex">\QTexto Literal\E</span>.</p>
+<p><strong>Distinção entre maiúsculas e minúsculas</strong>: Por padrão, expressões regulares distinguem maiúsculas e minúsculas. Isso pode ser alterado com a opção "i". Por exemplo, o padrão <span class="regex">i)abc</span> procura por “abc” sem importar-se com a altura da caixa. Veja abaixo para outros modificadores.</p>
 
-<h2 id="Options">Options (case sensitive)</h2>
-<p>At the very beginning of a regular expression, specify zero or more of the following options followed by a close-parenthesis. For example, the pattern <span class="regex"><span class="red">im)</span>abc</span> would search for "abc" with the case-insensitive and multiline options (the parenthesis may be omitted when there are no options). Although this syntax breaks from tradition, it requires no special delimiters (such as forward-slash), and thus there is no need to escape such delimiters inside the pattern. In addition, performance is improved because the options are easier to parse.</p>
+<h2 id="Options">Opções (há distinção entre maiúsculas e minúsculas)</h2>
+<p>Bem no começo de uma expressão regular, especifique zero ou mais das opções abaixo seguidas de um fecha-parênteses. Por exemplo, o padrão <span class="regex"><span class="red">im)</span>abc</span> buscaria “abc” com as opções case-insensitive (sem distinção de M&amp;m) e multilinha (o parêntese pode ser omitido quando não houver opções). Apesar de essa sintaxe quebrar a tradição, ela não requer nenhum delimitador especial (como uma barra), e portanto não há necessidade de escapar esses delimitadores dentro do padrão. Além disso, o desempenho é melhorado porque as opções são mais fáceis de analisar.</p>
 <table class="info">
   <tr>
-    <th class="center">Option</th>
+    <th class="center">Opção</th>
     <th abbr="Descr">Descrição</th>
   </tr>
   <tr id="opt_i">
     <td class="center bold">i</td>
-    <td>Case-insensitive matching, which treats the letters A through Z as identical to their lowercase counterparts.</td>
+    <td>Correspondência insensível à altura da caixa (case insensitive matching), que trata as letras A a Z como idênticas às suas correspondentes minúsculas.</td>
   </tr>
   <tr id="Multiline">
     <td class="center bold">m</td>
-    <td><p>Multiline. Views <em>Haystack</em> as a collection of individual lines (if it contains newlines) rather than as a single continuous line. Specifically, it changes the following:</p>
-      <p>1) Circumflex (^) matches immediately after all internal newlines -- as well as at the start of <em>Haystack</em> where it always matches (but it does not match after a newline <em>at the very end</em> of <em>Haystack</em>).</p>
-      <p>2) Dollar-sign ($) matches before any newlines in <em>Haystack</em> (as well as at the very end where it always matches).</p>
-      <p>For example, the pattern <span class="regex"><span class="red">m)</span>^abc$</span> matches xyz`r`n<span class="subj">abc</span>. But without the "m" option, it wouldn't match.</p>
-      <p>The "D" option is ignored when "m" is present.</p></td>
+    <td><p>Multilinha. Enxerga <em>Haystack</em> como uma coleção de linhas individuais (se contiver pelo menos uma quebra de linha) em vez de uma única linha contínua. Especialmente, a opção m altera o seguinte:</p>
+      <p>1) Circunflexo (^) encontra o item que vem imediatamente depois de todas as quebras de linha internas — como também encontra o início do <em>Palheiro</em> ao qual “^” sempre corresponde (mas não encontra uma quebra de linha <em>bem no final</em> do <em>Palheiro</em>). </p>
+      <p>2) Sinal de cifrão ($) encontra aquilo que vem antes de quaisquer quebras de linha no <em>Palheiro</em> (bem como ao final da string, à qual o $ sempre corresponde).</p>
+      <p>Por exemplo, o padrão <span class="regex"><span class="red">m)</span>^abc$</span> corresponde a xyz`r`n<span class="subj">abc</span>. Porém, sem a opção “m”, não haveria correspondência.</p>
+      <p>A opção “D” é ignorada quando “m” está presente.</p></td>
   </tr>
   <tr id="opt_s">
     <td class="center bold">s</td>
-    <td>DotAll. This causes a period (.) to match all characters including newlines (normally, it does not match newlines). However, when the newline character is at its default of CRLF (`r`n), two dots are required to match it (not one). Regardless of this option, a negative class such as <span class="regex">[^a]</span> always matches newlines.</td>
+    <td>“DotAll”. Faz com que o ponto final (.) corresponda a todos os caracteres inclusive quebras de linha (normalmente, o ponto não corresponde a quebras de linha). No entanto, quando um caractere de quebra de linha está em seu padrão, que é (`r`n), dois pontos finais são requeridos para corresponder àquele (não somente um). Independentemente desta opção, uma classe negada como <span class="regex">[^a]</span> sempre corresponde a quebras de linhas.</td>
   </tr>
   <tr id="opt_x">
     <td class="center bold">x</td>
-    <td>Ignores whitespace characters in the pattern except when escaped or inside a character class. The characters `n and `t are among those ignored because by the time they get to PCRE, they are already raw/literal whitespace characters (by contrast, \n and \t are not ignored because they are PCRE escape sequences). The "x" option also ignores characters between a non-escaped # outside a character class and the next newline character, inclusive. This makes it possible to include comments inside complicated patterns. However, this applies only to data characters; whitespace may never appear within special character sequences such as (?(, which begins a conditional subpattern.</td>
+    <td>Ignora espaços em branco no padrão a não ser que estejam escapados ou dentro de uma classe de caracteres (dentro de colchetes). Os caracteres `n e `t estão entre eles porque, no momento em que eles são enxergados pelo engine do PCRE, eles já se tornaram caracteres de espaço em branco literais/brutos (em contraste, \n e \t não são ignorados porque eles são sequências de escape das PCRE. A opção “x” também ignora caracteres entre uma # não escapada fora de uma classe de caracteres e o próximo caractere de quebra de linha, inclusiuve. Isso torna possível a inclusão de comentários dentro de padrões complicados. Contudo, isso só se aplica a caracteres de dados; espaços em branco podem ocorrer dentro de sequências de caracteres especiais como (?(, o qual inicia um subpadrão condicional.</td>
   </tr>
   <tr id="opt_A">
     <td class="center bold">A</td>
-    <td>Forces the pattern to be anchored; that is, it can match only at the start of <em>Haystack</em>. Under most conditions, this is equivalent to explicitly anchoring the pattern by means such as "^".</td>
+    <td>Força a ancoragem do padrão; isto é, ele só pode corresponder ao início do <em>Palheiro</em>. Sob a maioria das condições, essa opção é equivalente a ancorar explicitamente o padrão por meios como o “^”.</td>
   </tr>
   <tr id="opt_D">
     <td class="center bold">D</td>
-    <td>Forces dollar-sign ($) to match at the very end of <em>Haystack</em>, even if <em>Haystack</em>'s last item is a newline. Without this option, $ instead matches right before the final newline (if there is one). Note: This option is ignored when the "m" option is present.</td>
+    <td>Força a que o cifrão ($) corresponda ao final do <em>Palheiro</em>, mesmo se o último item do <em>Palheiro</em> for uma quebra de linha. Sem essa opção, o $ passa a corresponder ao elemento que vem logo antes da quebra de linha (se houver uma). Observação: Esta opção é ignorada quando a opção “m” está presente.</td>
   </tr>
   <tr id="opt_J">
     <td class="center bold">J</td>
-    <td>Allows duplicate <a href="../commands/RegExMatch.htm#NamedSubPat">named subpatterns</a>. This can be useful for patterns in which only one of a collection of identically-named subpatterns can match. Note: If more than one instance of a particular name matches something, only the leftmost one is stored. Also, variable names are not case-sensitive.</td>
+    <td>Permite <a href="../commands/RegExMatch.htm#NamedSubPat">subpadrões nomeados</a> duplicados. Pode ser útil para padrões nos quais somente um de uma coleção de subpadrões com nomes idênticos puder ser correspondida. Observação: Se mais de uma instância de um nome em particular corresponder a algo, somente o que estiver mais à esquerda é armazenado. Além disso, nomes de variáveis não distinguem maiúsculas de minúsculas.</td>
   </tr>
   <tr id="opt_U">
     <td class="center bold">U</td>
-    <td>Ungreedy. Makes the quantifiers <strong>*</strong>, <strong>?</strong>, <strong>+</strong> and <strong>{min,max}</strong> consume only those characters absolutely necessary to form a match, leaving the remaining ones available for the next part of the pattern. When the "U" option is not in effect, an individual quantifier can be made non-greedy by following it with a question mark. Conversely, when "U" <em>is</em> in effect, the question mark makes an individual quantifier greedy.</td>
+    <td>“Contentável” (NdT: antônimo de “ávido”, adjetivo aqui usado para o vocábulo “greedy”, comum no universo das RegExes.) Torna os quantificadores <strong>*</strong>, <strong>?</strong>, <strong>+</strong> e <strong>{min, máx}</strong> consumir somente aqueles caracteres absolutamente necessários para formar uma correspondência, deixando as remanescentes para a próxima parte do padrão. Quando a opção “U” não está em vigor, um quantificador individual pode ser tornado contentável ao suceder-se-o com um ponto de interrogação. De outro lado, quando “U” <em>está</em> em vigor, o ponto de interrogação torna ávido um quantificador individual.</td>
   </tr>
   <tr id="opt_extra">
     <td class="center bold">X</td>
-    <td>PCRE_EXTRA. Enables PCRE features that are incompatible with Perl. Currently, the only such feature is that any backslash in a pattern that is followed by a letter that has no special meaning causes the match to fail and ErrorLevel to be set accordingly. This option helps reserve unused backslash sequences for future use. Without this option, a backslash followed by a letter with no special meaning is treated as a literal (e.g. \g and g are both recognized as a literal g). Regardless of this option, non-alphabetic backslash sequences that have no special meaning are always treated as literals (e.g. \/ and / are both recognized as forward-slash).</td>
+    <td>PCRE_EXTRA. Habilita funcionalidades das XRCP que são incompatíveis com o Perl. No momento, a única funcionalidade é que qualquer contrabarra dentro de um padrão que está seguido por uma letra que não tem significado especial faz com que a correspondência falhe e o ErrorLevel será ajustado de acordo. 
+Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso futuro. Sem essa opção, uma contrabarra seguida de uma letra sem significado especial é tratada literalmente (ex: \g e g são ambas reconhecidas como um g literal). Independentemente dessa opção, sequencias não alfabéticas com contrabarras que não têm significado especial são sempre tratadas como caracteres literais (ex: \/ e / são ambos reconhecidos como a barra “/”).</td>
   </tr>
   <tr id="opt_P">
     <td class="center bold">P</td>
-    <td>Position mode. This causes RegExMatch() to yield the position and length of the match and its subpatterns rather than their matching substrings. For details, see <a href="../commands/RegExMatch.htm#PosMode">OutputVar</a>.</td>
+    <td>Modo posição. Este modo faz com que RegExMatch() encontre a posição e comprimento da correspondência e seus subpadrões em vez das substrings correspondentes. Para detalhes, vide <a href="../commands/RegExMatch.htm#PosMode">Outputvar</a>.</td>
   </tr>
   <tr id="opt_O">
     <td class="center bold">O</td>
@@ -101,7 +102,7 @@
 </table>
 <p class="note"><strong>Observação</strong>: Spaces and tabs may optionally be used to separate each option from the next.</p>
 
-<h2 id="Common">Commonly Used Symbols and Syntax</h2>
+<h2 id="Common">Símbolos Comuns e Sintaxe</h2>
 <table class="info">
   <tr>
     <th class="center">Element</th>
@@ -127,7 +128,7 @@
 	<tr>
 	  <td class="center bold">{min,max}</td>
 	  <td><p>Matches between <em>min</em> and <em>max</em> occurrences of the preceding character, <a href="#class">class</a>, or <a href="#subpat">subpattern</a>. For example, <span class="regex">a{1,2}</span> matches  <span class="subj">a</span>b but only the first two a's in <span class="subj">aa</span>ab.</p>
-        <p>Also, {3} means exactly 3 occurrences, and {3<strong>,</strong>} means 3 or more occurrences. Note: The specified numbers must be less than 65536, and the first must be less than or equal to the second.</p></td>
+        <p>Also, {3} means exactly 3 occurrences, and {3<strong>,</strong>} means 3 or more occurrences. Observação: The specified numbers must be less than 65536, and the first must be less than or equal to the second.</p></td>
   </tr>
 	<tr id="class">
 	  <td class="center bold">[...]</td>
@@ -158,7 +159,7 @@
 	    <p><strong>^</strong> may appear at the beginning of a pattern to require the match to occur at the very beginning of a line. For example, <span class="regex">^abc</span> matches <span class="subj">abc</span>123 but not 123abc.</p>
 	    <p><strong>$</strong> may appear at the end of a pattern to require the match to occur at the very end of a line. For example, <span class="regex">abc$</span> matches 123<span class="subj">abc</span> but not abc123.</p>
       <p>The two anchors may be combined. For example, <span class="regex">^abc$</span> matches only <span class="subj">abc</span> (i.e. there must be no other characters before or after it).</p>
-      <p>If the text being searched contains multiple lines, the anchors can be made to apply to each line rather than the text as a whole by means of the <a href="#Multiline">"m" option</a>. For example, <span class="regex">m)^abc$</span> matches 123`r`n<span class="subj">abc</span>`r`n789. But without the "m" option, it wouldn't match.</p></td>
+      <p>If the text being searched contains multiple lines, the anchors can be made to apply to each line rather than the text as a whole by means of the <a href="#Multiline">"m" option</a>. For example, <span class="regex">m)^abc$</span> matches 123`r`n<span class="subj">abc</span>`r`n789. Porém, sem a opção “m”, não haveria correspondência.</p></td>
   </tr>
 	<tr>
 	  <td class="center bold">\b</td>

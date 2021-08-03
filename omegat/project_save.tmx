@@ -6102,6 +6102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Currently, the only such feature is that any backslash in a pattern that is followed by a letter that has no special meaning causes the match to fail and ErrorLevel to be set accordingly.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T165400Z" creationid="Setur" creationdate="20210803T165400Z">
+        <seg>No momento, a única funcionalidade é que qualquer contrabarra dentro de um padrão que está seguido por uma letra que não tem significado especial faz com que a correspondência falhe e o ErrorLevel será ajustado de acordo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cursor Control Keys</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T065827Z" creationid="Leo" creationdate="20210701T162315Z">
@@ -12007,6 +12015,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regardless of this option, non-alphabetic backslash sequences that have no special meaning are always treated as literals (e.g. \/ and / are both recognized as forward-slash).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T165619Z" creationid="Setur" creationdate="20210803T165619Z">
+        <seg>Independentemente dessa opção, sequencias não alfabéticas com contrabarras que não têm significado especial são sempre tratadas como caracteres literais (ex: \/ e / são ambos reconhecidos como a barra “/”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Registers the context menu option to run the appropriate exe file.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210724T034933Z" creationid="Leo" creationdate="20210724T034933Z">
@@ -15383,6 +15399,15 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option helps reserve unused backslash sequences for future use.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T165422Z" creationid="Setur" creationdate="20210803T165422Z">
+        <seg>
+Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso futuro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option is ignored when the "m" option is present.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163735Z" creationid="Setur" creationdate="20210803T163735Z">
@@ -17348,6 +17373,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163703Z" creationid="Setur" creationdate="20210803T163703Z">
         <seg>Sem essa opção, o $ passa a corresponder ao elemento que vem logo antes da quebra de linha (se houver uma).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without this option, a backslash followed by a letter with no special meaning is treated as a literal (e.g. \g and g are both recognized as a literal g).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T165458Z" creationid="Setur" creationdate="20210803T165458Z">
+        <seg>Sem essa opção, uma contrabarra seguida de uma letra sem significado especial é tratada literalmente (ex: \g e g são ambas reconhecidas como um g literal).</seg>
       </tuv>
     </tu>
     <tu>

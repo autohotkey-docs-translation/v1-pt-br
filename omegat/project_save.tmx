@@ -7208,8 +7208,8 @@
       <tuv lang="en">
         <seg>For example, &lt;s2&gt;\.&lt;/s2&gt; is a literal period and &lt;s3&gt;\\&lt;/s3&gt; is a literal backslash.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210801T015433Z" creationid="Leo" creationdate="20210801T015433Z">
-        <seg>POR EXEMPLO, &lt;s2&gt;\.&lt;/s2&gt; é um ponto literal e &lt;s3&gt;\\&lt;/s3&gt; é uma contrabarra literal.</seg>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163517Z" creationid="Leo" creationdate="20210801T015433Z">
+        <seg>Por exempleonasmo, &lt;s2&gt;\.&lt;/s2&gt; é um ponto literal e &lt;s3&gt;\\&lt;/s3&gt; é uma contrabarra literal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,6 +7626,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210723T132934Z" creationid="Setur" creationdate="20210722T151912Z">
         <seg>Por essa razão, o objeto alvo (que pode ser uma variável ou sub-expressão) é especificado à esquerda do nome do método em vez de dentro da lista de parâmetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forces dollar-sign ($) to match at the very end of &lt;e0&gt;Haystack&lt;/e0&gt;, even if &lt;e1&gt;Haystack&lt;/e1&gt;'s last item is a newline.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163618Z" creationid="Setur" creationdate="20210803T163618Z">
+        <seg>Força a que o cifrão ($) corresponda ao final do &lt;e0&gt;Palheiro&lt;/e0&gt;, mesmo se o último item do &lt;e1&gt;Palheiro&lt;/e1&gt; for uma quebra de linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11139,6 +11147,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T195222Z" creationid="Setur" creationdate="20210719T195222Z">
         <seg>Observe que quando você compila um script que usa bibliotecas de função incluídas automaticamente, AutoHotkey.exe e a pasta da biblioteca devem estar um nível acima do arquivo Ahk2Exe.exe (ex: \AutoHotkey.exe x \Compiler\Ahk2Exe.exe).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note:</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163705Z" creationid="Setur" creationdate="20210803T163705Z">
+        <seg>Observação:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15311,6 +15327,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option is ignored when the "m" option is present.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163735Z" creationid="Setur" creationdate="20210803T163735Z">
+        <seg>Esta opção é ignorada quando a opção “m” está presente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This page contains information about the currently used version, the authors, the license, and a quick overview of the documentation.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070150Z" creationid="Leo" creationdate="20210701T070150Z">
@@ -17244,6 +17268,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T212650Z" creationid="Leo" creationdate="20210625T203530Z">
         <seg>Sem elas, a programação e a confecção de scripts seriam muito mais tediosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without this option, $ instead matches right before the final newline (if there is one).</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163703Z" creationid="Setur" creationdate="20210803T163703Z">
+        <seg>Sem essa opção, o $ passa a corresponder ao elemento que vem logo antes da quebra de linha (se houver uma).</seg>
       </tuv>
     </tu>
     <tu>

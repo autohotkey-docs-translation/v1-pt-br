@@ -4358,6 +4358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows duplicate &lt;a0&gt;named subpatterns&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163757Z" creationid="Setur" creationdate="20210803T163757Z">
+        <seg>Permite &lt;a0&gt;subpadrões nomeados&lt;/a0&gt; duplicados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows you to remove a range of numbered/integer or string keys between &lt;e0&gt;FirstKey&lt;/e0&gt; and &lt;e1&gt;LastKey&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210630T215201Z" creationid="Leo" creationdate="20210627T213533Z">
@@ -4418,6 +4426,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T064811Z" creationid="Leo" creationdate="20210627T064811Z">
         <seg>Além disso, o valor &lt;c2&gt;3&lt;/c2&gt; é armazenado na chave &lt;c3&gt;"Preco"&lt;/c3&gt; do objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, variable names are not case-sensitive.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163941Z" creationid="Setur" creationdate="20210803T163941Z">
+        <seg>Além disso, nomes de variáveis não distinguem maiúsculas de minúsculas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8851,6 +8867,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T180600Z" creationid="Leo" creationdate="20210625T180600Z">
         <seg>Se não estiver na tabela, então não requer chaves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If more than one instance of a particular name matches something, only the leftmost one is stored.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163923Z" creationid="Setur" creationdate="20210803T163923Z">
+        <seg>Se mais de uma instância de um nome em particular corresponder a algo, somente o que estiver mais à esquerda é armazenado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15015,6 +15039,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This can be useful for patterns in which only one of a collection of identically-named subpatterns can match.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T163900Z" creationid="Setur" creationdate="20210803T163900Z">
+        <seg>Pode ser útil para padrões nos quais somente um de uma coleção de subpadrões com nomes idênticos puder ser correspondida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can cause confusion, so it is recommended that all new scripts use #NoEnv.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T143929Z" creationid="Setur" creationdate="20210722T143929Z">
@@ -16140,6 +16172,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210801T022513Z" creationid="Leo" creationdate="20210801T022513Z">
         <seg>Sob a maioria das condições, essa opção é equivalente a ancorar explicitamente o padrão por meios como o “^”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ungreedy.</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T164900Z" creationid="Setur" creationdate="20210803T164900Z">
+        <seg>“Contentável” (NdT: antônimo de “ávido”, adjetivo aqui usado para o vocábulo “greedy”, comum no universo das RegExes.)</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6976,8 +6976,8 @@
       <tuv lang="en">
         <seg>For details, see &lt;a0&gt;OutputVar&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="Setur" changedate="20210803T165718Z" creationid="Setur" creationdate="20210803T165718Z">
-        <seg>Para detalhes, vide &lt;a0&gt;Outputvar&lt;/a0&gt;.</seg>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210814T071103Z" creationid="Setur" creationdate="20210803T165718Z">
+        <seg>Para detalhes, vide &lt;a0&gt;OutputVar&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>

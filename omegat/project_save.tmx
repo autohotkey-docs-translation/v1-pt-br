@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5578,6 +5578,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T135430Z" creationid="Setur" creationdate="20210722T135430Z">
         <seg>Algumas restrições se aplicam a nomes - vide &lt;a0&gt;Nomes&lt;/a0&gt; para detalhes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ChangeLog.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20221206T185949Z" creationid="Ragnar-F" creationdate="20221206T185949Z">
+        <seg>ChangeLog.htm</seg>
       </tuv>
     </tu>
     <tu>

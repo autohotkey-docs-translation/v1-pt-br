@@ -3,7 +3,7 @@
 <head>
 <title>IfEqual / IfLess / IfGreater - Syntax &amp; Usage | AutoHotkey</title>
 <meta name="description" content="The IfEqual, IfNotEqual, IfLess, IfLessOrEqual, IfGreater and IfGreaterOrEqual statements specify statements to execute if the comparison evaluates to true." />
-<meta name="ahk:equiv-v2" content="commands/If.htm" />
+<meta name="ahk:equiv-v2" content="lib/If.htm" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link href="../static/theme.css" rel="stylesheet" type="text/css" />
@@ -53,13 +53,13 @@ IfGreater, x, 1, x += 2</pre>
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExOne">
-<p><a class="ex_number" href="#ExOne"></a>  If <var>counter</var> is greater than or equal to 1, sleep for 10 ms.</p>
+<p><a class="ex_number" href="#ExOne"></a> If <var>counter</var> is greater than or equal to 1, sleep for 10 ms.</p>
 <pre>if counter &gt;= 1
     Sleep, 10</pre>
 </div>
 
 <div class="ex" id="ExMultiple">
-<p><a class="ex_number" href="#ExMultiple"></a>  If <var>counter</var> is greater than or equal to 1, close Notepad and sleep for 10 ms.</p>
+<p><a class="ex_number" href="#ExMultiple"></a> If <var>counter</var> is greater than or equal to 1, close Notepad and sleep for 10 ms.</p>
 <pre>if counter &gt;= 1   <em>; For executing more than one line, enclose those lines in braces:</em>
 {
     WinClose, Untitled - Notepad
@@ -68,11 +68,10 @@ IfGreater, x, 1, x += 2</pre>
 </div>
 
 <div class="ex" id="ExComplex">
-<p><a class="ex_number" href="#ExComplex"></a>  This example is executed as follows:</p>
+<p><a class="ex_number" href="#ExComplex"></a> This example is executed as follows:</p>
 <ol>
   <li>If <var>MyVar</var> is equal to <var>MyVar2</var>, show "The contents of MyVar and MyVar2 are identical."</li>
   <li>Otherwise if <var>MyVar</var> is empty:
-    
     <ol>
       <li>Show "MyVar is empty/blank. Continue?" and wait for user input.</li>
       <li>If the user presses "No", stop further checks.</li>
@@ -96,7 +95,7 @@ else
 </div>
 
 <div class="ex" id="ExBoolean">
-<p><a class="ex_number" href="#ExBoolean"></a>  If <var>Done</var> is neither empty nor zero, show "The variable Done is neither empty nor zero.".</p>
+<p><a class="ex_number" href="#ExBoolean"></a> If <var>Done</var> is neither empty nor zero, show "The variable Done is neither empty nor zero.".</p>
 <pre>if Done
     MsgBox The variable Done is neither empty nor zero.</pre>
 </div>

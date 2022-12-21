@@ -148,7 +148,7 @@ GuiControl, Font, MyEdit  <em>; Put the above font into effect for a control.</e
 <p>In the next example, the OK button is made the new default button:</p>
 <pre>GuiControl, +Default, OK</pre>
 <p>Although <a href="../misc/Styles.htm">styles</a> and extended styles are also recognized, some of them cannot be applied or removed after a control has been created. ErrorLevel is set to 0 if at least one of the specified changes was successfully applied. Otherwise, it is set to 1 to indicate that none of the changes could be applied. Even if a change is successfully applied, the control might choose to ignore it.</p>
-<p id="Functor"><span class="ver">[v1.1.20+]:</span> To set a <a href="../objects/Functor.htm">function object</a> for handling <a href="Gui.htm#label">the control's events</a>, <em>Value</em> must be a single variable reference, as in either of the following examples. Other expressions which return objects are currently unsupported.</p>
+<p id="Functor"><span class="ver">[v1.1.20+]:</span> To set a <a href="../misc/Functor.htm">function object</a> for handling <a href="Gui.htm#label">the control's events</a>, <em>Value</em> must be a single variable reference, as in either of the following examples. Other expressions which return objects are currently unsupported.</p>
 <pre>GuiControl +g, <i>ControlID</i>, %FuncObj%
 GuiControl +g, <i>ControlID</i>, % FuncObj</pre>
 
@@ -170,27 +170,27 @@ GuiControl, MyGui:, MyListBox, Item1|Item2</pre>
 <h2 id="Examples">Exemplos</h2>
 
 <div class="ex" id="ExReplaceList">
-<p><a class="ex_number" href="#ExReplaceList"></a>  Replaces the current list with a new list.</p>
+<p><a class="ex_number" href="#ExReplaceList"></a> Replaces the current list with a new list.</p>
 <pre>GuiControl,, MyListBox, |Red|Green|Blue</pre>
 </div>
 
 <div class="ex" id="ExNewText">
-<p><a class="ex_number" href="#ExNewText"></a>  Puts new text into an Edit control.</p>
+<p><a class="ex_number" href="#ExNewText"></a> Puts new text into an Edit control.</p>
 <pre>GuiControl,, MyEdit, New text line 1.`nNew text line 2.</pre>
 </div>
 
 <div class="ex" id="ExRadio">
-<p><a class="ex_number" href="#ExRadio"></a>  Turns on a radio button and turns off all the others in its group.</p>
+<p><a class="ex_number" href="#ExRadio"></a> Turns on a radio button and turns off all the others in its group.</p>
 <pre>GuiControl,, MyRadio2, 1</pre>
 </div>
 
 <div class="ex" id="ExMove">
-<p><a class="ex_number" href="#ExMove"></a>  Moves an OK button to a new location.</p>
+<p><a class="ex_number" href="#ExMove"></a> Moves an OK button to a new location.</p>
 <pre>GuiControl, Move, OK, x100 y200</pre>
 </div>
 
 <div class="ex" id="ExFocus">
-<p><a class="ex_number" href="#ExFocus"></a>  Sets keyboard focus to a control whose variable or text is "LastName".</p>
+<p><a class="ex_number" href="#ExFocus"></a> Sets keyboard focus to a control whose variable or text is "LastName".</p>
 <pre>GuiControl, Focus, LastName</pre>
 </div>
 

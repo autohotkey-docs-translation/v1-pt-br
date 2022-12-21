@@ -21,16 +21,15 @@
 
   <dt>VarType</dt>
   <dd>The base type of the array (the VARTYPE of each element of the array). The VARTYPE is restricted to a subset of the variant types. Neither the VT_ARRAY nor the VT_BYREF flag can be set. VT_EMPTY and VT_NULL are not valid base types for the array. All other types are legal.
-    
     <p>See <a href="ComObjType.htm">ComObjType</a> for a list of possible values.</p></dd>
 
   <dt>Count<i>N</i></dt>
   <dd><p>The size of each dimension. Arrays containing up to 8 dimensions are supported.</p></dd>
 
-  <dt>ArrayObj</dt>
-  <dd><p>A wrapper object containing the SafeArray.</p></dd>
-
 </dl>
+
+<h2 id="Return_Value">Return Value</h2>
+<p>This function returns a wrapper object containing a new SafeArray.</p>
 
 <h2 id="Methods">Métodos</h2>
 <p>Array wrapper objects support the following methods:</p>
@@ -54,7 +53,7 @@ else
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a>  Simple usage.</p>
+<p><a class="ex_number" href="#ExBasic"></a> Simple usage.</p>
 <pre id="Ex1">arr := ComObjArray(VT_VARIANT:=12, 3)
 arr[0] := "Auto"
 arr[1] := "Hot"
@@ -66,7 +65,7 @@ MsgBox % t
 </div>
 
 <div class="ex" id="ExMultiDims">
-<p><a class="ex_number" href="#ExMultiDims"></a>  Multiple dimensions.</p>
+<p><a class="ex_number" href="#ExMultiDims"></a> Multiple dimensions.</p>
 <pre id="Ex2">arr := ComObjArray(VT_VARIANT:=12, 3, 4)
 
 <em>; Get the number of dimensions:</em>

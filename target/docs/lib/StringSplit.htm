@@ -3,7 +3,7 @@
 <head>
 <title>StringSplit - Syntax &amp; Usage | AutoHotkey</title>
 <meta name="description" content="The StringSplit command separates a string into an array of substrings using the specified delimiters." />
-<meta name="ahk:equiv-v2" content="commands/StrSplit.htm" />
+<meta name="ahk:equiv-v2" content="lib/StrSplit.htm" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link href="../static/theme.css" rel="stylesheet" type="text/css" />
@@ -27,7 +27,7 @@
 
   <dt>InputVar</dt>
   <dd>
-    <p>The name of the variable whose contents will be analyzed.  Do not enclose the name in percent signs unless you want the <em>contents</em> of the variable to be used as the name.</p>
+    <p>The name of the input variable whose contents will be analyzed.  Do not enclose the name in percent signs unless you want the <em>contents</em> of the variable to be used as the name.</p>
     <p class="note"><strong>Observação</strong>: <em>InputVar</em> must not be one of the variables in <em>OutputArray</em>.</p>
   </dd>
 
@@ -65,14 +65,14 @@ Loop, Parse, Colors, `,
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExSpace">
-<p><a class="ex_number" href="#ExSpace"></a>  Separates a sentence into an array of words and reports the fourth word.</p>
+<p><a class="ex_number" href="#ExSpace"></a> Separates a sentence into an array of words and reports the fourth word.</p>
 <pre>TestString := "This is a test."
 StringSplit, word_array, TestString, %A_Space%, .  <em>; Omits periods.</em>
 MsgBox, The 4th word is %word_array4%.</pre>
 </div>
 
 <div class="ex" id="ExComma">
-<p><a class="ex_number" href="#ExComma"></a>  Separates a comma-separated list of colors into an array of substrings and traverses them, one by one.</p>
+<p><a class="ex_number" href="#ExComma"></a> Separates a comma-separated list of colors into an array of substrings and traverses them, one by one.</p>
 <pre>Colors := "red,green,blue"
 StringSplit, ColorArray, Colors, `,
 Loop, %ColorArray0%

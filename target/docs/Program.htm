@@ -40,15 +40,15 @@ return</pre>
 <h2 id="create">Criar um script</h2>
 <p>Há alguns jeitos comuns de se criar um arquivo de script:</p>
 <ul>
-  <li>No Bloco de Notas (ou um <a href="commands/Edit.htm#Editors">editor de texto</a> de sua escolha), salve um arquivo com a extensão <code>.ahk</code>. Em alguns sistemas você pode precisar envolver o nome em aspas para garantir que o editor não adicione outra extensão (como .txt).
+  <li>No Bloco de Notas (ou um <a href="lib/Edit.htm#Editors">editor de texto</a> de sua escolha), salve um arquivo com a extensão <code>.ahk</code>. Em alguns sistemas você pode precisar envolver o nome em aspas para garantir que o editor não adicione outra extensão (como .txt).
   <p class="note">Certifique-se de salvar o arquivo como UTF-8 com BOM se ele conterá caracteres que não sejam ASCII. Para detalhes, veja o <a href="FAQ.htm#nonascii">FAQ</a>.</p></li>
   <li>No Explorador de Arquivos, clique com o botão direito num espaço vazio da pasta onde você quer salvar o script, selecione <strong>Novo</strong> e <strong>AutoHotkey Script</strong>. Você pode então digitar um nome para o script (cuidando para não apagar a extensão <code>.ahk</code> se ela estiver visível).</li>
 </ul>
 <p class="note">Veja <a href="Language.htm">Linguagem de Confecção de Scripts</a> para detalhes de como escrever um script.</p>
 
 <h2 id="edit">Editar um script</h2>
-<p>Para abrir um script para edição, clique com o botão direito no arquivo e selecione <strong>Edit Script</strong>. Se o script já estiver em execução, você pode usar o comando <a href="commands/Edit.htm">Edit</a> ou clique com o botão direito em seu <a href="#tray-icon">ícone da bandeja</a> e selecionar <strong>Edit This Script</strong>. Por padrão isso abrirá o Bloco de Notas, mas você pode mudar o editor de texto inserindo mudanças no registro como mostrado <a href="commands/Edit.htm#Example">aqui</a>. Evidentemente, você sempre pode abrir seu editor de texto primeiro e aí abrir o script como você faria com qualquer outro arquivo de texto.</p>
-<p>Depois de editar um script, você deve carregar ou <a href="commands/Reload.htm">recarregar</a> o script para que as mudanças tenham efeito. Um script em execução normalmente pode ser recarregado por meio do <a href="#tray-icon">menu da bandeja</a>.</p>
+<p>Para abrir um script para edição, clique com o botão direito no arquivo e selecione <strong>Edit Script</strong>. Se o script já estiver em execução, você pode usar o comando <a href="lib/Edit.htm">Edit</a> ou clique com o botão direito em seu <a href="#tray-icon">ícone da bandeja</a> e selecionar <strong>Edit This Script</strong>. Por padrão isso abrirá o Bloco de Notas, mas você pode mudar o editor de texto inserindo mudanças no registro como mostrado <a href="lib/Edit.htm#Example">aqui</a>. Evidentemente, você sempre pode abrir seu editor de texto primeiro e aí abrir o script como você faria com qualquer outro arquivo de texto.</p>
+<p>Depois de editar um script, você deve carregar ou <a href="lib/Reload.htm">recarregar</a> o script para que as mudanças tenham efeito. Um script em execução normalmente pode ser recarregado por meio do <a href="#tray-icon">menu da bandeja</a>.</p>
 
 <h2 id="run">Executar um script</h2>
 <p>Com o AutoHotkey instalado, há várias formas de executar um script:</p>
@@ -58,39 +58,39 @@ return</pre>
 <li>Depois de criar <a href="Scripts.htm#defaultfile">o script padrão</a>, execute o AutoHotkey por meio do atalho no Menu Iniciar para abri-lo.</li>
 <li>Se o AutoHotkey estiver fixo na barra de tarefas ou no Menu Iniciar do Windows 7 e posteriores, scripts recentes ou fixados podem ser executados pela ***lista suspensa*** do programa.</li>
 </ul>
-<p>A maioria dos scripts tem efeito somente enquanto estiverem em execução. Use o <a href="#tray-icon">menu da bandeja</a>ou o comando <a href="commands/ExitApp.htm">ExitApp</a> para finalizar um script. Scripts também são forçados a fechar quando o Windows é desligado. Para configurar um script para iniciar automaticamente depois de o usuário fazer login, o jeito mais fácil é colocar um atalho para o arquivo do script na pasta <a href="Variables.htm#Startup">Inicializar</a>.</p>
+<p>A maioria dos scripts tem efeito somente enquanto estiverem em execução. Use o <a href="#tray-icon">menu da bandeja</a>ou o comando <a href="lib/ExitApp.htm">ExitApp</a> para finalizar um script. Scripts também são forçados a fechar quando o Windows é desligado. Para configurar um script para iniciar automaticamente depois de o usuário fazer login, o jeito mais fácil é colocar um atalho para o arquivo do script na pasta <a href="Variables.htm#Startup">Inicializar</a>.</p>
 <p>Scripts também podem ser <a href="Scripts.htm#ahk2exe">compilados</a>; isto é, combinados com um arquivo binário do AutoHotkey para formar um arquivo executável independente (.exe).</p>
 
 <h2 id="tray-icon">Ícone da bandeja</h2>
 <p>Por padrão, cada script adiciona seu próprio ícone à área de notificação da barra de tarefas (comumente chamada de “bandeja”).</p>
-<p>O ícone da bandeja normalmente é este (mas a cor e as letras mudam conforme o script é <a href="commands/Pause.htm">pausado</a> ou <a href="commands/Suspend.htm">suspenso</a>): <img src="static/ahk16.png" alt="H"></p>
+<p>O ícone da bandeja normalmente é este (mas a cor e as letras mudam conforme o script é <a href="lib/Pause.htm">pausado</a> ou <a href="lib/Suspend.htm">suspenso</a>): <img src="static/ahk16.png" alt="H"></p>
 <p>Clique com o botão direito no ícone da bandeja para exibir o menu, que tem as opções seguintes por padrão:</p>
 <ul>
 <li>Open - Abre a <a href="#main-window">janela principal</a> do script.</li>
 <li>Help - Abre o arquivo de ajuda offline do AutoHotkey.</li>
 <li>Window Spy - Exibe várias informações sobre uma janela.</li>
-<li>Reload This Script - Veja <a href="commands/Reload.htm">Reload</a> (recarregar).</li>
-<li>Edit This Script - Veja <a href="commands/Edit.htm">Edit</a> (editar).</li>
-<li>Suspend Hotkeys - <a href="commands/Suspend.htm">Suspend</a>e ou reabilita as hotkeys.</li>
-<li>Pause Script - <a href="commands/Pause.htm">Pausa</a> ou despausa o script.</li>
+<li>Reload This Script - Veja <a href="lib/Reload.htm">Reload</a> (recarregar).</li>
+<li>Edit This Script - Veja <a href="lib/Edit.htm">Edit</a> (editar).</li>
+<li>Suspend Hotkeys - <a href="lib/Suspend.htm">Suspend</a>e ou reabilita as hotkeys.</li>
+<li>Pause Script - <a href="lib/Pause.htm">Pausa</a> ou despausa o script.</li>
 <li>Exit - Finaliza o script.</li>
 </ul>
 <p>Por padrão, clicar com o botão direito no ícone da bandeja mostra a <a href="#main-window">janela principal</a> do script.</p>
-<p>O comando <a href="commands/Menu.htm">Menu</a> pode ser usado para personalizar o ícone da bandeja e o menu relacionado.</p>
-<p>A diretiva <a href="commands/_NoTrayIcon.htm">#NoTrayIcon</a> pode ser usada para ocultar o ícone da bandeja.</p>
+<p>O comando <a href="lib/Menu.htm">Menu</a> pode ser usado para personalizar o ícone da bandeja e o menu relacionado.</p>
+<p>A diretiva <a href="lib/_NoTrayIcon.htm">#NoTrayIcon</a> pode ser usada para ocultar o ícone da bandeja.</p>
 
 <h2 id="main-window">Janela principal</h2>
 <p>A janela principal do script é normalmente oculta, mas pode ser exibida por meio do <a href="#tray-icon">ícone da bandeja</a> ou um dos comandos listados abaixo para obter-se acesso a informações úteis para depurar o script. itens sob o menu <strong>View</strong> controlam o que a janela principal exibe:</p>
 <ul>
-<li>Linhas executadas mais recentemente - Veja <a href="commands/ListLines.htm">ListLines</a>.</li>
-<li>Variáveis e seus conteúdos - Veja <a href="commands/ListVars.htm">ListVars</a>.</li>
-<li>Hotkeys e seus métodos - Veja <a href="commands/ListHotkeys.htm">ListHotkeys</a>.</li>
-<li>Histórico de teclas e informações do script - Veja <a href="commands/KeyHistory.htm">KeyHistory</a>.</li>
+<li>Linhas executadas mais recentemente - Veja <a href="lib/ListLines.htm">ListLines</a>.</li>
+<li>Variáveis e seus conteúdos - Veja <a href="lib/ListVars.htm">ListVars</a>.</li>
+<li>Hotkeys e seus métodos - Veja <a href="lib/ListHotkeys.htm">ListHotkeys</a>.</li>
+<li>Histórico de teclas e informações do script - Veja <a href="lib/KeyHistory.htm">KeyHistory</a>.</li>
 </ul>
-<p><strong>Problema conhecido:</strong> atalhos de teclado para itens de menu não funcionam enquanto o script estiver exibindo uma <a href="commands/MsgBox.htm">caixa de mensagem</a> ou outro diálogo.</p>
+<p><strong>Problema conhecido:</strong> atalhos de teclado para itens de menu não funcionam enquanto o script estiver exibindo uma <a href="lib/MsgBox.htm">caixa de mensagem</a> ou outro diálogo.</p>
 <p>A variável nativa <a href="Variables.htm#ScriptHwnd">A_ScriptHwnd</a> contém o ID único (HWND) da janela principal do script.</p>
-<p>Fechar esta janela com <a href="commands/WinClose.htm">WinClose</a> (mesmo a partir de outro script) causa que o script seja finalizado, mas a maioria dos outros métodos apenas ocultam a janela e deixam o script rodando.</p>
-<p>Minimizar a janela principal faz com que ela seja automaticamente oculta. Isso é feito para prevenir que quaisquer janelas criadas pelo script (como janelas de GUI ou certas janelas de diálogo) sejam automaticamente minimizadas, mas também tem o efeito de ocultar o botão da janela principal da barra de tarefas. Para, em vez disso, fazer com que a janela seja minimizada normalmente, use <a href="commands/OnMessage.htm">OnMessage</a> para sobrescrever a forma padrão de manipulação de janelas. Por exemplo:</p>
+<p>Fechar esta janela com <a href="lib/WinClose.htm">WinClose</a> (mesmo a partir de outro script) causa que o script seja finalizado, mas a maioria dos outros métodos apenas ocultam a janela e deixam o script rodando.</p>
+<p>Minimizar a janela principal faz com que ela seja automaticamente oculta. Isso é feito para prevenir que quaisquer janelas criadas pelo script (como janelas de GUI ou certas janelas de diálogo) sejam automaticamente minimizadas, mas também tem o efeito de ocultar o botão da janela principal da barra de tarefas. Para, em vez disso, fazer com que a janela seja minimizada normalmente, use <a href="lib/OnMessage.htm">OnMessage</a> para sobrescrever a forma padrão de manipulação de janelas. Por exemplo:</p>
 <pre>; Isto impede a janela principal de ser oculta ou minimizar:
 OnMessage(0x0112, Func("PreventAutoMinimize")) <em>; WM_SYSCOMMAND = 0x0112</em>
 OnMessage(0x0005, Func("PreventAutoMinimize")) <em>; WM_SIZE = 0x0005
@@ -109,14 +109,14 @@ PreventAutoMinimize(wParam, lParam, uMsg, hwnd) {
 }</pre>
 
 <h3 id="title">Main Window Title</h3>
-<p>O  título da janela principal do script é usado pelos mecanismos <a href="commands/_SingleInstance.htm">#SingleInstance</a> e <a href="commands/Reload.htm">Reload</a> para identificar outras instâncias do mesmo script. <a href="commands/WinSetTitle.htm">Alterar o título</a> impede que o script seja identificado como tal. O título padrão depende de como o script foi carregado:</p>
+<p>O  título da janela principal do script é usado pelos mecanismos <a href="lib/_SingleInstance.htm">#SingleInstance</a> e <a href="lib/Reload.htm">Reload</a> para identificar outras instâncias do mesmo script. <a href="lib/WinSetTitle.htm">Alterar o título</a> impede que o script seja identificado como tal. O título padrão depende de como o script foi carregado:</p>
 <table class="info">
   <tr><th>Carregado a partir de</th><th>Expressão do Título</th><th>Example</th></tr>
   <tr><td>.ahk file</td><td><code>A_ScriptFullPath " - AutoHotkey v" A_AhkVersion</code></td><td>E:\Meu Script.ahk - AutoHotkey v1.1.33.09</td></tr>
   <tr><td>Recurso principal (script compilado)</td><td><code>A_ScriptFullPath</code></td><td>E:\Meu Script.exe</td></tr>
   <tr><td>Qualquer outra fonte</td><td><code>A_ScriptFullPath " - " A_LineFile</code></td><td>E:\Meu AutoHotkey.exe - *FERRAMENTA-NATIVA.AHK</td></tr>
 </table>
-<p>O código a seguir ilustra como o título principal pod ser determinado pelo próprio script (mas o título verdadeiro pode ser obtido com o comando <a href="commands/WinGetTitle.htm">WinGetTitle</a>:</p>
+<p>O código a seguir ilustra como o título principal pod ser determinado pelo próprio script (mas o título verdadeiro pode ser obtido com o comando <a href="lib/WinGetTitle.htm">WinGetTitle</a>:</p>
 <pre>
 title := A_ScriptFullPath
 if !A_IsCompiled
@@ -128,7 +128,8 @@ else if SubStr(A_LineFile, 1, 1) = "*" &amp;&amp; A_LineFile != "*#1"
 </pre>
 
 <h2 id="embedded-scripts">Scripts Incorporados <span class="ver">[v1.1.34+]</span></h2>
-<p>Scripts podem ser incorporados a um executável padrão do AutoHotkey (.exe) adicionando-se-os como recursos Win32 (RCDATA). Um script incorporado pode ser especificado na linha de comando ou com <a href="commands/_Include.htm">#Include</a> inserindo-se um asterisco (*) seguido do nome do recurso. Para o ID de um número inteiro, o nome do recurso deve ser uma cerquilha (#) seguida de um número decimal.</p>
+<p>Scripts may be embedded into a standard AutoHotkey .exe file by adding them as Win32 (RCDATA) resources using the <a href="Scripts.htm#ahk2exe">Ahk2Exe compiler</a>. To add additional scripts, see the <a href="misc/Ahk2ExeDirectives.htm#AddResource">AddResource</a> compiler directive.</p>
+<p>Um script incorporado pode ser especificado na linha de comando ou com <a href="lib/_Include.htm">#Include</a> inserindo-se um asterisco (*) seguido do nome do recurso. Para o ID de um número inteiro, o nome do recurso deve ser uma cerquilha (#) seguida de um número decimal.</p>
 <p>O problema pode automaticamente carregar o código do script a partir dos recursos abaixo, se estiverem presentes no arquivo:</p>
 <table class="info">
   <tr><th>ID</th><th>Spec</th><th>Usage</th></tr>
@@ -141,7 +142,7 @@ else if SubStr(A_LineFile, 1, 1) = "*" &amp;&amp; A_LineFile != "*#1"
     <td>Se presente, esse script é automaticamente “incluído” antes de qualquer script que o programa carrega, e antes de qualquer arquivo especificado com <a href="Scripts.htm#SlashInclude">/include</a>.</td>
   </tr>
 </table>
-<p>Quando a fonte do script principal é um recurso incorporado, o programa age em “modo de script compilado”, com a exceção de que <a href="Variables.htm#AhkPath">A_AhkPath</a> sempre contém o caminho do arquivo executável atual (o mesmo que <a href="Variables.htm#ScriptFullPath">A_ScriptFullPath</a>). Para recursos além de *#1, o especificador do recurso é incluído no <a href="#title">título da janela principal</a> para suportar <a href="commands/_SingleInstance.htm">#SingleInstance</a> e <a href="commands/Reload.htm">Reload</a>.</p>
+<p>Quando a fonte do script principal é um recurso incorporado, o programa age em “modo de script compilado”, com a exceção de que <a href="Variables.htm#AhkPath">A_AhkPath</a> sempre contém o caminho do arquivo executável atual (o mesmo que <a href="Variables.htm#ScriptFullPath">A_ScriptFullPath</a>). Para recursos além de *#1, o especificador do recurso é incluído no <a href="#title">título da janela principal</a> para suportar <a href="lib/_SingleInstance.htm">#SingleInstance</a> e <a href="lib/Reload.htm">Reload</a>.</p>
 <p>Quando referenciado por código que veio de um recurso incorporado, a variável <a href="Variables.htm#LineFile">A_LineFile</a> contém um asterisco (*) seguido do nome do recurso.</p>
 
 <h2 id="cmd">Uso da Linha de Comando</h2>
@@ -153,9 +154,9 @@ else if SubStr(A_LineFile, 1, 1) = "*" &amp;&amp; A_LineFile != "*#1"
 
 <h2 id="install">Opções do instalador</h2>
 <p>Para instalar silenciosamente o AutoHotkey no diretório padrão (o qual é o mesmo diretório exibido pelo modo não silencioso), passe o parâmetro /S ao instalador. Por exemplo:</p>
-<pre>AutoHotkey110800_Install.exe /S</pre>
+<pre class="no-highlight">AutoHotkey_1.1.34.03_setup.exe /S</pre>
 <p>Um diretório que não seja o padrão pode ser especificado pelo parâmetro /D (na ausência de /S, essa opção muda o diretório padrão exibido pelo instalador). Por exemplo:</p>
-<pre>AutoHotkey110800_Install.exe /S /D=C:\Program Files\AutoHotkey</pre>
+<pre class="no-highlight">AutoHotkey_1.1.34.03_setup.exe /S /D=C:\Program Files\AutoHotkey</pre>
 <p><strong>Versão</strong>: Se o AutoHotkey foi previamente instalado, o instalador automaticamente detecta que versão do AutoHotkey.exe deverá ser definida como a padrão. Do contrário, a versão padrão é a Unicode 32 bits ou Unicode 64 bits, dependendo de o sistema operacional ser ou não 64 bits. Para ignorar qual versão do executável AutoHotkey.exe é definida como a padrão, passe um dos switches a seguir:</p>
 <ul>
   <li><code>/A32</code> ou <code>/ANSI</code>: ANSI 32 bits</li>
@@ -163,14 +164,14 @@ else if SubStr(A_LineFile, 1, 1) = "*" &amp;&amp; A_LineFile != "*#1"
   <li><code>/U32</code>: Unicode 32 bits.</li>
 </ul>
 <p>POR EXEMPLO, o comando a seguir instala silenciosamente e define a versão ANSI 32 bits como a padrão.</p>
-<pre>AutoHotkey110800_Install.exe /S /A32</pre>
+<pre class="no-highlight">AutoHotkey_1.1.34.03_setup.exe /S /A32</pre>
 <p><strong>Desinstalação</strong>: Para desintalar silenciosamente o AutoHotkey, passe o parâmetro <code>/Uninstall</code> ao Installer.ahk. Por exemplo:</p>
 <pre class="no-highlight">"C:\Program Files\AutoHotkey\AutoHotkey.exe" "C:\Program Files\AutoHotkey\Installer.ahk" /Uninstall</pre>
 <p>Para versos do AutoHotkey anteriores à 1.1.08.00, use <code>uninst.exe /S</code>. Por exemplo:</p>
 <pre class="no-highlight">"C:\Program Files\AutoHotkey\uninst.exe" /S</pre>
 <p><strong>Observação:</strong>o script Installer.ahk deve ser executado como administrador para funcionar corretamente.</p>
-<p><strong>Extrair</strong>: Versões posteriores do instalador incluem um link no canto inferior direito para extrair os arquivos de instalação sem instalar. Se essa função estiver presente, o switch <code>/E</code> pode ser usado para invocá-la a partir da linha de comando. Por exemplo:</p>
-<pre>AutoHotkey110903_Install.exe /D=F:\AutoHotkey /E</pre>
+<p><strong>Extract</strong> <span class="ver">[v1.1.09.04+]</span>: A link is present in the bottom-right corner of the installer GUI to extract files without installing, and the <code>/E</code> switch can be used to invoke it from the command line. Por exemplo:</p>
+<pre class="no-highlight">AutoHotkey_1.1.34.03_setup.exe /D=F:\AutoHotkey /E</pre>
 <p><strong>Reiniciar scripts</strong> <span class="ver">[v1.1.19.02+]</span>: No modo de instalação/desinstalação silenciosa, os scripts que estiverem em execução são fechados automaticamente, quando necessário. Passe o switch <code>/R</code> para automaticamente recarregar esses scripts usando qualquer que seja o EXE que os estava executando, <strong>sem</strong> argumentos da linha de comando. A instalação vai tentar executar os scripts via Explorer, então eles não serão executados como administrador se o UAC estiver ativo.</p>
 
 <p id="Installer_IsHostApp"><strong>Botões da barra de tarefas</strong> <span class="ver">[v1.1.08+]</span>: No Windows 7 e posteriores, os botões da barra de tarefas para múltiplos scripts são automaticamente agrupados ou combinados em um único botão, por padrão. A opção <em>Botões separados na barra de tarefas</em> desabilita isso registrando cada executável do AutoHotkey como um <a href="https://msdn.microsoft.com/en-us/library/ee872121#APPLICATIONS">aplicativo hospedeiro (IsHostApp)</a>.</p>
@@ -186,14 +187,14 @@ else if SubStr(A_LineFile, 1, 1) = "*" &amp;&amp; A_LineFile != "*#1"
 </ul>
 <p>Se quaisquer desses arquivos UIA estiverem presentes antes da instalação, o instalador irá automaticamente atualizá-los mesmo se a opção UI Access não estiver marcada.</p>
 <p>Para instalações na linha de comando, especifique <code>/uiAccess</code> ou <code>/uiAccess=1</code> para habilitar a opção e <code>/uiAccess=0</code> para desabilitá-la. Por padrão, o instalador habilitará a opção se o UAC estiver habilitado e a opção UI Access do menu contexto estava presente antes da instalação.</p>
-<p>Scripts que precisam executar outros scripts com acesso à IU podem simplesmente executar (<a href="commands/Run.htm">Run</a>) o arquivo UIA.exe apropriado com os <a href="#cmd">parâmetros da linha de comando</a> normais.</p>
+<p>Scripts que precisam executar outros scripts com acesso à IU podem simplesmente executar (<a href="lib/Run.htm">Run</a>) o arquivo UIA.exe apropriado com os <a href="#cmd">parâmetros da linha de comando</a> normais.</p>
 <p><strong>Limitações conhecidas</strong>:</p>
 <ul>
   <li>UIA só é eficaz se o arquivo estiver num local confiável; isto é, um subdiretório de “Arquivos de Programas”.</li>
   <li>Arquivos UIA.exe criados em um computador não podem executar em outros computadores sem antes instalar o certificado digital que foi usado para assiná-los.</li>
-  <li>Arquivos UIA.exe não podem ser iniciados via CreateProcess devido a restrições de segurança. ShellExecute pode ser usado no lugar. <a href="commands/Run.htm">Run</a> tenta executar ambos.</li>
+  <li>Arquivos UIA.exe não podem ser iniciados via CreateProcess devido a restrições de segurança. ShellExecute pode ser usado no lugar. <a href="lib/Run.htm">Run</a> tenta executar ambos.</li>
   <li>Arquivos UIA não podem ser modificados, uma vez que isso invalidaria a assinatura digital do arquivo.</li>
-  <li>Tendo em vista que programas UIA executam em um “nível de integridade” diferente de outros programas, eles só podem acessar objetos registrados por outros programas UIA. Por exemplo, <code><a href="commands/ComObjActive.htm">ComObjActive</a>("Word.Application")</code> vai falhar porque o Microsoft Word não está marcado para acesso com IU.</li>
+  <li>Tendo em vista que programas UIA executam em um “nível de integridade” diferente de outros programas, eles só podem acessar objetos registrados por outros programas UIA. Por exemplo, <code><a href="lib/ComObjActive.htm">ComObjActive</a>("Word.Application")</code> vai falhar porque o Microsoft Word não está marcado para acesso com IU.</li>
   <li>As janelas do próprio script não podem ser automatizadas por programas/scripts que não sejam UIA por motivos de segurança.</li>
   <li>Executar um script sem UIA que usa um gancho de mouse (mesmo se for tão simples quanto <code>#InstallMouseHook</code>) pode impedir o funcionamento de todas as hotkeys de mouse quando o mouse estiver apontando para uma janela pertencente a um script com UIA, mesmo hotkeys implementadas pelo próprio script UIA. Uma solução de contorno é certificar-se que scripts UIA sejam carregados por último.</li>
 </ul>

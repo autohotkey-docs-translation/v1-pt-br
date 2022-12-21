@@ -3,7 +3,7 @@
 <head>
 <title>Loop (read file contents) - Syntax &amp; Usage | AutoHotkey</title>
 <meta name="description" content="The Loop Read statement retrieves the lines in a text file, one at a time." />
-<meta name="ahk:equiv-v2" content="commands/LoopRead.htm" />
+<meta name="ahk:equiv-v2" content="lib/LoopRead.htm" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link href="../static/theme.css" rel="stylesheet" type="text/css" />
@@ -53,11 +53,11 @@
 <p>To control how the file is decoded when no byte order mark is present, use <a href="FileEncoding.htm">FileEncoding</a>.</p>
 
 <h2 id="Related">Tópicos relacionados</h2>
-<p><a href="FileEncoding.htm">FileEncoding</a>, <a href="FileOpen.htm">FileOpen()</a> / <a href="../objects/File.htm">File Object</a>, <a href="FileRead.htm">FileRead</a>, <a href="FileReadLine.htm">FileReadLine</a>, <a href="FileAppend.htm">FileAppend</a>, <a href="Sort.htm">Sort</a>, <a href="Loop.htm">Loop</a>, <a href="Break.htm">Break</a>, <a href="Continue.htm">Continue</a>, <a href="Block.htm">Blocks</a>, <a href="FileSetAttrib.htm">FileSetAttrib</a>, <a href="FileSetTime.htm">FileSetTime</a></p>
+<p><a href="FileEncoding.htm">FileEncoding</a>, <a href="FileOpen.htm">FileOpen()</a> / <a href="File.htm">File Object</a>, <a href="FileRead.htm">FileRead</a>, <a href="FileReadLine.htm">FileReadLine</a>, <a href="FileAppend.htm">FileAppend</a>, <a href="Sort.htm">Sort</a>, <a href="Loop.htm">Loop</a>, <a href="Break.htm">Break</a>, <a href="Continue.htm">Continue</a>, <a href="Block.htm">Blocks</a>, <a href="FileSetAttrib.htm">FileSetAttrib</a>, <a href="FileSetTime.htm">FileSetTime</a></p>
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExFileAppend">
-<p><a class="ex_number" href="#ExFileAppend"></a>  Only those lines of the 1st file that contain the word FAMILY will be written to the 2nd file. Uncomment the first line to overwrite rather than append to any existing file.</p>
+<p><a class="ex_number" href="#ExFileAppend"></a> Only those lines of the 1st file that contain the word FAMILY will be written to the 2nd file. Uncomment the first line to overwrite rather than append to any existing file.</p>
 <pre><em>;FileDelete, C:\Docs\Family Addresses.txt</em>
 
 Loop, read, C:\Docs\Address List.txt, C:\Docs\Family Addresses.txt
@@ -68,13 +68,13 @@ Loop, read, C:\Docs\Address List.txt, C:\Docs\Family Addresses.txt
 </div>
 
 <div class="ex" id="ExLastLine">
-<p><a class="ex_number" href="#ExLastLine"></a>  Retrieves the last line from a text file.</p>
+<p><a class="ex_number" href="#ExLastLine"></a> Retrieves the last line from a text file.</p>
 <pre>Loop, read, C:\Log File.txt
     last_line := A_LoopReadLine  <em>; When loop finishes, this will hold the last line.</em></pre>
 </div>
 
 <div class="ex" id="ExURL">
-<p><a class="ex_number" href="#ExURL"></a>  Attempts to extract all FTP and HTTP URLs from a text or HTML file.</p>
+<p><a class="ex_number" href="#ExURL"></a> Attempts to extract all FTP and HTTP URLs from a text or HTML file.</p>
 <pre>FileSelectFile, SourceFile, 3,, Pick a text or HTML file to analyze.
 if (SourceFile = "")
     return  <em>; This will exit in this case.</em>

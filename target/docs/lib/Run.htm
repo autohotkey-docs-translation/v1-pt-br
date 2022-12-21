@@ -8,15 +8,14 @@
 <link href="../static/theme.css" rel="stylesheet" type="text/css" />
 <script src="../static/content.js" type="text/javascript"></script>
 <style type="text/css">
-.style3 {color: #FF0000; font-weight: bold; }
+.style3 {color: #000; background: rgba(255, 255, 0, 0.4);}
 </style>
 </head>
 <body>
 
 <h1>Run / RunWait</h1>
 
-<p>Runs an external program. Unlike Run, RunWait will wait until
-the program finishes before continuing.</p>
+<p>Runs an external program. Unlike Run, RunWait will wait until the program finishes before continuing.</p>
 
 <pre class="Syntax">
 <span class="func">Run</span>, Target <span class="optional">, WorkingDir, Options, OutputVarPID</span>
@@ -27,7 +26,8 @@ the program finishes before continuing.</p>
 
   <dt>Target</dt>
   <dd><p>A document, URL, executable file (.exe, .com, .bat, etc.), shortcut (.lnk), or <a href="#verbs">system verb</a> to launch (see remarks). If <em>Target</em> is a local file and no path was specified with it, <a href="../Variables.htm#WorkingDir">A_WorkingDir</a> will be searched first. If no matching file is found there, the system will search for and launch the file if it is integrated ("known"), e.g. by being contained in one of the PATH folders.</p>
-      <p>To pass parameters, add them immediately after the program or document name. If a parameter contains spaces, it is  safest to enclose it in double quotes (even though it may work without them in some cases).</p></dd>
+      <p>To pass parameters, add them immediately after the program or document name. For example, <code>Run, MyProgram.exe Param1 Param2</code>.</p>
+      <p>If the program/document name or a parameter contains spaces, it is safest to enclose it in double quotes (even though it may work without them in some cases). For example, <code>Run, "My Program.exe" "param with spaces"</code>.</p></dd>
 
   <dt>WorkingDir</dt>
   <dd><p>The working directory for the launched item. Do not enclose the name in double quotes even if it contains spaces. If omitted, the script's own working directory (<a href="../Variables.htm#WorkingDir">A_WorkingDir</a>) will be used.</p></dd>
@@ -42,7 +42,7 @@ the program finishes before continuing.</p>
       <p id="LastError">When UseErrorLevel is specified, the variable <strong>A_LastError</strong> is set to the result of the operating system's GetLastError() function. A_LastError is a number between 0 and 4294967295 (always formatted as decimal, not hexadecimal). Zero (0) means success, but any other number means the launch failed. Each number corresponds to a specific error condition (to get a list, search <a href="https://www.microsoft.com">www.microsoft.com</a> for "system error codes"). Like <a href="../misc/ErrorLevel.htm">ErrorLevel</a>, A_LastError is a per-thread setting; that is, interruptions by other <a href="../misc/Threads.htm">threads</a> cannot change it. However, A_LastError is also set by <a href="DllCall.htm#LastError">DllCall()</a>.</p></dd>
 
   <dt>OutputVarPID</dt>
-  <dd><p>The name of the variable in which to store the newly launched program's unique <a href="Process.htm">Process ID (PID)</a>. The variable will be made blank if the PID could not be determined, which usually happens if a system verb, document, or shortcut is launched rather than a direct executable file. RunWait also supports this parameter, though its <em>OutputVarPID</em> must be checked in <a href="../misc/Threads.htm">another thread</a> (otherwise, the PID will be invalid because the process will have terminated by the time the line following RunWait executes).</p>
+  <dd><p>The name of the output variable in which to store the newly launched program's unique <a href="Process.htm">Process ID (PID)</a>. The variable will be made blank if the PID could not be determined, which usually happens if a system verb, document, or shortcut is launched rather than a direct executable file. RunWait also supports this parameter, though its <em>OutputVarPID</em> must be checked in <a href="../misc/Threads.htm">another thread</a> (otherwise, the PID will be invalid because the process will have terminated by the time the line following RunWait executes).</p>
       <p>After the Run command retrieves a PID, any windows to be created by the process might not exist yet. To wait for at least one window to be created, use <code><a href="WinWait.htm">WinWait</a> ahk_pid %OutputVarPID%</code>.</p></dd>
 
 </dl>
@@ -52,9 +52,9 @@ the program finishes before continuing.</p>
 <p>RunWait: Sets ErrorLevel to the program's exit code (a signed 32-bit integer). If UseErrorLevel is in effect and the launch failed, the word ERROR is stored.</p>
 <h2 id="Remarks">Remarks</h2>
 <p>Unlike Run, RunWait will wait until <em>Target</em> is closed or exits, at which time <a href="../misc/ErrorLevel.htm">ErrorLevel</a> will be set to the program's exit code (as a signed 32-bit integer). Some programs will appear to return immediately even though they are still running; these programs spawn another process.</p>
-<p>If <em>Target</em> contains any commas, they must be <a href="../misc/EscapeChar.htm">escaped</a> as shown three times in the following example:</p>
+<p>If <em>Target</em> contains any commas, they must be <a href="../misc/EscapeChar.htm">escaped</a> as highlighted three times in the following example:</p>
 <pre>Run rundll32.exe shell32.dll<span class="style3">`,</span>Control_RunDLL desk.cpl<span class="style3">`,`,</span> 3  <em>; Opens Control Panel &gt; Display Properties &gt; Settings</em></pre>
-<p>When running a program via <a href="../Variables.htm#ComSpec">ComSpec</a> (cmd.exe) -- perhaps because you need to redirect the program's input or output -- if the path or name of the executable contains spaces, the entire string should be enclosed in an outer pair of quotes. In the following example, the outer quotes are shown in red and all the inner quotes are shown in black:</p>
+<p>When running a program via <a href="../Variables.htm#ComSpec">ComSpec</a> (cmd.exe) -- perhaps because you need to redirect the program's input or output -- if the path or name of the executable contains spaces, the entire string should be enclosed in an outer pair of quotes. In the following example, the outer quotes are highlighted in yellow:</p>
 <pre>Run %ComSpec% /c <span class="style3">"</span>"C:\My Utility.exe" "param 1" "second param" &gt;"C:\My File.txt"<span class="style3">"</span></pre>
 <p>If <em>Target</em> cannot be launched, an error window is displayed and the current thread is exited, unless the string <strong>UseErrorLevel</strong> is included in the third parameter or the error is caught by a <a href="Try.htm">Try</a>/<a href="Catch.htm">Catch</a> statement.</p>
 <p>Performance may be slightly improved if <em>Target</em> is an exact path, e.g. <code>Run, C:\Windows\Notepad.exe "C:\My Documents\Test.txt"</code> rather than <code>Run, C:\My Documents\Test.txt</code>.</p>
@@ -101,7 +101,7 @@ Run ::{645ff040-5081-101b-9f08-00aa002f954e}  <em>; Opens the Recycle Bin.</em><
 </table>
 <p>While RunWait is in a waiting state, new <a href="../misc/Threads.htm">threads</a> can be launched via <a href="../Hotkeys.htm">hotkey</a>, <a href="Menu.htm">custom menu item</a>, or <a href="SetTimer.htm">timer</a>.</p>
 
-<h2 id="RunAs">Run as Administrator <span class="ver">[AHK_L 57+]:</span></h2>
+<h2 id="RunAs">Run as Administrator <span class="ver">[AHK_L 57+]</span></h2>
 <p>For an executable file, the <em>*RunAs</em> verb is equivalent to selecting <em>Run as administrator</em> from the right-click menu of the file. For example, the following code attempts to restart the current script as admin:</p>
 <pre>full_command_line := DllCall("GetCommandLine", "str")
 
@@ -134,12 +134,12 @@ MsgBox A_IsAdmin: %A_IsAdmin%`nCommand line: %full_command_line%</pre>
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a>  Run is able to launch Windows system programs from any directory. Note that executable file extensions such as .exe can be omitted.</p>
+<p><a class="ex_number" href="#ExBasic"></a> Run is able to launch Windows system programs from any directory. Note that executable file extensions such as .exe can be omitted.</p>
 <pre>Run, notepad</pre>
 </div>
 
 <div class="ex" id="ExURL">
-<p><a class="ex_number" href="#ExURL"></a>  Run is able to launch URLs:</p>
+<p><a class="ex_number" href="#ExURL"></a> Run is able to launch URLs:</p>
 <p>The following opens an internet address in the user's default web browser.</p>
 <pre>Run, https://www.google.com</pre>
 <p>The following opens the default e-mail application with the recipient filled in.</p>
@@ -149,14 +149,14 @@ MsgBox A_IsAdmin: %A_IsAdmin%`nCommand line: %full_command_line%</pre>
 </div>
 
 <div class="ex" id="ExErrorLevel">
-<p><a class="ex_number" href="#ExErrorLevel"></a>  Opens a document in a maximized application and displays a custom error message on failure.</p>
+<p><a class="ex_number" href="#ExErrorLevel"></a> Opens a document in a maximized application and displays a custom error message on failure.</p>
 <pre>Run, ReadMe.doc, , Max UseErrorLevel
 if (ErrorLevel = "ERROR")
     MsgBox The document could not be launched.</pre>
 </div>
 
 <div class="ex" id="ExVerb">
-<p><a class="ex_number" href="#ExVerb"></a>  Runs the dir command in minimized state and stores the output in a text file. After that, the text file and its properties dialog will be opened.</p>
+<p><a class="ex_number" href="#ExVerb"></a> Runs the dir command in minimized state and stores the output in a text file. After that, the text file and its properties dialog will be opened.</p>
 <pre>#Persistent
 RunWait, %ComSpec% /c dir C:\ &gt;&gt;C:\DirTest.txt, , Min
 Run, C:\DirTest.txt
@@ -164,7 +164,7 @@ Run, properties C:\DirTest.txt</pre>
 </div>
 
 <div class="ex" id="ExCLSID">
-<p><a class="ex_number" href="#ExCLSID"></a>  Run is able to launch <a href="../misc/CLSID-List.htm">CLSIDs</a>:</p>
+<p><a class="ex_number" href="#ExCLSID"></a> Run is able to launch <a href="../misc/CLSID-List.htm">CLSIDs</a>:</p>
 <p>The following opens the recycle bin.</p>
 <pre>Run, ::{645ff040-5081-101b-9f08-00aa002f954e}</pre>
 <p>The following opens the "My Computer" directory.</p>
@@ -172,12 +172,12 @@ Run, properties C:\DirTest.txt</pre>
 </div>
 
 <div class="ex" id="ExMultipleCmds">
-<p><a class="ex_number" href="#ExMultipleCmds"></a>  To run multiple commands consecutively, use "&amp;&amp;" between each.</p>
+<p><a class="ex_number" href="#ExMultipleCmds"></a> To run multiple commands consecutively, use "&amp;&amp;" between each.</p>
 <pre>Run, %ComSpec% /c dir /b &gt; C:\list.txt &amp;&amp; type C:\list.txt &amp;&amp; pause</pre>
 </div>
 
 <div class="ex" id="StdOut">
-<p><a class="ex_number" href="#StdOut"></a>  The following functions can be used to run a command and retrieve its output or to run multiple commands in one go and retrieve their output.</p>
+<p><a class="ex_number" href="#StdOut"></a> The following functions can be used to run a command and retrieve its output or to run multiple commands in one go and retrieve their output.</p>
 <pre>MsgBox % RunWaitOne("dir " A_ScriptDir)
 
 MsgBox % RunWaitMany("
@@ -209,7 +209,7 @@ RunWaitMany(commands) {
 </div>
 
 <div class="ex" id="ExecScript">
-<p><a class="ex_number" href="#ExecScript"></a>  Executes the given code as a new AutoHotkey process.</p>
+<p><a class="ex_number" href="#ExecScript"></a> Executes the given code as a new AutoHotkey process.</p>
 <pre>ExecScript(Script, Wait:=true)
 {
     shell := ComObjCreate("WScript.Shell")

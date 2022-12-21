@@ -134,13 +134,13 @@
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExRegDelete">
-<p><a class="ex_number" href="#ExRegDelete"></a>  Deletes Internet Explorer's history of URLs typed by the user.</p>
+<p><a class="ex_number" href="#ExRegDelete"></a> Deletes Internet Explorer's history of URLs typed by the user.</p>
 <pre>Loop, HKEY_CURRENT_USER, Software\Microsoft\Internet Explorer\TypedURLs
     RegDelete</pre>
 </div>
 
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a>  A working test script.</p>
+<p><a class="ex_number" href="#ExBasic"></a> A working test script.</p>
 <pre>Loop, Reg, HKEY_CURRENT_USER\Software\Microsoft\Windows, KVR
 {
     if (A_LoopRegType = "key")
@@ -157,7 +157,7 @@
 </div>
 
 <div class="ex" id="ExRegSearch">
-<p><a class="ex_number" href="#ExRegSearch"></a>  Recursively searches the entire registry for particular value(s).</p>
+<p><a class="ex_number" href="#ExRegSearch"></a> Recursively searches the entire registry for particular value(s).</p>
 <pre>SetBatchLines -1  <em>; Makes searching occur at maximum speed.</em>
 RegSearchTarget := "Notepad"  <em>; Tell the subroutine what to search for.</em>
 Gosub, RegSearch

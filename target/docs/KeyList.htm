@@ -89,7 +89,7 @@
   <tr>
     <td>WheelLeft<br>WheelRight</td>
     <td><p><span class="ver">[v1.0.48+]:</span> Rolar para a esquerda ou para a direita.</p>
-    <p>Requer Windows Vista ou posterior. Estes botões podem ser <a href="Hotkeys.htm#HWheel">usados como hotkeys</a> com alguns (mas não todos) mouses que tenham uma segunda roda ou tenham suporte à inclinação da roda para qualquer dos lados. Em alguns casos, o software que acompanha o mouse deve ser usado em vez do AutoHotkey para controlar essa funcionalidade. Independentemente do mouse em particular, <a href="commands/Send.htm">Send</a> e <a href="commands/Click.htm">Click</a> podem ser usados para rolar horizontalmente em programas que suportam rolagem horizontal.</p></td>
+    <p>Requer Windows Vista ou posterior. Estes botões podem ser <a href="Hotkeys.htm#HWheel">usados como hotkeys</a> com alguns (mas não todos) mouses que tenham uma segunda roda ou tenham suporte à inclinação da roda para qualquer dos lados. Em alguns casos, o software que acompanha o mouse deve ser usado em vez do AutoHotkey para controlar essa funcionalidade. Independentemente do mouse em particular, <a href="lib/Send.htm">Send</a> e <a href="lib/Click.htm">Click</a> podem ser usados para rolar horizontalmente em programas que suportam rolagem horizontal.</p></td>
   </tr>
 </table>
 <h2 id="keyboard">Teclado</h2>
@@ -436,17 +436,17 @@
   </tr>
   <tr id="vk">
     <td >VK<b>nn</b></td>
-    <td><p>Especifique com o código virtual hexadecimal <b>nn</b> de uma tecla. Este método, raramente usado, também dispensa certos tipos de <a href="Hotkeys.htm">hotkeys</a> da exigência do <a href="commands/_InstallKeybdHook.htm">gancho de teclado</a>. Por exemplo, a hotkey a seguir não usa o gancho de teclado, mas como um efeito colateral ela é acionada ao se pressionar <em>tanto</em> <kbd>Home</kbd> quanto NumpadHome:</p>
+    <td><p>Especifique com o código virtual hexadecimal <b>nn</b> de uma tecla. Este método, raramente usado, também dispensa certos tipos de <a href="Hotkeys.htm">hotkeys</a> da exigência do <a href="lib/_InstallKeybdHook.htm">gancho de teclado</a>. Por exemplo, a hotkey a seguir não usa o gancho de teclado, mas como um efeito colateral ela é acionada ao se pressionar <em>tanto</em> <kbd>Home</kbd> quanto NumpadHome:</p>
       <pre>^VK24::MsgBox Você pressionou Home ou NumpadHome enquanto mantinha pressionada a tecla Control.
 </pre>
-      <p><strong>Limitação conhecida</strong>: hotkeys de chave virtual que são forçadas a usar o <a href="commands/_InstallKeybdHook.htm">gancho de teclado</a>, como <code>*VK24</code> ou <code>~VK24</code>, serão acionadas somente por uma das teclas, não ambas (por exemplo, NumpadHome mas não <kbd>Home</kbd>. Para mais informações sobre o método VKnn, vide <a href="#SpecialKeys">Teclas Especiais</a>.</p>
-      <p class="warning"><strong>Aviso:</strong> somente <a href="commands/Send.htm">Send</a>, <a href="commands/GetKey.htm">GetKeyName()</a>, <a href="commands/GetKey.htm">GetKeyVK()</a>, <a href="commands/GetKey.htm">GetKeySC()</a> e <a href="commands/_MenuMaskKey.htm">#MenuMaskKey</a> suportam a combinação de VKnn com SCnnn. <span class="ver">[v1.1.27+]:</span> A presença de um sufixo inválido impede VKnn de ser reconhecida. Por exemplo, <code>vk1Bsc001::</code> gera um erro nas versões 1.1.27 e posteriores, mas <code>sc001</code> foi ignorada (não tinha efeito) nas versões anteriores.</p>
+      <p><strong>Limitação conhecida</strong>: hotkeys de chave virtual que são forçadas a usar o <a href="lib/_InstallKeybdHook.htm">gancho de teclado</a>, como <code>*VK24</code> ou <code>~VK24</code>, serão acionadas somente por uma das teclas, não ambas (por exemplo, NumpadHome mas não <kbd>Home</kbd>. Para mais informações sobre o método VKnn, vide <a href="#SpecialKeys">Teclas Especiais</a>.</p>
+      <p class="warning"><strong>Aviso:</strong> somente <a href="lib/Send.htm">Send</a>, <a href="lib/GetKey.htm">GetKeyName()</a>, <a href="lib/GetKey.htm">GetKeyVK()</a>, <a href="lib/GetKey.htm">GetKeySC()</a> e <a href="lib/_MenuMaskKey.htm">#MenuMaskKey</a> suportam a combinação de VKnn com SCnnn. <span class="ver">[v1.1.27+]:</span> A presença de um sufixo inválido impede VKnn de ser reconhecida. Por exemplo, <code>vk1Bsc001::</code> gera um erro nas versões 1.1.27 e posteriores, mas <code>sc001</code> foi ignorada (não tinha efeito) nas versões anteriores.</p>
       </td>
   </tr>
 </table>
 <h2 id="Joystick">Joystick</h2>
-<p><strong>Joy1 a Joy32</strong>: Os botões do joystick. Para ajudar a determinar os números dos botões de seu joystick, use este <a href="scripts/index.htm#JoystickTest">script de teste</a>. Note que <a href="Hotkeys.htm">símbolos de prefixos de hotkeys</a> como ^ (control) e + (shift) não são suportados (apesar de <a href="commands/GetKeyState.htm#function">GetKeyState()</a> poder ser usada como substituta). Também note que pressionar os botões do joystick sempre “passa através” da janela ativa se essa janela for desenvolvida para detectar o pressionamento de botões do joystick.</p>
-<p>Apesar de os nomes de controle de Joystick abaixo não poderem ser usados como hotkeys, eles podem ser usados com <a href="commands/GetKeyState.htm#function">GetKeyState()</a>:</p>
+<p><strong>Joy1 a Joy32</strong>: Os botões do joystick. Para ajudar a determinar os números dos botões de seu joystick, use este <a href="scripts/index.htm#JoystickTest">script de teste</a>. Note que <a href="Hotkeys.htm">símbolos de prefixos de hotkeys</a> como ^ (control) e + (shift) não são suportados (apesar de <a href="lib/GetKeyState.htm#function">GetKeyState()</a> poder ser usada como substituta). Também note que pressionar os botões do joystick sempre “passa através” da janela ativa se essa janela for desenvolvida para detectar o pressionamento de botões do joystick.</p>
+<p>Apesar de os nomes de controle de Joystick abaixo não poderem ser usados como hotkeys, eles podem ser usados com <a href="lib/GetKeyState.htm#function">GetKeyState()</a>:</p>
 <ul>
   <li><strong>JoyX, JoyY, e JoyZ</strong>: os eixos X (horizontal), Y (vertical) e Z (altitude/profundidade) do joystick.</li>
   <li><strong>JoyR</strong>: o leme ou 4º eixo do joystick.</li>
@@ -470,10 +470,10 @@
 <h2 id="SpecialKeys">Teclas Especiais</h2>
 <p>Se seu teclado ou mouse tem uma tecla não listada acima, você talvez ainda consiga criar uma hotkey com ela seguindo os passos a seguir:</p>
 <ol>
-  <li>Certifique-se que pelo menos um script com o <a href="commands/_InstallKeybdHook.htm">gancho de teclado</a> esteja em execução. Você pode determinar se um script possui o gancho de teclado abrindo sua janela principal e selecionando “View-&gt;<a href="commands/KeyHistory.htm">Key history</a>” a partir da barra de menus.</li>
+  <li>Certifique-se que pelo menos um script com o <a href="lib/_InstallKeybdHook.htm">gancho de teclado</a> esteja em execução. Você pode determinar se um script possui o gancho de teclado abrindo sua janela principal e selecionando “View-&gt;<a href="lib/KeyHistory.htm">Key history</a>” a partir da barra de menus.</li>
   <li>Dê um duplo click no ícone do script na área de notificação para abrir sua janela principal.</li>
   <li>Pressione uma das “teclas misteriosas” em seu teclado.</li>
-  <li>Selecione o item de menu “View-&gt;<a href="commands/KeyHistory.htm">Key history</a>”.</li>
+  <li>Selecione o item de menu “View-&gt;<a href="lib/KeyHistory.htm">Key history</a>”.</li>
   <li>Role para baixo até o fim da página. Em algum lugar perto do fim estão listados os eventos de pressionamento e soltura da sua tecla. OBSERVAÇÃO: Algumas teclas não geram eventos e, por isso, não serão visíveis aqui. Se esse for seu caso, você não poderá criar uma hotkey diretamente a partir daquela tecla porque seu driver de teclado ou hardware manipula-a num nível muito baixo para que o AutoHotkey acesse.  Para possíveis soluções, continue lendo.</li>
   <li>Se sua tecla é detectável, tome nota do valor hexadecimal de 3 dígitos na segunda coluna da lista (por exemplo: <strong>159</strong>).</li>
   <li>Para definir essa tecla como uma hotkey, siga o exemplo abaixo:
@@ -484,8 +484,8 @@ return</pre></li>
 <p><strong>Sentido contrário</strong>: Para remapear alguma outra tecla para <em>tornar-se</em> a “tecla misteriosa”, siga este exemplo:</p>
 <pre><em>; Substitua 159 com o valor descoberto acima. Substitua FF (se necessário) com a
 ; chave virtual da tecla, que pode ser descoberta na primeira coluna da tecla do Histórico de Teclas.</em>
-#c::Send {vkFFsc159} <em>; Veja <a href="commands/Send.htm#vk">Send {vkXXscYYY}</a> para mais detalhes.</em></pre>
-<p><strong>Soluções alternativas</strong>: se sua tecla ou botão do mouse não for detectável pela tela do <a href="commands/KeyHistory.htm">Histórico de Teclas</a>, uma das seguintes soluções pode ajudar:</p>
+#c::Send {vkFFsc159} <em>; Veja <a href="lib/Send.htm#vk">Send {vkXXscYYY}</a> para mais detalhes.</em></pre>
+<p><strong>Soluções alternativas</strong>: se sua tecla ou botão do mouse não for detectável pela tela do <a href="lib/KeyHistory.htm">Histórico de Teclas</a>, uma das seguintes soluções pode ajudar:</p>
 <ol>
   <li>
     <p>Reconfigure o software que veio com o seu mouse ou teclado (às vezes acessível no Painel de Controle ou Menu Iniciar) para fazer com a que a “tecla misteriosa” envie o pressionamento de alguma outra tecla. O dito pressionamento pode então ser definido como uma hotkey em um script. Por exemplo, se você configurar a tecla misteriosa para enviar <kbd>Ctrl</kbd>+<kbd>F1</kbd>, você pode então criar indiretamente uma hotkey com aquela tecla usando <code>^F1::</code> em um script.</p>

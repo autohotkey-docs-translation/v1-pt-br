@@ -3,7 +3,7 @@
 <head>
 <title>RegisterCallback() - Syntax &amp; Usage | AutoHotkey</title>
 <meta name="description" content="The RegisterCallback function creates a machine-code address that when called, redirects the call to a function in the script." />
-<meta name="ahk:equiv-v2" content="commands/CallbackCreate.htm" />
+<meta name="ahk:equiv-v2" content="lib/CallbackCreate.htm" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link href="../static/theme.css" rel="stylesheet" type="text/css" />
@@ -25,7 +25,7 @@
   <dt>FunctionName</dt>
   <dd>
       <p>A <a href="../Functions.htm">function</a>'s name, which must be enclosed in quotes if it is a literal string. This function is called automatically whenever <em>Address</em> is called. The function also receives the parameters that were passed to <em>Address</em>.</p>
-      <p><span class="ver">[v1.1.06+]:</span> A <a href="../objects/Func.htm">function reference</a> can be passed instead of a function name.</p>
+      <p><span class="ver">[v1.1.06+]:</span> A <a href="Func.htm">function reference</a> can be passed instead of a function name.</p>
     </dd>
 
   <dt>Options</dt>
@@ -100,7 +100,7 @@ TheFunc(params*) {
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExWinList">
-<p><a class="ex_number" href="#ExWinList"></a>  Displays a summary of all top-level windows.</p>
+<p><a class="ex_number" href="#ExWinList"></a> Displays a summary of all top-level windows.</p>
 <pre><em>; For performance and memory conservation, call RegisterCallback() only once for a given callback:</em>
 if not EnumAddress  <em>; Fast-mode is okay because it will be called only from this thread:</em>
     EnumAddress := RegisterCallback("EnumWindowsProc", "Fast")
@@ -123,7 +123,7 @@ EnumWindowsProc(hwnd, lParam)
 </div>
 
 <div class="ex" id="ExSubclassGUI">
-<p><a class="ex_number" href="#ExSubclassGUI"></a>  Demonstrates how to subclass a GUI window by redirecting its WindowProc to a new WindowProc in the script. In this case, the background color of a text control is changed to a custom color.</p>
+<p><a class="ex_number" href="#ExSubclassGUI"></a> Demonstrates how to subclass a GUI window by redirecting its WindowProc to a new WindowProc in the script. In this case, the background color of a text control is changed to a custom color.</p>
 <pre>TextBackgroundColor := 0xFFBBBB  <em>; A custom color in BGR format.</em>
 TextBackgroundBrush := DllCall("CreateSolidBrush", "UInt", TextBackgroundColor)
 

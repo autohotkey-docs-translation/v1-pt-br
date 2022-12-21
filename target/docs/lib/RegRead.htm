@@ -20,7 +20,7 @@
 <dl>
 
   <dt>OutputVar</dt>
-  <dd><p>The name of the variable in which to store the retrieved value. If the value cannot be retrieved, the variable is made blank and <a href="../misc/ErrorLevel.htm">ErrorLevel</a> is set to 1.</p></dd>
+  <dd><p>The name of the output variable in which to store the retrieved value. If the value cannot be retrieved, the variable is made blank and <a href="../misc/ErrorLevel.htm">ErrorLevel</a> is set to 1.</p></dd>
 
   <dt>KeyName</dt>
   <dd><p>The full name of the registry key.</p>
@@ -39,7 +39,7 @@
 <dl>
 
   <dt>OutputVar</dt>
-  <dd><p>The name of the variable in which to store the retrieved value. If the value cannot be retrieved, the variable is made blank and <a href="../misc/ErrorLevel.htm">ErrorLevel</a> is set to 1.</p></dd>
+  <dd><p>The name of the output variable in which to store the retrieved value. If the value cannot be retrieved, the variable is made blank and <a href="../misc/ErrorLevel.htm">ErrorLevel</a> is set to 1.</p></dd>
 
   <dt>RootKey</dt>
   <dd><p>Must be either HKEY_LOCAL_MACHINE, HKEY_USERS, HKEY_CURRENT_USER, HKEY_CLASSES_ROOT, or HKEY_CURRENT_CONFIG (or the abbreviations for each of these, such as HKLM). To access a <a href="LoopReg.htm#remote">remote registry</a>, prepend the computer name and a colon (or <span class="ver">[in v1.1.21+]</span> a slash), as in this example: <code>\\workstation01:HKEY_LOCAL_MACHINE</code></p></dd>
@@ -72,14 +72,14 @@
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExNewVsOld">
-<p><a class="ex_number" href="#ExNewVsOld"></a>  New syntax vs. old syntax.</p>
+<p><a class="ex_number" href="#ExNewVsOld"></a> New syntax vs. old syntax.</p>
 <p>Despite the different syntax, both examples have the same effect; that is, they read a value from the registry and store it in <var>OutputVar</var>.</p>
 <pre>RegRead, OutputVar, HKEY_LOCAL_MACHINE\Software\SomeApplication, TestValue</pre>
 <pre>RegRead, OutputVar, HKEY_LOCAL_MACHINE, Software\SomeApplication, TestValue</pre>
 </div>
 
 <div class="ex" id="ExProgramFiles">
-<p><a class="ex_number" href="#ExProgramFiles"></a>  Retrieves and reports the path of the "Program Files" directory. See <a href="EnvGet.htm#ExProgramFiles">EnvGet example #2</a> for an alternative method.</p>
+<p><a class="ex_number" href="#ExProgramFiles"></a> Retrieves and reports the path of the "Program Files" directory. See <a href="EnvGet.htm#ExProgramFiles">EnvGet example #2</a> for an alternative method.</p>
 <pre><em>; The line below ensures that the path of the 64-bit Program Files
 ; directory is returned if the OS is 64-bit and the script is not.</em>
 <a href="SetRegView.htm">SetRegView</a> 64  <em>; Requires <span class="ver">[v1.1.08+]</span></em>
@@ -89,7 +89,7 @@ MsgBox, Program files are in: %OutputVar%</pre>
 </div>
 
 <div class="ex" id="ExType">
-<p><a class="ex_number" href="#ExType"></a>  Retrieves the TYPE of a registry value (e.g. REG_SZ or REG_DWORD).</p>
+<p><a class="ex_number" href="#ExType"></a> Retrieves the TYPE of a registry value (e.g. REG_SZ or REG_DWORD).</p>
 <pre>MsgBox % RegKeyType("HKCU", "Environment", "TEMP")
 return
 

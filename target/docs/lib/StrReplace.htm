@@ -27,7 +27,7 @@
   <dd><em>Needle</em> will be replaced with this text. If omitted or blank, <em>Needle</em> will be replaced with blank (empty). In other words, it will be omitted from the return value.</dd>
   
   <dt>OutputVarCount</dt>
-  <dd>Specify a variable in which to store the number of replacements that occurred (0 if none).</dd>
+  <dd>Specify a output variable in which to store the number of replacements that occurred (0 if none).</dd>
   
   <dt>Limit</dt>
   <dd>If omitted, it defaults to -1, which replaces <strong>all</strong> occurrences of the pattern found in <em>Haystack</em>. Otherwise, specify the maximum number of replacements to allow. The part of <em>Haystack</em> to the right of the last replacement is left unchanged.</dd>
@@ -45,17 +45,17 @@
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExClipboard">
-<p><a class="ex_number" href="#ExClipboard"></a>  Removes all CR+LF's from the clipboard contents.</p>
+<p><a class="ex_number" href="#ExClipboard"></a> Removes all CR+LF's from the clipboard contents.</p>
 <pre>Clipboard := StrReplace(Clipboard, "`r`n")</pre>
 </div>
 
 <div class="ex" id="ExVar">
-<p><a class="ex_number" href="#ExVar"></a>  Replaces all spaces with pluses.</p>
+<p><a class="ex_number" href="#ExVar"></a> Replaces all spaces with pluses.</p>
 <pre>NewStr := StrReplace(OldStr, A_Space, "+")</pre>
 </div>
 
 <div class="ex" id="ExRemoveBlankLines">
-<p><a class="ex_number" href="#ExRemoveBlankLines"></a>  Removes all blank lines from the text in a variable.</p>
+<p><a class="ex_number" href="#ExRemoveBlankLines"></a> Removes all blank lines from the text in a variable.</p>
 <pre>Loop
 {
     MyString := StrReplace(MyString, "`r`n`r`n", "`r`n", Count)

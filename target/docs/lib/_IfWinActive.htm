@@ -3,7 +3,7 @@
 <head>
 <title>#IfWinActive / #IfWinNotActive / #IfWinExist / #IfWinNotExist - Syntax &amp; Usage | AutoHotkey</title>
 <meta name="description" content="The #IfWinActive, #IfWinNotActive, #IfWinExist and #IfWinNotExist directives create context-sensitive hotkeys and hotstrings depending on the type of window that is active or exists." />
-<meta name="ahk:equiv-v2" content="commands/_HotIf.htm" />
+<meta name="ahk:equiv-v2" content="lib/_HotIf.htm" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link href="../static/theme.css" rel="stylesheet" type="text/css" />
@@ -20,7 +20,7 @@
 <span class="func">#IfWinExist</span> <span class="optional">WinTitle, WinText</span>
 <span class="func">#IfWinNotActive</span> <span class="optional">WinTitle, WinText</span>
 <span class="func">#IfWinNotExist</span> <span class="optional">WinTitle, WinText</span>
-<a href="_If.htm">#If <span class="optional">, Expression</span></a>
+<a href="_If.htm">#If <span class="optional">Expression</span></a>
 </pre>
 <h2 id="Parameters">Parâmetros</h2>
 <dl>
@@ -89,7 +89,7 @@ return</pre>
 <p><a href="_If.htm">#If <i>expression</i></a>, <a href="Hotkey.htm">Hotkey command</a>, <a href="../Hotkeys.htm">Hotkeys</a>, <a href="../Hotstrings.htm">Hotstrings</a>, <a href="Suspend.htm">Suspend</a>, <a href="WinActive.htm">WinActive()</a>, <a href="WinExist.htm">WinExist()</a>, <a href="SetTitleMatchMode.htm">SetTitleMatchMode</a>, <a href="DetectHiddenWindows.htm">DetectHiddenWindows</a></p>
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExBasic">
-<p><a class="ex_number" href="#ExBasic"></a>  Creates two hotkeys and one hotstring which only work when Notepad is active, and one hotkey which works for any window except Notepad.</p>
+<p><a class="ex_number" href="#ExBasic"></a> Creates two hotkeys and one hotstring which only work when Notepad is active, and one hotkey which works for any window except Notepad.</p>
 <pre>#IfWinActive ahk_class Notepad
 ^!a::MsgBox You pressed Ctrl-Alt-A while Notepad is active.  <em>; This hotkey will have no effect if pressed in other windows (and it will "pass through").</em>
 #c::MsgBox You pressed Win-C while Notepad is active.

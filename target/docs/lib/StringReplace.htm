@@ -3,7 +3,7 @@
 <head>
 <title>StringReplace - Syntax &amp; Usage | AutoHotkey</title>
 <meta name="description" content="The StringReplace command replaces the specified substring with a new string." />
-<meta name="ahk:equiv-v2" content="commands/StrReplace.htm" />
+<meta name="ahk:equiv-v2" content="lib/StrReplace.htm" />
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <link href="../static/theme.css" rel="stylesheet" type="text/css" />
@@ -20,10 +20,10 @@
 <dl>
 
   <dt>OutputVar</dt>
-  <dd>The name of the variable in which to store the result of the replacement process.</dd>
+  <dd>The name of the output variable in which to store the result of the replacement process.</dd>
 
   <dt>InputVar</dt>
-  <dd>The name of the variable whose contents will be read from. Do not enclose the name in percent signs unless you want the <em>contents</em> of the variable to be used as the name.</dd>
+  <dd>The name of the input variable whose contents will be read from. Do not enclose the name in percent signs unless you want the <em>contents</em> of the variable to be used as the name.</dd>
 
   <dt>SearchText</dt>
   <dd>The string to search for. Matching is not case sensitive unless <a href="StringCaseSense.htm">StringCaseSense</a> has been turned on.</dd>
@@ -52,17 +52,17 @@
 
 <h2 id="Examples">Exemplos</h2>
 <div class="ex" id="ExClipboard">
-<p><a class="ex_number" href="#ExClipboard"></a>  Removes all CR+LF's from the clipboard contents.</p>
+<p><a class="ex_number" href="#ExClipboard"></a> Removes all CR+LF's from the clipboard contents.</p>
 <pre>StringReplace, Clipboard, Clipboard, `r`n, , All</pre>
 </div>
 
 <div class="ex" id="ExVar">
-<p><a class="ex_number" href="#ExVar"></a>  Replaces all spaces with pluses.</p>
+<p><a class="ex_number" href="#ExVar"></a> Replaces all spaces with pluses.</p>
 <pre>StringReplace, NewStr, OldStr, %A_Space%, +, All</pre>
 </div>
 
 <div class="ex" id="ExRemoveBlankLines">
-<p><a class="ex_number" href="#ExRemoveBlankLines"></a>  Removes all blank lines from the text in a variable.</p>
+<p><a class="ex_number" href="#ExRemoveBlankLines"></a> Removes all blank lines from the text in a variable.</p>
 <pre>Loop
 {
     StringReplace, MyString, MyString, `r`n`r`n, `r`n, UseErrorLevel

@@ -390,34 +390,34 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"commands/_CommentFlag.htm":"the default comment flag (semicolon)",</seg>
+        <seg>"lib/_CommentFlag.htm":"the default comment flag (semicolon)",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T231755Z" creationid="Leo" creationdate="20210703T231755Z">
-        <seg>"commands/_CommentFlag.htm":"o sinalizador padrão de comentários (ponto-e-vírgula)",</seg>
+        <seg>"lib/_CommentFlag.htm":"o sinalizador padrão de comentários (ponto-e-vírgula)",</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"commands/_EscapeChar.htm":"the default escape character (accent)",</seg>
+        <seg>"lib/_EscapeChar.htm":"the default escape character (accent)",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232249Z" creationid="Leo" creationdate="20210703T232249Z">
-        <seg>"commands/_EscapeChar.htm":"o caractere padrão de escape (acento)",</seg>
+        <seg>"lib/_EscapeChar.htm":"o caractere padrão de escape (acento)",</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"commands/_EscapeChar.htm#Delimiter":"the default delimiter character (comma)",</seg>
+        <seg>"lib/_EscapeChar.htm#Delimiter":"the default delimiter character (comma)",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232319Z" creationid="Leo" creationdate="20210703T232319Z">
-        <seg>"commands/_EscapeChar.htm#Delimiter":"o caractere padrão de delimitação (vírgula)",</seg>
+        <seg>"lib/_EscapeChar.htm#Delimiter":"o caractere padrão de delimitação (vírgula)",</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>"commands/_EscapeChar.htm#DerefChar":"the default dereference character (percent)",</seg>
+        <seg>"lib/_EscapeChar.htm#DerefChar":"the default dereference character (percent)",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232627Z" creationid="Leo" creationdate="20210703T232627Z">
-        <seg>"commands/_EscapeChar.htm#DerefChar":"o caractere padrão de desreferenciação (porcentagem)",</seg>
+        <seg>"lib/_EscapeChar.htm#DerefChar":"o caractere padrão de desreferenciação (porcentagem)",</seg>
       </tuv>
     </tu>
     <tu>
@@ -11983,10 +11983,10 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Redirecting to &lt;a0&gt;docs/AutoHotkey.htm&lt;/a0&gt;.</seg>
+        <seg>Redirecting to &lt;a0&gt;docs/index.htm&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070043Z" creationid="Leo" creationdate="20210701T070043Z">
-        <seg>Redirecionando para &lt;a0&gt;docs/AutoHotkey.htm&lt;/a0&gt;.</seg>
+        <seg>Redirecionando para &lt;a0&gt;docs/index.htm&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17737,10 +17737,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["ActiveX controls (GUI)","commands/GuiControls.htm#ActiveX"],</seg>
+        <seg>["ActiveX controls (GUI)","lib/GuiControls.htm#ActiveX"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T085852Z" creationid="Leo" creationdate="20210703T233921Z">
-        <seg>["controles do ActiveX (GUI)","commands/GuiControls.htm#ActiveX"],</seg>
+        <seg>["controles do ActiveX (GUI)","lib/GuiControls.htm#ActiveX"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -17793,26 +17793,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Bind method (Func object)","objects/Func.htm#Bind"],</seg>
+        <seg>["Bind method (Func object)","lib/Func.htm#Bind"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070959Z" creationid="Leo" creationdate="20210704T041320Z">
-        <seg>["Método Bind (Objeto Funcional)","objects/Func.htm#Bind"],</seg>
+        <seg>["Método Bind (Objeto Funcional)","lib/Func.htm#Bind"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["BoundFunc object","objects/Functor.htm#BoundFunc"],</seg>
+        <seg>["BoundFunc object","misc/Functor.htm#BoundFunc"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041926Z" creationid="Leo" creationdate="20210704T041926Z">
-        <seg>["Objeto atrelado à função (Func.Bind)","objects/Functor.htm#BoundFunc"],</seg>
+        <seg>["Objeto atrelado à função (Func.Bind)","misc/Functor.htm#BoundFunc"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Button controls (GUI)","commands/GuiControls.htm#Button"],</seg>
+        <seg>["Button controls (GUI)","lib/GuiControls.htm#Button"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T042447Z" creationid="Leo" creationdate="20210704T042447Z">
-        <seg>["Controles de botão (GUI)","commands/GuiControls.htm#Button"],</seg>
+        <seg>["Controles de botão (GUI)","lib/GuiControls.htm#Button"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -17825,58 +17825,58 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Call method (Func object)","objects/Func.htm#Call"],</seg>
+        <seg>["Call method (Func object)","lib/Func.htm#Call"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T044306Z" creationid="Leo" creationdate="20210704T044306Z">
-        <seg>["método Call (Objeto Func)","objects/Func.htm#Call"],</seg>
+        <seg>["método Call (Objeto Func)","lib/Func.htm#Call"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Checkbox controls (GUI)","commands/GuiControls.htm#Checkbox"],</seg>
+        <seg>["Checkbox controls (GUI)","lib/GuiControls.htm#Checkbox"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T064924Z" creationid="Leo" creationdate="20210709T064924Z">
-        <seg>["Controles de checkbox (GUI)","commands/GuiControls.htm#Checkbox"],</seg>
+        <seg>["Controles de checkbox (GUI)","lib/GuiControls.htm#Checkbox"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Click a mouse button","commands/Click.htm"],</seg>
+        <seg>["Click a mouse button","lib/Click.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065205Z" creationid="Leo" creationdate="20210709T065205Z">
-        <seg>["Clicar um botão do mouse","commands/Click.htm"],</seg>
+        <seg>["Clicar um botão do mouse","lib/Click.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Clone method (Object)","objects/Object.htm#Clone"],</seg>
+        <seg>["Clone method (Object)","lib/Object.htm#Clone"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070953Z" creationid="Leo" creationdate="20210709T065237Z">
-        <seg>["Método clonar (Objeto)","objects/Object.htm#Clone"],</seg>
+        <seg>["Método clonar (Objeto)","lib/Object.htm#Clone"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Close method (File)","objects/File.htm#Close"],</seg>
+        <seg>["Close method (File)","lib/File.htm#Close"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065919Z" creationid="Leo" creationdate="20210709T065411Z">
-        <seg>["Método close (Arquivo)","objects/File.htm#Close"],</seg>
+        <seg>["Método close (Arquivo)","lib/File.htm#Close"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["ComboBox controls (GUI)","commands/GuiControls.htm#ComboBox"],</seg>
+        <seg>["ComboBox controls (GUI)","lib/GuiControls.htm#ComboBox"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065846Z" creationid="Leo" creationdate="20210709T065510Z">
-        <seg>["Controles de ComboBox (GUI)","commands/GuiControls.htm#ComboBox"],</seg>
+        <seg>["Controles de ComboBox (GUI)","lib/GuiControls.htm#ComboBox"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Command and Function Index","commands/index.htm"],</seg>
+        <seg>["Command and Function Index","lib/index.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T214936Z" creationid="Leo" creationdate="20210703T214936Z">
-        <seg>["Índice de Comandos e Funções","commands/index.htm"],</seg>
+        <seg>["Índice de Comandos e Funções","lib/index.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -17929,10 +17929,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Count method (Object)","objects/Object.htm#Count"],</seg>
+        <seg>["Count method (Object)","lib/Object.htm#Count"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070337Z" creationid="Leo" creationdate="20210709T070337Z">
-        <seg>["Método Count (Objeto)","objects/Object.htm#Count"],</seg>
+        <seg>["Método Count (Objeto)","lib/Object.htm#Count"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -17945,26 +17945,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Custom controls (GUI)","commands/GuiControls.htm#Custom"],</seg>
+        <seg>["Custom controls (GUI)","lib/GuiControls.htm#Custom"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070635Z" creationid="Leo" creationdate="20210709T070635Z">
-        <seg>["Controles personalizados (GUI)","commands/GuiControls.htm#Custom"],</seg>
+        <seg>["Controles personalizados (GUI)","lib/GuiControls.htm#Custom"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["DPI scaling","commands/Gui.htm#DPIScale"],</seg>
+        <seg>["DPI scaling","lib/Gui.htm#DPIScale"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071518Z" creationid="Leo" creationdate="20210709T071518Z">
-        <seg>["Escala de DPI","commands/Gui.htm#DPIScale"],</seg>
+        <seg>["Escala de DPI","lib/Gui.htm#DPIScale"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["DateTime controls (GUI)","commands/GuiControls.htm#DateTime"],</seg>
+        <seg>["DateTime controls (GUI)","lib/GuiControls.htm#DateTime"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070738Z" creationid="Leo" creationdate="20210709T070738Z">
-        <seg>["Controles DateTime (GUI)","commands/GuiControls.htm#DateTime"],</seg>
+        <seg>["Controles DateTime (GUI)","lib/GuiControls.htm#DateTime"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -17993,58 +17993,58 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Default","commands/Switch.htm",3,""],</seg>
+        <seg>["Default","lib/Switch.htm",3,""],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T082620Z" creationid="Leo" creationdate="20210709T070832Z">
-        <seg>["Default","commands/Switch.htm",3,""],</seg>
+        <seg>["Default","lib/Switch.htm",3,""],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Delete method (Object)","objects/Object.htm#Delete"],</seg>
+        <seg>["Delete method (Object)","lib/Object.htm#Delete"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071003Z" creationid="Leo" creationdate="20210709T071003Z">
-        <seg>["Método Delete (Objeto)","objects/Object.htm#Delete"],</seg>
+        <seg>["Método Delete (Objeto)","lib/Object.htm#Delete"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["DropDownList controls (GUI)","commands/GuiControls.htm#DropDownList"],</seg>
+        <seg>["DropDownList controls (GUI)","lib/GuiControls.htm#DropDownList"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071631Z" creationid="Leo" creationdate="20210709T071631Z">
-        <seg>["controles DropDownList (GUI)","commands/GuiControls.htm#DropDownList"],</seg>
+        <seg>["controles DropDownList (GUI)","lib/GuiControls.htm#DropDownList"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Edit controls (GUI)","commands/GuiControls.htm#Edit"],</seg>
+        <seg>["Edit controls (GUI)","lib/GuiControls.htm#Edit"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071818Z" creationid="Leo" creationdate="20210709T071818Z">
-        <seg>["controles Edit (GUI)","commands/GuiControls.htm#Edit"],</seg>
+        <seg>["controles Edit (GUI)","lib/GuiControls.htm#Edit"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Encoding property (File)","objects/File.htm#Encoding"],</seg>
+        <seg>["Encoding property (File)","lib/File.htm#Encoding"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071937Z" creationid="Leo" creationdate="20210709T071937Z">
-        <seg>["Codificação (Arquivo)","objects/File.htm#Encoding"],</seg>
+        <seg>["Codificação (Arquivo)","lib/File.htm#Encoding"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Enumerator Object","objects/Enumerator.htm"],</seg>
+        <seg>["Enumerator Object","lib/Enumerator.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223032Z" creationid="Leo" creationdate="20210703T222819Z">
-        <seg>["Enumerador","objects/Enumerator.htm"],</seg>
+        <seg>["Enumerador","lib/Enumerator.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Enumerator object","objects/Enumerator.htm"],</seg>
+        <seg>["Enumerator object","lib/Enumerator.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071953Z" creationid="Leo" creationdate="20210709T071953Z">
-        <seg>["Objeto enumerador","objects/Enumerator.htm"],</seg>
+        <seg>["Objeto enumerador","lib/Enumerator.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18057,10 +18057,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Exception Object","commands/Throw.htm#Exception"],</seg>
+        <seg>["Exception Object","lib/Throw.htm#Exception"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T091127Z" creationid="Leo" creationdate="20210703T223043Z">
-        <seg>["Exceção","commands/Throw.htm#Exception"],</seg>
+        <seg>["Exceção","lib/Throw.htm#Exception"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18097,26 +18097,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["FTP uploading example","commands/FileAppend.htm#FTP"],</seg>
+        <seg>["FTP uploading example","lib/FileAppend.htm#FTP"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073025Z" creationid="Leo" creationdate="20210709T073025Z">
-        <seg>["exemplo de upload via FTP","commands/FileAppend.htm#FTP"],</seg>
+        <seg>["exemplo de upload via FTP","lib/FileAppend.htm#FTP"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["File Object","objects/File.htm"],</seg>
+        <seg>["File Object","lib/File.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223500Z" creationid="Leo" creationdate="20210703T223500Z">
-        <seg>["Arquivo","objects/File.htm"],</seg>
+        <seg>["Arquivo","lib/File.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["File object","objects/File.htm"],</seg>
+        <seg>["File object","lib/File.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072201Z" creationid="Leo" creationdate="20210709T072201Z">
-        <seg>["objeto arquivo","objects/File.htm"],</seg>
+        <seg>["objeto arquivo","lib/File.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18145,26 +18145,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Func Object","objects/Func.htm"],</seg>
+        <seg>["Func Object","lib/Func.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223506Z" creationid="Leo" creationdate="20210703T223506Z">
-        <seg>["Func","objects/Func.htm"],</seg>
+        <seg>["Func","lib/Func.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Func object","objects/Func.htm"],</seg>
+        <seg>["Func object","lib/Func.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073219Z" creationid="Leo" creationdate="20210709T073219Z">
-        <seg>["Func","objects/Func.htm"],</seg>
+        <seg>["Func","lib/Func.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Function Objects","objects/Functor.htm"],</seg>
+        <seg>["Function Objects","misc/Functor.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223615Z" creationid="Leo" creationdate="20210703T223615Z">
-        <seg>["Objetos de Função","objects/Functor.htm"],</seg>
+        <seg>["Objetos de Função","misc/Functor.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18177,18 +18177,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["GetAddress method (Object)","objects/Object.htm#GetAddress"],</seg>
+        <seg>["GetAddress method (Object)","lib/Object.htm#GetAddress"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073340Z" creationid="Leo" creationdate="20210709T073322Z">
-        <seg>["método GetAddress (Objeto)","objects/Object.htm#GetAddress"],</seg>
+        <seg>["método GetAddress (Objeto)","lib/Object.htm#GetAddress"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["GetCapacity method (Object)","objects/Object.htm#GetCapacity"],</seg>
+        <seg>["GetCapacity method (Object)","lib/Object.htm#GetCapacity"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073336Z" creationid="Leo" creationdate="20210709T073336Z">
-        <seg>["método GetCapacity (Objeto)","objects/Object.htm#GetCapacity"],</seg>
+        <seg>["método GetCapacity (Objeto)","lib/Object.htm#GetCapacity"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18201,34 +18201,34 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["GroupBox controls (GUI)","commands/GuiControls.htm#GroupBox"],</seg>
+        <seg>["GroupBox controls (GUI)","lib/GuiControls.htm#GroupBox"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073409Z" creationid="Leo" creationdate="20210709T073409Z">
-        <seg>["controles GroupBox (GUI)","commands/GuiControls.htm#GroupBox"],</seg>
+        <seg>["controles GroupBox (GUI)","lib/GuiControls.htm#GroupBox"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Gui ListView control","commands/ListView.htm"],</seg>
+        <seg>["Gui ListView control","lib/ListView.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221622Z" creationid="Leo" creationdate="20210703T221622Z">
-        <seg>["Controle ListView da Gui","commands/ListView.htm"],</seg>
+        <seg>["Controle ListView da Gui","lib/ListView.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Gui TreeView control","commands/TreeView.htm"],</seg>
+        <seg>["Gui TreeView control","lib/TreeView.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221642Z" creationid="Leo" creationdate="20210703T221642Z">
-        <seg>["Controle TreeView da Gui","commands/TreeView.htm"],</seg>
+        <seg>["Controle TreeView da Gui","lib/TreeView.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Gui control types","commands/GuiControls.htm"],</seg>
+        <seg>["Gui control types","lib/GuiControls.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221531Z" creationid="Leo" creationdate="20210703T221531Z">
-        <seg>["Tipos de controles da Gui","commands/GuiControls.htm"],</seg>
+        <seg>["Tipos de controles da Gui","lib/GuiControls.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18241,26 +18241,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Gui","commands/Gui.htm",6,"SSSS"],</seg>
+        <seg>["Gui","lib/Gui.htm",6,"SSSS"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T084111Z" creationid="Leo" creationdate="20210709T073520Z">
-        <seg>["Gui","commands/Gui.htm",6,"SSSS"],</seg>
+        <seg>["Gui","lib/Gui.htm",6,"SSSS"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["HTML color names","commands/Progress.htm#colors"],</seg>
+        <seg>["HTML color names","lib/Progress.htm#colors"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073821Z" creationid="Leo" creationdate="20210709T073821Z">
-        <seg>["nomes das cores no HTML","commands/Progress.htm#colors"],</seg>
+        <seg>["nomes das cores no HTML","lib/Progress.htm#colors"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["HWND (of a control)","commands/ControlGet.htm#Hwnd"],</seg>
+        <seg>["HWND (of a control)","lib/ControlGet.htm#Hwnd"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073829Z" creationid="Leo" creationdate="20210709T073829Z">
-        <seg>["HWND (de um controle)","commands/ControlGet.htm#Hwnd"],</seg>
+        <seg>["HWND (de um controle)","lib/ControlGet.htm#Hwnd"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18273,18 +18273,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["HasKey method (Object)","objects/Object.htm#HasKey"],</seg>
+        <seg>["HasKey method (Object)","lib/Object.htm#HasKey"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073618Z" creationid="Leo" creationdate="20210709T073618Z">
-        <seg>["método HasKey (Objeto)","objects/Object.htm#HasKey"],</seg>
+        <seg>["método HasKey (Objeto)","lib/Object.htm#HasKey"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Hotkey controls (GUI)","commands/GuiControls.htm#Hotkey"],</seg>
+        <seg>["Hotkey controls (GUI)","lib/GuiControls.htm#Hotkey"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073738Z" creationid="Leo" creationdate="20210709T073738Z">
-        <seg>["controles de Hotkeys (GUI)","commands/GuiControls.htm#Hotkey"],</seg>
+        <seg>["controles de Hotkeys (GUI)","lib/GuiControls.htm#Hotkey"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18321,34 +18321,34 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["ID number for a window","commands/WinGet.htm"],</seg>
+        <seg>["ID number for a window","lib/WinGet.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073901Z" creationid="Leo" creationdate="20210709T073901Z">
-        <seg>["número ID de uma janela","commands/WinGet.htm"],</seg>
+        <seg>["número ID de uma janela","lib/WinGet.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["If (expression)","commands/IfExpression.htm"],</seg>
+        <seg>["If (expression)","lib/IfExpression.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221036Z" creationid="Leo" creationdate="20210703T221036Z">
-        <seg>["If (expressão)","commands/IfExpression.htm"],</seg>
+        <seg>["If (expressão)","lib/IfExpression.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["If (legacy)","commands/IfEqual.htm"],</seg>
+        <seg>["If (legacy)","lib/IfEqual.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073919Z" creationid="Leo" creationdate="20210709T073919Z">
-        <seg>["If (forma legada)","commands/IfEqual.htm"],</seg>
+        <seg>["If (forma legada)","lib/IfEqual.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["If (traditional)","commands/IfEqual.htm"],</seg>
+        <seg>["If (traditional)","lib/IfEqual.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221014Z" creationid="Leo" creationdate="20210703T221014Z">
-        <seg>["If (tradicional)","commands/IfEqual.htm"],</seg>
+        <seg>["If (tradicional)","lib/IfEqual.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18369,10 +18369,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Image Lists (GUI)","commands/ListView.htm#IL"],</seg>
+        <seg>["Image Lists (GUI)","lib/ListView.htm#IL"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090643Z" creationid="Leo" creationdate="20210711T052940Z">
-        <seg>["Listas de Imagens (GUI)","commands/ListView.htm#IL"],</seg>
+        <seg>["Listas de Imagens (GUI)","lib/ListView.htm#IL"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18385,26 +18385,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Insert method (Object)","objects/Object.htm#Insert"],</seg>
+        <seg>["Insert method (Object)","lib/Object.htm#Insert"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053038Z" creationid="Leo" creationdate="20210711T053030Z">
-        <seg>["Método Insert (Objeto)","objects/Object.htm#Insert"],</seg>
+        <seg>["Método Insert (Objeto)","lib/Object.htm#Insert"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["InsertAt method (Object)","objects/Object.htm#InsertAt"],</seg>
+        <seg>["InsertAt method (Object)","lib/Object.htm#InsertAt"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053108Z" creationid="Leo" creationdate="20210711T053108Z">
-        <seg>["Método InsertAt (Objeto)","objects/Object.htm#InsertAt"],</seg>
+        <seg>["Método InsertAt (Objeto)","lib/Object.htm#InsertAt"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["JScript, embedded/inline","commands/DllCall.htm#COM"],</seg>
+        <seg>["JScript, embedded/inline","lib/DllCall.htm#COM"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053716Z" creationid="Leo" creationdate="20210711T053716Z">
-        <seg>["JScript, embutido/'inline'","commands/DllCall.htm#COM"],</seg>
+        <seg>["JScript, embutido/'inline'","lib/DllCall.htm#COM"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18433,18 +18433,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Length method (Object)","objects/Object.htm#Length"],</seg>
+        <seg>["Length method (Object)","lib/Object.htm#Length"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054027Z" creationid="Leo" creationdate="20210711T054027Z">
-        <seg>["método Lenght (Objeto)","objects/Object.htm#Length"],</seg>
+        <seg>["método Lenght (Objeto)","lib/Object.htm#Length"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Length property (File)","objects/File.htm#Length"],</seg>
+        <seg>["Length property (File)","lib/File.htm#Length"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054112Z" creationid="Leo" creationdate="20210711T054112Z">
-        <seg>["propriedade Lenght (Arquivo)","objects/File.htm#Length"],</seg>
+        <seg>["propriedade Lenght (Arquivo)","lib/File.htm#Length"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18457,10 +18457,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Link controls (GUI)","commands/GuiControls.htm#Link"],</seg>
+        <seg>["Link controls (GUI)","lib/GuiControls.htm#Link"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054213Z" creationid="Leo" creationdate="20210711T054213Z">
-        <seg>["Controles de link (GUI)","commands/GuiControls.htm#Link"],</seg>
+        <seg>["Controles de link (GUI)","lib/GuiControls.htm#Link"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18473,34 +18473,34 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["ListBox controls (GUI)","commands/GuiControls.htm#ListBox"],</seg>
+        <seg>["ListBox controls (GUI)","lib/GuiControls.htm#ListBox"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054320Z" creationid="Leo" creationdate="20210711T054320Z">
-        <seg>["Controles de caixa de listagem (GUI)","commands/GuiControls.htm#ListBox"],</seg>
+        <seg>["Controles de caixa de listagem (GUI)","lib/GuiControls.htm#ListBox"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["ListView controls (GUI)","commands/ListView.htm"],</seg>
+        <seg>["ListView controls (GUI)","lib/ListView.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054341Z" creationid="Leo" creationdate="20210711T054341Z">
-        <seg>["Controles de visualização de lista (ListView) (GUI)","commands/ListView.htm"],</seg>
+        <seg>["Controles de visualização de lista (ListView) (GUI)","lib/ListView.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["ListView, getting text from","commands/ControlGet.htm#List"],</seg>
+        <seg>["ListView, getting text from","lib/ControlGet.htm#List"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054401Z" creationid="Leo" creationdate="20210711T054401Z">
-        <seg>["Visualização de lista, obter texto de","commands/ControlGet.htm#List"],</seg>
+        <seg>["Visualização de lista, obter texto de","lib/ControlGet.htm#List"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Locale","commands/StringCaseSense.htm#Locale"],</seg>
+        <seg>["Locale","lib/StringCaseSense.htm#Locale"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054537Z" creationid="Leo" creationdate="20210711T054537Z">
-        <seg>["Localização geográfica","commands/StringCaseSense.htm#Locale"],</seg>
+        <seg>["Localização geográfica","lib/StringCaseSense.htm#Locale"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18513,74 +18513,74 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Loop (files &amp; folders)","commands/LoopFile.htm"],</seg>
+        <seg>["Loop (files &amp; folders)","lib/LoopFile.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T220826Z" creationid="Leo" creationdate="20210703T220826Z">
-        <seg>["Loop (arquivos e pastas)","commands/LoopFile.htm"],</seg>
+        <seg>["Loop (arquivos e pastas)","lib/LoopFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Loop (parse a string)","commands/LoopParse.htm"],</seg>
+        <seg>["Loop (parse a string)","lib/LoopParse.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221308Z" creationid="Leo" creationdate="20210703T221308Z">
-        <seg>["Loop (analisar uma string)","commands/LoopParse.htm"],</seg>
+        <seg>["Loop (analisar uma string)","lib/LoopParse.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Loop (read file contents)","commands/LoopReadFile.htm"],</seg>
+        <seg>["Loop (read file contents)","lib/LoopReadFile.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T220841Z" creationid="Leo" creationdate="20210703T220841Z">
-        <seg>["Loop (ler conteúdo de um arquivo)","commands/LoopReadFile.htm"],</seg>
+        <seg>["Loop (ler conteúdo de um arquivo)","lib/LoopReadFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Loop (registry)","commands/LoopReg.htm"]</seg>
+        <seg>["Loop (registry)","lib/LoopReg.htm"]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221319Z" creationid="Leo" creationdate="20210703T221319Z">
-        <seg>["Loop (registro)","commands/LoopReg.htm"]</seg>
+        <seg>["Loop (registro)","lib/LoopReg.htm"]</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Maths","commands/Math.htm",</seg>
+        <seg>["Maths","lib/Math.htm",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222358Z" creationid="Leo" creationdate="20210703T222358Z">
-        <seg>["Operações Matemáticas","commands/Math.htm",</seg>
+        <seg>["Operações Matemáticas","lib/Math.htm",</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["MaxIndex method (Object)","objects/Object.htm#MinMaxIndex"],</seg>
+        <seg>["MaxIndex method (Object)","lib/Object.htm#MinMaxIndex"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054836Z" creationid="Leo" creationdate="20210711T054836Z">
-        <seg>["Método MaxIndex (Objeto)","objects/Object.htm#MinMaxIndex"],</seg>
+        <seg>["Método MaxIndex (Objeto)","lib/Object.htm#MinMaxIndex"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Menu Bar (GUI)","commands/Gui.htm#Menu"],</seg>
+        <seg>["Menu Bar (GUI)","lib/Gui.htm#Menu"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054853Z" creationid="Leo" creationdate="20210711T054853Z">
-        <seg>["Barra de Menu (GUI)","commands/Gui.htm#Menu"],</seg>
+        <seg>["Barra de Menu (GUI)","lib/Gui.htm#Menu"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Menu Icon","commands/Menu.htm#MenuIcon"],</seg>
+        <seg>["Menu Icon","lib/Menu.htm#MenuIcon"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054900Z" creationid="Leo" creationdate="20210711T054900Z">
-        <seg>["Ícone de Menu","commands/Menu.htm#MenuIcon"],</seg>
+        <seg>["Ícone de Menu","lib/Menu.htm#MenuIcon"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["MinIndex method (Object)","objects/Object.htm#MinMaxIndex"],</seg>
+        <seg>["MinIndex method (Object)","lib/Object.htm#MinMaxIndex"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055041Z" creationid="Leo" creationdate="20210711T055041Z">
-        <seg>["Método MinIndex (Objeto)","objects/Object.htm#MinMaxIndex"],</seg>
+        <seg>["Método MinIndex (Objeto)","lib/Object.htm#MinMaxIndex"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18593,10 +18593,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["MonthCal controls (GUI)","commands/GuiControls.htm#MonthCal"],</seg>
+        <seg>["MonthCal controls (GUI)","lib/GuiControls.htm#MonthCal"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055153Z" creationid="Leo" creationdate="20210711T055153Z">
-        <seg>["Controles de MonthCal (GUI)","commands/GuiControls.htm#MonthCal"],</seg>
+        <seg>["Controles de MonthCal (GUI)","lib/GuiControls.htm#MonthCal"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18609,10 +18609,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["NewEnum method (Object)","objects/Object.htm#NewEnum"],</seg>
+        <seg>["NewEnum method (Object)","lib/Object.htm#NewEnum"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055441Z" creationid="Leo" creationdate="20210711T055441Z">
-        <seg>["Método NewEnum (Objeto)","objects/Object.htm#NewEnum"],</seg>
+        <seg>["Método NewEnum (Objeto)","lib/Object.htm#NewEnum"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18633,18 +18633,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Object functions and methods","objects/Object.htm"],</seg>
+        <seg>["Object functions and methods","lib/Object.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055928Z" creationid="Leo" creationdate="20210711T055928Z">
-        <seg>["Funções e métodos de objetos","objects/Object.htm"],</seg>
+        <seg>["Funções e métodos de objetos","lib/Object.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Object","objects/Object.htm"],</seg>
+        <seg>["Object","lib/Object.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T222710Z" creationid="Leo" creationdate="20210703T222710Z">
-        <seg>["Objeto","objects/Object.htm"],</seg>
+        <seg>["Objeto","lib/Object.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18665,34 +18665,34 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Owner of a GUI window","commands/Gui.htm#Owner"],</seg>
+        <seg>["Owner of a GUI window","lib/Gui.htm#Owner"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060017Z" creationid="Leo" creationdate="20210711T060017Z">
-        <seg>["Proprietário de uma janela de GUI","commands/Gui.htm#Owner"],</seg>
+        <seg>["Proprietário de uma janela de GUI","lib/Gui.htm#Owner"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Picture controls (GUI)","commands/GuiControls.htm#Picture"],</seg>
+        <seg>["Picture controls (GUI)","lib/GuiControls.htm#Picture"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060154Z" creationid="Leo" creationdate="20210711T060154Z">
-        <seg>["Controles de imagens (GUI)","commands/GuiControls.htm#Picture"],</seg>
+        <seg>["Controles de imagens (GUI)","lib/GuiControls.htm#Picture"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Pop method (Object)","objects/Object.htm#Pop"],</seg>
+        <seg>["Pop method (Object)","lib/Object.htm#Pop"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060318Z" creationid="Leo" creationdate="20210711T060318Z">
-        <seg>["Método Pop (Objeto)","objects/Object.htm#Pop"],</seg>
+        <seg>["Método Pop (Objeto)","lib/Object.htm#Pop"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Pos property (File)","objects/File.htm#Seek"],</seg>
+        <seg>["Pos property (File)","lib/File.htm#Seek"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060346Z" creationid="Leo" creationdate="20210711T060346Z">
-        <seg>["Propriedade Pos (Arquivo)","objects/File.htm#Seek"],</seg>
+        <seg>["Propriedade Pos (Arquivo)","lib/File.htm#Seek"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18713,90 +18713,90 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Progress controls (GUI)","commands/GuiControls.htm#Progress"],</seg>
+        <seg>["Progress controls (GUI)","lib/GuiControls.htm#Progress"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060545Z" creationid="Leo" creationdate="20210711T060545Z">
-        <seg>["Controles de progresso (GUI)","commands/GuiControls.htm#Progress"],</seg>
+        <seg>["Controles de progresso (GUI)","lib/GuiControls.htm#Progress"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Push method (Object)","objects/Object.htm#Push"],</seg>
+        <seg>["Push method (Object)","lib/Object.htm#Push"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060618Z" creationid="Leo" creationdate="20210711T060618Z">
-        <seg>["método Push (Objeto)","objects/Object.htm#Push"],</seg>
+        <seg>["método Push (Objeto)","lib/Object.htm#Push"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Quick Reference","AutoHotkey.htm"],</seg>
+        <seg>["Quick Reference","index.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T101752Z" creationid="Leo" creationdate="20210703T101752Z">
-        <seg>["Referência Rápida","AutoHotkey.htm"],</seg>
+        <seg>["Referência Rápida","index.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["RGB color names","commands/Progress.htm#colors"],</seg>
+        <seg>["RGB color names","lib/Progress.htm#colors"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061804Z" creationid="Leo" creationdate="20210711T061804Z">
-        <seg>["Nomes das cores RGB","commands/Progress.htm#colors"],</seg>
+        <seg>["Nomes das cores RGB","lib/Progress.htm#colors"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["RGB colors","commands/PixelGetColor.htm"],</seg>
+        <seg>["RGB colors","lib/PixelGetColor.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061809Z" creationid="Leo" creationdate="20210711T061809Z">
-        <seg>["Cores RGB","commands/PixelGetColor.htm"],</seg>
+        <seg>["Cores RGB","lib/PixelGetColor.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Radio controls (GUI)","commands/GuiControls.htm#Radio"],</seg>
+        <seg>["Radio controls (GUI)","lib/GuiControls.htm#Radio"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060836Z" creationid="Leo" creationdate="20210711T060836Z">
-        <seg>["Controles de botões de seleção (GUI)","commands/GuiControls.htm#Radio"],</seg>
+        <seg>["Controles de botões de seleção (GUI)","lib/GuiControls.htm#Radio"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["RawRead method (File)","objects/File.htm#RawRead"],</seg>
+        <seg>["RawRead method (File)","lib/File.htm#RawRead"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061010Z" creationid="Leo" creationdate="20210711T061010Z">
-        <seg>["Método RawRead (Arquivo)","objects/File.htm#RawRead"],</seg>
+        <seg>["Método RawRead (Arquivo)","lib/File.htm#RawRead"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["RawWrite method (File)","objects/File.htm#RawWrite"],</seg>
+        <seg>["RawWrite method (File)","lib/File.htm#RawWrite"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061029Z" creationid="Leo" creationdate="20210711T061029Z">
-        <seg>["Método RawWrite (Arquivo)","objects/File.htm#RawWrite"],</seg>
+        <seg>["Método RawWrite (Arquivo)","lib/File.htm#RawWrite"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Read method (File)","objects/File.htm#Read"],</seg>
+        <seg>["Read method (File)","lib/File.htm#Read"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061047Z" creationid="Leo" creationdate="20210711T061047Z">
-        <seg>["Método Read (Arquivo)","objects/File.htm#Read"],</seg>
+        <seg>["Método Read (Arquivo)","lib/File.htm#Read"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["ReadLine method (File)","objects/File.htm#ReadLine"],</seg>
+        <seg>["ReadLine method (File)","lib/File.htm#ReadLine"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061059Z" creationid="Leo" creationdate="20210711T061059Z">
-        <seg>["Método ReadLine (Arquivo)","objects/File.htm#ReadLine"],</seg>
+        <seg>["Método ReadLine (Arquivo)","lib/File.htm#ReadLine"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["ReadNumType method (File)","objects/File.htm#ReadNum"],</seg>
+        <seg>["ReadNumType method (File)","lib/File.htm#ReadNum"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061111Z" creationid="Leo" creationdate="20210711T061111Z">
-        <seg>["Método ReadNumType (Arquivo)","objects/File.htm#ReadNum"],</seg>
+        <seg>["Método ReadNumType (Arquivo)","lib/File.htm#ReadNum"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18825,10 +18825,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["RegExMatch Object","commands/RegExMatch.htm#MatchObject"]</seg>
+        <seg>["RegExMatch Object","lib/RegExMatch.htm#MatchObject"]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T223729Z" creationid="Leo" creationdate="20210703T223729Z">
-        <seg>["RegExMatch","commands/RegExMatch.htm#MatchObject"]</seg>
+        <seg>["RegExMatch","lib/RegExMatch.htm#MatchObject"]</seg>
       </tuv>
     </tu>
     <tu>
@@ -18857,18 +18857,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Remove method (Object)","objects/Object.htm#Remove"],</seg>
+        <seg>["Remove method (Object)","lib/Object.htm#Remove"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061719Z" creationid="Leo" creationdate="20210711T061719Z">
-        <seg>["Método Remove (Objeto)","objects/Object.htm#Remove"],</seg>
+        <seg>["Método Remove (Objeto)","lib/Object.htm#Remove"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["RemoveAt method (Object)","objects/Object.htm#RemoveAt"],</seg>
+        <seg>["RemoveAt method (Object)","lib/Object.htm#RemoveAt"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061727Z" creationid="Leo" creationdate="20210711T061727Z">
-        <seg>["Método RemoveAt (Objeto)","objects/Object.htm#RemoveAt"],</seg>
+        <seg>["Método RemoveAt (Objeto)","lib/Object.htm#RemoveAt"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18913,10 +18913,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Seek method (File)","objects/File.htm#Seek"],</seg>
+        <seg>["Seek method (File)","lib/File.htm#Seek"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062007Z" creationid="Leo" creationdate="20210711T062007Z">
-        <seg>["Método Seek (Arquivo)","objects/File.htm#Seek"],</seg>
+        <seg>["Método Seek (Arquivo)","lib/File.htm#Seek"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18929,10 +18929,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["SetCapacity method (Object)","objects/Object.htm#SetCapacity"],</seg>
+        <seg>["SetCapacity method (Object)","lib/Object.htm#SetCapacity"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062201Z" creationid="Leo" creationdate="20210711T062201Z">
-        <seg>["Método SetCapacity (Objeto)","objects/Object.htm#SetCapacity"],</seg>
+        <seg>["Método SetCapacity (Objeto)","lib/Object.htm#SetCapacity"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18945,10 +18945,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Slider controls (GUI)","commands/GuiControls.htm#Slider"],</seg>
+        <seg>["Slider controls (GUI)","lib/GuiControls.htm#Slider"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062442Z" creationid="Leo" creationdate="20210711T062442Z">
-        <seg>["Controles de Slider (GUI)","commands/GuiControls.htm#Slider"],</seg>
+        <seg>["Controles de Slider (GUI)","lib/GuiControls.htm#Slider"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -18969,10 +18969,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["StatusBar controls (GUI)","commands/GuiControls.htm#StatusBar"],</seg>
+        <seg>["StatusBar controls (GUI)","lib/GuiControls.htm#StatusBar"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063140Z" creationid="Leo" creationdate="20210711T063140Z">
-        <seg>["Controles da barra de status (GUI)","commands/GuiControls.htm#StatusBar"],</seg>
+        <seg>["Controles da barra de status (GUI)","lib/GuiControls.htm#StatusBar"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19001,34 +19001,34 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Tab controls (GUI)","commands/GuiControls.htm#Tab"],</seg>
+        <seg>["Tab controls (GUI)","lib/GuiControls.htm#Tab"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063650Z" creationid="Leo" creationdate="20210711T063650Z">
-        <seg>["Controles de várias abas (GUI)","commands/GuiControls.htm#Tab"],</seg>
+        <seg>["Controles de várias abas (GUI)","lib/GuiControls.htm#Tab"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Tell method (File)","objects/File.htm#Tell"],</seg>
+        <seg>["Tell method (File)","lib/File.htm#Tell"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063706Z" creationid="Leo" creationdate="20210711T063706Z">
-        <seg>["Método Tell (Arquivo)","objects/File.htm#Tell"],</seg>
+        <seg>["Método Tell (Arquivo)","lib/File.htm#Tell"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Text controls (GUI)","commands/GuiControls.htm#Text"],</seg>
+        <seg>["Text controls (GUI)","lib/GuiControls.htm#Text"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063745Z" creationid="Leo" creationdate="20210711T063745Z">
-        <seg>["Controles de texto (GUI)","commands/GuiControls.htm#Text"],</seg>
+        <seg>["Controles de texto (GUI)","lib/GuiControls.htm#Text"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Thread","commands/Thread.htm",6,"SEE"],</seg>
+        <seg>["Thread","lib/Thread.htm",6,"SEE"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T084053Z" creationid="Leo" creationdate="20210711T063831Z">
-        <seg>["Thread","commands/Thread.htm",6,"SEE"],</seg>
+        <seg>["Thread","lib/Thread.htm",6,"SEE"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19041,18 +19041,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Timer (timed subroutines)","commands/SetTimer.htm"],</seg>
+        <seg>["Timer (timed subroutines)","lib/SetTimer.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T072110Z" creationid="Leo" creationdate="20210711T064120Z">
-        <seg>["Timer (sub-rotinas baseadas em tempo)","commands/SetTimer.htm"],</seg>
+        <seg>["Timer (sub-rotinas baseadas em tempo)","lib/SetTimer.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["TreeView controls (GUI)","commands/TreeView.htm"],</seg>
+        <seg>["TreeView controls (GUI)","lib/TreeView.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064511Z" creationid="Leo" creationdate="20210711T064511Z">
-        <seg>["Controles de visualização em árvore de blocos (GUI)","commands/TreeView.htm"],</seg>
+        <seg>["Controles de visualização em árvore de blocos (GUI)","lib/TreeView.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19065,18 +19065,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Unicode text and clipboard","commands/Transform.htm"],</seg>
+        <seg>["Unicode text and clipboard","lib/Transform.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T072030Z" creationid="Leo" creationdate="20210711T064549Z">
-        <seg>["Texto Unicode e área de transferência","commands/Transform.htm"],</seg>
+        <seg>["Texto Unicode e área de transferência","lib/Transform.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["UpDown controls (GUI)","commands/GuiControls.htm#UpDown"],</seg>
+        <seg>["UpDown controls (GUI)","lib/GuiControls.htm#UpDown"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064718Z" creationid="Leo" creationdate="20210711T064718Z">
-        <seg>["Controles de setas de incremento/diminuição (GUI)","commands/GuiControls.htm#UpDown"],</seg>
+        <seg>["Controles de setas de incremento/diminuição (GUI)","lib/GuiControls.htm#UpDown"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19129,18 +19129,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Wheel, simulating rotation","commands/Click.htm"],</seg>
+        <seg>["Wheel, simulating rotation","lib/Click.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065709Z" creationid="Leo" creationdate="20210711T065709Z">
-        <seg>["Roda, simular rotação","commands/Click.htm"],</seg>
+        <seg>["Roda, simular rotação","lib/Click.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["While-loop","commands/While.htm"]</seg>
+        <seg>["While-loop","lib/While.htm"]</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T221429Z" creationid="Leo" creationdate="20210703T221429Z">
-        <seg>["Loop com While","commands/While.htm"]</seg>
+        <seg>["Loop com While","lib/While.htm"]</seg>
       </tuv>
     </tu>
     <tu>
@@ -19177,26 +19177,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["Write method (File)","objects/File.htm#Write"],</seg>
+        <seg>["Write method (File)","lib/File.htm#Write"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070155Z" creationid="Leo" creationdate="20210711T070155Z">
-        <seg>["Método Write (Arquivo)","objects/File.htm#Write"],</seg>
+        <seg>["Método Write (Arquivo)","lib/File.htm#Write"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["WriteLine method (File)","objects/File.htm#WriteLine"],</seg>
+        <seg>["WriteLine method (File)","lib/File.htm#WriteLine"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070214Z" creationid="Leo" creationdate="20210711T070202Z">
-        <seg>["Método WriteLine (Arquivo)","objects/File.htm#WriteLine"],</seg>
+        <seg>["Método WriteLine (Arquivo)","lib/File.htm#WriteLine"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["WriteNumType method (File)","objects/File.htm#WriteNum"],</seg>
+        <seg>["WriteNumType method (File)","lib/File.htm#WriteNum"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070230Z" creationid="Leo" creationdate="20210711T070230Z">
-        <seg>["Método WriteNumType (Arquivo)","objects/File.htm#WriteNum"],</seg>
+        <seg>["Método WriteNumType (Arquivo)","lib/File.htm#WriteNum"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19209,26 +19209,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["absolute value, abs()","commands/Math.htm#Abs"],</seg>
+        <seg>["absolute value, abs()","lib/Math.htm#Abs"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T085841Z" creationid="Leo" creationdate="20210703T233843Z">
-        <seg>["valor absoluto, módulo, abs()","commands/Math.htm#Abs"],</seg>
+        <seg>["valor absoluto, módulo, abs()","lib/Math.htm#Abs"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["activate a window","commands/WinActivate.htm"],</seg>
+        <seg>["activate a window","lib/WinActivate.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233857Z" creationid="Leo" creationdate="20210703T233857Z">
-        <seg>["ativar uma janela","commands/WinActivate.htm"],</seg>
+        <seg>["ativar uma janela","lib/WinActivate.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["add","commands/EnvAdd.htm"],</seg>
+        <seg>["add","lib/EnvAdd.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T233950Z" creationid="Leo" creationdate="20210703T233950Z">
-        <seg>["adição","commands/EnvAdd.htm"],</seg>
+        <seg>["adição","lib/EnvAdd.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19241,10 +19241,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["append to file","commands/FileAppend.htm"],</seg>
+        <seg>["append to file","lib/FileAppend.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040750Z" creationid="Leo" creationdate="20210704T040750Z">
-        <seg>["acrescentar a um arquivo","commands/FileAppend.htm"],</seg>
+        <seg>["acrescentar a um arquivo","lib/FileAppend.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19257,10 +19257,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["attributes of files and folders","commands/FileGetAttrib.htm"],</seg>
+        <seg>["attributes of files and folders","lib/FileGetAttrib.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040820Z" creationid="Leo" creationdate="20210704T040820Z">
-        <seg>["atributos de arquivos e pastas","commands/FileGetAttrib.htm"],</seg>
+        <seg>["atributos de arquivos e pastas","lib/FileGetAttrib.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19281,10 +19281,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["balloon tip","commands/TrayTip.htm"],</seg>
+        <seg>["balloon tip","lib/TrayTip.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T040926Z" creationid="Leo" creationdate="20210704T040926Z">
-        <seg>["Balão de aviso","commands/TrayTip.htm"],</seg>
+        <seg>["Balão de aviso","lib/TrayTip.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19297,26 +19297,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["base property (Object)","objects/Object.htm#Base"],</seg>
+        <seg>["base property (Object)","lib/Object.htm#Base"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090019Z" creationid="Leo" creationdate="20210704T041002Z">
-        <seg>["propriedade-base (Objeto)","objects/Object.htm#Base"],</seg>
+        <seg>["propriedade-base (Objeto)","lib/Object.htm#Base"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["beep the PC speaker","commands/SoundBeep.htm"],</seg>
+        <seg>["beep the PC speaker","lib/SoundBeep.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041102Z" creationid="Leo" creationdate="20210704T041102Z">
-        <seg>["soar o autofalante do PC","commands/SoundBeep.htm"],</seg>
+        <seg>["soar o autofalante do PC","lib/SoundBeep.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["between (check if var between two values)","commands/IfBetween.htm"],</seg>
+        <seg>["between (check if var between two values)","lib/IfBetween.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041125Z" creationid="Leo" creationdate="20210704T041125Z">
-        <seg>["between (checar se a variável está entre dois valores)","commands/IfBetween.htm"],</seg>
+        <seg>["between (checar se a variável está entre dois valores)","lib/IfBetween.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19329,18 +19329,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["blind-mode Send","commands/Send.htm#blind"],</seg>
+        <seg>["blind-mode Send","lib/Send.htm#blind"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210729T134613Z" creationid="Leo" creationdate="20210704T041619Z">
-        <seg>["Send em modo blind","commands/Send.htm#blind"],</seg>
+        <seg>["Send em modo blind","lib/Send.htm#blind"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["blocks (lines enclosed in braces)","commands/Block.htm"],</seg>
+        <seg>["blocks (lines enclosed in braces)","lib/Block.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T041637Z" creationid="Leo" creationdate="20210704T041637Z">
-        <seg>["blocos (linhas envoltas por chaves)","commands/Block.htm"],</seg>
+        <seg>["blocos (linhas envoltas por chaves)","lib/Block.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19369,42 +19369,42 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["button state","commands/GetKeyState.htm#function"],</seg>
+        <seg>["button state","lib/GetKeyState.htm#function"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210704T042655Z" creationid="Leo" creationdate="20210704T042655Z">
-        <seg>["estado de um botão","commands/GetKeyState.htm#function"],</seg>
+        <seg>["estado de um botão","lib/GetKeyState.htm#function"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["callbacks","commands/RegisterCallback.htm"],</seg>
+        <seg>["callbacks","lib/RegisterCallback.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T064708Z" creationid="Leo" creationdate="20210709T064708Z">
-        <seg>["Funções de retorno","commands/RegisterCallback.htm"],</seg>
+        <seg>["Funções de retorno","lib/RegisterCallback.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["case sensitive strings","commands/StringCaseSense.htm"],</seg>
+        <seg>["case sensitive strings","lib/StringCaseSense.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T064736Z" creationid="Leo" creationdate="20210709T064736Z">
-        <seg>["Strings que diferenciam maiúsculas de minúsculas","commands/StringCaseSense.htm"],</seg>
+        <seg>["Strings que diferenciam maiúsculas de minúsculas","lib/StringCaseSense.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["choose file","commands/FileSelectFile.htm"],</seg>
+        <seg>["choose file","lib/FileSelectFile.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T064939Z" creationid="Leo" creationdate="20210709T064939Z">
-        <seg>["selecionar um arquivo","commands/FileSelectFile.htm"],</seg>
+        <seg>["selecionar um arquivo","lib/FileSelectFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["choose folder","commands/FileSelectFolder.htm"],</seg>
+        <seg>["choose folder","lib/FileSelectFolder.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T064948Z" creationid="Leo" creationdate="20210709T064948Z">
-        <seg>["selecionar uma pasta","commands/FileSelectFolder.htm"],</seg>
+        <seg>["selecionar uma pasta","lib/FileSelectFolder.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19417,10 +19417,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["class name of a window","commands/WinGetClass.htm"],</seg>
+        <seg>["class name of a window","lib/WinGetClass.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065153Z" creationid="Leo" creationdate="20210709T065153Z">
-        <seg>["nome de classe de uma janela","commands/WinGetClass.htm"],</seg>
+        <seg>["nome de classe de uma janela","lib/WinGetClass.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19433,26 +19433,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["close a window","commands/WinClose.htm"],</seg>
+        <seg>["close a window","lib/WinClose.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065359Z" creationid="Leo" creationdate="20210709T065359Z">
-        <seg>["fechar uma janela","commands/WinClose.htm"],</seg>
+        <seg>["fechar uma janela","lib/WinClose.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["color names, RGB/HTML","commands/Progress.htm#colors"],</seg>
+        <seg>["color names, RGB/HTML","lib/Progress.htm#colors"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065437Z" creationid="Leo" creationdate="20210709T065437Z">
-        <seg>["nomes das cores, RGB/HTML","commands/Progress.htm#colors"],</seg>
+        <seg>["nomes das cores, RGB/HTML","lib/Progress.htm#colors"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["color of pixels","commands/PixelSearch.htm"],</seg>
+        <seg>["color of pixels","lib/PixelSearch.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065455Z" creationid="Leo" creationdate="20210709T065455Z">
-        <seg>["cor dos píxeis","commands/PixelSearch.htm"],</seg>
+        <seg>["cor dos píxeis","lib/PixelSearch.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19473,10 +19473,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["commands, alphabetical list","commands/index.htm"],</seg>
+        <seg>["commands, alphabetical list","lib/index.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T065705Z" creationid="Leo" creationdate="20210709T065705Z">
-        <seg>["Comandos, lista em ordem alfabética","commands/index.htm"],</seg>
+        <seg>["Comandos, lista em ordem alfabética","lib/index.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19521,10 +19521,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["context menu (GUI)","commands/Gui.htm#GuiContextMenu"],</seg>
+        <seg>["context menu (GUI)","lib/Gui.htm#GuiContextMenu"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070116Z" creationid="Leo" creationdate="20210709T070116Z">
-        <seg>["Menu de contexto (GUI)","commands/Gui.htm#GuiContextMenu"],</seg>
+        <seg>["Menu de contexto (GUI)","lib/Gui.htm#GuiContextMenu"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19553,50 +19553,50 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["coordinates","commands/CoordMode.htm"],</seg>
+        <seg>["coordinates","lib/CoordMode.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070255Z" creationid="Leo" creationdate="20210709T070255Z">
-        <seg>["coordenadas","commands/CoordMode.htm"],</seg>
+        <seg>["coordenadas","lib/CoordMode.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["copy file","commands/FileCopy.htm"],</seg>
+        <seg>["copy file","lib/FileCopy.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070305Z" creationid="Leo" creationdate="20210709T070305Z">
-        <seg>["copiar arquivo","commands/FileCopy.htm"],</seg>
+        <seg>["copiar arquivo","lib/FileCopy.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["copy folder/directory","commands/FileCopyDir.htm"],</seg>
+        <seg>["copy folder/directory","lib/FileCopyDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070315Z" creationid="Leo" creationdate="20210709T070315Z">
-        <seg>["copiar pasta/diretório","commands/FileCopyDir.htm"],</seg>
+        <seg>["copiar pasta/diretório","lib/FileCopyDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["create file","commands/FileAppend.htm"],</seg>
+        <seg>["create file","lib/FileAppend.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070349Z" creationid="Leo" creationdate="20210709T070349Z">
-        <seg>["Criar um arquivo","commands/FileAppend.htm"],</seg>
+        <seg>["Criar um arquivo","lib/FileAppend.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["create folder/directory","commands/FileCreateDir.htm"],</seg>
+        <seg>["create folder/directory","lib/FileCreateDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070401Z" creationid="Leo" creationdate="20210709T070401Z">
-        <seg>["criar uma pasta/diretório","commands/FileCreateDir.htm"],</seg>
+        <seg>["criar uma pasta/diretório","lib/FileCreateDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["current directory","commands/SetWorkingDir.htm"],</seg>
+        <seg>["current directory","lib/SetWorkingDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070425Z" creationid="Leo" creationdate="20210709T070425Z">
-        <seg>["diretório atual","commands/SetWorkingDir.htm"],</seg>
+        <seg>["diretório atual","lib/SetWorkingDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19625,34 +19625,34 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["dates and times (compare)","commands/EnvSub.htm"],</seg>
+        <seg>["dates and times (compare)","lib/EnvSub.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070653Z" creationid="Leo" creationdate="20210709T070653Z">
-        <seg>["datas e horários (comparar)","commands/EnvSub.htm"],</seg>
+        <seg>["datas e horários (comparar)","lib/EnvSub.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["dates and times (math)","commands/EnvAdd.htm"],</seg>
+        <seg>["dates and times (math)","lib/EnvAdd.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090206Z" creationid="Leo" creationdate="20210709T070708Z">
-        <seg>["datas e horários (operações matemáticas)","commands/EnvAdd.htm"],</seg>
+        <seg>["datas e horários (operações matemáticas)","lib/EnvAdd.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["dates and times (of files)","commands/FileSetTime.htm"],</seg>
+        <seg>["dates and times (of files)","lib/FileSetTime.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090220Z" creationid="Leo" creationdate="20210709T070721Z">
-        <seg>["datas e horários (de arquivos)","commands/FileSetTime.htm"],</seg>
+        <seg>["datas e horários (de arquivos)","lib/FileSetTime.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["debugger","commands/OutputDebug.htm"],</seg>
+        <seg>["debugger","lib/OutputDebug.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070753Z" creationid="Leo" creationdate="20210709T070753Z">
-        <seg>["depurador","commands/OutputDebug.htm"],</seg>
+        <seg>["depurador","lib/OutputDebug.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19665,66 +19665,66 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["decimal places","commands/Format.htm"],</seg>
+        <seg>["decimal places","lib/Format.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070808Z" creationid="Leo" creationdate="20210709T070808Z">
-        <seg>["casas decimais","commands/Format.htm"],</seg>
+        <seg>["casas decimais","lib/Format.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["delete files","commands/FileDelete.htm"],</seg>
+        <seg>["delete files","lib/FileDelete.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T070846Z" creationid="Leo" creationdate="20210709T070846Z">
-        <seg>["excluir arquivos","commands/FileDelete.htm"],</seg>
+        <seg>["excluir arquivos","lib/FileDelete.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["delete folder/directory","commands/FileRemoveDir.htm"],</seg>
+        <seg>["delete folder/directory","lib/FileRemoveDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090236Z" creationid="Leo" creationdate="20210709T070909Z">
-        <seg>["excluir uma pasta/diretório","commands/FileRemoveDir.htm"],</seg>
+        <seg>["excluir uma pasta/diretório","lib/FileRemoveDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["dialog FileSelectFile","commands/FileSelectFile.htm"],</seg>
+        <seg>["dialog FileSelectFile","lib/FileSelectFile.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071020Z" creationid="Leo" creationdate="20210709T071020Z">
-        <seg>["caixa de diálogo FileSelectFile","commands/FileSelectFile.htm"],</seg>
+        <seg>["caixa de diálogo FileSelectFile","lib/FileSelectFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["dialog FileSelectFolder","commands/FileSelectFolder.htm"],</seg>
+        <seg>["dialog FileSelectFolder","lib/FileSelectFolder.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071034Z" creationid="Leo" creationdate="20210709T071034Z">
-        <seg>["caixa de diálogo FileSelectFolder","commands/FileSelectFolder.htm"],</seg>
+        <seg>["caixa de diálogo FileSelectFolder","lib/FileSelectFolder.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["dialog InputBox","commands/InputBox.htm"],</seg>
+        <seg>["dialog InputBox","lib/InputBox.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090308Z" creationid="Leo" creationdate="20210709T071045Z">
-        <seg>["caixa de diálogo InputBox","commands/InputBox.htm"],</seg>
+        <seg>["caixa de diálogo InputBox","lib/InputBox.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["dialog MsgBox","commands/MsgBox.htm"],</seg>
+        <seg>["dialog MsgBox","lib/MsgBox.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090348Z" creationid="Leo" creationdate="20210709T071053Z">
-        <seg>["caixa de diálogo MsgBox","commands/MsgBox.htm"],</seg>
+        <seg>["caixa de diálogo MsgBox","lib/MsgBox.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["disk space","commands/DriveSpaceFree.htm"],</seg>
+        <seg>["disk space","lib/DriveSpaceFree.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071119Z" creationid="Leo" creationdate="20210709T071119Z">
-        <seg>["espaço em disco","commands/DriveSpaceFree.htm"],</seg>
+        <seg>["espaço em disco","lib/DriveSpaceFree.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19745,26 +19745,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["download a file","commands/URLDownloadToFile.htm"],</seg>
+        <seg>["download a file","lib/URLDownloadToFile.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071453Z" creationid="Leo" creationdate="20210709T071453Z">
-        <seg>["baixar um arquivo","commands/URLDownloadToFile.htm"],</seg>
+        <seg>["baixar um arquivo","lib/URLDownloadToFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["drag and drop (GUI windows)","commands/Gui.htm#GuiDropFiles"],</seg>
+        <seg>["drag and drop (GUI windows)","lib/Gui.htm#GuiDropFiles"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071605Z" creationid="Leo" creationdate="20210709T071605Z">
-        <seg>["arrastar-e-soltar (janelas de GUI)","commands/Gui.htm#GuiDropFiles"],</seg>
+        <seg>["arrastar-e-soltar (janelas de GUI)","lib/Gui.htm#GuiDropFiles"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["drag the mouse","commands/MouseClickDrag.htm"],</seg>
+        <seg>["drag the mouse","lib/MouseClickDrag.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T071611Z" creationid="Leo" creationdate="20210709T071611Z">
-        <seg>["arrastar o mouse","commands/MouseClickDrag.htm"],</seg>
+        <seg>["arrastar o mouse","lib/MouseClickDrag.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19785,10 +19785,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["environment variables (change them)","commands/EnvSet.htm"],</seg>
+        <seg>["environment variables (change them)","lib/EnvSet.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072015Z" creationid="Leo" creationdate="20210709T072015Z">
-        <seg>["variáveis de ambiente (alterá-las)","commands/EnvSet.htm"],</seg>
+        <seg>["variáveis de ambiente (alterá-las)","lib/EnvSet.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19817,162 +19817,162 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["file attributes","commands/FileSetAttrib.htm"],</seg>
+        <seg>["file attributes","lib/FileSetAttrib.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072115Z" creationid="Leo" creationdate="20210709T072115Z">
-        <seg>["atributos de arquivos","commands/FileSetAttrib.htm"],</seg>
+        <seg>["atributos de arquivos","lib/FileSetAttrib.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["file or folder (does it exist)","commands/IfExist.htm"],</seg>
+        <seg>["file or folder (does it exist)","lib/IfExist.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072216Z" creationid="Leo" creationdate="20210709T072216Z">
-        <seg>["arquivo ou pasta (determinar se existe)","commands/IfExist.htm"],</seg>
+        <seg>["arquivo ou pasta (determinar se existe)","lib/IfExist.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["file pattern","commands/LoopFile.htm"],</seg>
+        <seg>["file pattern","lib/LoopFile.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072406Z" creationid="Leo" creationdate="20210709T072406Z">
-        <seg>["padrão de caminho de arquivo","commands/LoopFile.htm"],</seg>
+        <seg>["padrão de caminho de arquivo","lib/LoopFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["file, creating","commands/FileAppend.htm"],</seg>
+        <seg>["file, creating","lib/FileAppend.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072416Z" creationid="Leo" creationdate="20210709T072416Z">
-        <seg>["arquivo, criar","commands/FileAppend.htm"],</seg>
+        <seg>["arquivo, criar","lib/FileAppend.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["file, reading","commands/LoopReadFile.htm"],</seg>
+        <seg>["file, reading","lib/LoopReadFile.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072841Z" creationid="Leo" creationdate="20210709T072426Z">
-        <seg>["arquivo, ler","commands/LoopReadFile.htm"],</seg>
+        <seg>["arquivo, ler","lib/LoopReadFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["file, writing/appending","commands/FileAppend.htm"],</seg>
+        <seg>["file, writing/appending","lib/FileAppend.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072437Z" creationid="Leo" creationdate="20210709T072437Z">
-        <seg>["arquivo, gravar/acrescentar","commands/FileAppend.htm"],</seg>
+        <seg>["arquivo, gravar/acrescentar","lib/FileAppend.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["find a file","commands/IfExist.htm"],</seg>
+        <seg>["find a file","lib/IfExist.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072458Z" creationid="Leo" creationdate="20210709T072458Z">
-        <seg>["encontrar um arquivo","commands/IfExist.htm"],</seg>
+        <seg>["encontrar um arquivo","lib/IfExist.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["find a string","commands/StringGetPos.htm"],</seg>
+        <seg>["find a string","lib/StringGetPos.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072814Z" creationid="Leo" creationdate="20210709T072505Z">
-        <seg>["encontrar uma string","commands/StringGetPos.htm"],</seg>
+        <seg>["encontrar uma string","lib/StringGetPos.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["find a window","commands/WinExist.htm"],</seg>
+        <seg>["find a window","lib/WinExist.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210711T090432Z" creationid="Leo" creationdate="20210709T072511Z">
-        <seg>["encontrar uma janela","commands/WinExist.htm"],</seg>
+        <seg>["encontrar uma janela","lib/WinExist.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["floating point (Format)","commands/Format.htm"],</seg>
+        <seg>["floating point (Format)","lib/Format.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072749Z" creationid="Leo" creationdate="20210709T072607Z">
-        <seg>["ponto flutuante (Format)","commands/Format.htm"],</seg>
+        <seg>["ponto flutuante (Format)","lib/Format.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["floating point (check if it is one)","commands/IfIs.htm"],</seg>
+        <seg>["floating point (check if it is one)","lib/IfIs.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072526Z" creationid="Leo" creationdate="20210709T072526Z">
-        <seg>["ponto flutuante (verificar se se trata de um)","commands/IfIs.htm"],</seg>
+        <seg>["ponto flutuante (verificar se se trata de um)","lib/IfIs.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["focus","commands/ControlFocus.htm"],</seg>
+        <seg>["focus","lib/ControlFocus.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072617Z" creationid="Leo" creationdate="20210709T072617Z">
-        <seg>["foco","commands/ControlFocus.htm"],</seg>
+        <seg>["foco","lib/ControlFocus.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["folder/directory copy","commands/FileCopyDir.htm"],</seg>
+        <seg>["folder/directory copy","lib/FileCopyDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072634Z" creationid="Leo" creationdate="20210709T072634Z">
-        <seg>["copiar pasta/diretório","commands/FileCopyDir.htm"],</seg>
+        <seg>["copiar pasta/diretório","lib/FileCopyDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["folder/directory create","commands/FileCreateDir.htm"],</seg>
+        <seg>["folder/directory create","lib/FileCreateDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072733Z" creationid="Leo" creationdate="20210709T072641Z">
-        <seg>["criar pasta/diretório","commands/FileCreateDir.htm"],</seg>
+        <seg>["criar pasta/diretório","lib/FileCreateDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["folder/directory move","commands/FileMoveDir.htm"],</seg>
+        <seg>["folder/directory move","lib/FileMoveDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072713Z" creationid="Leo" creationdate="20210709T072645Z">
-        <seg>["mover pasta/diretório","commands/FileMoveDir.htm"],</seg>
+        <seg>["mover pasta/diretório","lib/FileMoveDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["folder/directory remove","commands/FileRemoveDir.htm"],</seg>
+        <seg>["folder/directory remove","lib/FileRemoveDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072706Z" creationid="Leo" creationdate="20210709T072706Z">
-        <seg>["excluir pasta/diretório","commands/FileRemoveDir.htm"],</seg>
+        <seg>["excluir pasta/diretório","lib/FileRemoveDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["folder/directory select","commands/FileSelectFolder.htm"],</seg>
+        <seg>["folder/directory select","lib/FileSelectFolder.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T072925Z" creationid="Leo" creationdate="20210709T072925Z">
-        <seg>["selecionar pasta/diretório","commands/FileSelectFolder.htm"],</seg>
+        <seg>["selecionar pasta/diretório","lib/FileSelectFolder.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["format (defaults)","commands/Format.htm"],</seg>
+        <seg>["format (defaults)","lib/Format.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073000Z" creationid="Leo" creationdate="20210709T073000Z">
-        <seg>["formatar (padrões)","commands/Format.htm"],</seg>
+        <seg>["formatar (padrões)","lib/Format.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["free space","commands/DriveSpaceFree.htm"],</seg>
+        <seg>["free space","lib/DriveSpaceFree.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073013Z" creationid="Leo" creationdate="20210709T073013Z">
-        <seg>["espaço livre","commands/DriveSpaceFree.htm"],</seg>
+        <seg>["espaço livre","lib/DriveSpaceFree.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["function objects","objects/Functor.htm"],</seg>
+        <seg>["function objects","misc/Functor.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073210Z" creationid="Leo" creationdate="20210709T073210Z">
-        <seg>["Objetos de Função","objects/Functor.htm"],</seg>
+        <seg>["Objetos de Função","misc/Functor.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -19993,18 +19993,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["g-label (responding to GUI events)","commands/Gui.htm#label"],</seg>
+        <seg>["g-label (responding to GUI events)","lib/Gui.htm#label"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073252Z" creationid="Leo" creationdate="20210709T073252Z">
-        <seg>["g-label (respondendo a eventos de GUIs)","commands/Gui.htm#label"],</seg>
+        <seg>["g-label (respondendo a eventos de GUIs)","lib/Gui.htm#label"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["game automation","commands/PixelSearch.htm"],</seg>
+        <seg>["game automation","lib/PixelSearch.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073259Z" creationid="Leo" creationdate="20210709T073259Z">
-        <seg>["automação de jogos","commands/PixelSearch.htm"],</seg>
+        <seg>["automação de jogos","lib/PixelSearch.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20017,50 +20017,50 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["hexadecimal format","commands/Format.htm"],</seg>
+        <seg>["hexadecimal format","lib/Format.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073627Z" creationid="Leo" creationdate="20210709T073627Z">
-        <seg>["formato hexadecimal","commands/Format.htm"],</seg>
+        <seg>["formato hexadecimal","lib/Format.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["hibernate or suspend","commands/Shutdown.htm#Suspend"],</seg>
+        <seg>["hibernate or suspend","lib/Shutdown.htm#Suspend"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073636Z" creationid="Leo" creationdate="20210709T073636Z">
-        <seg>["hibernar ou suspender","commands/Shutdown.htm#Suspend"],</seg>
+        <seg>["hibernar ou suspender","lib/Shutdown.htm#Suspend"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["hidden text","commands/DetectHiddenText.htm"],</seg>
+        <seg>["hidden text","lib/DetectHiddenText.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073647Z" creationid="Leo" creationdate="20210709T073647Z">
-        <seg>["texto oculto","commands/DetectHiddenText.htm"],</seg>
+        <seg>["texto oculto","lib/DetectHiddenText.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["hidden windows","commands/DetectHiddenWindows.htm"],</seg>
+        <seg>["hidden windows","lib/DetectHiddenWindows.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073653Z" creationid="Leo" creationdate="20210709T073653Z">
-        <seg>["janelas ocultas","commands/DetectHiddenWindows.htm"],</seg>
+        <seg>["janelas ocultas","lib/DetectHiddenWindows.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["hook","commands/_InstallKeybdHook.htm"],</seg>
+        <seg>["hook","lib/_InstallKeybdHook.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073717Z" creationid="Leo" creationdate="20210709T073717Z">
-        <seg>["gancho","commands/_InstallKeybdHook.htm"],</seg>
+        <seg>["gancho","lib/_InstallKeybdHook.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["icon, changing","commands/Menu.htm#Icon"],</seg>
+        <seg>["icon, changing","lib/Menu.htm#Icon"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210709T073848Z" creationid="Leo" creationdate="20210709T073848Z">
-        <seg>["ícone, alterar","commands/Menu.htm#Icon"],</seg>
+        <seg>["ícone, alterar","lib/Menu.htm#Icon"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20081,18 +20081,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["integer (Format)","commands/Format.htm"],</seg>
+        <seg>["integer (Format)","lib/Format.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053204Z" creationid="Leo" creationdate="20210711T053204Z">
-        <seg>["inteiro (Formato)","commands/Format.htm"],</seg>
+        <seg>["inteiro (Formato)","lib/Format.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["integer (check if it is one)","commands/IfIs.htm"],</seg>
+        <seg>["integer (check if it is one)","lib/IfIs.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053155Z" creationid="Leo" creationdate="20210711T053155Z">
-        <seg>["inteiro (checar se se trata de um)","commands/IfIs.htm"],</seg>
+        <seg>["inteiro (checar se se trata de um)","lib/IfIs.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20105,26 +20105,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["key state","commands/GetKeyState.htm#function"],</seg>
+        <seg>["key state","lib/GetKeyState.htm#function"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053849Z" creationid="Leo" creationdate="20210711T053849Z">
-        <seg>["estado de uma tecla","commands/GetKeyState.htm#function"],</seg>
+        <seg>["estado de uma tecla","lib/GetKeyState.htm#function"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["keyboard hook","commands/_InstallKeybdHook.htm"],</seg>
+        <seg>["keyboard hook","lib/_InstallKeybdHook.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T053857Z" creationid="Leo" creationdate="20210711T053857Z">
-        <seg>["gancho de teclado","commands/_InstallKeybdHook.htm"],</seg>
+        <seg>["gancho de teclado","lib/_InstallKeybdHook.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["keystrokes, sending","commands/Send.htm"],</seg>
+        <seg>["keystrokes, sending","lib/Send.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210729T195604Z" creationid="Leo" creationdate="20210711T053923Z">
-        <seg>["pressionamentos de teclas, enviar","commands/Send.htm"],</seg>
+        <seg>["pressionamentos de teclas, enviar","lib/Send.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20153,10 +20153,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["length of a string","commands/StrLen.htm"],</seg>
+        <seg>["length of a string","lib/StrLen.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054012Z" creationid="Leo" creationdate="20210711T054012Z">
-        <seg>["comprimento de uma string","commands/StrLen.htm"],</seg>
+        <seg>["comprimento de uma string","lib/StrLen.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20185,10 +20185,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["lnk (link/shortcut) file","commands/FileCreateShortcut.htm"],</seg>
+        <seg>["lnk (link/shortcut) file","lib/FileCreateShortcut.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054437Z" creationid="Leo" creationdate="20210711T054437Z">
-        <seg>["arquivo lnk (atalho/link)","commands/FileCreateShortcut.htm"],</seg>
+        <seg>["arquivo lnk (atalho/link)","lib/FileCreateShortcut.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20201,18 +20201,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["logarithm, log()","commands/Math.htm#Log"],</seg>
+        <seg>["logarithm, log()","lib/Math.htm#Log"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054550Z" creationid="Leo" creationdate="20210711T054550Z">
-        <seg>["logaritmo, log()","commands/Math.htm#Log"],</seg>
+        <seg>["logaritmo, log()","lib/Math.htm#Log"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["long file name (converting to)","commands/LoopFile.htm#LoopFileLongPath"],</seg>
+        <seg>["long file name (converting to)","lib/LoopFile.htm#LoopFileLongPath"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054614Z" creationid="Leo" creationdate="20210711T054614Z">
-        <seg>["nome longo de arquivo (converter para)","commands/LoopFile.htm#LoopFileLongPath"],</seg>
+        <seg>["nome longo de arquivo (converter para)","lib/LoopFile.htm#LoopFileLongPath"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20233,10 +20233,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["math functions","commands/Math.htm"],</seg>
+        <seg>["math functions","lib/Math.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054712Z" creationid="Leo" creationdate="20210711T054712Z">
-        <seg>["funções matemáticas","commands/Math.htm"],</seg>
+        <seg>["funções matemáticas","lib/Math.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20257,18 +20257,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["messages, receiving","commands/OnMessage.htm"],</seg>
+        <seg>["messages, receiving","lib/OnMessage.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054932Z" creationid="Leo" creationdate="20210711T054932Z">
-        <seg>["mensagens, receber","commands/OnMessage.htm"],</seg>
+        <seg>["mensagens, receber","lib/OnMessage.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["messages, sending","commands/PostMessage.htm"],</seg>
+        <seg>["messages, sending","lib/PostMessage.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T054938Z" creationid="Leo" creationdate="20210711T054938Z">
-        <seg>["mensagens, enviar","commands/PostMessage.htm"],</seg>
+        <seg>["mensagens, enviar","lib/PostMessage.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20281,106 +20281,106 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["modal (always on top)","commands/MsgBox.htm"],</seg>
+        <seg>["modal (always on top)","lib/MsgBox.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055109Z" creationid="Leo" creationdate="20210711T055109Z">
-        <seg>["modal (sempre no topo)","commands/MsgBox.htm"],</seg>
+        <seg>["modal (sempre no topo)","lib/MsgBox.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["modulo, mod()","commands/Math.htm#Mod"],</seg>
+        <seg>["modulo, mod()","lib/Math.htm#Mod"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055118Z" creationid="Leo" creationdate="20210711T055118Z">
-        <seg>["resto de uma divisão, mod()","commands/Math.htm#Mod"],</seg>
+        <seg>["resto de uma divisão, mod()","lib/Math.htm#Mod"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["mouse hook","commands/_InstallMouseHook.htm"],</seg>
+        <seg>["mouse hook","lib/_InstallMouseHook.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055202Z" creationid="Leo" creationdate="20210711T055202Z">
-        <seg>["gancho de mouse","commands/_InstallMouseHook.htm"],</seg>
+        <seg>["gancho de mouse","lib/_InstallMouseHook.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["mouse speed","commands/SetDefaultMouseSpeed.htm"],</seg>
+        <seg>["mouse speed","lib/SetDefaultMouseSpeed.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055231Z" creationid="Leo" creationdate="20210711T055231Z">
-        <seg>["velocidade do mouse","commands/SetDefaultMouseSpeed.htm"],</seg>
+        <seg>["velocidade do mouse","lib/SetDefaultMouseSpeed.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["mouse wheel","commands/Click.htm"],</seg>
+        <seg>["mouse wheel","lib/Click.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055236Z" creationid="Leo" creationdate="20210711T055236Z">
-        <seg>["roda do mouse","commands/Click.htm"],</seg>
+        <seg>["roda do mouse","lib/Click.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["move a window","commands/WinMove.htm"],</seg>
+        <seg>["move a window","lib/WinMove.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055247Z" creationid="Leo" creationdate="20210711T055247Z">
-        <seg>["mover uma janela","commands/WinMove.htm"],</seg>
+        <seg>["mover uma janela","lib/WinMove.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["move file","commands/FileMove.htm"],</seg>
+        <seg>["move file","lib/FileMove.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055255Z" creationid="Leo" creationdate="20210711T055255Z">
-        <seg>["mover um arquivo","commands/FileMove.htm"],</seg>
+        <seg>["mover um arquivo","lib/FileMove.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["move folder/directory","commands/FileMoveDir.htm"],</seg>
+        <seg>["move folder/directory","lib/FileMoveDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055304Z" creationid="Leo" creationdate="20210711T055304Z">
-        <seg>["mover uma pasta/diretório","commands/FileMoveDir.htm"],</seg>
+        <seg>["mover uma pasta/diretório","lib/FileMoveDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["multiply","commands/EnvMult.htm"],</seg>
+        <seg>["multiply","lib/EnvMult.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055351Z" creationid="Leo" creationdate="20210711T055351Z">
-        <seg>["multiplicar","commands/EnvMult.htm"],</seg>
+        <seg>["multiplicar","lib/EnvMult.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["mute (changing it)","commands/SoundSet.htm"],</seg>
+        <seg>["mute (changing it)","lib/SoundSet.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055402Z" creationid="Leo" creationdate="20210711T055402Z">
-        <seg>["mutar (alterar)","commands/SoundSet.htm"],</seg>
+        <seg>["mutar (alterar)","lib/SoundSet.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["number format","commands/Format.htm"],</seg>
+        <seg>["number format","lib/Format.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055528Z" creationid="Leo" creationdate="20210711T055521Z">
-        <seg>["formato de número","commands/Format.htm"],</seg>
+        <seg>["formato de número","lib/Format.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["number","commands/IfIs.htm"],</seg>
+        <seg>["number","lib/IfIs.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055508Z" creationid="Leo" creationdate="20210711T055508Z">
-        <seg>["number (tipo de dados)","commands/IfIs.htm"],</seg>
+        <seg>["number (tipo de dados)","lib/IfIs.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["open file","commands/FileOpen.htm"],</seg>
+        <seg>["open file","lib/FileOpen.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T055946Z" creationid="Leo" creationdate="20210711T055946Z">
-        <seg>["abrir arquivo","commands/FileOpen.htm"],</seg>
+        <seg>["abrir arquivo","lib/FileOpen.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20401,18 +20401,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["parse a string (Loop)","commands/LoopParse.htm"],</seg>
+        <seg>["parse a string (Loop)","lib/LoopParse.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060121Z" creationid="Leo" creationdate="20210711T060121Z">
-        <seg>["analisar uma string (Loop)","commands/LoopParse.htm"],</seg>
+        <seg>["analisar uma string (Loop)","lib/LoopParse.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["parse a string (StrSplit)","commands/StrSplit.htm"],</seg>
+        <seg>["parse a string (StrSplit)","lib/StrSplit.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060128Z" creationid="Leo" creationdate="20210711T060128Z">
-        <seg>["analisar uma string (StrSplit)","commands/StrSplit.htm"],</seg>
+        <seg>["analisar uma string (StrSplit)","lib/StrSplit.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20425,10 +20425,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["play a sound or video file","commands/SoundPlay.htm"],</seg>
+        <seg>["play a sound or video file","lib/SoundPlay.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060212Z" creationid="Leo" creationdate="20210711T060212Z">
-        <seg>["reproduzir um arquivo de som ou vídeo","commands/SoundPlay.htm"],</seg>
+        <seg>["reproduzir um arquivo de som ou vídeo","lib/SoundPlay.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20449,26 +20449,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["print a file","commands/Run.htm"],</seg>
+        <seg>["print a file","lib/Run.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060446Z" creationid="Leo" creationdate="20210711T060446Z">
-        <seg>["imprimir um arquivo","commands/Run.htm"],</seg>
+        <seg>["imprimir um arquivo","lib/Run.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["priority of a process","commands/Process.htm"],</seg>
+        <seg>["priority of a process","lib/Process.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060454Z" creationid="Leo" creationdate="20210711T060454Z">
-        <seg>["prioridade de um processo","commands/Process.htm"],</seg>
+        <seg>["prioridade de um processo","lib/Process.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["priority of a thread","commands/Thread.htm"],</seg>
+        <seg>["priority of a thread","lib/Thread.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060528Z" creationid="Leo" creationdate="20210711T060528Z">
-        <seg>["prioridade de um fio de execução","commands/Thread.htm"],</seg>
+        <seg>["prioridade de um fio de execução","lib/Thread.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20481,50 +20481,50 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["properties of a file or folder","commands/Run.htm"],</seg>
+        <seg>["properties of a file or folder","lib/Run.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060609Z" creationid="Leo" creationdate="20210711T060609Z">
-        <seg>["propriedades de um arquivo ou pasta","commands/Run.htm"],</seg>
+        <seg>["propriedades de um arquivo ou pasta","lib/Run.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["quit script","commands/ExitApp.htm"],</seg>
+        <seg>["quit script","lib/ExitApp.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060651Z" creationid="Leo" creationdate="20210711T060651Z">
-        <seg>["sair de um script","commands/ExitApp.htm"],</seg>
+        <seg>["sair de um script","lib/ExitApp.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["raw-mode Send","commands/Send.htm#SendRaw"],</seg>
+        <seg>["raw-mode Send","lib/Send.htm#SendRaw"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T060951Z" creationid="Leo" creationdate="20210711T060951Z">
-        <seg>["Send, em modo bruto (raw)","commands/Send.htm#SendRaw"],</seg>
+        <seg>["Send, em modo bruto (raw)","lib/Send.htm#SendRaw"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["read file","commands/FileRead.htm"],</seg>
+        <seg>["read file","lib/FileRead.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061036Z" creationid="Leo" creationdate="20210711T061036Z">
-        <seg>["ler um arquivo","commands/FileRead.htm"],</seg>
+        <seg>["ler um arquivo","lib/FileRead.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["reboot","commands/Shutdown.htm"],</seg>
+        <seg>["reboot","lib/Shutdown.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061126Z" creationid="Leo" creationdate="20210711T061126Z">
-        <seg>["reiniciar o computador","commands/Shutdown.htm"],</seg>
+        <seg>["reiniciar o computador","lib/Shutdown.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["registry loop","commands/LoopReg.htm"],</seg>
+        <seg>["registry loop","lib/LoopReg.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061453Z" creationid="Leo" creationdate="20210711T061453Z">
-        <seg>["loop no registro","commands/LoopReg.htm"],</seg>
+        <seg>["loop no registro","lib/LoopReg.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20561,90 +20561,90 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["remove folder/directory","commands/FileRemoveDir.htm"],</seg>
+        <seg>["remove folder/directory","lib/FileRemoveDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061638Z" creationid="Leo" creationdate="20210711T061638Z">
-        <seg>["excluir uma pasta/diretório","commands/FileRemoveDir.htm"],</seg>
+        <seg>["excluir uma pasta/diretório","lib/FileRemoveDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["rename file","commands/FileMove.htm"],</seg>
+        <seg>["rename file","lib/FileMove.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061732Z" creationid="Leo" creationdate="20210711T061732Z">
-        <seg>["renomear um arquivo","commands/FileMove.htm"],</seg>
+        <seg>["renomear um arquivo","lib/FileMove.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["resize a window","commands/WinMove.htm"],</seg>
+        <seg>["resize a window","lib/WinMove.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061739Z" creationid="Leo" creationdate="20210711T061739Z">
-        <seg>["redimensionar uma janela","commands/WinMove.htm"],</seg>
+        <seg>["redimensionar uma janela","lib/WinMove.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["restart the computer","commands/Shutdown.htm"],</seg>
+        <seg>["restart the computer","lib/Shutdown.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061747Z" creationid="Leo" creationdate="20210711T061747Z">
-        <seg>["reiniciar o computador","commands/Shutdown.htm"],</seg>
+        <seg>["reiniciar o computador","lib/Shutdown.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["rounding a number","commands/Math.htm#Round"],</seg>
+        <seg>["rounding a number","lib/Math.htm#Round"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061823Z" creationid="Leo" creationdate="20210711T061823Z">
-        <seg>["arredondar um número","commands/Math.htm#Round"],</seg>
+        <seg>["arredondar um número","lib/Math.htm#Round"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["scan code","commands/Send.htm#vk"],</seg>
+        <seg>["scan code","lib/Send.htm#vk"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061836Z" creationid="Leo" creationdate="20210711T061836Z">
-        <seg>["código de leitura","commands/Send.htm#vk"],</seg>
+        <seg>["código de leitura","lib/Send.htm#vk"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["scientific notation","commands/Format.htm"],</seg>
+        <seg>["scientific notation","lib/Format.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T061841Z" creationid="Leo" creationdate="20210711T061841Z">
-        <seg>["notação científica","commands/Format.htm"],</seg>
+        <seg>["notação científica","lib/Format.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["select file","commands/FileSelectFile.htm"],</seg>
+        <seg>["select file","lib/FileSelectFile.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T072004Z" creationid="Leo" creationdate="20210711T062013Z">
-        <seg>["Selecionar arquivo","commands/FileSelectFile.htm"],</seg>
+        <seg>["Selecionar arquivo","lib/FileSelectFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["select folder","commands/FileSelectFolder.htm"],</seg>
+        <seg>["select folder","lib/FileSelectFolder.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062018Z" creationid="Leo" creationdate="20210711T062018Z">
-        <seg>["selecionar pasta","commands/FileSelectFolder.htm"],</seg>
+        <seg>["selecionar pasta","lib/FileSelectFolder.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["sending data between scripts","commands/OnMessage.htm#SendString"],</seg>
+        <seg>["sending data between scripts","lib/OnMessage.htm#SendString"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062030Z" creationid="Leo" creationdate="20210711T062030Z">
-        <seg>["Enviar dados entre scripts","commands/OnMessage.htm#SendString"],</seg>
+        <seg>["Enviar dados entre scripts","lib/OnMessage.htm#SendString"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["short file name (8.3 format)","commands/LoopFile.htm#LoopFileShortPath"],</seg>
+        <seg>["short file name (8.3 format)","lib/LoopFile.htm#LoopFileShortPath"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062243Z" creationid="Leo" creationdate="20210711T062243Z">
-        <seg>["nome curto de arquivo (formato 8.3)","commands/LoopFile.htm#LoopFileShortPath"],</seg>
+        <seg>["nome curto de arquivo (formato 8.3)","lib/LoopFile.htm#LoopFileShortPath"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20657,42 +20657,42 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["shortcut file","commands/FileCreateShortcut.htm"],</seg>
+        <seg>["shortcut file","lib/FileCreateShortcut.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062325Z" creationid="Leo" creationdate="20210711T062325Z">
-        <seg>["arquivo de atalho","commands/FileCreateShortcut.htm"],</seg>
+        <seg>["arquivo de atalho","lib/FileCreateShortcut.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["size of a file/folder","commands/FileGetSize.htm"],</seg>
+        <seg>["size of a file/folder","lib/FileGetSize.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062349Z" creationid="Leo" creationdate="20210711T062349Z">
-        <seg>["tamanho de um arquivo/pasta","commands/FileGetSize.htm"],</seg>
+        <seg>["tamanho de um arquivo/pasta","lib/FileGetSize.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["size of a window","commands/WinGetPos.htm"],</seg>
+        <seg>["size of a window","lib/WinGetPos.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062431Z" creationid="Leo" creationdate="20210711T062431Z">
-        <seg>["tamanho de uma janela","commands/WinGetPos.htm"],</seg>
+        <seg>["tamanho de uma janela","lib/WinGetPos.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["speed of a script","commands/SetBatchLines.htm"],</seg>
+        <seg>["speed of a script","lib/SetBatchLines.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062610Z" creationid="Leo" creationdate="20210711T062610Z">
-        <seg>["velocidade de um script","commands/SetBatchLines.htm"],</seg>
+        <seg>["velocidade de um script","lib/SetBatchLines.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["spinner control (GUI)","commands/GuiControls.htm#UpDown"],</seg>
+        <seg>["spinner control (GUI)","lib/GuiControls.htm#UpDown"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T062649Z" creationid="Leo" creationdate="20210711T062649Z">
-        <seg>["Controle spinner (GUI)","commands/GuiControls.htm#UpDown"],</seg>
+        <seg>["Controle spinner (GUI)","lib/GuiControls.htm#UpDown"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20713,10 +20713,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["standard output (stdout)","commands/FileAppend.htm"],</seg>
+        <seg>["standard output (stdout)","lib/FileAppend.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063050Z" creationid="Leo" creationdate="20210711T063050Z">
-        <seg>["saída padrão (stdout)","commands/FileAppend.htm"],</seg>
+        <seg>["saída padrão (stdout)","lib/FileAppend.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20737,18 +20737,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["string (search for)","commands/InStr.htm"],</seg>
+        <seg>["string (search for)","lib/InStr.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063152Z" creationid="Leo" creationdate="20210711T063152Z">
-        <seg>["string (buscar uma)","commands/InStr.htm"],</seg>
+        <seg>["string (buscar uma)","lib/InStr.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["structures, via DllCall","commands/DllCall.htm#struct"],</seg>
+        <seg>["structures, via DllCall","lib/DllCall.htm#struct"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063235Z" creationid="Leo" creationdate="20210711T063235Z">
-        <seg>["estruturas, via DllCall","commands/DllCall.htm#struct"],</seg>
+        <seg>["estruturas, via DllCall","lib/DllCall.htm#struct"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20761,34 +20761,34 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["subtract","commands/EnvSub.htm"],</seg>
+        <seg>["subtract","lib/EnvSub.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063451Z" creationid="Leo" creationdate="20210711T063451Z">
-        <seg>["subtrair","commands/EnvSub.htm"],</seg>
+        <seg>["subtrair","lib/EnvSub.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["suspend or hibernate","commands/Shutdown.htm#Suspend"],</seg>
+        <seg>["suspend or hibernate","lib/Shutdown.htm#Suspend"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063616Z" creationid="Leo" creationdate="20210711T063616Z">
-        <seg>["suspender ou hibernar o computador","commands/Shutdown.htm#Suspend"],</seg>
+        <seg>["suspender ou hibernar o computador","lib/Shutdown.htm#Suspend"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["terminate a window","commands/WinKill.htm"],</seg>
+        <seg>["terminate a window","lib/WinKill.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063718Z" creationid="Leo" creationdate="20210711T063718Z">
-        <seg>["finalizar uma janela","commands/WinKill.htm"],</seg>
+        <seg>["finalizar uma janela","lib/WinKill.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["terminate script","commands/ExitApp.htm"],</seg>
+        <seg>["terminate script","lib/ExitApp.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063727Z" creationid="Leo" creationdate="20210711T063727Z">
-        <seg>["finalizar o script","commands/ExitApp.htm"],</seg>
+        <seg>["finalizar o script","lib/ExitApp.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20801,10 +20801,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["text-mode Send","commands/Send.htm#SendText"],</seg>
+        <seg>["text-mode Send","lib/Send.htm#SendText"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T063824Z" creationid="Leo" creationdate="20210711T063824Z">
-        <seg>["Send, em modo texto","commands/Send.htm#SendText"],</seg>
+        <seg>["Send, em modo texto","lib/Send.htm#SendText"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20817,50 +20817,50 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["time","commands/IfIs.htm"],</seg>
+        <seg>["time","lib/IfIs.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064048Z" creationid="Leo" creationdate="20210711T064048Z">
-        <seg>["time (tipo de dados)","commands/IfIs.htm"],</seg>
+        <seg>["time (tipo de dados)","lib/IfIs.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["times and dates (compare)","commands/EnvSub.htm"],</seg>
+        <seg>["times and dates (compare)","lib/EnvSub.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064140Z" creationid="Leo" creationdate="20210711T064140Z">
-        <seg>["horários e datas (comparar)","commands/EnvSub.htm"],</seg>
+        <seg>["horários e datas (comparar)","lib/EnvSub.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["times and dates (math)","commands/EnvAdd.htm"],</seg>
+        <seg>["times and dates (math)","lib/EnvAdd.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064156Z" creationid="Leo" creationdate="20210711T064156Z">
-        <seg>["horários e datas (operações matemáticas)","commands/EnvAdd.htm"],</seg>
+        <seg>["horários e datas (operações matemáticas)","lib/EnvAdd.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["times and dates (of files)","commands/FileSetTime.htm"],</seg>
+        <seg>["times and dates (of files)","lib/FileSetTime.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064205Z" creationid="Leo" creationdate="20210711T064205Z">
-        <seg>["horários e datas (de arquivos)","commands/FileSetTime.htm"],</seg>
+        <seg>["horários e datas (de arquivos)","lib/FileSetTime.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["title of a window","commands/WinSetTitle.htm"],</seg>
+        <seg>["title of a window","lib/WinSetTitle.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064214Z" creationid="Leo" creationdate="20210711T064214Z">
-        <seg>["título de uma janela","commands/WinSetTitle.htm"],</seg>
+        <seg>["título de uma janela","lib/WinSetTitle.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["transparency of a window","commands/WinSet.htm#trans"],</seg>
+        <seg>["transparency of a window","lib/WinSet.htm#trans"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064226Z" creationid="Leo" creationdate="20210711T064226Z">
-        <seg>["transparência de uma janela","commands/WinSet.htm#trans"],</seg>
+        <seg>["transparência de uma janela","lib/WinSet.htm#trans"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20873,18 +20873,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["tray menu (customizing)","commands/Menu.htm"],</seg>
+        <seg>["tray menu (customizing)","lib/Menu.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064344Z" creationid="Leo" creationdate="20210711T064344Z">
-        <seg>["menu da área de notificação (personalizar)","commands/Menu.htm"],</seg>
+        <seg>["menu da área de notificação (personalizar)","lib/Menu.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["user (run as a different user)","commands/RunAs.htm"],</seg>
+        <seg>["user (run as a different user)","lib/RunAs.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064734Z" creationid="Leo" creationdate="20210711T064734Z">
-        <seg>["usuário (executar como um usuário diferente)","commands/RunAs.htm"],</seg>
+        <seg>["usuário (executar como um usuário diferente)","lib/RunAs.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20905,18 +20905,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["variables, ListVars","commands/ListVars.htm"],</seg>
+        <seg>["variables, ListVars","lib/ListVars.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065249Z" creationid="Leo" creationdate="20210711T065249Z">
-        <seg>["variáveis, ListVars","commands/ListVars.htm"],</seg>
+        <seg>["variáveis, ListVars","lib/ListVars.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["variables, assigning to","commands/SetEnv.htm"],</seg>
+        <seg>["variables, assigning to","lib/SetEnv.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T064810Z" creationid="Leo" creationdate="20210711T064810Z">
-        <seg>["Variáveis, atribuindo valores a","commands/SetEnv.htm"],</seg>
+        <seg>["Variáveis, atribuindo valores a","lib/SetEnv.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20929,18 +20929,18 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["variables, comparing them","commands/IfEqual.htm"],</seg>
+        <seg>["variables, comparing them","lib/IfEqual.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065243Z" creationid="Leo" creationdate="20210711T065243Z">
-        <seg>["variáveis, compará-las","commands/IfEqual.htm"],</seg>
+        <seg>["variáveis, compará-las","lib/IfEqual.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["variables, type of data","commands/IfIs.htm"],</seg>
+        <seg>["variables, type of data","lib/IfIs.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065359Z" creationid="Leo" creationdate="20210711T065359Z">
-        <seg>["variáveis, tipo de dados","commands/IfIs.htm"],</seg>
+        <seg>["variáveis, tipo de dados","lib/IfIs.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -20953,66 +20953,66 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["variants (duplicate hotkeys and hotstrings)","commands/_IfWinActive.htm#variant"],</seg>
+        <seg>["variants (duplicate hotkeys and hotstrings)","lib/_IfWinActive.htm#variant"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065509Z" creationid="Leo" creationdate="20210711T065509Z">
-        <seg>["variantes (hotkeys e hotstrings duplicadas)","commands/_IfWinActive.htm#variant"],</seg>
+        <seg>["variantes (hotkeys e hotstrings duplicadas)","lib/_IfWinActive.htm#variant"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["version of a file","commands/FileGetVersion.htm"],</seg>
+        <seg>["version of a file","lib/FileGetVersion.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065518Z" creationid="Leo" creationdate="20210711T065518Z">
-        <seg>["versão de um arquivo","commands/FileGetVersion.htm"],</seg>
+        <seg>["versão de um arquivo","lib/FileGetVersion.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["virtual key","commands/Send.htm#vk"],</seg>
+        <seg>["virtual key","lib/Send.htm#vk"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065531Z" creationid="Leo" creationdate="20210711T065531Z">
-        <seg>["tecla virtual","commands/Send.htm#vk"],</seg>
+        <seg>["tecla virtual","lib/Send.htm#vk"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["volume (changing it)","commands/SoundSet.htm"],</seg>
+        <seg>["volume (changing it)","lib/SoundSet.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065612Z" creationid="Leo" creationdate="20210711T065612Z">
-        <seg>["volume (aumentar/diminuir)","commands/SoundSet.htm"],</seg>
+        <seg>["volume (aumentar/diminuir)","lib/SoundSet.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["wait (sleep)","commands/Sleep.htm"],</seg>
+        <seg>["wait (sleep)","lib/Sleep.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065624Z" creationid="Leo" creationdate="20210711T065624Z">
-        <seg>["esperar (sleep)","commands/Sleep.htm"],</seg>
+        <seg>["esperar (sleep)","lib/Sleep.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["wait for a key to be released or pressed","commands/KeyWait.htm"],</seg>
+        <seg>["wait for a key to be released or pressed","lib/KeyWait.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065641Z" creationid="Leo" creationdate="20210711T065641Z">
-        <seg>["aguardar pelo pressionamento ou soltura de uma tecla","commands/KeyWait.htm"],</seg>
+        <seg>["aguardar pelo pressionamento ou soltura de uma tecla","lib/KeyWait.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["whitespace","commands/AutoTrim.htm"],</seg>
+        <seg>["whitespace","lib/AutoTrim.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065718Z" creationid="Leo" creationdate="20210711T065718Z">
-        <seg>["espaço em branco","commands/AutoTrim.htm"],</seg>
+        <seg>["espaço em branco","lib/AutoTrim.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["wildcards (for files &amp; folders)","commands/LoopFile.htm"],</seg>
+        <seg>["wildcards (for files &amp; folders)","lib/LoopFile.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T065800Z" creationid="Leo" creationdate="20210711T065800Z">
-        <seg>["curingas (para arquivos e pastas)","commands/LoopFile.htm"],</seg>
+        <seg>["curingas (para arquivos e pastas)","lib/LoopFile.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -21033,26 +21033,26 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["working directory","commands/SetWorkingDir.htm"],</seg>
+        <seg>["working directory","lib/SetWorkingDir.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070004Z" creationid="Leo" creationdate="20210711T070004Z">
-        <seg>["diretório de trabalho","commands/SetWorkingDir.htm"],</seg>
+        <seg>["diretório de trabalho","lib/SetWorkingDir.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["write file","commands/FileAppend.htm"],</seg>
+        <seg>["write file","lib/FileAppend.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210711T070142Z" creationid="Leo" creationdate="20210711T070142Z">
-        <seg>["adicionar texto a um arquivo","commands/FileAppend.htm"],</seg>
+        <seg>["adicionar texto a um arquivo","lib/FileAppend.htm"],</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>["{ ... } (block)","commands/Block.htm"],</seg>
+        <seg>["{ ... } (block)","lib/Block.htm"],</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T220944Z" creationid="Leo" creationdate="20210703T220944Z">
-        <seg>["{ ... } (bloco)","commands/Block.htm"],</seg>
+        <seg>["{ ... } (bloco)","lib/Block.htm"],</seg>
       </tuv>
     </tu>
     <tu>
@@ -21185,130 +21185,130 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/Block.htm</seg>
+        <seg>lib/Block.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043845Z" creationid="Leo" creationdate="20210629T043845Z">
-        <seg>commands/Block.htm</seg>
+        <seg>lib/Block.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/Click.htm</seg>
+        <seg>lib/Click.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071001Z" creationid="Leo" creationdate="20210702T071001Z">
-        <seg>commands/Click.htm</seg>
+        <seg>lib/Click.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/ControlGetText.htm</seg>
+        <seg>lib/ControlGetText.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043947Z" creationid="Leo" creationdate="20210629T043947Z">
-        <seg>commands/ControlGetText.htm</seg>
+        <seg>lib/ControlGetText.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/For.htm</seg>
+        <seg>lib/For.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213013Z" creationid="Leo" creationdate="20210627T213013Z">
-        <seg>commands/For.htm</seg>
+        <seg>lib/For.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/IfEqual.htm</seg>
+        <seg>lib/IfEqual.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050342Z" creationid="Leo" creationdate="20210629T050342Z">
-        <seg>commands/IfEqual.htm</seg>
+        <seg>lib/IfEqual.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/IfExpression.htm</seg>
+        <seg>lib/IfExpression.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202250Z" creationid="Leo" creationdate="20210625T202250Z">
-        <seg>commands/IfExpression.htm</seg>
+        <seg>lib/IfExpression.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/IfMsgBox.htm</seg>
+        <seg>lib/IfMsgBox.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045535Z" creationid="Leo" creationdate="20210629T045535Z">
-        <seg>commands/IfMsgBox.htm</seg>
+        <seg>lib/IfMsgBox.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/ImageSearch.htm</seg>
+        <seg>lib/ImageSearch.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050333Z" creationid="Leo" creationdate="20210629T050333Z">
-        <seg>commands/ImageSearch.htm</seg>
+        <seg>lib/ImageSearch.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/InputBox.htm</seg>
+        <seg>lib/InputBox.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051334Z" creationid="Leo" creationdate="20210626T051334Z">
-        <seg>commands/InputBox.htm</seg>
+        <seg>lib/InputBox.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/Loop.htm</seg>
+        <seg>lib/Loop.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202251Z" creationid="Leo" creationdate="20210625T202251Z">
-        <seg>commands/Loop.htm</seg>
+        <seg>lib/Loop.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/MsgBox.htm</seg>
+        <seg>lib/MsgBox.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045532Z" creationid="Leo" creationdate="20210629T045532Z">
-        <seg>commands/MsgBox.htm</seg>
+        <seg>lib/MsgBox.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/PixelGetColor.htm</seg>
+        <seg>lib/PixelGetColor.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044906Z" creationid="Leo" creationdate="20210629T044906Z">
-        <seg>commands/PixelGetColor.htm</seg>
+        <seg>lib/PixelGetColor.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/PixelSearch.htm</seg>
+        <seg>lib/PixelSearch.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044904Z" creationid="Leo" creationdate="20210629T044904Z">
-        <seg>commands/PixelSearch.htm</seg>
+        <seg>lib/PixelSearch.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/Send.htm</seg>
+        <seg>lib/Send.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043313Z" creationid="Leo" creationdate="20210629T043313Z">
-        <seg>commands/Send.htm</seg>
+        <seg>lib/Send.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/_IfWinActive.htm</seg>
+        <seg>lib/_IfWinActive.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045923Z" creationid="Leo" creationdate="20210629T045923Z">
-        <seg>commands/_IfWinActive.htm</seg>
+        <seg>lib/_IfWinActive.htm</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>commands/index.htm</seg>
+        <seg>lib/index.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050341Z" creationid="Leo" creationdate="20210629T050341Z">
-        <seg>commands/index.htm</seg>
+        <seg>lib/index.htm</seg>
       </tuv>
     </tu>
     <tu>
@@ -21633,10 +21633,10 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>objects/Object.htm#HasKey</seg>
+        <seg>lib/Object.htm#HasKey</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213011Z" creationid="Leo" creationdate="20210627T213011Z">
-        <seg>objects/Object.htm#HasKey</seg>
+        <seg>lib/Object.htm#HasKey</seg>
       </tuv>
     </tu>
     <tu>

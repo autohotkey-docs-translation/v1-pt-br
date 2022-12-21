@@ -390,6 +390,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"en":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T063423Z" creationid="Ragnar-F" creationdate="20210701T063402Z">
+        <seg>"en":"pt",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"https://github.com/Lexikos/AutoHotkey_L-Docs/edit/master/docs/":true,</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064027Z" creationid="Ragnar-F" creationdate="20210701T063438Z">
+        <seg>"https://github.com/Lexikos/AutoHotkey_L-Docs/edit/master/docs/":"https://github.com/ahkscript/AHK-Docs_PT-BR/edit/master/target/docs/",</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"lib/_CommentFlag.htm":"the default comment flag (semicolon)",</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T231755Z" creationid="Leo" creationdate="20210703T231755Z">
@@ -418,22 +434,6 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T232627Z" creationid="Leo" creationdate="20210703T232627Z">
         <seg>"lib/_EscapeChar.htm#DerefChar":"o caractere padrão de desreferenciação (porcentagem)",</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"en":true,</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T063423Z" creationid="Ragnar-F" creationdate="20210701T063402Z">
-        <seg>"en":"pt",</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>"https://github.com/Lexikos/AutoHotkey_L-Docs/edit/master/docs/":true,</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210701T064027Z" creationid="Ragnar-F" creationdate="20210701T063438Z">
-        <seg>"https://github.com/Lexikos/AutoHotkey_L-Docs/edit/master/docs/":"https://github.com/ahkscript/AHK-Docs_PT-BR/edit/master/target/docs/",</seg>
       </tuv>
     </tu>
     <tu>
@@ -21185,134 +21185,6 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>lib/Block.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043845Z" creationid="Leo" creationdate="20210629T043845Z">
-        <seg>lib/Block.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/Click.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071001Z" creationid="Leo" creationdate="20210702T071001Z">
-        <seg>lib/Click.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/ControlGetText.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043947Z" creationid="Leo" creationdate="20210629T043947Z">
-        <seg>lib/ControlGetText.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/For.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213013Z" creationid="Leo" creationdate="20210627T213013Z">
-        <seg>lib/For.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/IfEqual.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050342Z" creationid="Leo" creationdate="20210629T050342Z">
-        <seg>lib/IfEqual.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/IfExpression.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202250Z" creationid="Leo" creationdate="20210625T202250Z">
-        <seg>lib/IfExpression.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/IfMsgBox.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045535Z" creationid="Leo" creationdate="20210629T045535Z">
-        <seg>lib/IfMsgBox.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/ImageSearch.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050333Z" creationid="Leo" creationdate="20210629T050333Z">
-        <seg>lib/ImageSearch.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/InputBox.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051334Z" creationid="Leo" creationdate="20210626T051334Z">
-        <seg>lib/InputBox.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/Loop.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202251Z" creationid="Leo" creationdate="20210625T202251Z">
-        <seg>lib/Loop.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/MsgBox.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045532Z" creationid="Leo" creationdate="20210629T045532Z">
-        <seg>lib/MsgBox.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/PixelGetColor.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044906Z" creationid="Leo" creationdate="20210629T044906Z">
-        <seg>lib/PixelGetColor.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/PixelSearch.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044904Z" creationid="Leo" creationdate="20210629T044904Z">
-        <seg>lib/PixelSearch.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/Send.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043313Z" creationid="Leo" creationdate="20210629T043313Z">
-        <seg>lib/Send.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/_IfWinActive.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045923Z" creationid="Leo" creationdate="20210629T045923Z">
-        <seg>lib/_IfWinActive.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/index.htm</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050341Z" creationid="Leo" creationdate="20210629T050341Z">
-        <seg>lib/index.htm</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>d.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043957Z" creationid="Leo" creationdate="20210629T043957Z">
@@ -21545,6 +21417,142 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lib/Block.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043845Z" creationid="Leo" creationdate="20210629T043845Z">
+        <seg>lib/Block.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/Click.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210702T071001Z" creationid="Leo" creationdate="20210702T071001Z">
+        <seg>lib/Click.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/ControlGetText.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043947Z" creationid="Leo" creationdate="20210629T043947Z">
+        <seg>lib/ControlGetText.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/For.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213013Z" creationid="Leo" creationdate="20210627T213013Z">
+        <seg>lib/For.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/IfEqual.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050342Z" creationid="Leo" creationdate="20210629T050342Z">
+        <seg>lib/IfEqual.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/IfExpression.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202250Z" creationid="Leo" creationdate="20210625T202250Z">
+        <seg>lib/IfExpression.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/IfMsgBox.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045535Z" creationid="Leo" creationdate="20210629T045535Z">
+        <seg>lib/IfMsgBox.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/ImageSearch.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050333Z" creationid="Leo" creationdate="20210629T050333Z">
+        <seg>lib/ImageSearch.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/InputBox.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051334Z" creationid="Leo" creationdate="20210626T051334Z">
+        <seg>lib/InputBox.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/Loop.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210625T202251Z" creationid="Leo" creationdate="20210625T202251Z">
+        <seg>lib/Loop.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/MsgBox.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045532Z" creationid="Leo" creationdate="20210629T045532Z">
+        <seg>lib/MsgBox.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/Object.htm#HasKey</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213011Z" creationid="Leo" creationdate="20210627T213011Z">
+        <seg>lib/Object.htm#HasKey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/PixelGetColor.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044906Z" creationid="Leo" creationdate="20210629T044906Z">
+        <seg>lib/PixelGetColor.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/PixelSearch.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044904Z" creationid="Leo" creationdate="20210629T044904Z">
+        <seg>lib/PixelSearch.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/Send.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T043313Z" creationid="Leo" creationdate="20210629T043313Z">
+        <seg>lib/Send.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/_IfWinActive.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T045923Z" creationid="Leo" creationdate="20210629T045923Z">
+        <seg>lib/_IfWinActive.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/index.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Leo" changedate="20210629T050341Z" creationid="Leo" creationdate="20210629T050341Z">
+        <seg>lib/index.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>license.htm</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210701T070349Z" creationid="Leo" creationdate="20210701T070349Z">
@@ -21629,14 +21637,6 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T132738Z" creationid="Setur" creationdate="20210722T132738Z">
         <seg>meuObjeto[arg1](arg2, ..., argN)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>lib/Object.htm#HasKey</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="Leo" changedate="20210627T213011Z" creationid="Leo" creationdate="20210627T213011Z">
-        <seg>lib/Object.htm#HasKey</seg>
       </tuv>
     </tu>
     <tu>
@@ -21829,6 +21829,14 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T231006Z" creationid="Leo" creationdate="20210629T045928Z">
         <seg>~h::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>©2003 Chris Mallett, portions ©&lt;a0&gt;AutoIt Team&lt;/a0&gt; and the AHK community</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20221221T132425Z" creationid="Ragnar-F" creationdate="20221221T132425Z">
+        <seg>©2003 Chris Mallett, porções de ©&lt;a0&gt;AutoIt Team&lt;/a0&gt; e a comunidade do AHK. A tradução brasileiro-português foi preparada por Leo Carmo.</seg>
       </tuv>
     </tu>
     <tu>

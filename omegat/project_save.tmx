@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>"AutoHotkey Help",,,"docs\index.htm","docs\index.htm",,,,,0x73500,,0x10200e,[200,0,1080,700],,,,,3,,0</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154420Z" creationid="Ragnar-F" creationdate="20230306T154414Z">
+        <seg>"AutoHotkey Ajuda",,,"docs\index.htm","docs\index.htm",,,,,0x73500,,0x10200e,[200,0,1080,700],,,,,3,,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"Back to top":true,</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20210717T100910Z" creationid="Ragnar-F" creationdate="20210717T100904Z">
@@ -910,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>0x409 English (United States)</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154354Z" creationid="Ragnar-F" creationdate="20230306T154354Z">
+        <seg>0x416 Portuguese (Brazil)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 - The Basics</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210622T193429Z" creationid="Leo" creationdate="20210622T193429Z">
@@ -930,6 +946,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210728T200708Z" creationid="Setur" creationdate="20210728T143131Z">
         <seg>1) a aparição do Menu Iniciar durante os pressionamentos de teclas envolvendo a tecla Win (LWin/RWin); 2) a ativação da barra de menu ao enviar pressionamentos de teclas envolvendo a tecla Alt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1.1 or later</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154256Z" creationid="Ragnar-F" creationdate="20230306T154256Z">
+        <seg>1.1 or later</seg>
       </tuv>
     </tu>
     <tu>
@@ -4910,6 +4934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AutoHotkey Help</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154413Z" creationid="Ragnar-F" creationdate="20230306T154413Z">
+        <seg>AutoHotkey Ajuda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>AutoHotkey does not have a specific boolean type, so it uses the integer value &lt;c0&gt;0&lt;/c0&gt; to represent false and &lt;c1&gt;1&lt;/c1&gt; to represent true.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210722T124504Z" creationid="Setur" creationdate="20210722T124504Z">
@@ -5002,6 +5034,14 @@
       </tuv>
       <tuv lang="pt-BR" changeid="Setur" changedate="20210719T182005Z" creationid="Setur" creationdate="20210719T182005Z">
         <seg>O instalador do AutoHotkey vem empacotado em um arquivo 7-zip que se extrai automaticamente e que tenta extrair o conteúdo para o diretório Temp do usuário e executar um script compilado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoHotkey.chm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154258Z" creationid="Ragnar-F" creationdate="20230306T154258Z">
+        <seg>AutoHotkey.chm</seg>
       </tuv>
     </tu>
     <tu>
@@ -9711,6 +9751,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Index.hhk</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154321Z" creationid="Ragnar-F" creationdate="20230306T154321Z">
+        <seg>Index.hhk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>InputBox, OutputVar, Question 1, What is your first name?</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210626T051646Z" creationid="Leo" creationdate="20210626T051646Z">
@@ -11099,6 +11147,14 @@ usando o comando &lt;a0&gt;Send&lt;/a0&gt; quando a tecla de atalho é pressiona
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210703T075902Z" creationid="Leo" creationdate="20210703T075902Z">
         <seg>OBSERVAÇÃO:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NUL</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154438Z" creationid="Ragnar-F" creationdate="20230306T154438Z">
+        <seg>NUL</seg>
       </tuv>
     </tu>
     <tu>
@@ -21209,6 +21265,126 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>docs\index.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154306Z" creationid="Ragnar-F" creationdate="20230306T154306Z">
+        <seg>docs\index.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\search.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154421Z" creationid="Ragnar-F" creationdate="20230306T154421Z">
+        <seg>docs\search.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\settings.htm</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154422Z" creationid="Ragnar-F" creationdate="20230306T154422Z">
+        <seg>docs\settings.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\ahk_logo.png</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154426Z" creationid="Ragnar-F" creationdate="20230306T154426Z">
+        <seg>docs\static\ahk_logo.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\content.css</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154423Z" creationid="Ragnar-F" creationdate="20230306T154423Z">
+        <seg>docs\static\content.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\dark.css</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154425Z" creationid="Ragnar-F" creationdate="20230306T154425Z">
+        <seg>docs\static\dark.css</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\fonts\icons.eot</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154427Z" creationid="Ragnar-F" creationdate="20230306T154427Z">
+        <seg>docs\static\fonts\icons.eot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\fonts\icons.svg</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154427Z" creationid="Ragnar-F" creationdate="20230306T154427Z">
+        <seg>docs\static\fonts\icons.svg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\fonts\icons.ttf</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154428Z" creationid="Ragnar-F" creationdate="20230306T154428Z">
+        <seg>docs\static\fonts\icons.ttf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\fonts\icons.woff</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154429Z" creationid="Ragnar-F" creationdate="20230306T154429Z">
+        <seg>docs\static\fonts\icons.woff</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\source\data_deprecate.js</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154437Z" creationid="Ragnar-F" creationdate="20230306T154437Z">
+        <seg>docs\static\source\data_deprecate.js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\source\data_index.js</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154434Z" creationid="Ragnar-F" creationdate="20230306T154434Z">
+        <seg>docs\static\source\data_index.js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\source\data_search.js</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154432Z" creationid="Ragnar-F" creationdate="20230306T154432Z">
+        <seg>docs\static\source\data_search.js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\source\data_toc.js</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154433Z" creationid="Ragnar-F" creationdate="20230306T154433Z">
+        <seg>docs\static\source\data_toc.js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs\static\source\data_translate.js</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154430Z" creationid="Ragnar-F" creationdate="20230306T154430Z">
+        <seg>docs\static\source\data_translate.js</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>e.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="Leo" changedate="20210629T044006Z" creationid="Leo" creationdate="20210629T044006Z">
@@ -21848,6 +22024,46 @@ Esta opção ajuda a reservar sequencias não usadas com contrabarras para uso f
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Project.hhp</prop>
+      <prop type="id">OPTIONS/Binary Index</prop>
+      <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154255Z" creationid="Ragnar-F" creationdate="20230306T154255Z">
+        <seg>No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Project.hhp</prop>
+      <prop type="id">OPTIONS/Default Window</prop>
+      <tuv lang="en">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154300Z" creationid="Ragnar-F" creationdate="20230306T154300Z">
+        <seg>Contents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Project.hhp</prop>
+      <prop type="id">OPTIONS/Display compile progress</prop>
+      <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154313Z" creationid="Ragnar-F" creationdate="20230306T154313Z">
+        <seg>No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Project.hhp</prop>
+      <prop type="id">OPTIONS/Full-text search</prop>
+      <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="pt-BR" changeid="Ragnar-F" changedate="20230306T154320Z" creationid="Ragnar-F" creationdate="20230306T154320Z">
+        <seg>Yes</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">docs/static/source/data_toc.js</prop>
       <prop type="prev">["Debugging Clients","AHKL_DBGPClients.htm"],</prop>
